@@ -1,0 +1,195 @@
+type	project_id	submitter_id	cases.submitter_id	ethnicity	gender	race	year_of_birth	year_of_death
+demographic	program1-p1	demo_1	case_1	not hispanic or latino	male	white		
+demographic	program1-p1	demo_2	case_2	not hispanic or latino	female	white		
+demographic	program1-p1	demo_3	case_3	not hispanic or latino	female	white		
+demographic	program1-p1	demo_4	case_4	not hispanic or latino	male	white		
+demographic	program1-p1	demo_5	case_5	not hispanic or latino	male	white		
+demographic	program1-p1	demo_6	case_6	not hispanic or latino	female	white		
+demographic	program1-p1	demo_7	case_7	not hispanic or latino	female	white		
+demographic	program1-p1	demo_8	case_8	not hispanic or latino	male	black or african american		
+demographic	program1-p1	demo_9	case_9	not hispanic or latino	female	white		
+demographic	program1-p1	demo_10	case_10	not hispanic or latino	male	white		
+demographic	program1-p1	demo_11	case_11	not hispanic or latino	female	white		
+demographic	program1-p1	demo_12	case_12	not hispanic or latino	male	white		
+demographic	program1-p1	demo_13	case_13	not hispanic or latino	male	black or african american		
+demographic	program1-p1	demo_14	case_14	not hispanic or latino	male	white		
+demographic	program1-p1	demo_15	case_15	not hispanic or latino	female	white		
+demographic	program1-p1	demo_16	case_16	not hispanic or latino	female	white		
+demographic	program1-p1	demo_17	case_17	hispanic or latino	male	Unknown		
+demographic	program1-p1	demo_18	case_18	not hispanic or latino	male	white		
+demographic	program1-p1	demo_19	case_19	not hispanic or latino	female	white		
+demographic	program1-p1	demo_20	case_20	not hispanic or latino	male	white		
+demographic	program1-p1	demo_21	case_21	not hispanic or latino	female	black or african american		
+demographic	program1-p1	demo_22	case_22	not hispanic or latino	male	white		
+demographic	program1-p1	demo_23	case_23	not hispanic or latino	female	black or african american		
+demographic	program1-p1	demo_24	case_24	not hispanic or latino	female	white		
+demographic	program1-p1	demo_25	case_25	not hispanic or latino	male	white		
+demographic	program1-p1	demo_26	case_26	not hispanic or latino	male	white		
+demographic	program1-p1	demo_27	case_27	not hispanic or latino	male	white		
+demographic	program1-p1	demo_28	case_28	not hispanic or latino	male	Unknown		
+demographic	program1-p1	demo_29	case_29	not hispanic or latino	male	white		
+demographic	program1-p1	demo_30	case_30	not hispanic or latino	male	white		
+demographic	program1-p1	demo_31	case_31	not hispanic or latino	male	white		
+demographic	program1-p1	demo_32	case_32	not hispanic or latino	male	white		
+demographic	program1-p1	demo_33	case_33	not hispanic or latino	female	white		
+demographic	program1-p1	demo_34	case_34	not hispanic or latino	female	white		
+demographic	program1-p1	demo_35	case_35	not hispanic or latino	female	white		
+demographic	program1-p1	demo_36	case_36	not hispanic or latino	female	white		
+demographic	program1-p1	demo_37	case_37	not hispanic or latino	male	white		
+demographic	program1-p1	demo_38	case_38	not hispanic or latino	female	white		
+demographic	program1-p1	demo_39	case_39	not hispanic or latino	female	Unknown		
+demographic	program1-p1	demo_40	case_40	not hispanic or latino	male	white		
+demographic	program1-p1	demo_41	case_41	not hispanic or latino	male	white		
+demographic	program1-p1	demo_42	case_42	not hispanic or latino	male	white		
+demographic	program1-p1	demo_43	case_43	Unknown	female	white		
+demographic	program1-p1	demo_44	case_44	not hispanic or latino	male	white		
+demographic	program1-p1	demo_45	case_45	not hispanic or latino	male	white		
+demographic	program1-p1	demo_46	case_46	not hispanic or latino	male	white		
+demographic	program1-p1	demo_47	case_47	hispanic or latino	male	white		
+demographic	program1-p1	demo_48	case_48	hispanic or latino	male	white		
+demographic	program1-p1	demo_49	case_49	not hispanic or latino	male	white		
+demographic	program1-p1	demo_50	case_50	not hispanic or latino	male	white		
+demographic	program1-p1	demo_51	case_51	not hispanic or latino	male	white		
+demographic	program1-p1	demo_52	case_52	not hispanic or latino	male	white		
+demographic	program1-p1	demo_53	case_53	not hispanic or latino	male	white		
+demographic	program1-p1	demo_54	case_54	not hispanic or latino	male	white		
+demographic	program1-p1	demo_55	case_55	not hispanic or latino	male	black or african american		
+demographic	program1-p1	demo_56	case_56	not hispanic or latino	female	white		
+demographic	program1-p1	demo_57	case_57	not hispanic or latino	male	white		
+demographic	program1-p1	demo_58	case_58	hispanic or latino	female	white		
+demographic	program1-p1	demo_59	case_59	not hispanic or latino	male	white		
+demographic	program1-p1	demo_60	case_60	not hispanic or latino	male	white		
+demographic	program1-p1	demo_61	case_61	not hispanic or latino	female	white		
+demographic	program1-p1	demo_62	case_62	not hispanic or latino	female	white		
+demographic	program1-p1	demo_63	case_63	not hispanic or latino	male	white		
+demographic	program1-p1	demo_64	case_64	not hispanic or latino	male	white		
+demographic	program1-p1	demo_65	case_65	not hispanic or latino	female	white		
+demographic	program1-p1	demo_66	case_66	not hispanic or latino	female	white		
+demographic	program1-p1	demo_67	case_67	not hispanic or latino	female	white		
+demographic	program1-p1	demo_68	case_68	hispanic or latino	female	black or african american		
+demographic	program1-p1	demo_69	case_69	not hispanic or latino	male	black or african american		
+demographic	program1-p1	demo_70	case_70	not hispanic or latino	male	white		
+demographic	program1-p1	demo_71	case_71	not hispanic or latino	male	white		
+demographic	program1-p1	demo_72	case_72	not hispanic or latino	male	white		
+demographic	program1-p1	demo_73	case_73	not hispanic or latino	female	white		
+demographic	program1-p1	demo_74	case_74	not hispanic or latino	male	white		
+demographic	program1-p1	demo_75	case_75	not hispanic or latino	male	white		
+demographic	program1-p1	demo_76	case_76	not hispanic or latino	male	white		
+demographic	program1-p1	demo_77	case_77	not hispanic or latino	male	white		
+demographic	program1-p1	demo_78	case_78	not hispanic or latino	male	white		
+demographic	program1-p1	demo_79	case_79	not hispanic or latino	male	white		
+demographic	program1-p1	demo_80	case_80	not hispanic or latino	male	white		
+demographic	program1-p1	demo_81	case_81	hispanic or latino	female	white		
+demographic	program1-p1	demo_82	case_82	not hispanic or latino	male	Unknown		
+demographic	program1-p1	demo_83	case_83	not hispanic or latino	male	white		
+demographic	program1-p1	demo_84	case_84	not hispanic or latino	female	white		
+demographic	program1-p1	demo_85	case_85	not hispanic or latino	male	white		
+demographic	program1-p1	demo_86	case_86	not hispanic or latino	female	white		
+demographic	program1-p1	demo_87	case_87	not hispanic or latino	male	white		
+demographic	program1-p1	demo_88	case_88	not hispanic or latino	male	white		
+demographic	program1-p1	demo_89	case_89	not hispanic or latino	male	american indian or alaska native		
+demographic	program1-p1	demo_90	case_90	not hispanic or latino	female	white		
+demographic	program1-p1	demo_91	case_91	not hispanic or latino	female	white		
+demographic	program1-p1	demo_92	case_92	not hispanic or latino	female	american indian or alaska native		
+demographic	program1-p1	demo_93	case_93	not hispanic or latino	male	white		
+demographic	program1-p1	demo_94	case_94	not hispanic or latino	female	white		
+demographic	program1-p1	demo_95	case_95	not hispanic or latino	female	white		
+demographic	program1-p1	demo_96	case_96	not hispanic or latino	female	white		
+demographic	program1-p1	demo_97	case_97	not hispanic or latino	female	white		
+demographic	program1-p1	demo_98	case_98	not hispanic or latino	female	white		
+demographic	program1-p1	demo_99	case_99	not hispanic or latino	male	white		
+demographic	program1-p1	demo_100	case_100	not hispanic or latino	male	white		
+demographic	program1-p1	demo_101	case_101	not hispanic or latino	male	white		
+demographic	program1-p1	demo_102	case_102	not hispanic or latino	female	asian		
+demographic	program1-p1	demo_103	case_103	not hispanic or latino	male	white		
+demographic	program1-p1	demo_104	case_104	not hispanic or latino	female	american indian or alaska native		
+demographic	program1-p1	demo_105	case_105	not hispanic or latino	male	white		
+demographic	program1-p1	demo_106	case_106	not hispanic or latino	male	white		
+demographic	program1-p1	demo_107	case_107	not hispanic or latino	male	white		
+demographic	program1-p1	demo_108	case_108	not hispanic or latino	female	asian		
+demographic	program1-p1	demo_109	case_109	not hispanic or latino	female	asian		
+demographic	program1-p1	demo_110	case_110	not hispanic or latino	male	white		
+demographic	program1-p1	demo_111	case_111	not hispanic or latino	female	white		
+demographic	program1-p1	demo_112	case_112	not hispanic or latino	female	white		
+demographic	program1-p1	demo_113	case_113	not hispanic or latino	female	white		
+demographic	program1-p1	demo_114	case_114	not hispanic or latino	female	white		
+demographic	program1-p1	demo_115	case_115	not hispanic or latino	female	white		
+demographic	program1-p1	demo_116	case_116	not hispanic or latino	male	white		
+demographic	program1-p1	demo_117	case_117	not hispanic or latino	male	white		
+demographic	program1-p1	demo_118	case_118	not hispanic or latino	female	white		
+demographic	program1-p1	demo_119	case_119	not hispanic or latino	male	white		
+demographic	program1-p1	demo_120	case_120	not hispanic or latino	female	white		
+demographic	program1-p1	demo_121	case_121	not hispanic or latino	female	white		
+demographic	program1-p1	demo_122	case_122	not hispanic or latino	male	white		
+demographic	program1-p1	demo_123	case_123	not hispanic or latino	male	white		
+demographic	program1-p1	demo_124	case_124	not hispanic or latino	male	white		
+demographic	program1-p1	demo_125	case_125	not hispanic or latino	female	white		
+demographic	program1-p1	demo_126	case_126	not hispanic or latino	female	white		
+demographic	program1-p1	demo_127	case_127	not hispanic or latino	male	white		
+demographic	program1-p1	demo_128	case_128	not hispanic or latino	female	white		
+demographic	program1-p1	demo_129	case_129	not hispanic or latino	male	white		
+demographic	program1-p1	demo_130	case_130	not hispanic or latino	female	white		
+demographic	program1-p1	demo_131	case_131	not hispanic or latino	female	white		
+demographic	program1-p1	demo_132	case_132	not hispanic or latino	female	Unknown		
+demographic	program1-p1	demo_133	case_133	not hispanic or latino	male	white		
+demographic	program1-p1	demo_134	case_134	not hispanic or latino	female	white		
+demographic	program1-p1	demo_135	case_135	not hispanic or latino	male	white		
+demographic	program1-p1	demo_136	case_136	not hispanic or latino	male	white		
+demographic	program1-p1	demo_137	case_137	not hispanic or latino	female	white		
+demographic	program1-p1	demo_138	case_138	not hispanic or latino	male	white		
+demographic	program1-p1	demo_139	case_139	not hispanic or latino	female	black or african american		
+demographic	program1-p1	demo_140	case_140	not hispanic or latino	female	white		
+demographic	program1-p1	demo_141	case_141	not hispanic or latino	male	white		
+demographic	program1-p1	demo_142	case_142	not hispanic or latino	female	white		
+demographic	program1-p1	demo_143	case_143	not hispanic or latino	male	white		
+demographic	program1-p1	demo_144	case_144	not hispanic or latino	female	black or african american		
+demographic	program1-p1	demo_145	case_145	not hispanic or latino	female	white		
+demographic	program1-p1	demo_146	case_146	hispanic or latino	male	white		
+demographic	program1-p1	demo_147	case_147	not hispanic or latino	male	white		
+demographic	program1-p1	demo_148	case_148	hispanic or latino	male	white		
+demographic	program1-p1	demo_149	case_149	hispanic or latino	male	white		
+demographic	program1-p1	demo_150	case_150	not hispanic or latino	female	white		
+demographic	program1-p1	demo_151	case_151	not hispanic or latino	male	white		
+demographic	program1-p1	demo_152	case_152	hispanic or latino	female	white		
+demographic	program1-p1	demo_153	case_153	not hispanic or latino	male	white		
+demographic	program1-p1	demo_154	case_154	not hispanic or latino	female	white		
+demographic	program1-p1	demo_155	case_155	not hispanic or latino	male	white		
+demographic	program1-p1	demo_156	case_156	not hispanic or latino	male	white		
+demographic	program1-p1	demo_157	case_157	not hispanic or latino	female	white		
+demographic	program1-p1	demo_158	case_158	not hispanic or latino	male	white		
+demographic	program1-p1	demo_159	case_159	not hispanic or latino	male	white		
+demographic	program1-p1	demo_160	case_160	not hispanic or latino	male	white		
+demographic	program1-p1	demo_161	case_161	not hispanic or latino	female	white		
+demographic	program1-p1	demo_162	case_162	not hispanic or latino	female	white		
+demographic	program1-p1	demo_163	case_163	not hispanic or latino	male	white		
+demographic	program1-p1	demo_164	case_164	not hispanic or latino	female	white		
+demographic	program1-p1	demo_165	case_165	not hispanic or latino	female	white		
+demographic	program1-p1	demo_166	case_166	not hispanic or latino	female	white		
+demographic	program1-p1	demo_167	case_167	not hispanic or latino	male	white		
+demographic	program1-p1	demo_168	case_168	not hispanic or latino	female	black or african american		
+demographic	program1-p1	demo_169	case_169	not hispanic or latino	male	white		
+demographic	program1-p1	demo_170	case_170	not hispanic or latino	female	white		
+demographic	program1-p1	demo_171	case_171	not hispanic or latino	female	white		
+demographic	program1-p1	demo_172	case_172	not hispanic or latino	male	white		
+demographic	program1-p1	demo_173	case_173	not hispanic or latino	male	white		
+demographic	program1-p1	demo_174	case_174	not hispanic or latino	male	white		
+demographic	program1-p1	demo_175	case_175	not hispanic or latino	male	white		
+demographic	program1-p1	demo_176	case_176	not hispanic or latino	male	white		
+demographic	program1-p1	demo_177	case_177	not hispanic or latino	male	white		
+demographic	program1-p1	demo_178	case_178	not hispanic or latino	male	white		
+demographic	program1-p1	demo_179	case_179	not hispanic or latino	male	white		
+demographic	program1-p1	demo_180	case_180	not hispanic or latino	male	black or african american		
+demographic	program1-p1	demo_181	case_181	not hispanic or latino	male	white		
+demographic	program1-p1	demo_182	case_182	not hispanic or latino	female	white		
+demographic	program1-p1	demo_183	case_183	not hispanic or latino	male	white		
+demographic	program1-p1	demo_184	case_184	not hispanic or latino	female	white		
+demographic	program1-p1	demo_185	case_185	not hispanic or latino	male	white		
+demographic	program1-p1	demo_186	case_186	not hispanic or latino	female	white		
+demographic	program1-p1	demo_187	case_187	not hispanic or latino	female	black or african american		
+demographic	program1-p1	demo_188	case_188	not hispanic or latino	female	white		
+demographic	program1-p1	demo_189	case_189	not hispanic or latino	female	white		
+demographic	program1-p1	demo_190	case_190	not hispanic or latino	female	Unknown		
+demographic	program1-p1	demo_191	case_191	not hispanic or latino	female	white		
+demographic	program1-p1	demo_192	case_192	not hispanic or latino	female	black or african american		
+demographic	program1-p1	demo_193	case_193	not hispanic or latino	male	white		
+demographic	program1-p1	demo_194	case_194	not hispanic or latino	female	white		

@@ -1,0 +1,2 @@
+*type	project_id	*submitter_id	*projects.code	associated_experiment	copy_numbers_identified	data_description	experimental_description	experimental_intent	indels_identified	marker_panel_description	number_experimental_group	number_samples_per_experimental_group	somatic_mutations_identified	type_of_data	type_of_sample	type_of_specimen
+experiment	program1-P1	experiment_1	P1													

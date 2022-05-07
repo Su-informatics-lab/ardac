@@ -1,0 +1,195 @@
+submitter_id	case.submitter_id	race	age_at_index	gender	ethnicity	vital_status	type
+test_demo_11006_obs	test_case_11006_obs	white	49	male	not hispanic or latino	Dead	demographic
+test_demo_11008_obs	test_case_11008_obs	white	40	female	not hispanic or latino	Alive	demographic
+test_demo_11013_obs	test_case_11013_obs	white	63	female	not hispanic or latino	Alive	demographic
+test_demo_11030_obs	test_case_11030_obs	white	53	male	not hispanic or latino	Dead	demographic
+test_demo_11031_obs	test_case_11031_obs	white	60	male	not hispanic or latino	Alive	demographic
+test_demo_11033_obs	test_case_11033_obs	white	45	female	not hispanic or latino	Dead	demographic
+test_demo_11034_obs	test_case_11034_obs	white	29	female	not hispanic or latino	Dead	demographic
+test_demo_11038_obs	test_case_11038_obs	black or african american	44	male	not hispanic or latino	Dead	demographic
+test_demo_11039_obs	test_case_11039_obs	white	31	female	not hispanic or latino	Alive	demographic
+test_demo_11041_obs	test_case_11041_obs	white	38	male	not hispanic or latino	Dead	demographic
+test_demo_11043_obs	test_case_11043_obs	white	54	female	not hispanic or latino	Alive	demographic
+test_demo_11044_obs	test_case_11044_obs	white	63	male	not hispanic or latino	Dead	demographic
+test_demo_11045_obs	test_case_11045_obs	black or african american	60	male	not hispanic or latino	Dead	demographic
+test_demo_11046_obs	test_case_11046_obs	white	40	male	not hispanic or latino	Dead	demographic
+test_demo_11047_obs	test_case_11047_obs	white	42	female	not hispanic or latino	Dead	demographic
+test_demo_11048_obs	test_case_11048_obs	white	35	female	not hispanic or latino	Alive	demographic
+test_demo_11050_obs	test_case_11050_obs	Unknown	45	male	hispanic or latino	Dead	demographic
+test_demo_11051_obs	test_case_11051_obs	white	39	male	not hispanic or latino	Alive	demographic
+test_demo_11052_obs	test_case_11052_obs	white	38	female	not hispanic or latino	Dead	demographic
+test_demo_11054_obs	test_case_11054_obs	white	60	male	not hispanic or latino	Alive	demographic
+test_demo_11059_obs	test_case_11059_obs	black or african american	56	female	not hispanic or latino	Alive	demographic
+test_demo_11060_obs	test_case_11060_obs	white	44	male	not hispanic or latino	Alive	demographic
+test_demo_11061_obs	test_case_11061_obs	black or african american	42	female	not hispanic or latino	Alive	demographic
+test_demo_11062_obs	test_case_11062_obs	white	61	female	not hispanic or latino	Alive	demographic
+test_demo_11063_obs	test_case_11063_obs	white	39	male	not hispanic or latino	Alive	demographic
+test_demo_11068_obs	test_case_11068_obs	white	32	male	not hispanic or latino	Dead	demographic
+test_demo_11069_obs	test_case_11069_obs	white	29	male	not hispanic or latino	Alive	demographic
+test_demo_11070_obs	test_case_11070_obs	Unknown	35	male	not hispanic or latino	Alive	demographic
+test_demo_11074_obs	test_case_11074_obs	white	56	male	not hispanic or latino	Alive	demographic
+test_demo_11076_obs	test_case_11076_obs	white	37	male	not hispanic or latino	Alive	demographic
+test_demo_21004_obs	test_case_21004_obs	white	54	male	not hispanic or latino	Alive	demographic
+test_demo_21005_obs	test_case_21005_obs	white	36	male	not hispanic or latino	Alive	demographic
+test_demo_21006_obs	test_case_21006_obs	white	45	female	not hispanic or latino	Alive	demographic
+test_demo_21008_obs	test_case_21008_obs	white	37	female	not hispanic or latino	Alive	demographic
+test_demo_21009_obs	test_case_21009_obs	white	49	female	not hispanic or latino	Alive	demographic
+test_demo_21020_obs	test_case_21020_obs	white	35	female	not hispanic or latino	Dead	demographic
+test_demo_21029_obs	test_case_21029_obs	white	33	male	not hispanic or latino	Dead	demographic
+test_demo_21032_obs	test_case_21032_obs	white	40	female	not hispanic or latino	Alive	demographic
+test_demo_21037_obs	test_case_21037_obs	Unknown	41	female	not hispanic or latino	Alive	demographic
+test_demo_21042_obs	test_case_21042_obs	white	45	male	not hispanic or latino	Alive	demographic
+test_demo_31003_obs	test_case_31003_obs	white	49	male	not hispanic or latino	Alive	demographic
+test_demo_31004_obs	test_case_31004_obs	white	45	male	not hispanic or latino	Dead	demographic
+test_demo_31006_obs	test_case_31006_obs	white	50	female	Unknown	Alive	demographic
+test_demo_31010_obs	test_case_31010_obs	white	52	male	not hispanic or latino	Alive	demographic
+test_demo_31012_obs	test_case_31012_obs	white	30	male	not hispanic or latino	Alive	demographic
+test_demo_31013_obs	test_case_31013_obs	white	35	male	not hispanic or latino	Alive	demographic
+test_demo_31014_obs	test_case_31014_obs	white	45	male	hispanic or latino	Alive	demographic
+test_demo_31015_obs	test_case_31015_obs	white	55	male	hispanic or latino	Alive	demographic
+test_demo_31017_obs	test_case_31017_obs	white	65	male	not hispanic or latino	Alive	demographic
+test_demo_31018_obs	test_case_31018_obs	white	56	male	not hispanic or latino	Alive	demographic
+test_demo_31019_obs	test_case_31019_obs	white	56	male	not hispanic or latino	Alive	demographic
+test_demo_31020_obs	test_case_31020_obs	white	42	male	not hispanic or latino	Dead	demographic
+test_demo_31021_obs	test_case_31021_obs	white	38	male	not hispanic or latino	Alive	demographic
+test_demo_31022_obs	test_case_31022_obs	white	56	male	not hispanic or latino	Alive	demographic
+test_demo_31023_obs	test_case_31023_obs	black or african american	47	male	not hispanic or latino	Alive	demographic
+test_demo_31025_obs	test_case_31025_obs	white	43	female	not hispanic or latino	Alive	demographic
+test_demo_31026_obs	test_case_31026_obs	white	37	male	not hispanic or latino	Alive	demographic
+test_demo_31027_obs	test_case_31027_obs	white	51	female	hispanic or latino	Alive	demographic
+test_demo_31038_obs	test_case_31038_obs	white	63	male	not hispanic or latino	Alive	demographic
+test_demo_31040_obs	test_case_31040_obs	white	50	male	not hispanic or latino	Alive	demographic
+test_demo_41007_obs	test_case_41007_obs	white	50	female	not hispanic or latino	Alive	demographic
+test_demo_41010_obs	test_case_41010_obs	white	26	female	not hispanic or latino	Alive	demographic
+test_demo_41023_obs	test_case_41023_obs	white	44	male	not hispanic or latino	Dead	demographic
+test_demo_41029_obs	test_case_41029_obs	white	48	male	not hispanic or latino	Alive	demographic
+test_demo_42001_obs	test_case_42001_obs	white	42	female	not hispanic or latino	Alive	demographic
+test_demo_42002_obs	test_case_42002_obs	white	37	female	not hispanic or latino	Alive	demographic
+test_demo_42003_obs	test_case_42003_obs	white	32	female	not hispanic or latino	Dead	demographic
+test_demo_42004_obs	test_case_42004_obs	black or african american	46	female	hispanic or latino	Alive	demographic
+test_demo_42005_obs	test_case_42005_obs	black or african american	36	male	not hispanic or latino	Dead	demographic
+test_demo_42007_obs	test_case_42007_obs	white	42	male	not hispanic or latino	Dead	demographic
+test_demo_42008_obs	test_case_42008_obs	white	41	male	not hispanic or latino	Alive	demographic
+test_demo_42009_obs	test_case_42009_obs	white	32	male	not hispanic or latino	Alive	demographic
+test_demo_42010_obs	test_case_42010_obs	white	31	female	not hispanic or latino	Alive	demographic
+test_demo_42013_obs	test_case_42013_obs	white	32	male	not hispanic or latino	Alive	demographic
+test_demo_42014_obs	test_case_42014_obs	white	56	male	not hispanic or latino	Alive	demographic
+test_demo_51001_obs	test_case_51001_obs	white	42	male	not hispanic or latino	Alive	demographic
+test_demo_51002_obs	test_case_51002_obs	white	62	male	not hispanic or latino	Alive	demographic
+test_demo_51003_obs	test_case_51003_obs	white	65	male	not hispanic or latino	Alive	demographic
+test_demo_51004_obs	test_case_51004_obs	white	40	male	not hispanic or latino	Alive	demographic
+test_demo_51013_obs	test_case_51013_obs	white	55	male	not hispanic or latino	Alive	demographic
+test_demo_51014_obs	test_case_51014_obs	white	40	female	hispanic or latino	Alive	demographic
+test_demo_51018_obs	test_case_51018_obs	Unknown	39	male	not hispanic or latino	Alive	demographic
+test_demo_51019_obs	test_case_51019_obs	white	34	male	not hispanic or latino	Alive	demographic
+test_demo_51021_obs	test_case_51021_obs	white	33	female	not hispanic or latino	Alive	demographic
+test_demo_51023_obs	test_case_51023_obs	white	35	male	not hispanic or latino	Alive	demographic
+test_demo_51024_obs	test_case_51024_obs	white	67	female	not hispanic or latino	Alive	demographic
+test_demo_51025_obs	test_case_51025_obs	white	26	male	not hispanic or latino	Alive	demographic
+test_demo_51027_obs	test_case_51027_obs	white	63	male	not hispanic or latino	Alive	demographic
+test_demo_51028_obs	test_case_51028_obs	american indian or alaska native	67	male	not hispanic or latino	Alive	demographic
+test_demo_51030_obs	test_case_51030_obs	white	48	female	not hispanic or latino	Alive	demographic
+test_demo_51031_obs	test_case_51031_obs	white	34	female	not hispanic or latino	Alive	demographic
+test_demo_51032_obs	test_case_51032_obs	american indian or alaska native	37	female	not hispanic or latino	Alive	demographic
+test_demo_51034_obs	test_case_51034_obs	white	47	male	not hispanic or latino	Alive	demographic
+test_demo_51035_obs	test_case_51035_obs	white	33	female	not hispanic or latino	Alive	demographic
+test_demo_51036_obs	test_case_51036_obs	white	65	female	not hispanic or latino	Alive	demographic
+test_demo_51037_obs	test_case_51037_obs	white	59	female	not hispanic or latino	Alive	demographic
+test_demo_51038_obs	test_case_51038_obs	white	43	female	not hispanic or latino	Alive	demographic
+test_demo_51039_obs	test_case_51039_obs	white	62	female	not hispanic or latino	Alive	demographic
+test_demo_51040_obs	test_case_51040_obs	white	38	male	not hispanic or latino	Alive	demographic
+test_demo_51041_obs	test_case_51041_obs	white	73	male	not hispanic or latino	Alive	demographic
+test_demo_51042_obs	test_case_51042_obs	white	51	male	not hispanic or latino	Alive	demographic
+test_demo_51043_obs	test_case_51043_obs	asian	39	female	not hispanic or latino	Alive	demographic
+test_demo_51046_obs	test_case_51046_obs	white	59	male	not hispanic or latino	Alive	demographic
+test_demo_51047_obs	test_case_51047_obs	american indian or alaska native	53	female	not hispanic or latino	Alive	demographic
+test_demo_51050_obs	test_case_51050_obs	white	51	male	not hispanic or latino	Alive	demographic
+test_demo_51052_obs	test_case_51052_obs	white	60	male	not hispanic or latino	Alive	demographic
+test_demo_51053_obs	test_case_51053_obs	white	57	male	not hispanic or latino	Alive	demographic
+test_demo_51054_obs	test_case_51054_obs	asian	30	female	not hispanic or latino	Alive	demographic
+test_demo_51054_obs	test_case_51054_obs	asian	30	female	not hispanic or latino	Alive	demographic
+test_demo_51055_obs	test_case_51055_obs	white	57	male	not hispanic or latino	Alive	demographic
+test_demo_51056_obs	test_case_51056_obs	white	49	female	not hispanic or latino	Alive	demographic
+test_demo_51059_obs	test_case_51059_obs	white	56	female	not hispanic or latino	Alive	demographic
+test_demo_51061_obs	test_case_51061_obs	white	46	female	not hispanic or latino	Dead	demographic
+test_demo_51064_obs	test_case_51064_obs	white	37	female	not hispanic or latino	Alive	demographic
+test_demo_51066_obs	test_case_51066_obs	white	55	female	not hispanic or latino	Alive	demographic
+test_demo_51067_obs	test_case_51067_obs	white	54	male	not hispanic or latino	Alive	demographic
+test_demo_51071_obs	test_case_51071_obs	white	66	male	not hispanic or latino	Alive	demographic
+test_demo_61001_obs	test_case_61001_obs	white	32	female	not hispanic or latino	Alive	demographic
+test_demo_61002_obs	test_case_61002_obs	white	52	male	not hispanic or latino	Dead	demographic
+test_demo_61003_obs	test_case_61003_obs	white	63	female	not hispanic or latino	Alive	demographic
+test_demo_61004_obs	test_case_61004_obs	white	49	female	not hispanic or latino	Alive	demographic
+test_demo_61005_obs	test_case_61005_obs	white	61	male	not hispanic or latino	Alive	demographic
+test_demo_61006_obs	test_case_61006_obs	white	46	male	not hispanic or latino	Alive	demographic
+test_demo_61007_obs	test_case_61007_obs	white	40	male	not hispanic or latino	Alive	demographic
+test_demo_61008_obs	test_case_61008_obs	white	28	female	not hispanic or latino	Alive	demographic
+test_demo_61009_obs	test_case_61009_obs	white	44	female	not hispanic or latino	Dead	demographic
+test_demo_61010_obs	test_case_61010_obs	white	49	male	not hispanic or latino	Dead	demographic
+test_demo_61011_obs	test_case_61011_obs	white	39	female	not hispanic or latino	Alive	demographic
+test_demo_61012_obs	test_case_61012_obs	white	48	male	not hispanic or latino	Dead	demographic
+test_demo_61013_obs	test_case_61013_obs	white	38	female	not hispanic or latino	Alive	demographic
+test_demo_61014_obs	test_case_61014_obs	white	47	female	not hispanic or latino	Dead	demographic
+test_demo_61015_obs	test_case_61015_obs	Unknown	38	female	not hispanic or latino	Alive	demographic
+test_demo_61016_obs	test_case_61016_obs	white	44	male	not hispanic or latino	Dead	demographic
+test_demo_61032_obs	test_case_61032_obs	white	39	female	not hispanic or latino	Alive	demographic
+test_demo_61033_obs	test_case_61033_obs	white	45	male	not hispanic or latino	Alive	demographic
+test_demo_61036_obs	test_case_61036_obs	white	58	male	not hispanic or latino	Dead	demographic
+test_demo_61040_obs	test_case_61040_obs	white	39	female	not hispanic or latino	Alive	demographic
+test_demo_61042_obs	test_case_61042_obs	white	28	male	not hispanic or latino	Alive	demographic
+test_demo_61044_obs	test_case_61044_obs	black or african american	30	female	not hispanic or latino	Alive	demographic
+test_demo_71002_obs	test_case_71002_obs	white	40	female	not hispanic or latino	Alive	demographic
+test_demo_71003_obs	test_case_71003_obs	white	39	male	not hispanic or latino	Alive	demographic
+test_demo_71004_obs	test_case_71004_obs	white	39	female	not hispanic or latino	Alive	demographic
+test_demo_71005_obs	test_case_71005_obs	white	41	male	not hispanic or latino	Alive	demographic
+test_demo_71007_obs	test_case_71007_obs	black or african american	48	female	not hispanic or latino	Dead	demographic
+test_demo_71008_obs	test_case_71008_obs	white	57	female	not hispanic or latino	Dead	demographic
+test_demo_71009_obs	test_case_71009_obs	white	42	male	hispanic or latino	Alive	demographic
+test_demo_72001_obs	test_case_72001_obs	white	52	male	not hispanic or latino	Alive	demographic
+test_demo_72002_obs	test_case_72002_obs	white	31	male	hispanic or latino	Alive	demographic
+test_demo_72003_obs	test_case_72003_obs	white	55	male	hispanic or latino	Alive	demographic
+test_demo_72004_obs	test_case_72004_obs	white	45	female	not hispanic or latino	Dead	demographic
+test_demo_72005_obs	test_case_72005_obs	white	37	male	not hispanic or latino	Alive	demographic
+test_demo_72006_obs	test_case_72006_obs	white	55	female	hispanic or latino	Alive	demographic
+test_demo_72007_obs	test_case_72007_obs	white	38	male	not hispanic or latino	Alive	demographic
+test_demo_72008_obs	test_case_72008_obs	white	31	female	not hispanic or latino	Alive	demographic
+test_demo_72010_obs	test_case_72010_obs	white	38	male	not hispanic or latino	Alive	demographic
+test_demo_72015_obs	test_case_72015_obs	white	62	male	not hispanic or latino	Alive	demographic
+test_demo_81001_obs	test_case_81001_obs	white	58	female	not hispanic or latino	Alive	demographic
+test_demo_81002_obs	test_case_81002_obs	white	45	male	not hispanic or latino	Alive	demographic
+test_demo_81003_obs	test_case_81003_obs	white	41	male	not hispanic or latino	Dead	demographic
+test_demo_81004_obs	test_case_81004_obs	white	43	male	not hispanic or latino	Alive	demographic
+test_demo_81005_obs	test_case_81005_obs	white	33	female	not hispanic or latino	Alive	demographic
+test_demo_81006_obs	test_case_81006_obs	white	40	female	not hispanic or latino	Dead	demographic
+test_demo_81007_obs	test_case_81007_obs	white	34	male	not hispanic or latino	Alive	demographic
+test_demo_81008_obs	test_case_81008_obs	white	43	female	not hispanic or latino	Alive	demographic
+test_demo_81018_obs	test_case_81018_obs	white	49	female	not hispanic or latino	Alive	demographic
+test_demo_81019_obs	test_case_81019_obs	white	27	female	not hispanic or latino	Dead	demographic
+test_demo_81020_obs	test_case_81020_obs	white	34	male	not hispanic or latino	Alive	demographic
+test_demo_81023_obs	test_case_81023_obs	black or african american	39	female	not hispanic or latino	Dead	demographic
+test_demo_81025_obs	test_case_81025_obs	white	40	male	not hispanic or latino	Alive	demographic
+test_demo_81026_obs	test_case_81026_obs	white	47	female	not hispanic or latino	Alive	demographic
+test_demo_81027_obs	test_case_81027_obs	white	33	female	not hispanic or latino	Alive	demographic
+test_demo_81028_obs	test_case_81028_obs	white	60	male	not hispanic or latino	Alive	demographic
+test_demo_81029_obs	test_case_81029_obs	white	57	male	not hispanic or latino	Alive	demographic
+test_demo_81030_obs	test_case_81030_obs	white	40	male	not hispanic or latino	Alive	demographic
+test_demo_81031_obs	test_case_81031_obs	white	36	male	not hispanic or latino	Alive	demographic
+test_demo_81032_obs	test_case_81032_obs	white	37	male	not hispanic or latino	Alive	demographic
+test_demo_81033_obs	test_case_81033_obs	white	58	male	not hispanic or latino	Alive	demographic
+test_demo_81034_obs	test_case_81034_obs	white	45	male	not hispanic or latino	Alive	demographic
+test_demo_81036_obs	test_case_81036_obs	white	45	male	not hispanic or latino	Alive	demographic
+test_demo_81037_obs	test_case_81037_obs	black or african american	66	male	not hispanic or latino	Alive	demographic
+test_demo_81038_obs	test_case_81038_obs	white	41	male	not hispanic or latino	Alive	demographic
+test_demo_81039_obs	test_case_81039_obs	white	30	female	not hispanic or latino	Alive	demographic
+test_demo_81041_obs	test_case_81041_obs	white	29	male	not hispanic or latino	Alive	demographic
+test_demo_81043_obs	test_case_81043_obs	white	52	female	not hispanic or latino	Alive	demographic
+test_demo_81044_obs	test_case_81044_obs	white	48	male	not hispanic or latino	Alive	demographic
+test_demo_81045_obs	test_case_81045_obs	white	34	female	not hispanic or latino	Alive	demographic
+test_demo_81046_obs	test_case_81046_obs	black or african american	47	female	not hispanic or latino	Alive	demographic
+test_demo_81047_obs	test_case_81047_obs	white	25	female	not hispanic or latino	Alive	demographic
+test_demo_81048_obs	test_case_81048_obs	white	31	female	not hispanic or latino	Alive	demographic
+test_demo_81049_obs	test_case_81049_obs	Unknown	42	female	not hispanic or latino	Alive	demographic
+test_demo_81050_obs	test_case_81050_obs	white	49	female	not hispanic or latino	Alive	demographic
+test_demo_81056_obs	test_case_81056_obs	black or african american	52	female	not hispanic or latino	Alive	demographic
+test_demo_81060_obs	test_case_81060_obs	white	45	male	not hispanic or latino	Alive	demographic
+test_demo_81062_obs	test_case_81062_obs	white	35	female	not hispanic or latino	Alive	demographic

@@ -1,0 +1,7 @@
+*type	project_id	*submitter_id	*cases.submitter_id	ethnicity	gender	race	year_of_birth	year_of_death
+demographic	program1-p1	jinnanxin	case_1	hispanic or latino	male	white	1993	2020
+demographic	program1-p1	jinnanxin	case_2	not hispanic or latino	male	american indian or alaska native	1993	
+demographic	program1-p1	jinnanxin	case_3	Unknown	female	black or african american	1967	1997
+demographic	program1-p1	jinnanxin	case_4	not reported	unknown	asian	1969	1997
+demographic	program1-p1	jinnanxin	case_5	not allowed to collect	unspecified	native hawaiian or other pacific islander	1983	
+demographic	program1-p1	jinnanxin	case_6	hispanic or latino	not reported	native hawaiian or other pacific islander	2002	

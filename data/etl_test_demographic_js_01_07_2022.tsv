@@ -1,0 +1,25 @@
+*type	project_id	*submitter_id	*cases.submitter_id	ethnicity	gender	race	year_of_birth	year_of_death
+demographic	program1-P1	pat_1	case_1	hispanic or latino	male	white	1989	2020
+demographic	program1-P1	pat_2	case_2	not hispanic or latino	male	american indian or alaska native	1968	
+demographic	program1-P1	pat_3	case_3	Unknown	female	black or african american	1964	2020
+demographic	program1-P1	pat_4	case_4	not reported	unknown	asian	1998	2020
+demographic	program1-P1	pat_5	case_5	not allowed to collect	unspecified	native hawaiian or other pacific islander	1978	
+demographic	program1-P1	pat_6	case_6	hispanic or latino	not reported	native hawaiian or other pacific islander	1993	
+demographic	program1-P1	pat_7	case_7	hispanic or latino	male	white	1995	2021
+demographic	program1-P1	pat_8	case_8	not hispanic or latino	male	american indian or alaska native	1984	
+demographic	program1-P1	pat_9	case_9	Unknown	female	black or african american	1982	2021
+demographic	program1-P1	pat_10	case_10	not reported	unknown	asian	1982	2021
+demographic	program1-P1	pat_11	case_11	not allowed to collect	unspecified	native hawaiian or other pacific islander	1969	
+demographic	program1-P1	pat_12	case_12	hispanic or latino	not reported	native hawaiian or other pacific islander	1996	
+demographic	program1-P1	pat_13	case_13	hispanic or latino	male	white	2001	2020
+demographic	program1-P1	pat_14	case_14	not hispanic or latino	male	american indian or alaska native	1990	
+demographic	program1-P1	pat_15	case_15	Unknown	female	black or african american	1980	2020
+demographic	program1-P1	pat_16	case_16	not reported	unknown	asian	1997	2020
+demographic	program1-P1	pat_17	case_17	not allowed to collect	unspecified	native hawaiian or other pacific islander	1999	
+demographic	program1-P1	pat_18	case_18	hispanic or latino	not reported	native hawaiian or other pacific islander	1973	
+demographic	program1-P1	pat_19	case_19	hispanic or latino	male	white	1974	
+demographic	program1-P1	pat_20	case_20	not hispanic or latino	male	american indian or alaska native	1999	2020
+demographic	program1-P1	pat_21	case_21	Unknown	female	black or african american	1968	
+demographic	program1-P1	pat_22	case_22	not reported	unknown	asian	1973	2021
+demographic	program1-P1	pat_23	case_23	not allowed to collect	unspecified	native hawaiian or other pacific islander	1996	2021
+demographic	program1-P1	pat_24	case_24	hispanic or latino	not reported	native hawaiian or other pacific islander	1997	

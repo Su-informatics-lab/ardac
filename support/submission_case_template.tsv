@@ -1,0 +1,7 @@
+*type	project_id	*submitter_id	*experiments.submitter_id	consent_codes	disease_type	primary_site
+case	program1-p1	case_1	experiment_1		type_1	
+case	program1-p1	case_2	experiment_1	informed	type_2	
+case	program1-p1	case_3	experiment_1		type_1	
+case	program1-p1	case_4	experiment_1		type_3	
+case	program1-p1	case_5	experiment_1	informed	type_2	
+case	program1-p1	case_6	experiment_1		type_1	
