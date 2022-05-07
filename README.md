@@ -15,6 +15,8 @@ The ARDaC system is available at [github.com/jing-su/ardac](github.com/jing-su/a
 
 ![ARDaC Data Flow and Version Control](ARDaC_VersionControl.png)
 
+![ARDaC Data Model](ARDaC_DataModel.png)
+
 ![ARDaC Interface Example](ARDaC_Filtering_Vis_Exporting.png)
 
 
