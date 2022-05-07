@@ -13,5 +13,11 @@ By leveraging the GDC common data model and the Gen3 data commons ecosystem, ARD
 The novel ARDaC system supports the representation of behavioral and pathologic data unique to alcoholic hepatitis, facilitates data filtering, querying, visualization, and exploring which are specific to the AlcHepNet clinical studies . Besides the general data query and visualization functions, ARDaC allows data exploration using the study-related criteria such as the study cohorts or arms, alcohol use history, alcoholic hepatitis treatments, prognosis information such as mortality and liver transplantations, liver functions such as MELD’s scores, omics data availability and biosample availability, and omics-derived features such as differentially expressed genes and enriched signaling pathways. ARDaC system also provides GraphQL query interface, cloud-based workspace, and R and Python programming environments for in-depth data analysis. Specifically, if researchers are interested in proposing new data generation plan, ARDaC allows users to check sample availability, to visualize and evaluate the synergy of their data generation plans with existing data and funded projects, and to plan for new data generation plans. 
 The ARDaC system is available at [github.com/jing-su/ardac](github.com/jing-su/ardac) and [ardac.org](ardac.org). 
 
+![ARDaC Data Flow and Version Control](ARDaC_VersionControl.png)
+
+![ARDaC Interface Example](ARDaC_Filtering_Vis_Exporting.png)
+
+
+
 # Summary 
 In summary, ARDaC is the central data hub connecting data of multiple modalities across clinical and translational teams, the engine to drive AlcHepNet research projects, the data interface between AlcHepNet consortium and research other data commons, and the research nexus to ignite new research and collaborations. 
