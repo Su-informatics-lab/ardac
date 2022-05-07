@@ -23,3 +23,20 @@ The ARDaC system is available at [github.com/jing-su/ardac](github.com/jing-su/a
 
 # Summary 
 In summary, ARDaC is the central data hub connecting data of multiple modalities across clinical and translational teams, the engine to drive AlcHepNet research projects, the data interface between AlcHepNet consortium and research other data commons, and the research nexus to ignite new research and collaborations. 
+
+# Team at Biostatistics and Health Data Science, Indiana University School of Medicine 
+## PI: 
+  * Dr. Wanzhu Tu, Professor  
+  * Dr. Jing Su, Assistant Professor  
+## Data modeling and harmonization 
+  * Carla Kettler, Principal Data Manager
+  * Dr. Chi Mai Nguyen, Research Scientist 
+  * Ronny Ovando, Senior Data Manager 
+  * Timothy Hotchkiss, Data Manager II 
+  * Ryan Healey, Data Manager I
+## System development and visualization
+  * Greg Peutz, Research Information Principal
+  * Nanxin Jin, PhD Research Assistant 
+  * Zuotian Li, PhD Research Assistant 
+
+
