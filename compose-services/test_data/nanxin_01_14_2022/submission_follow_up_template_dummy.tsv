@@ -1,0 +1,201 @@
+*type	project_id	*submitter_id	cases.submitter_id	*days_to_follow_up	bmi	cdc_hiv_risk_factors	comorbidity	height	procedures_performed	risk_factor	visit_day	weight
+follow_up	ardac-dev_v0	follow_up_1	pat_1	0	23	None	Anemia	131	Colonoscopy	Allergy, Ant	0	117
+follow_up	ardac-dev_v0	follow_up_2	pat_2	0	23	Transfusion Recipient	Cancer	186	Unknown	Malaria	0	116
+follow_up	ardac-dev_v0	follow_up_3	pat_3	0	28	None	Eczema	147	Colonoscopy	Malaria	0	56
+follow_up	ardac-dev_v0	follow_up_4	pat_4	0	20	Unknown	Anemia	168	Not Reported	Seizure	0	92
+follow_up	ardac-dev_v0	follow_up_5	pat_5	0	20	None	Anemia	131	Unknown	Malaria	0	69
+follow_up	ardac-dev_v0	follow_up_6	pat_6	0	27	Intravenous Drug User	Anemia	183	Unknown	Hemochromatosis	0	75
+follow_up	ardac-dev_v0	follow_up_7	pat_7	0	28	Heterosexual Contact	Cancer	105	Unknown	Allergy, Ant	0	46
+follow_up	ardac-dev_v0	follow_up_8	pat_8	0	23	Transfusion Recipient	Dermatomyosis	112	Not Reported	Malaria	0	98
+follow_up	ardac-dev_v0	follow_up_9	pat_9	0	23	Not Reported	Dermatomyosis	131	Endoscopy	Allergy, Ant	0	70
+follow_up	ardac-dev_v0	follow_up_10	pat_10	0	28	Hemophiliac	Anemia	188	Not Reported	Allergy, Ant	0	109
+follow_up	ardac-dev_v0	follow_up_11	pat_11	0	26	Hemophiliac	Anemia	113	Not Reported	Seizure	0	114
+follow_up	ardac-dev_v0	follow_up_12	pat_12	0	20	Heterosexual Contact	Blood Clots	110	Not Reported	Allergy, Ant	0	75
+follow_up	ardac-dev_v0	follow_up_13	pat_13	0	19	Homosexual Contact	Anemia	170	Not Reported	Allergy, Ant	0	39
+follow_up	ardac-dev_v0	follow_up_14	pat_14	0	29	Not Reported	Anemia	176	Not Reported	Hemochromatosis	0	74
+follow_up	ardac-dev_v0	follow_up_15	pat_15	0	29	Hemophiliac	Cancer	170	Unknown	Seizure	0	39
+follow_up	ardac-dev_v0	follow_up_16	pat_16	0	18	Not Reported	Anemia	144	Endoscopy	Allergy, Ant	0	44
+follow_up	ardac-dev_v0	follow_up_17	pat_17	0	26	Intravenous Drug User	Eczema	102	Unknown	Malaria	0	72
+follow_up	ardac-dev_v0	follow_up_18	pat_18	0	30	Intravenous Drug User	Eczema	155	Not Reported	Hemochromatosis	0	30
+follow_up	ardac-dev_v0	follow_up_19	pat_19	0	27	Heterosexual Contact	Eczema	103	Endoscopy	Seizure	0	88
+follow_up	ardac-dev_v0	follow_up_20	pat_20	0	23	Not Reported	Anemia	111	Unknown	Hemochromatosis	0	114
+follow_up	ardac-dev_v0	follow_up_21	pat_21	0	25	Hemophiliac	Cancer	107	Not Reported	Malaria	0	47
+follow_up	ardac-dev_v0	follow_up_22	pat_22	0	21	Unknown	Dermatomyosis	156	Colonoscopy	Allergy, Ant	0	70
+follow_up	ardac-dev_v0	follow_up_23	pat_23	0	30	None	Dermatomyosis	179	Unknown	Seizure	0	84
+follow_up	ardac-dev_v0	follow_up_24	pat_24	0	23	Not Reported	Anemia	176	Colonoscopy	Allergy, Ant	0	61
+follow_up	ardac-dev_v0	follow_up_25	pat_25	0	29	None	Cancer	186	Endoscopy	Malaria	0	112
+follow_up	ardac-dev_v0	follow_up_26	pat_26	0	25	Unknown	Blood Clots	181	Not Reported	Malaria	0	111
+follow_up	ardac-dev_v0	follow_up_27	pat_27	0	19	Not Reported	Blood Clots	158	Endoscopy	Hemochromatosis	0	90
+follow_up	ardac-dev_v0	follow_up_28	pat_28	0	21	Not Reported	Blood Clots	101	Not Reported	Seizure	0	45
+follow_up	ardac-dev_v0	follow_up_29	pat_29	0	24	Heterosexual Contact	Cancer	124	Colonoscopy	Allergy, Ant	0	92
+follow_up	ardac-dev_v0	follow_up_30	pat_30	0	30	None	Blood Clots	152	Not Reported	Hemochromatosis	0	117
+follow_up	ardac-dev_v0	follow_up_31	pat_31	0	27	None	Dermatomyosis	164	Not Reported	Seizure	0	110
+follow_up	ardac-dev_v0	follow_up_32	pat_32	0	26	Homosexual Contact	Dermatomyosis	186	Colonoscopy	Hemochromatosis	0	70
+follow_up	ardac-dev_v0	follow_up_33	pat_33	0	21	Homosexual Contact	Eczema	172	Unknown	Malaria	0	36
+follow_up	ardac-dev_v0	follow_up_34	pat_34	0	26	Unknown	Anemia	166	Colonoscopy	Malaria	0	87
+follow_up	ardac-dev_v0	follow_up_35	pat_35	0	20	Hemophiliac	Blood Clots	132	Colonoscopy	Seizure	0	78
+follow_up	ardac-dev_v0	follow_up_36	pat_36	0	20	None	Anemia	165	Endoscopy	Hemochromatosis	0	47
+follow_up	ardac-dev_v0	follow_up_37	pat_37	0	18	Unknown	Eczema	101	Colonoscopy	Malaria	0	102
+follow_up	ardac-dev_v0	follow_up_38	pat_38	0	25	Transfusion Recipient	Cancer	164	Endoscopy	Malaria	0	98
+follow_up	ardac-dev_v0	follow_up_39	pat_39	0	30	None	Eczema	135	Not Reported	Seizure	0	101
+follow_up	ardac-dev_v0	follow_up_40	pat_40	0	24	Intravenous Drug User	Anemia	114	Colonoscopy	Hemochromatosis	0	66
+follow_up	ardac-dev_v0	follow_up_41	pat_41	0	27	Unknown	Cancer	161	Colonoscopy	Hemochromatosis	0	65
+follow_up	ardac-dev_v0	follow_up_42	pat_42	0	21	Heterosexual Contact	Anemia	149	Endoscopy	Malaria	0	56
+follow_up	ardac-dev_v0	follow_up_43	pat_43	0	20	Transfusion Recipient	Blood Clots	113	Endoscopy	Hemochromatosis	0	76
+follow_up	ardac-dev_v0	follow_up_44	pat_44	0	27	Homosexual Contact	Blood Clots	113	Not Reported	Allergy, Ant	0	32
+follow_up	ardac-dev_v0	follow_up_45	pat_45	0	21	Homosexual Contact	Blood Clots	128	Endoscopy	Seizure	0	45
+follow_up	ardac-dev_v0	follow_up_46	pat_46	0	22	Heterosexual Contact	Eczema	108	Colonoscopy	Malaria	0	54
+follow_up	ardac-dev_v0	follow_up_47	pat_47	0	29	Hemophiliac	Anemia	123	Endoscopy	Seizure	0	112
+follow_up	ardac-dev_v0	follow_up_48	pat_48	0	20	Homosexual Contact	Cancer	108	Not Reported	Malaria	0	52
+follow_up	ardac-dev_v0	follow_up_49	pat_49	0	26	Hemophiliac	Anemia	157	Endoscopy	Malaria	0	112
+follow_up	ardac-dev_v0	follow_up_50	pat_50	0	19	None	Anemia	157	Colonoscopy	Allergy, Ant	0	39
+follow_up	ardac-dev_v0	follow_up_51	pat_51	0	28	Unknown	Blood Clots	177	Endoscopy	Allergy, Ant	0	66
+follow_up	ardac-dev_v0	follow_up_52	pat_52	0	29	Not Reported	Cancer	106	Unknown	Hemochromatosis	0	60
+follow_up	ardac-dev_v0	follow_up_53	pat_53	0	24	None	Eczema	106	Not Reported	Allergy, Ant	0	100
+follow_up	ardac-dev_v0	follow_up_54	pat_54	0	19	Transfusion Recipient	Blood Clots	106	Not Reported	Seizure	0	64
+follow_up	ardac-dev_v0	follow_up_55	pat_55	0	24	None	Cancer	189	Unknown	Allergy, Ant	0	51
+follow_up	ardac-dev_v0	follow_up_56	pat_56	0	21	Homosexual Contact	Dermatomyosis	121	Unknown	Allergy, Ant	0	101
+follow_up	ardac-dev_v0	follow_up_57	pat_57	0	29	Hemophiliac	Anemia	164	Endoscopy	Hemochromatosis	0	50
+follow_up	ardac-dev_v0	follow_up_58	pat_58	0	23	Not Reported	Anemia	151	Unknown	Seizure	0	53
+follow_up	ardac-dev_v0	follow_up_59	pat_59	0	20	Not Reported	Eczema	187	Colonoscopy	Hemochromatosis	0	107
+follow_up	ardac-dev_v0	follow_up_60	pat_60	0	27	Transfusion Recipient	Anemia	110	Endoscopy	Malaria	0	40
+follow_up	ardac-dev_v0	follow_up_61	pat_61	0	30	Intravenous Drug User	Cancer	181	Not Reported	Seizure	0	115
+follow_up	ardac-dev_v0	follow_up_62	pat_62	0	18	Transfusion Recipient	Eczema	181	Colonoscopy	Malaria	0	97
+follow_up	ardac-dev_v0	follow_up_63	pat_63	0	22	Hemophiliac	Dermatomyosis	128	Not Reported	Hemochromatosis	0	78
+follow_up	ardac-dev_v0	follow_up_64	pat_64	0	26	None	Blood Clots	122	Unknown	Malaria	0	93
+follow_up	ardac-dev_v0	follow_up_65	pat_65	0	22	Transfusion Recipient	Dermatomyosis	134	Endoscopy	Hemochromatosis	0	48
+follow_up	ardac-dev_v0	follow_up_66	pat_66	0	30	Unknown	Eczema	152	Unknown	Malaria	0	109
+follow_up	ardac-dev_v0	follow_up_67	pat_67	0	23	Homosexual Contact	Cancer	173	Not Reported	Hemochromatosis	0	65
+follow_up	ardac-dev_v0	follow_up_68	pat_68	0	29	Intravenous Drug User	Dermatomyosis	188	Colonoscopy	Seizure	0	46
+follow_up	ardac-dev_v0	follow_up_69	pat_69	0	29	None	Eczema	140	Unknown	Allergy, Ant	0	32
+follow_up	ardac-dev_v0	follow_up_70	pat_70	0	18	Heterosexual Contact	Dermatomyosis	129	Endoscopy	Malaria	0	30
+follow_up	ardac-dev_v0	follow_up_71	pat_71	0	20	Transfusion Recipient	Cancer	166	Colonoscopy	Seizure	0	64
+follow_up	ardac-dev_v0	follow_up_72	pat_72	0	18	Transfusion Recipient	Dermatomyosis	122	Endoscopy	Malaria	0	48
+follow_up	ardac-dev_v0	follow_up_73	pat_73	0	19	Intravenous Drug User	Dermatomyosis	106	Colonoscopy	Allergy, Ant	0	108
+follow_up	ardac-dev_v0	follow_up_74	pat_74	0	29	Not Reported	Eczema	123	Colonoscopy	Allergy, Ant	0	94
+follow_up	ardac-dev_v0	follow_up_75	pat_75	0	24	Homosexual Contact	Blood Clots	156	Endoscopy	Seizure	0	97
+follow_up	ardac-dev_v0	follow_up_76	pat_76	0	25	Homosexual Contact	Anemia	170	Colonoscopy	Malaria	0	119
+follow_up	ardac-dev_v0	follow_up_77	pat_77	0	27	Intravenous Drug User	Anemia	126	Colonoscopy	Malaria	0	55
+follow_up	ardac-dev_v0	follow_up_78	pat_78	0	28	Hemophiliac	Anemia	120	Not Reported	Malaria	0	101
+follow_up	ardac-dev_v0	follow_up_79	pat_79	0	28	Transfusion Recipient	Dermatomyosis	115	Endoscopy	Malaria	0	73
+follow_up	ardac-dev_v0	follow_up_80	pat_80	0	18	Heterosexual Contact	Cancer	145	Colonoscopy	Seizure	0	108
+follow_up	ardac-dev_v0	follow_up_81	pat_81	0	23	None	Anemia	182	Unknown	Hemochromatosis	0	51
+follow_up	ardac-dev_v0	follow_up_82	pat_82	0	23	None	Cancer	188	Endoscopy	Hemochromatosis	0	49
+follow_up	ardac-dev_v0	follow_up_83	pat_83	0	20	Homosexual Contact	Dermatomyosis	104	Unknown	Malaria	0	113
+follow_up	ardac-dev_v0	follow_up_84	pat_84	0	19	Homosexual Contact	Blood Clots	129	Not Reported	Malaria	0	88
+follow_up	ardac-dev_v0	follow_up_85	pat_85	0	23	None	Blood Clots	190	Endoscopy	Seizure	0	68
+follow_up	ardac-dev_v0	follow_up_86	pat_86	0	27	None	Blood Clots	186	Unknown	Allergy, Ant	0	97
+follow_up	ardac-dev_v0	follow_up_87	pat_87	0	19	Homosexual Contact	Cancer	131	Unknown	Seizure	0	110
+follow_up	ardac-dev_v0	follow_up_88	pat_88	0	26	Homosexual Contact	Anemia	131	Endoscopy	Seizure	0	60
+follow_up	ardac-dev_v0	follow_up_89	pat_89	0	18	None	Eczema	116	Unknown	Allergy, Ant	0	90
+follow_up	ardac-dev_v0	follow_up_90	pat_90	0	23	Transfusion Recipient	Cancer	158	Not Reported	Allergy, Ant	0	81
+follow_up	ardac-dev_v0	follow_up_91	pat_91	0	28	Heterosexual Contact	Eczema	103	Colonoscopy	Allergy, Ant	0	40
+follow_up	ardac-dev_v0	follow_up_92	pat_92	0	26	None	Cancer	122	Unknown	Seizure	0	76
+follow_up	ardac-dev_v0	follow_up_93	pat_93	0	30	Hemophiliac	Eczema	137	Colonoscopy	Hemochromatosis	0	57
+follow_up	ardac-dev_v0	follow_up_94	pat_94	0	21	Intravenous Drug User	Eczema	122	Not Reported	Hemochromatosis	0	37
+follow_up	ardac-dev_v0	follow_up_95	pat_95	0	20	None	Cancer	141	Endoscopy	Allergy, Ant	0	56
+follow_up	ardac-dev_v0	follow_up_96	pat_96	0	23	Heterosexual Contact	Anemia	178	Endoscopy	Allergy, Ant	0	65
+follow_up	ardac-dev_v0	follow_up_97	pat_97	0	22	Hemophiliac	Anemia	111	Endoscopy	Allergy, Ant	0	92
+follow_up	ardac-dev_v0	follow_up_98	pat_98	0	30	Intravenous Drug User	Anemia	163	Not Reported	Hemochromatosis	0	80
+follow_up	ardac-dev_v0	follow_up_99	pat_99	0	26	Transfusion Recipient	Cancer	104	Colonoscopy	Malaria	0	75
+follow_up	ardac-dev_v0	follow_up_100	pat_100	0	22	Hemophiliac	Blood Clots	103	Not Reported	Seizure	0	51
+follow_up	ardac-dev_v0	follow_up_101	pat_74	90	20	Homosexual Contact	Eczema	172	Not Reported	Malaria	90	80
+follow_up	ardac-dev_v0	follow_up_102	pat_18	60	37	Transfusion Recipient	Cancer	163	Unknown	Seizure	60	68
+follow_up	ardac-dev_v0	follow_up_103	pat_17	60	17	None	Cancer	197	Not Reported	Malaria	60	119
+follow_up	ardac-dev_v0	follow_up_104	pat_16	28	20	Intravenous Drug User	Cancer	200	Endoscopy	Allergy, Ant	28	70
+follow_up	ardac-dev_v0	follow_up_105	pat_60	90	33	Transfusion Recipient	Blood Clots	178	Colonoscopy	Seizure	90	103
+follow_up	ardac-dev_v0	follow_up_106	pat_86	90	36	Intravenous Drug User	Cancer	183	Not Reported	Malaria	90	78
+follow_up	ardac-dev_v0	follow_up_107	pat_79	90	39	Hemophiliac	Blood Clots	153	Endoscopy	Seizure	90	101
+follow_up	ardac-dev_v0	follow_up_108	pat_80	60	25	Heterosexual Contact	Dermatomyosis	159	Unknown	Seizure	60	75
+follow_up	ardac-dev_v0	follow_up_109	pat_83	28	24	Heterosexual Contact	Anemia	150	Colonoscopy	Seizure	28	30
+follow_up	ardac-dev_v0	follow_up_110	pat_14	90	25	Homosexual Contact	Eczema	163	Endoscopy	Seizure	90	55
+follow_up	ardac-dev_v0	follow_up_111	pat_79	90	20	Not Reported	Eczema	177	Not Reported	Seizure	90	106
+follow_up	ardac-dev_v0	follow_up_112	pat_80	90	20	Unknown	Blood Clots	182	Unknown	Allergy, Ant	90	75
+follow_up	ardac-dev_v0	follow_up_113	pat_34	60	23	Intravenous Drug User	Dermatomyosis	190	Colonoscopy	Malaria	60	69
+follow_up	ardac-dev_v0	follow_up_114	pat_74	60	27	None	Anemia	152	Endoscopy	Hemochromatosis	60	75
+follow_up	ardac-dev_v0	follow_up_115	pat_97	90	39	Homosexual Contact	Cancer	192	Not Reported	Malaria	90	82
+follow_up	ardac-dev_v0	follow_up_116	pat_45	90	33	None	Cancer	189	Unknown	Malaria	90	102
+follow_up	ardac-dev_v0	follow_up_117	pat_56	28	35	Transfusion Recipient	Anemia	161	Endoscopy	Allergy, Ant	28	87
+follow_up	ardac-dev_v0	follow_up_118	pat_5	28	34	Transfusion Recipient	Eczema	167	Endoscopy	Allergy, Ant	28	46
+follow_up	ardac-dev_v0	follow_up_119	pat_58	28	16	None	Cancer	169	Unknown	Seizure	28	120
+follow_up	ardac-dev_v0	follow_up_120	pat_65	60	23	Not Reported	Cancer	171	Unknown	Seizure	60	48
+follow_up	ardac-dev_v0	follow_up_121	pat_86	28	38	None	Anemia	165	Unknown	Hemochromatosis	28	99
+follow_up	ardac-dev_v0	follow_up_122	pat_55	60	21	Transfusion Recipient	Blood Clots	194	Unknown	Malaria	60	30
+follow_up	ardac-dev_v0	follow_up_123	pat_54	60	38	Intravenous Drug User	Blood Clots	171	Colonoscopy	Hemochromatosis	60	44
+follow_up	ardac-dev_v0	follow_up_124	pat_74	60	28	Heterosexual Contact	Eczema	190	Endoscopy	Allergy, Ant	60	85
+follow_up	ardac-dev_v0	follow_up_125	pat_56	28	33	Not Reported	Cancer	150	Colonoscopy	Hemochromatosis	28	75
+follow_up	ardac-dev_v0	follow_up_126	pat_76	28	40	Not Reported	Blood Clots	193	Colonoscopy	Malaria	28	94
+follow_up	ardac-dev_v0	follow_up_127	pat_33	90	23	Transfusion Recipient	Cancer	198	Endoscopy	Hemochromatosis	90	38
+follow_up	ardac-dev_v0	follow_up_128	pat_45	90	18	Heterosexual Contact	Cancer	196	Not Reported	Malaria	90	107
+follow_up	ardac-dev_v0	follow_up_129	pat_57	28	33	Hemophiliac	Anemia	171	Unknown	Allergy, Ant	28	86
+follow_up	ardac-dev_v0	follow_up_130	pat_72	90	23	Hemophiliac	Blood Clots	163	Not Reported	Seizure	90	50
+follow_up	ardac-dev_v0	follow_up_131	pat_39	28	40	Intravenous Drug User	Eczema	177	Unknown	Hemochromatosis	28	40
+follow_up	ardac-dev_v0	follow_up_132	pat_63	90	33	Homosexual Contact	Anemia	190	Colonoscopy	Hemochromatosis	90	75
+follow_up	ardac-dev_v0	follow_up_133	pat_27	60	35	Intravenous Drug User	Dermatomyosis	160	Colonoscopy	Seizure	60	84
+follow_up	ardac-dev_v0	follow_up_134	pat_5	60	27	Homosexual Contact	Cancer	155	Endoscopy	Malaria	60	50
+follow_up	ardac-dev_v0	follow_up_135	pat_45	90	16	Transfusion Recipient	Anemia	183	Endoscopy	Allergy, Ant	90	66
+follow_up	ardac-dev_v0	follow_up_136	pat_44	28	38	Intravenous Drug User	Anemia	179	Endoscopy	Hemochromatosis	28	71
+follow_up	ardac-dev_v0	follow_up_137	pat_45	60	31	Heterosexual Contact	Cancer	167	Unknown	Malaria	60	31
+follow_up	ardac-dev_v0	follow_up_138	pat_37	90	29	Intravenous Drug User	Eczema	151	Not Reported	Malaria	90	103
+follow_up	ardac-dev_v0	follow_up_139	pat_27	60	39	Intravenous Drug User	Anemia	158	Colonoscopy	Allergy, Ant	60	111
+follow_up	ardac-dev_v0	follow_up_140	pat_48	28	15	Hemophiliac	Blood Clots	197	Not Reported	Allergy, Ant	28	46
+follow_up	ardac-dev_v0	follow_up_141	pat_37	90	36	None	Dermatomyosis	160	Colonoscopy	Malaria	90	56
+follow_up	ardac-dev_v0	follow_up_142	pat_53	90	36	Not Reported	Anemia	165	Unknown	Hemochromatosis	90	74
+follow_up	ardac-dev_v0	follow_up_143	pat_39	90	27	Transfusion Recipient	Anemia	195	Endoscopy	Seizure	90	52
+follow_up	ardac-dev_v0	follow_up_144	pat_99	28	39	Transfusion Recipient	Eczema	190	Colonoscopy	Hemochromatosis	28	31
+follow_up	ardac-dev_v0	follow_up_145	pat_19	60	18	None	Dermatomyosis	195	Not Reported	Allergy, Ant	60	83
+follow_up	ardac-dev_v0	follow_up_146	pat_51	28	29	Intravenous Drug User	Dermatomyosis	189	Endoscopy	Allergy, Ant	28	66
+follow_up	ardac-dev_v0	follow_up_147	pat_87	60	36	Intravenous Drug User	Eczema	152	Not Reported	Malaria	60	41
+follow_up	ardac-dev_v0	follow_up_148	pat_28	90	19	Hemophiliac	Cancer	195	Not Reported	Malaria	90	63
+follow_up	ardac-dev_v0	follow_up_149	pat_66	28	15	Transfusion Recipient	Anemia	189	Not Reported	Allergy, Ant	28	30
+follow_up	ardac-dev_v0	follow_up_150	pat_73	28	30	Homosexual Contact	Anemia	184	Not Reported	Seizure	28	64
+follow_up	ardac-dev_v0	follow_up_151	pat_50	90	32	Not Reported	Dermatomyosis	165	Endoscopy	Hemochromatosis	90	110
+follow_up	ardac-dev_v0	follow_up_152	pat_19	90	33	Homosexual Contact	Cancer	154	Colonoscopy	Seizure	90	43
+follow_up	ardac-dev_v0	follow_up_153	pat_56	60	26	Homosexual Contact	Blood Clots	163	Not Reported	Malaria	60	45
+follow_up	ardac-dev_v0	follow_up_154	pat_56	90	36	Homosexual Contact	Dermatomyosis	194	Colonoscopy	Allergy, Ant	90	53
+follow_up	ardac-dev_v0	follow_up_155	pat_69	28	27	Homosexual Contact	Dermatomyosis	179	Colonoscopy	Seizure	28	97
+follow_up	ardac-dev_v0	follow_up_156	pat_86	28	36	Unknown	Anemia	169	Endoscopy	Seizure	28	116
+follow_up	ardac-dev_v0	follow_up_157	pat_86	28	38	Intravenous Drug User	Dermatomyosis	167	Colonoscopy	Malaria	28	36
+follow_up	ardac-dev_v0	follow_up_158	pat_5	60	28	Homosexual Contact	Cancer	186	Colonoscopy	Hemochromatosis	60	114
+follow_up	ardac-dev_v0	follow_up_159	pat_67	28	19	Hemophiliac	Blood Clots	152	Unknown	Hemochromatosis	28	46
+follow_up	ardac-dev_v0	follow_up_160	pat_70	60	31	Hemophiliac	Cancer	159	Not Reported	Seizure	60	48
+follow_up	ardac-dev_v0	follow_up_161	pat_80	28	40	Intravenous Drug User	Anemia	157	Not Reported	Malaria	28	105
+follow_up	ardac-dev_v0	follow_up_162	pat_65	60	22	None	Blood Clots	172	Unknown	Hemochromatosis	60	80
+follow_up	ardac-dev_v0	follow_up_163	pat_86	60	19	Hemophiliac	Cancer	159	Endoscopy	Hemochromatosis	60	71
+follow_up	ardac-dev_v0	follow_up_164	pat_50	28	34	None	Dermatomyosis	176	Unknown	Malaria	28	61
+follow_up	ardac-dev_v0	follow_up_165	pat_53	60	37	Transfusion Recipient	Cancer	176	Unknown	Hemochromatosis	60	106
+follow_up	ardac-dev_v0	follow_up_166	pat_53	90	16	Heterosexual Contact	Cancer	185	Not Reported	Allergy, Ant	90	102
+follow_up	ardac-dev_v0	follow_up_167	pat_49	90	19	Unknown	Anemia	177	Colonoscopy	Malaria	90	109
+follow_up	ardac-dev_v0	follow_up_168	pat_94	90	34	Heterosexual Contact	Anemia	154	Colonoscopy	Allergy, Ant	90	68
+follow_up	ardac-dev_v0	follow_up_169	pat_91	60	34	Unknown	Anemia	170	Unknown	Malaria	60	81
+follow_up	ardac-dev_v0	follow_up_170	pat_43	90	35	Unknown	Blood Clots	191	Not Reported	Hemochromatosis	90	47
+follow_up	ardac-dev_v0	follow_up_171	pat_75	60	20	Not Reported	Cancer	170	Colonoscopy	Allergy, Ant	60	47
+follow_up	ardac-dev_v0	follow_up_172	pat_35	90	30	Unknown	Eczema	198	Colonoscopy	Malaria	90	44
+follow_up	ardac-dev_v0	follow_up_173	pat_52	90	29	Intravenous Drug User	Cancer	168	Colonoscopy	Hemochromatosis	90	49
+follow_up	ardac-dev_v0	follow_up_174	pat_58	90	31	None	Cancer	177	Colonoscopy	Malaria	90	93
+follow_up	ardac-dev_v0	follow_up_175	pat_50	60	18	Transfusion Recipient	Eczema	158	Not Reported	Malaria	60	92
+follow_up	ardac-dev_v0	follow_up_176	pat_65	60	30	Homosexual Contact	Dermatomyosis	192	Not Reported	Seizure	60	59
+follow_up	ardac-dev_v0	follow_up_177	pat_97	60	34	Hemophiliac	Dermatomyosis	169	Colonoscopy	Hemochromatosis	60	40
+follow_up	ardac-dev_v0	follow_up_178	pat_76	90	24	Homosexual Contact	Eczema	175	Unknown	Malaria	90	63
+follow_up	ardac-dev_v0	follow_up_179	pat_100	90	19	Intravenous Drug User	Eczema	188	Not Reported	Allergy, Ant	90	107
+follow_up	ardac-dev_v0	follow_up_180	pat_15	60	33	Heterosexual Contact	Anemia	196	Colonoscopy	Allergy, Ant	60	81
+follow_up	ardac-dev_v0	follow_up_181	pat_67	90	35	Transfusion Recipient	Eczema	185	Colonoscopy	Seizure	90	75
+follow_up	ardac-dev_v0	follow_up_182	pat_16	60	27	Homosexual Contact	Anemia	166	Endoscopy	Hemochromatosis	60	120
+follow_up	ardac-dev_v0	follow_up_183	pat_19	90	21	Transfusion Recipient	Anemia	196	Endoscopy	Seizure	90	36
+follow_up	ardac-dev_v0	follow_up_184	pat_34	60	32	Intravenous Drug User	Cancer	158	Endoscopy	Hemochromatosis	60	35
+follow_up	ardac-dev_v0	follow_up_185	pat_24	60	24	Heterosexual Contact	Anemia	196	Unknown	Allergy, Ant	60	97
+follow_up	ardac-dev_v0	follow_up_186	pat_88	60	17	Unknown	Dermatomyosis	160	Endoscopy	Seizure	60	54
+follow_up	ardac-dev_v0	follow_up_187	pat_25	90	23	None	Cancer	175	Endoscopy	Malaria	90	96
+follow_up	ardac-dev_v0	follow_up_188	pat_10	90	24	Transfusion Recipient	Blood Clots	171	Unknown	Malaria	90	43
+follow_up	ardac-dev_v0	follow_up_189	pat_27	28	38	Hemophiliac	Blood Clots	158	Endoscopy	Hemochromatosis	28	65
+follow_up	ardac-dev_v0	follow_up_190	pat_22	90	28	Heterosexual Contact	Dermatomyosis	165	Not Reported	Allergy, Ant	90	39
+follow_up	ardac-dev_v0	follow_up_191	pat_46	28	19	Hemophiliac	Cancer	189	Unknown	Hemochromatosis	28	76
+follow_up	ardac-dev_v0	follow_up_192	pat_16	28	36	Transfusion Recipient	Dermatomyosis	159	Not Reported	Malaria	28	47
+follow_up	ardac-dev_v0	follow_up_193	pat_15	60	37	Not Reported	Dermatomyosis	157	Colonoscopy	Seizure	60	47
+follow_up	ardac-dev_v0	follow_up_194	pat_51	60	21	Intravenous Drug User	Eczema	166	Colonoscopy	Allergy, Ant	60	44
+follow_up	ardac-dev_v0	follow_up_195	pat_91	28	23	Not Reported	Dermatomyosis	190	Colonoscopy	Hemochromatosis	28	63
+follow_up	ardac-dev_v0	follow_up_196	pat_30	90	37	Unknown	Dermatomyosis	192	Endoscopy	Hemochromatosis	90	98
+follow_up	ardac-dev_v0	follow_up_197	pat_60	60	37	Intravenous Drug User	Eczema	189	Endoscopy	Hemochromatosis	60	38
+follow_up	ardac-dev_v0	follow_up_198	pat_46	28	31	Homosexual Contact	Anemia	164	Colonoscopy	Malaria	28	50
+follow_up	ardac-dev_v0	follow_up_199	pat_50	60	39	Not Reported	Eczema	164	Not Reported	Seizure	60	120
+follow_up	ardac-dev_v0	follow_up_200	pat_93	90	28	Intravenous Drug User	Dermatomyosis	154	Colonoscopy	Allergy, Ant	90	57

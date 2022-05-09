@@ -1,0 +1,225 @@
+$schema: "http://json-schema.org/draft-04/schema#"
+
+id: "demographic"
+title: Demographic
+type: object
+namespace: http://gdc.nci.nih.gov
+category: clinical
+program: '*'
+project: '*'
+description: >
+  Data for the characterization of the patient by means of segementing the population (e.g.,
+  characterization by age, sex, or race).
+additionalProperties: false
+submittable: true
+validators: null
+
+systemProperties:
+  - id
+  - project_id
+  - state
+  - created_datetime
+  - updated_datetime
+
+links:
+  - name: cases
+    backref: demographics
+    label: describes
+    target_type: case
+    multiplicity: one_to_one
+    required: true
+
+required:
+  - submitter_id
+  - type
+  - cases
+  - ethnicity
+  - gender
+  - race
+  - vital_status
+  
+
+preferred:
+  - year_of_death
+
+uniqueKeys:
+  #unclear if want submitter ID for clinical
+  - [id]
+  - [project_id, submitter_id]
+
+properties:
+  type:
+    type: string
+
+  id:
+    $ref: "_definitions.yaml#/UUID"
+    systemAlias: node_id
+
+  state:
+    $ref: "_definitions.yaml#/state"
+
+  submitter_id:
+    type:
+      - string
+      - "null"
+
+  ethnicity:
+    description: "An individual's self-described social and cultural grouping, specifically whether an individual describes themselves as Hispanic or Latino. The provided values are based on the categories defined by the U.S. Office of Management and Business and used by the U.S. Census Bureau."
+    enum:
+      - hispanic or latino
+      - not hispanic or latino
+      - Unknown
+      - not reported
+      - not allowed to collect
+  sex:
+    description: "Sex of patient at birth."
+    enum:
+      - M
+      - F
+      - U
+      - UNDIFFERENTIATED
+  gender:
+    description: "Text designations that identify gender. Gender is described as the assemblage of properties that distinguish people on the basis of their societal roles. [Explanatory Comment 1: Identification of gender is based upon self-report and may come from a form, questionnaire, interview, etc.]"
+    enum:
+      - female
+      - male
+      - unknown
+      - unspecified
+      - not reported
+  race:
+    description: "An arbitrary classification of a taxonomic group that is a division of a species. It usually arises as a consequence of geographical isolation within a species and is characterized by shared heredity, physical attributes and behavior, and in the case of humans, by common history, nationality, or geographic distribution. The provided values are based on the categories defined by the U.S. Office of Management and Business and used by the U.S. Census Bureau."
+    enum:
+      - white
+      - american indiana or alaska native
+      - black or african american
+      - asian
+      - native hawaiian or other pacific islander
+      - other
+      - Unknown
+      - More than one race
+      - not reported
+      - not allowed to contact
+  education:
+    description: "Text term to identify the highest level of education complete for the patient."
+    enum:
+      - Bachelor's Degree
+      - Data not available
+      - Doctoral degree or professional degree
+      - Grade School
+      - Graduate or professional degree
+      - High school graduate (including equivalency)
+      - Master's Degree
+      - No formal education
+      - Not high school graduate
+      - Some college or associate degree
+      - Some training after high school
+  marital:
+    description: "What is your current marital status?"
+    enum:
+      - Divorced
+      - Domestic Partnership
+      - Married
+      - Never Married
+      - Separated
+      - Widowed
+  cur_employ_stat:
+    description: "The indicator to ask if the patient is currently employed."
+    enum:
+      - "No"
+      - Not sure
+      - Missing
+      - "Yes"
+  vital_status:
+    description: "The survival state of the person registered on the protocol."
+    enum:
+      - Alive
+      - Dead
+      - Unknown
+      - Not Reported
+  age_at_index:
+    description: "The patient's age (in years) on the reference or anchor date date used during date obfuscation."
+    type:
+      - number
+      - "null"
+  year_of_birth:
+    description: "Numeric value to represent the calendar year in which an individual was born."
+    type:
+      - number
+      - "null"
+  days_to_death:
+    description: "Number of days between the date used for index and the date from a person's date of death represented as a calculated number of days."
+    type:
+      - number
+  year_of_death:
+    description: "Numeric value to represent the year of the death of an individual."
+    type:
+      - number
+  cause_of_death:
+    description: "Text term to identify the cause of death for a patient."
+    enum:
+      - Cardiovascular Disorder
+      - NOS
+      - End-stage Renal Disease
+      - Infection
+      - Not Cancer Related
+      - Not Reported
+      - Kidney Disease
+      - Spinal Muscular Atrophy
+      - Surgical Complications
+      - Toxicity
+      - Unknown
+
+  # gender:
+  #   term:
+  #     $ref: "_terms.yaml#/gender"
+  #   enum:
+  #     - female
+  #     - male
+  #     - unknown
+  #     - unspecified
+  #     - not reported
+
+  # race:
+  #   term:
+  #     $ref: "_terms.yaml#/race"
+  #   enum:
+  #     - white
+  #     - american indian or alaska native
+  #     - black or african american
+  #     - asian
+  #     - native hawaiian or other pacific islander
+  #     - other
+  #     - Unknown
+  #     - not reported
+  #     - not allowed to collect
+
+  # ethnicity:
+  #   term:
+  #     $ref: "_terms.yaml#/ethnicity"
+  #   enum:
+  #     - hispanic or latino
+  #     - not hispanic or latino
+  #     - Unknown
+  #     - not reported
+  #     - not allowed to collect
+
+  # year_of_birth:
+  #   term:
+  #     $ref: "_terms.yaml#/year_of_birth"
+  #   type:
+  #     - number
+  #     - "null"
+
+  # year_of_death:
+  #   term:
+  #     $ref: "_terms.yaml#/year_of_death"
+  #   type: number
+
+  cases:
+    $ref: "_definitions.yaml#/to_one"
+  project_id:
+    $ref: "_definitions.yaml#/project_id"
+  created_datetime:
+    $ref: "_definitions.yaml#/datetime"
+  updated_datetime:
+    $ref: "_definitions.yaml#/datetime"

@@ -1,0 +1,101 @@
+*type	project_id	*submitter_id	*studies.submitter_id	ah_hosp	ah_hosp_num	bari_surgery	cohort	consent_type	days_to_consent	index_date	study_site
+case	ardac-dev_v0	pat_1	obs_v0				Heavy Drinker with Alcoholic Hepatits	Informed Consent	0	Study Enrollment	Indiana University
+case	ardac-dev_v0	pat_2	obs_v0				Heavy Drinker without Alcoholic Hepatits	Informed Consent	0	Study Enrollment	Cleveland Clinic
+case	ardac-dev_v0	pat_3	obs_v0				Heavy Drinker with Alcoholic Hepatits	Informed Consent	0	Study Enrollment	University of Texas Southwest
+case	ardac-dev_v0	pat_4	obs_v0				Heavy Drinker without Alcoholic Hepatits	Informed Consent	0	Study Enrollment	Cleveland Clinic
+case	ardac-dev_v0	pat_5	obs_v0				Healthy Donor	Informed Consent	0	Study Enrollment	University of Texas Southwest
+case	ardac-dev_v0	pat_6	obs_v0				Heavy Drinker with Alcoholic Hepatits	Informed Consent	0	Study Enrollment	Indiana University
+case	ardac-dev_v0	pat_7	obs_v0				Heavy Drinker without Alcoholic Hepatits	Informed Consent	0	Study Enrollment	Cleveland Clinic
+case	ardac-dev_v0	pat_8	obs_v0				Heavy Drinker with Alcoholic Hepatits	Informed Consent	0	Study Enrollment	University of Texas Southwest
+case	ardac-dev_v0	pat_9	obs_v0				Heavy Drinker without Alcoholic Hepatits	Informed Consent	0	Study Enrollment	Cleveland Clinic
+case	ardac-dev_v0	pat_10	obs_v0				Healthy Donor	Informed Consent	0	Study Enrollment	University of Texas Southwest
+case	ardac-dev_v0	pat_11	obs_v0				Heavy Drinker with Alcoholic Hepatits	Informed Consent	0	Study Enrollment	Indiana University
+case	ardac-dev_v0	pat_12	obs_v0				Heavy Drinker without Alcoholic Hepatits	Informed Consent	0	Study Enrollment	Cleveland Clinic
+case	ardac-dev_v0	pat_13	obs_v0				Heavy Drinker with Alcoholic Hepatits	Informed Consent	0	Study Enrollment	University of Texas Southwest
+case	ardac-dev_v0	pat_14	obs_v0				Heavy Drinker without Alcoholic Hepatits	Informed Consent	0	Study Enrollment	Cleveland Clinic
+case	ardac-dev_v0	pat_15	obs_v0				Healthy Donor	Informed Consent	0	Study Enrollment	University of Texas Southwest
+case	ardac-dev_v0	pat_16	obs_v0				Heavy Drinker with Alcoholic Hepatits	Informed Consent	0	Study Enrollment	Indiana University
+case	ardac-dev_v0	pat_17	obs_v0				Heavy Drinker with Alcoholic Hepatits	Informed Consent	0	Study Enrollment	Cleveland Clinic
+case	ardac-dev_v0	pat_18	obs_v0				Heavy Drinker without Alcoholic Hepatits	Informed Consent	0	Study Enrollment	University of Texas Southwest
+case	ardac-dev_v0	pat_19	obs_v0				Heavy Drinker with Alcoholic Hepatits	Informed Consent	0	Study Enrollment	Cleveland Clinic
+case	ardac-dev_v0	pat_20	obs_v0				Heavy Drinker without Alcoholic Hepatits	Informed Consent	0	Study Enrollment	Indiana University
+case	ardac-dev_v0	pat_21	obs_v0				Healthy Donor	Informed Consent	0	Study Enrollment	Cleveland Clinic
+case	ardac-dev_v0	pat_22	obs_v0				Heavy Drinker with Alcoholic Hepatits	Informed Consent	0	Study Enrollment	University of Texas Southwest
+case	ardac-dev_v0	pat_23	obs_v0				Heavy Drinker without Alcoholic Hepatits	Informed Consent	0	Study Enrollment	Cleveland Clinic
+case	ardac-dev_v0	pat_24	obs_v0				Heavy Drinker with Alcoholic Hepatits	Informed Consent	0	Study Enrollment	University of Texas Southwest
+case	ardac-dev_v0	pat_25	obs_v0				Heavy Drinker without Alcoholic Hepatits	Informed Consent	0	Study Enrollment	Indiana University
+case	ardac-dev_v0	pat_26	obs_v0				Healthy Donor	Informed Consent	0	Study Enrollment	Cleveland Clinic
+case	ardac-dev_v0	pat_27	obs_v0				Heavy Drinker with Alcoholic Hepatits	Informed Consent	0	Study Enrollment	University of Texas Southwest
+case	ardac-dev_v0	pat_28	obs_v0				Heavy Drinker without Alcoholic Hepatits	Informed Consent	0	Study Enrollment	University of Texas Southwest
+case	ardac-dev_v0	pat_29	obs_v0				Heavy Drinker with Alcoholic Hepatits	Informed Consent	0	Study Enrollment	Cleveland Clinic
+case	ardac-dev_v0	pat_30	obs_v0				Heavy Drinker without Alcoholic Hepatits	Informed Consent	0	Study Enrollment	University of Texas Southwest
+case	ardac-dev_v0	pat_31	obs_v0				Healthy Donor	Informed Consent	0	Study Enrollment	Indiana University
+case	ardac-dev_v0	pat_32	obs_v0				Heavy Drinker with Alcoholic Hepatits	Informed Consent	0	Study Enrollment	Cleveland Clinic
+case	ardac-dev_v0	pat_33	obs_v0				Heavy Drinker with Alcoholic Hepatits	Informed Consent	0	Study Enrollment	University of Texas Southwest
+case	ardac-dev_v0	pat_34	obs_v0				Heavy Drinker with Alcoholic Hepatits	Informed Consent	0	Study Enrollment	Indiana University
+case	ardac-dev_v0	pat_35	obs_v0				Heavy Drinker without Alcoholic Hepatits	Informed Consent	0	Study Enrollment	Cleveland Clinic
+case	ardac-dev_v0	pat_36	obs_v0				Heavy Drinker with Alcoholic Hepatits	Informed Consent	0	Study Enrollment	University of Texas Southwest
+case	ardac-dev_v0	pat_37	obs_v0				Heavy Drinker without Alcoholic Hepatits	Informed Consent	0	Study Enrollment	Cleveland Clinic
+case	ardac-dev_v0	pat_38	obs_v0				Healthy Donor	Informed Consent	0	Study Enrollment	University of Texas Southwest
+case	ardac-dev_v0	pat_39	obs_v0				Heavy Drinker with Alcoholic Hepatits	Informed Consent	0	Study Enrollment	Indiana University
+case	ardac-dev_v0	pat_40	obs_v0				Heavy Drinker with Alcoholic Hepatits	Informed Consent	0	Study Enrollment	Cleveland Clinic
+case	ardac-dev_v0	pat_41	obs_v0				Heavy Drinker without Alcoholic Hepatits	Informed Consent	0	Study Enrollment	University of Texas Southwest
+case	ardac-dev_v0	pat_42	obs_v0				Heavy Drinker with Alcoholic Hepatits	Informed Consent	0	Study Enrollment	Cleveland Clinic
+case	ardac-dev_v0	pat_43	obs_v0				Heavy Drinker without Alcoholic Hepatits	Informed Consent	0	Study Enrollment	University of Texas Southwest
+case	ardac-dev_v0	pat_44	obs_v0				Healthy Donor	Informed Consent	0	Study Enrollment	Indiana University
+case	ardac-dev_v0	pat_45	obs_v0				Heavy Drinker with Alcoholic Hepatits	Informed Consent	0	Study Enrollment	Cleveland Clinic
+case	ardac-dev_v0	pat_46	obs_v0				Heavy Drinker without Alcoholic Hepatits	Informed Consent	0	Study Enrollment	Indiana University
+case	ardac-dev_v0	pat_47	obs_v0				Heavy Drinker with Alcoholic Hepatits	Informed Consent	0	Study Enrollment	Cleveland Clinic
+case	ardac-dev_v0	pat_48	obs_v0				Heavy Drinker without Alcoholic Hepatits	Informed Consent	0	Study Enrollment	University of Texas Southwest
+case	ardac-dev_v0	pat_49	obs_v0				Healthy Donor	Informed Consent	0	Study Enrollment	Cleveland Clinic
+case	ardac-dev_v0	pat_50	obs_v0				Heavy Drinker with Alcoholic Hepatits	Informed Consent	0	Study Enrollment	University of Texas Southwest
+case	ardac-dev_v0	pat_51	obs_v0				Heavy Drinker without Alcoholic Hepatits	Informed Consent	0	Study Enrollment	Indiana University
+case	ardac-dev_v0	pat_52	obs_v0				Heavy Drinker with Alcoholic Hepatits	Informed Consent	0	Study Enrollment	Cleveland Clinic
+case	ardac-dev_v0	pat_53	obs_v0				Heavy Drinker without Alcoholic Hepatits	Informed Consent	0	Study Enrollment	University of Texas Southwest
+case	ardac-dev_v0	pat_54	obs_v0				Healthy Donor	Informed Consent	0	Study Enrollment	Cleveland Clinic
+case	ardac-dev_v0	pat_55	obs_v0				Heavy Drinker with Alcoholic Hepatits	Informed Consent	0	Study Enrollment	University of Texas Southwest
+case	ardac-dev_v0	pat_56	obs_v0				Heavy Drinker without Alcoholic Hepatits	Informed Consent	0	Study Enrollment	Indiana University
+case	ardac-dev_v0	pat_57	obs_v0				Heavy Drinker with Alcoholic Hepatits	Informed Consent	0	Study Enrollment	Cleveland Clinic
+case	ardac-dev_v0	pat_58	obs_v0				Heavy Drinker without Alcoholic Hepatits	Informed Consent	0	Study Enrollment	University of Texas Southwest
+case	ardac-dev_v0	pat_59	obs_v0				Heavy Drinker with Alcoholic Hepatits	Informed Consent	0	Study Enrollment	Cleveland Clinic
+case	ardac-dev_v0	pat_60	obs_v0				Heavy Drinker without Alcoholic Hepatits	Informed Consent	0	Study Enrollment	University of Texas Southwest
+case	ardac-dev_v0	pat_61	obs_v0				Healthy Donor	Informed Consent	0	Study Enrollment	Indiana University
+case	ardac-dev_v0	pat_62	obs_v0				Heavy Drinker with Alcoholic Hepatits	Informed Consent	0	Study Enrollment	Cleveland Clinic
+case	ardac-dev_v0	pat_63	obs_v0				Heavy Drinker with Alcoholic Hepatits	Informed Consent	0	Study Enrollment	University of Texas Southwest
+case	ardac-dev_v0	pat_64	obs_v0				Heavy Drinker with Alcoholic Hepatits	Informed Consent	0	Study Enrollment	Cleveland Clinic
+case	ardac-dev_v0	pat_65	obs_v0				Heavy Drinker without Alcoholic Hepatits	Informed Consent	0	Study Enrollment	University of Texas Southwest
+case	ardac-dev_v0	pat_66	obs_v0				Heavy Drinker with Alcoholic Hepatits	Informed Consent	0	Study Enrollment	Indiana University
+case	ardac-dev_v0	pat_67	obs_v0				Heavy Drinker without Alcoholic Hepatits	Informed Consent	0	Study Enrollment	Cleveland Clinic
+case	ardac-dev_v0	pat_68	obs_v0				Healthy Donor	Informed Consent	0	Study Enrollment	University of Texas Southwest
+case	ardac-dev_v0	pat_69	obs_v0				Heavy Drinker with Alcoholic Hepatits	Informed Consent	0	Study Enrollment	Cleveland Clinic
+case	ardac-dev_v0	pat_70	obs_v0				Heavy Drinker without Alcoholic Hepatits	Informed Consent	0	Study Enrollment	University of Texas Southwest
+case	ardac-dev_v0	pat_71	obs_v0				Heavy Drinker with Alcoholic Hepatits	Informed Consent	0	Study Enrollment	Indiana University
+case	ardac-dev_v0	pat_72	obs_v0				Heavy Drinker without Alcoholic Hepatits	Informed Consent	0	Study Enrollment	Cleveland Clinic
+case	ardac-dev_v0	pat_73	obs_v0				Healthy Donor	Informed Consent	0	Study Enrollment	University of Texas Southwest
+case	ardac-dev_v0	pat_74	obs_v0				Heavy Drinker with Alcoholic Hepatits	Informed Consent	0	Study Enrollment	Cleveland Clinic
+case	ardac-dev_v0	pat_75	obs_v0				Heavy Drinker without Alcoholic Hepatits	Informed Consent	0	Study Enrollment	University of Texas Southwest
+case	ardac-dev_v0	pat_76	obs_v0				Heavy Drinker with Alcoholic Hepatits	Informed Consent	0	Study Enrollment	Indiana University
+case	ardac-dev_v0	pat_77	obs_v0				Heavy Drinker without Alcoholic Hepatits	Informed Consent	0	Study Enrollment	Cleveland Clinic
+case	ardac-dev_v0	pat_78	obs_v0				Healthy Donor	Informed Consent	0	Study Enrollment	Indiana University
+case	ardac-dev_v0	pat_79	obs_v0				Heavy Drinker with Alcoholic Hepatits	Informed Consent	0	Study Enrollment	Cleveland Clinic
+case	ardac-dev_v0	pat_80	obs_v0				Heavy Drinker with Alcoholic Hepatits	Informed Consent	0	Study Enrollment	University of Texas Southwest
+case	ardac-dev_v0	pat_81	obs_v0				Heavy Drinker without Alcoholic Hepatits	Informed Consent	0	Study Enrollment	Cleveland Clinic
+case	ardac-dev_v0	pat_82	obs_v0				Heavy Drinker with Alcoholic Hepatits	Informed Consent	0	Study Enrollment	University of Texas Southwest
+case	ardac-dev_v0	pat_83	obs_v0				Heavy Drinker with Alcoholic Hepatits	Informed Consent	0	Study Enrollment	Indiana University
+case	ardac-dev_v0	pat_84	obs_v0				Heavy Drinker without Alcoholic Hepatits	Informed Consent	0	Study Enrollment	Cleveland Clinic
+case	ardac-dev_v0	pat_85	obs_v0				Heavy Drinker with Alcoholic Hepatits	Informed Consent	0	Study Enrollment	University of Texas Southwest
+case	ardac-dev_v0	pat_86	obs_v0				Heavy Drinker without Alcoholic Hepatits	Informed Consent	0	Study Enrollment	Cleveland Clinic
+case	ardac-dev_v0	pat_87	obs_v0				Healthy Donor	Informed Consent	0	Study Enrollment	University of Texas Southwest
+case	ardac-dev_v0	pat_88	obs_v0				Heavy Drinker with Alcoholic Hepatits	Informed Consent	0	Study Enrollment	Indiana University
+case	ardac-dev_v0	pat_89	obs_v0				Heavy Drinker without Alcoholic Hepatits	Informed Consent	0	Study Enrollment	Cleveland Clinic
+case	ardac-dev_v0	pat_90	obs_v0				Heavy Drinker with Alcoholic Hepatits	Informed Consent	0	Study Enrollment	University of Texas Southwest
+case	ardac-dev_v0	pat_91	obs_v0				Heavy Drinker without Alcoholic Hepatits	Informed Consent	0	Study Enrollment	Cleveland Clinic
+case	ardac-dev_v0	pat_92	obs_v0				Healthy Donor	Informed Consent	0	Study Enrollment	University of Texas Southwest
+case	ardac-dev_v0	pat_93	obs_v0				Heavy Drinker with Alcoholic Hepatits	Informed Consent	0	Study Enrollment	University of Texas Southwest
+case	ardac-dev_v0	pat_94	obs_v0				Heavy Drinker without Alcoholic Hepatits	Informed Consent	0	Study Enrollment	Cleveland Clinic
+case	ardac-dev_v0	pat_95	obs_v0				Heavy Drinker with Alcoholic Hepatits	Informed Consent	0	Study Enrollment	University of Texas Southwest
+case	ardac-dev_v0	pat_96	obs_v0				Heavy Drinker without Alcoholic Hepatits	Informed Consent	0	Study Enrollment	Indiana University
+case	ardac-dev_v0	pat_97	obs_v0				Healthy Donor	Informed Consent	0	Study Enrollment	Cleveland Clinic
+case	ardac-dev_v0	pat_98	obs_v0				Heavy Drinker with Alcoholic Hepatits	Informed Consent	0	Study Enrollment	University of Texas Southwest
+case	ardac-dev_v0	pat_99	obs_v0				Heavy Drinker with Alcoholic Hepatits	Informed Consent	0	Study Enrollment	Cleveland Clinic
+case	ardac-dev_v0	pat_100	obs_v0				Heavy Drinker with Alcoholic Hepatits	Informed Consent	0	Study Enrollment	University of Texas Southwest

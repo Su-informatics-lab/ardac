@@ -1,0 +1,201 @@
+*type	project_id	*submitter_id	*studies.submitter_id	actarm	ah_hosp	ah_hosp_num	bari_surgery	cohort	consent_type	days_to_consent	index_date	study_site
+case	ardac-dev_v0	pat_1	obs_v0					Healthy Donor	Informed Consent	0	Study Enrollment	Beth Israel Deaconess Medical Center
+case	ardac-dev_v0	pat_2	obs_v0					Healthy Donor	Informed Consent	0	Study Enrollment	Mayo Clinic Rochester
+case	ardac-dev_v0	pat_3	obs_v0					Healthy Donor	Informed Consent	0	Study Enrollment	Indiana University
+case	ardac-dev_v0	pat_4	obs_v0					Heavy Drinker without Alcoholic Hepatits	Informed Consent	0	Study Enrollment	Beth Israel Deaconess Medical Center
+case	ardac-dev_v0	pat_5	obs_v0					Heavy Drinker with Alcoholic Hepatits	Informed Consent	0	Study Enrollment	Indiana University
+case	ardac-dev_v0	pat_6	obs_v0					Healthy Donor	Informed Consent	0	Study Enrollment	University of Pittsburgh
+case	ardac-dev_v0	pat_7	obs_v0					Healthy Donor	Informed Consent	0	Study Enrollment	Virginia Commonwealth University
+case	ardac-dev_v0	pat_8	obs_v0					Heavy Drinker without Alcoholic Hepatits	Informed Consent	0	Study Enrollment	Virginia Commonwealth University
+case	ardac-dev_v0	pat_9	obs_v0					Heavy Drinker without Alcoholic Hepatits	Informed Consent	0	Study Enrollment	University of Louisville
+case	ardac-dev_v0	pat_10	obs_v0					Heavy Drinker without Alcoholic Hepatits	Informed Consent	0	Study Enrollment	University of Louisville
+case	ardac-dev_v0	pat_11	obs_v0					Healthy Donor	Informed Consent	0	Study Enrollment	Beth Israel Deaconess Medical Center
+case	ardac-dev_v0	pat_12	obs_v0					Healthy Donor	Informed Consent	0	Study Enrollment	Mayo Clinic Rochester
+case	ardac-dev_v0	pat_13	obs_v0					Heavy Drinker with Alcoholic Hepatits	Informed Consent	0	Study Enrollment	University of Louisville
+case	ardac-dev_v0	pat_14	obs_v0					Healthy Donor	Informed Consent	0	Study Enrollment	Virginia Commonwealth University
+case	ardac-dev_v0	pat_15	obs_v0					Heavy Drinker without Alcoholic Hepatits	Informed Consent	0	Study Enrollment	University of Texas Southwest
+case	ardac-dev_v0	pat_16	obs_v0					Heavy Drinker without Alcoholic Hepatits	Informed Consent	0	Study Enrollment	University of Texas Southwest
+case	ardac-dev_v0	pat_17	obs_v0					Heavy Drinker without Alcoholic Hepatits	Informed Consent	0	Study Enrollment	Beth Israel Deaconess Medical Center
+case	ardac-dev_v0	pat_18	obs_v0					Heavy Drinker with Alcoholic Hepatits	Informed Consent	0	Study Enrollment	University of Pittsburgh
+case	ardac-dev_v0	pat_19	obs_v0					Heavy Drinker without Alcoholic Hepatits	Informed Consent	0	Study Enrollment	Mayo Clinic Rochester
+case	ardac-dev_v0	pat_20	obs_v0					Heavy Drinker with Alcoholic Hepatits	Informed Consent	0	Study Enrollment	University of Louisville
+case	ardac-dev_v0	pat_21	obs_v0					Heavy Drinker with Alcoholic Hepatits	Informed Consent	0	Study Enrollment	Virginia Commonwealth University
+case	ardac-dev_v0	pat_22	obs_v0					Heavy Drinker without Alcoholic Hepatits	Informed Consent	0	Study Enrollment	Beth Israel Deaconess Medical Center
+case	ardac-dev_v0	pat_23	obs_v0					Heavy Drinker with Alcoholic Hepatits	Informed Consent	0	Study Enrollment	Beth Israel Deaconess Medical Center
+case	ardac-dev_v0	pat_24	obs_v0					Healthy Donor	Informed Consent	0	Study Enrollment	University of Texas Southwest
+case	ardac-dev_v0	pat_25	obs_v0					Heavy Drinker with Alcoholic Hepatits	Informed Consent	0	Study Enrollment	University of Louisville
+case	ardac-dev_v0	pat_26	obs_v0					Healthy Donor	Informed Consent	0	Study Enrollment	Virginia Commonwealth University
+case	ardac-dev_v0	pat_27	obs_v0					Heavy Drinker with Alcoholic Hepatits	Informed Consent	0	Study Enrollment	University of Massachusetts
+case	ardac-dev_v0	pat_28	obs_v0					Healthy Donor	Informed Consent	0	Study Enrollment	University of Louisville
+case	ardac-dev_v0	pat_29	obs_v0					Heavy Drinker with Alcoholic Hepatits	Informed Consent	0	Study Enrollment	Indiana University
+case	ardac-dev_v0	pat_30	obs_v0					Heavy Drinker without Alcoholic Hepatits	Informed Consent	0	Study Enrollment	University of Massachusetts
+case	ardac-dev_v0	pat_31	obs_v0					Heavy Drinker with Alcoholic Hepatits	Informed Consent	0	Study Enrollment	Beth Israel Deaconess Medical Center
+case	ardac-dev_v0	pat_32	obs_v0					Healthy Donor	Informed Consent	0	Study Enrollment	Beth Israel Deaconess Medical Center
+case	ardac-dev_v0	pat_33	obs_v0					Healthy Donor	Informed Consent	0	Study Enrollment	University of Texas Southwest
+case	ardac-dev_v0	pat_34	obs_v0					Heavy Drinker without Alcoholic Hepatits	Informed Consent	0	Study Enrollment	University of Texas Southwest
+case	ardac-dev_v0	pat_35	obs_v0					Heavy Drinker with Alcoholic Hepatits	Informed Consent	0	Study Enrollment	Virginia Commonwealth University
+case	ardac-dev_v0	pat_36	obs_v0					Heavy Drinker without Alcoholic Hepatits	Informed Consent	0	Study Enrollment	Indiana University
+case	ardac-dev_v0	pat_37	obs_v0					Heavy Drinker with Alcoholic Hepatits	Informed Consent	0	Study Enrollment	University of Massachusetts
+case	ardac-dev_v0	pat_38	obs_v0					Heavy Drinker without Alcoholic Hepatits	Informed Consent	0	Study Enrollment	University of Texas Southwest
+case	ardac-dev_v0	pat_39	obs_v0					Heavy Drinker with Alcoholic Hepatits	Informed Consent	0	Study Enrollment	University of Pittsburgh
+case	ardac-dev_v0	pat_40	obs_v0					Heavy Drinker without Alcoholic Hepatits	Informed Consent	0	Study Enrollment	University of Texas Southwest
+case	ardac-dev_v0	pat_41	obs_v0					Heavy Drinker with Alcoholic Hepatits	Informed Consent	0	Study Enrollment	Indiana University
+case	ardac-dev_v0	pat_42	obs_v0					Heavy Drinker with Alcoholic Hepatits	Informed Consent	0	Study Enrollment	Mayo Clinic Rochester
+case	ardac-dev_v0	pat_43	obs_v0					Heavy Drinker without Alcoholic Hepatits	Informed Consent	0	Study Enrollment	Virginia Commonwealth University
+case	ardac-dev_v0	pat_44	obs_v0					Heavy Drinker with Alcoholic Hepatits	Informed Consent	0	Study Enrollment	University of Massachusetts
+case	ardac-dev_v0	pat_45	obs_v0					Heavy Drinker with Alcoholic Hepatits	Informed Consent	0	Study Enrollment	University of Pittsburgh
+case	ardac-dev_v0	pat_46	obs_v0					Heavy Drinker with Alcoholic Hepatits	Informed Consent	0	Study Enrollment	Mayo Clinic Rochester
+case	ardac-dev_v0	pat_47	obs_v0					Heavy Drinker without Alcoholic Hepatits	Informed Consent	0	Study Enrollment	Beth Israel Deaconess Medical Center
+case	ardac-dev_v0	pat_48	obs_v0					Heavy Drinker with Alcoholic Hepatits	Informed Consent	0	Study Enrollment	Mayo Clinic Rochester
+case	ardac-dev_v0	pat_49	obs_v0					Healthy Donor	Informed Consent	0	Study Enrollment	Indiana University
+case	ardac-dev_v0	pat_50	obs_v0					Healthy Donor	Informed Consent	0	Study Enrollment	University of Pittsburgh
+case	ardac-dev_v0	pat_51	obs_v0					Heavy Drinker without Alcoholic Hepatits	Informed Consent	0	Study Enrollment	University of Texas Southwest
+case	ardac-dev_v0	pat_52	obs_v0					Heavy Drinker without Alcoholic Hepatits	Informed Consent	0	Study Enrollment	Beth Israel Deaconess Medical Center
+case	ardac-dev_v0	pat_53	obs_v0					Heavy Drinker with Alcoholic Hepatits	Informed Consent	0	Study Enrollment	University of Massachusetts
+case	ardac-dev_v0	pat_54	obs_v0					Heavy Drinker with Alcoholic Hepatits	Informed Consent	0	Study Enrollment	Virginia Commonwealth University
+case	ardac-dev_v0	pat_55	obs_v0					Heavy Drinker with Alcoholic Hepatits	Informed Consent	0	Study Enrollment	University of Texas Southwest
+case	ardac-dev_v0	pat_56	obs_v0					Heavy Drinker with Alcoholic Hepatits	Informed Consent	0	Study Enrollment	Mayo Clinic Rochester
+case	ardac-dev_v0	pat_57	obs_v0					Healthy Donor	Informed Consent	0	Study Enrollment	University of Pittsburgh
+case	ardac-dev_v0	pat_58	obs_v0					Heavy Drinker with Alcoholic Hepatits	Informed Consent	0	Study Enrollment	University of Massachusetts
+case	ardac-dev_v0	pat_59	obs_v0					Healthy Donor	Informed Consent	0	Study Enrollment	Mayo Clinic Rochester
+case	ardac-dev_v0	pat_60	obs_v0					Heavy Drinker with Alcoholic Hepatits	Informed Consent	0	Study Enrollment	Mayo Clinic Rochester
+case	ardac-dev_v0	pat_61	obs_v0					Healthy Donor	Informed Consent	0	Study Enrollment	Mayo Clinic Rochester
+case	ardac-dev_v0	pat_62	obs_v0					Healthy Donor	Informed Consent	0	Study Enrollment	University of Louisville
+case	ardac-dev_v0	pat_63	obs_v0					Healthy Donor	Informed Consent	0	Study Enrollment	University of Pittsburgh
+case	ardac-dev_v0	pat_64	obs_v0					Healthy Donor	Informed Consent	0	Study Enrollment	University of Texas Southwest
+case	ardac-dev_v0	pat_65	obs_v0					Healthy Donor	Informed Consent	0	Study Enrollment	University of Massachusetts
+case	ardac-dev_v0	pat_66	obs_v0					Heavy Drinker with Alcoholic Hepatits	Informed Consent	0	Study Enrollment	Indiana University
+case	ardac-dev_v0	pat_67	obs_v0					Heavy Drinker with Alcoholic Hepatits	Informed Consent	0	Study Enrollment	Indiana University
+case	ardac-dev_v0	pat_68	obs_v0					Heavy Drinker without Alcoholic Hepatits	Informed Consent	0	Study Enrollment	University of Pittsburgh
+case	ardac-dev_v0	pat_69	obs_v0					Heavy Drinker without Alcoholic Hepatits	Informed Consent	0	Study Enrollment	Virginia Commonwealth University
+case	ardac-dev_v0	pat_70	obs_v0					Healthy Donor	Informed Consent	0	Study Enrollment	University of Louisville
+case	ardac-dev_v0	pat_71	obs_v0					Heavy Drinker with Alcoholic Hepatits	Informed Consent	0	Study Enrollment	Mayo Clinic Rochester
+case	ardac-dev_v0	pat_72	obs_v0					Heavy Drinker without Alcoholic Hepatits	Informed Consent	0	Study Enrollment	University of Pittsburgh
+case	ardac-dev_v0	pat_73	obs_v0					Heavy Drinker without Alcoholic Hepatits	Informed Consent	0	Study Enrollment	Mayo Clinic Rochester
+case	ardac-dev_v0	pat_74	obs_v0					Healthy Donor	Informed Consent	0	Study Enrollment	University of Texas Southwest
+case	ardac-dev_v0	pat_75	obs_v0					Healthy Donor	Informed Consent	0	Study Enrollment	Beth Israel Deaconess Medical Center
+case	ardac-dev_v0	pat_76	obs_v0					Heavy Drinker with Alcoholic Hepatits	Informed Consent	0	Study Enrollment	Indiana University
+case	ardac-dev_v0	pat_77	obs_v0					Heavy Drinker without Alcoholic Hepatits	Informed Consent	0	Study Enrollment	University of Texas Southwest
+case	ardac-dev_v0	pat_78	obs_v0					Heavy Drinker without Alcoholic Hepatits	Informed Consent	0	Study Enrollment	Mayo Clinic Rochester
+case	ardac-dev_v0	pat_79	obs_v0					Healthy Donor	Informed Consent	0	Study Enrollment	Beth Israel Deaconess Medical Center
+case	ardac-dev_v0	pat_80	obs_v0					Healthy Donor	Informed Consent	0	Study Enrollment	Cleveland Clinic
+case	ardac-dev_v0	pat_81	obs_v0					Healthy Donor	Informed Consent	0	Study Enrollment	University of Texas Southwest
+case	ardac-dev_v0	pat_82	obs_v0					Heavy Drinker with Alcoholic Hepatits	Informed Consent	0	Study Enrollment	Mayo Clinic Rochester
+case	ardac-dev_v0	pat_83	obs_v0					Heavy Drinker with Alcoholic Hepatits	Informed Consent	0	Study Enrollment	University of Texas Southwest
+case	ardac-dev_v0	pat_84	obs_v0					Heavy Drinker with Alcoholic Hepatits	Informed Consent	0	Study Enrollment	University of Texas Southwest
+case	ardac-dev_v0	pat_85	obs_v0					Heavy Drinker with Alcoholic Hepatits	Informed Consent	0	Study Enrollment	Virginia Commonwealth University
+case	ardac-dev_v0	pat_86	obs_v0					Heavy Drinker with Alcoholic Hepatits	Informed Consent	0	Study Enrollment	Mayo Clinic Rochester
+case	ardac-dev_v0	pat_87	obs_v0					Heavy Drinker with Alcoholic Hepatits	Informed Consent	0	Study Enrollment	University of Texas Southwest
+case	ardac-dev_v0	pat_88	obs_v0					Heavy Drinker without Alcoholic Hepatits	Informed Consent	0	Study Enrollment	University of Pittsburgh
+case	ardac-dev_v0	pat_89	obs_v0					Heavy Drinker with Alcoholic Hepatits	Informed Consent	0	Study Enrollment	University of Texas Southwest
+case	ardac-dev_v0	pat_90	obs_v0					Heavy Drinker without Alcoholic Hepatits	Informed Consent	0	Study Enrollment	University of Texas Southwest
+case	ardac-dev_v0	pat_91	obs_v0					Heavy Drinker with Alcoholic Hepatits	Informed Consent	0	Study Enrollment	University of Pittsburgh
+case	ardac-dev_v0	pat_92	obs_v0					Heavy Drinker without Alcoholic Hepatits	Informed Consent	0	Study Enrollment	University of Louisville
+case	ardac-dev_v0	pat_93	obs_v0					Heavy Drinker with Alcoholic Hepatits	Informed Consent	0	Study Enrollment	University of Massachusetts
+case	ardac-dev_v0	pat_94	obs_v0					Healthy Donor	Informed Consent	0	Study Enrollment	Beth Israel Deaconess Medical Center
+case	ardac-dev_v0	pat_95	obs_v0					Healthy Donor	Informed Consent	0	Study Enrollment	University of Texas Southwest
+case	ardac-dev_v0	pat_96	obs_v0					Healthy Donor	Informed Consent	0	Study Enrollment	University of Louisville
+case	ardac-dev_v0	pat_97	obs_v0					Heavy Drinker without Alcoholic Hepatits	Informed Consent	0	Study Enrollment	Cleveland Clinic
+case	ardac-dev_v0	pat_98	obs_v0					Heavy Drinker with Alcoholic Hepatits	Informed Consent	0	Study Enrollment	University of Louisville
+case	ardac-dev_v0	pat_99	obs_v0					Heavy Drinker with Alcoholic Hepatits	Informed Consent	0	Study Enrollment	Cleveland Clinic
+case	ardac-dev_v0	pat_100	obs_v0					Heavy Drinker with Alcoholic Hepatits	Informed Consent	0	Study Enrollment	University of Texas Southwest
+case	ardac-dev_v0	pat_101	rct_v0	Intervention					Informed Consent	0	Study Enrollment	Virginia Commonwealth University
+case	ardac-dev_v0	pat_102	rct_v0	Intervention					Informed Consent	0	Study Enrollment	University of Texas Southwest
+case	ardac-dev_v0	pat_103	rct_v0	Intervention					Informed Consent	0	Study Enrollment	University of Pittsburgh
+case	ardac-dev_v0	pat_104	rct_v0	Intervention					Informed Consent	0	Study Enrollment	Beth Israel Deaconess Medical Center
+case	ardac-dev_v0	pat_105	rct_v0	Intervention					Informed Consent	0	Study Enrollment	Virginia Commonwealth University
+case	ardac-dev_v0	pat_106	rct_v0	Intervention					Informed Consent	0	Study Enrollment	Beth Israel Deaconess Medical Center
+case	ardac-dev_v0	pat_107	rct_v0	Intervention					Informed Consent	0	Study Enrollment	Beth Israel Deaconess Medical Center
+case	ardac-dev_v0	pat_108	rct_v0	Intervention					Informed Consent	0	Study Enrollment	University of Louisville
+case	ardac-dev_v0	pat_109	rct_v0	Intervention					Informed Consent	0	Study Enrollment	University of Louisville
+case	ardac-dev_v0	pat_110	rct_v0	Intervention					Informed Consent	0	Study Enrollment	Indiana University
+case	ardac-dev_v0	pat_111	rct_v0	Intervention					Informed Consent	0	Study Enrollment	Virginia Commonwealth University
+case	ardac-dev_v0	pat_112	rct_v0	Intervention					Informed Consent	0	Study Enrollment	Indiana University
+case	ardac-dev_v0	pat_113	rct_v0	Intervention					Informed Consent	0	Study Enrollment	University of Texas Southwest
+case	ardac-dev_v0	pat_114	rct_v0	Intervention					Informed Consent	0	Study Enrollment	University of Pittsburgh
+case	ardac-dev_v0	pat_115	rct_v0	Intervention					Informed Consent	0	Study Enrollment	Indiana University
+case	ardac-dev_v0	pat_116	rct_v0	Intervention					Informed Consent	0	Study Enrollment	Mayo Clinic Rochester
+case	ardac-dev_v0	pat_117	rct_v0	Intervention					Informed Consent	0	Study Enrollment	Virginia Commonwealth University
+case	ardac-dev_v0	pat_118	rct_v0	Intervention					Informed Consent	0	Study Enrollment	Indiana University
+case	ardac-dev_v0	pat_119	rct_v0	Intervention					Informed Consent	0	Study Enrollment	Virginia Commonwealth University
+case	ardac-dev_v0	pat_120	rct_v0	Intervention					Informed Consent	0	Study Enrollment	Beth Israel Deaconess Medical Center
+case	ardac-dev_v0	pat_121	rct_v0	Intervention					Informed Consent	0	Study Enrollment	Mayo Clinic Rochester
+case	ardac-dev_v0	pat_122	rct_v0	Intervention					Informed Consent	0	Study Enrollment	Cleveland Clinic
+case	ardac-dev_v0	pat_123	rct_v0	Intervention					Informed Consent	0	Study Enrollment	Mayo Clinic Rochester
+case	ardac-dev_v0	pat_124	rct_v0	Intervention					Informed Consent	0	Study Enrollment	University of Texas Southwest
+case	ardac-dev_v0	pat_125	rct_v0	Intervention					Informed Consent	0	Study Enrollment	Indiana University
+case	ardac-dev_v0	pat_126	rct_v0	Intervention					Informed Consent	0	Study Enrollment	University of Texas Southwest
+case	ardac-dev_v0	pat_127	rct_v0	Intervention					Informed Consent	0	Study Enrollment	Cleveland Clinic
+case	ardac-dev_v0	pat_128	rct_v0	Intervention					Informed Consent	0	Study Enrollment	University of Louisville
+case	ardac-dev_v0	pat_129	rct_v0	Intervention					Informed Consent	0	Study Enrollment	University of Texas Southwest
+case	ardac-dev_v0	pat_130	rct_v0	Intervention					Informed Consent	0	Study Enrollment	Cleveland Clinic
+case	ardac-dev_v0	pat_131	rct_v0	Intervention					Informed Consent	0	Study Enrollment	University of Pittsburgh
+case	ardac-dev_v0	pat_132	rct_v0	Intervention					Informed Consent	0	Study Enrollment	University of Massachusetts
+case	ardac-dev_v0	pat_133	rct_v0	Intervention					Informed Consent	0	Study Enrollment	University of Texas Southwest
+case	ardac-dev_v0	pat_134	rct_v0	Intervention					Informed Consent	0	Study Enrollment	University of Massachusetts
+case	ardac-dev_v0	pat_135	rct_v0	Intervention					Informed Consent	0	Study Enrollment	Mayo Clinic Rochester
+case	ardac-dev_v0	pat_136	rct_v0	Intervention					Informed Consent	0	Study Enrollment	Mayo Clinic Rochester
+case	ardac-dev_v0	pat_137	rct_v0	Intervention					Informed Consent	0	Study Enrollment	Indiana University
+case	ardac-dev_v0	pat_138	rct_v0	Intervention					Informed Consent	0	Study Enrollment	Indiana University
+case	ardac-dev_v0	pat_139	rct_v0	Intervention					Informed Consent	0	Study Enrollment	Indiana University
+case	ardac-dev_v0	pat_140	rct_v0	Intervention					Informed Consent	0	Study Enrollment	University of Pittsburgh
+case	ardac-dev_v0	pat_141	rct_v0	Intervention					Informed Consent	0	Study Enrollment	Beth Israel Deaconess Medical Center
+case	ardac-dev_v0	pat_142	rct_v0	Intervention					Informed Consent	0	Study Enrollment	Beth Israel Deaconess Medical Center
+case	ardac-dev_v0	pat_143	rct_v0	Intervention					Informed Consent	0	Study Enrollment	University of Massachusetts
+case	ardac-dev_v0	pat_144	rct_v0	Intervention					Informed Consent	0	Study Enrollment	Cleveland Clinic
+case	ardac-dev_v0	pat_145	rct_v0	Intervention					Informed Consent	0	Study Enrollment	University of Texas Southwest
+case	ardac-dev_v0	pat_146	rct_v0	Intervention					Informed Consent	0	Study Enrollment	Cleveland Clinic
+case	ardac-dev_v0	pat_147	rct_v0	Intervention					Informed Consent	0	Study Enrollment	University of Pittsburgh
+case	ardac-dev_v0	pat_148	rct_v0	Intervention					Informed Consent	0	Study Enrollment	Virginia Commonwealth University
+case	ardac-dev_v0	pat_149	rct_v0	Intervention					Informed Consent	0	Study Enrollment	Mayo Clinic Rochester
+case	ardac-dev_v0	pat_150	rct_v0	Intervention					Informed Consent	0	Study Enrollment	Indiana University
+case	ardac-dev_v0	pat_151	rct_v0	Control					Informed Consent	0	Study Enrollment	University of Pittsburgh
+case	ardac-dev_v0	pat_152	rct_v0	Control					Informed Consent	0	Study Enrollment	Mayo Clinic Rochester
+case	ardac-dev_v0	pat_153	rct_v0	Control					Informed Consent	0	Study Enrollment	Indiana University
+case	ardac-dev_v0	pat_154	rct_v0	Control					Informed Consent	0	Study Enrollment	University of Texas Southwest
+case	ardac-dev_v0	pat_155	rct_v0	Control					Informed Consent	0	Study Enrollment	University of Louisville
+case	ardac-dev_v0	pat_156	rct_v0	Control					Informed Consent	0	Study Enrollment	University of Pittsburgh
+case	ardac-dev_v0	pat_157	rct_v0	Control					Informed Consent	0	Study Enrollment	Indiana University
+case	ardac-dev_v0	pat_158	rct_v0	Control					Informed Consent	0	Study Enrollment	University of Louisville
+case	ardac-dev_v0	pat_159	rct_v0	Control					Informed Consent	0	Study Enrollment	University of Pittsburgh
+case	ardac-dev_v0	pat_160	rct_v0	Control					Informed Consent	0	Study Enrollment	Cleveland Clinic
+case	ardac-dev_v0	pat_161	rct_v0	Control					Informed Consent	0	Study Enrollment	Cleveland Clinic
+case	ardac-dev_v0	pat_162	rct_v0	Control					Informed Consent	0	Study Enrollment	University of Texas Southwest
+case	ardac-dev_v0	pat_163	rct_v0	Control					Informed Consent	0	Study Enrollment	Cleveland Clinic
+case	ardac-dev_v0	pat_164	rct_v0	Control					Informed Consent	0	Study Enrollment	Mayo Clinic Rochester
+case	ardac-dev_v0	pat_165	rct_v0	Control					Informed Consent	0	Study Enrollment	Virginia Commonwealth University
+case	ardac-dev_v0	pat_166	rct_v0	Control					Informed Consent	0	Study Enrollment	Cleveland Clinic
+case	ardac-dev_v0	pat_167	rct_v0	Control					Informed Consent	0	Study Enrollment	Virginia Commonwealth University
+case	ardac-dev_v0	pat_168	rct_v0	Control					Informed Consent	0	Study Enrollment	Virginia Commonwealth University
+case	ardac-dev_v0	pat_169	rct_v0	Control					Informed Consent	0	Study Enrollment	Mayo Clinic Rochester
+case	ardac-dev_v0	pat_170	rct_v0	Control					Informed Consent	0	Study Enrollment	University of Texas Southwest
+case	ardac-dev_v0	pat_171	rct_v0	Control					Informed Consent	0	Study Enrollment	Beth Israel Deaconess Medical Center
+case	ardac-dev_v0	pat_172	rct_v0	Control					Informed Consent	0	Study Enrollment	Beth Israel Deaconess Medical Center
+case	ardac-dev_v0	pat_173	rct_v0	Control					Informed Consent	0	Study Enrollment	Mayo Clinic Rochester
+case	ardac-dev_v0	pat_174	rct_v0	Control					Informed Consent	0	Study Enrollment	University of Louisville
+case	ardac-dev_v0	pat_175	rct_v0	Control					Informed Consent	0	Study Enrollment	Cleveland Clinic
+case	ardac-dev_v0	pat_176	rct_v0	Control					Informed Consent	0	Study Enrollment	University of Massachusetts
+case	ardac-dev_v0	pat_177	rct_v0	Control					Informed Consent	0	Study Enrollment	Cleveland Clinic
+case	ardac-dev_v0	pat_178	rct_v0	Control					Informed Consent	0	Study Enrollment	University of Louisville
+case	ardac-dev_v0	pat_179	rct_v0	Control					Informed Consent	0	Study Enrollment	Indiana University
+case	ardac-dev_v0	pat_180	rct_v0	Control					Informed Consent	0	Study Enrollment	Indiana University
+case	ardac-dev_v0	pat_181	rct_v0	Control					Informed Consent	0	Study Enrollment	Indiana University
+case	ardac-dev_v0	pat_182	rct_v0	Control					Informed Consent	0	Study Enrollment	Mayo Clinic Rochester
+case	ardac-dev_v0	pat_183	rct_v0	Control					Informed Consent	0	Study Enrollment	University of Pittsburgh
+case	ardac-dev_v0	pat_184	rct_v0	Control					Informed Consent	0	Study Enrollment	University of Massachusetts
+case	ardac-dev_v0	pat_185	rct_v0	Control					Informed Consent	0	Study Enrollment	Cleveland Clinic
+case	ardac-dev_v0	pat_186	rct_v0	Control					Informed Consent	0	Study Enrollment	University of Louisville
+case	ardac-dev_v0	pat_187	rct_v0	Control					Informed Consent	0	Study Enrollment	University of Pittsburgh
+case	ardac-dev_v0	pat_188	rct_v0	Control					Informed Consent	0	Study Enrollment	Cleveland Clinic
+case	ardac-dev_v0	pat_189	rct_v0	Control					Informed Consent	0	Study Enrollment	Virginia Commonwealth University
+case	ardac-dev_v0	pat_190	rct_v0	Control					Informed Consent	0	Study Enrollment	University of Texas Southwest
+case	ardac-dev_v0	pat_191	rct_v0	Control					Informed Consent	0	Study Enrollment	Virginia Commonwealth University
+case	ardac-dev_v0	pat_192	rct_v0	Control					Informed Consent	0	Study Enrollment	University of Texas Southwest
+case	ardac-dev_v0	pat_193	rct_v0	Control					Informed Consent	0	Study Enrollment	Beth Israel Deaconess Medical Center
+case	ardac-dev_v0	pat_194	rct_v0	Control					Informed Consent	0	Study Enrollment	University of Massachusetts
+case	ardac-dev_v0	pat_195	rct_v0	Control					Informed Consent	0	Study Enrollment	Indiana University
+case	ardac-dev_v0	pat_196	rct_v0	Control					Informed Consent	0	Study Enrollment	University of Texas Southwest
+case	ardac-dev_v0	pat_197	rct_v0	Control					Informed Consent	0	Study Enrollment	Mayo Clinic Rochester
+case	ardac-dev_v0	pat_198	rct_v0	Control					Informed Consent	0	Study Enrollment	University of Massachusetts
+case	ardac-dev_v0	pat_199	rct_v0	Control					Informed Consent	0	Study Enrollment	Indiana University
+case	ardac-dev_v0	pat_200	rct_v0	Control					Informed Consent	0	Study Enrollment	Beth Israel Deaconess Medical Center

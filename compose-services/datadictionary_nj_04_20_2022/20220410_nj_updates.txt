@@ -1,0 +1,11 @@
+2022/04/20 Updates
+Reporter: Nanxin Jin
+
+1. Mark visit_day as 'required' in follow_up node in data dictionary
+2. Changed cohort description in case node
+3. Added 'study_arm' attribute in the case node, with property 'intervention' and 'control'
+4. Added dummy data generator directory with some script
+5. Added case node dummy data generator
+6. Generated new case, follow_up, molecular_test dummy data
+7. 
+
