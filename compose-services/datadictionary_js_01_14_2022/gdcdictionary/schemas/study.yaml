@@ -1,0 +1,81 @@
+$schema: "http://json-schema.org/draft-04/schema#"
+
+id: "study"
+title: Study
+type: object
+namespace: http://gdc.nci.nih.gov
+category: administrative
+program: '*'
+project: '*'
+description: >
+  The study. 
+additionalProperties: false
+submittable: true
+validators: null
+
+systemProperties:
+  - id
+  - project_id
+  - created_datetime
+  - updated_datetime
+  - state
+
+
+#Original
+links:
+ - name: projects
+   backref: studies
+   label: member_of
+   target_type: project
+   multiplicity: many_to_one
+   required: true
+
+required:
+  - submitter_id
+  - type
+  - projects
+  - study_name
+
+uniqueKeys:
+  - [id]
+  - [project_id, submitter_id]
+
+# Case properties
+properties:
+  type:
+    type: string
+  id:
+    $ref: "_definitions.yaml#/UUID"
+    systemAlias: node_id
+  state:
+    $ref: "_definitions.yaml#/state"
+  submitter_id:
+    type:
+      - string
+      - "null"
+  study_name:
+    type:
+      - string
+  data_description:
+    description: "Brief description of the data being provided for this study. Free text."
+    type:
+      - string
+  study_description:
+    description: "A brief description of the study being performed. Free text."
+    type:
+      - string
+  type_of_data:
+    description: "Is the data raw or processed?"
+    enum:
+      - Raw
+      - Processed
+      - Raw/ Processed
+
+  projects:
+    $ref: "_definitions.yaml#/to_one_project"
+  project_id:
+    $ref: "_definitions.yaml#/project_id"
+  created_datetime:
+    $ref: "_definitions.yaml#/datetime"
+  updated_datetime:
+    $ref: "_definitions.yaml#/datetime"

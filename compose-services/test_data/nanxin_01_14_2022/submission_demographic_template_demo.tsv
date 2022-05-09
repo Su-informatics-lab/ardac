@@ -1,0 +1,101 @@
+*type	project_id	*submitter_id	*cases.submitter_id	*ethnicity	*gender	*race	*vital_status	age_at_index	cause_of_death	cur_employ_stat	days_to_death	education	marital	sex	year_of_birth	year_of_death
+demographic	ardac-dev_v0	demo_1	pat_1	not hispanic or latino	female	white	Alive	19		Yes	null	Some college or associate degree	Divorced	M	2002	null
+demographic	ardac-dev_v0	demo_2	pat_2	not hispanic or latino	male	white	Alive	24		Yes	null	Some college or associate degree	Married	F	1997	null
+demographic	ardac-dev_v0	demo_3	pat_3	not hispanic or latino	male	white	Dead	46		No	20	Data not available	Never Married	F	1975	2021
+demographic	ardac-dev_v0	demo_4	pat_4	not hispanic or latino	female	black or african american	Alive	30		Yes	null	Bachelor's Degree	Never Married	F	1991	null
+demographic	ardac-dev_v0	demo_5	pat_5	hispanic or latino	female	black or african american	Alive	29		Yes	null	High school graduate (including equivalency)	Never Married	M	1992	null
+demographic	ardac-dev_v0	demo_6	pat_6	not hispanic or latino	female	white	Alive	49		Yes	null	Some college or associate degree	Divorced	M	1972	null
+demographic	ardac-dev_v0	demo_7	pat_7	not hispanic or latino	male	white	Alive	22		Yes	null	Some college or associate degree	Married	F	1999	null
+demographic	ardac-dev_v0	demo_8	pat_8	hispanic or latino	male	white	Dead	54		No	21	Data not available	Never Married	F	1967	2021
+demographic	ardac-dev_v0	demo_9	pat_9	not hispanic or latino	male	black or african american	Alive	52		Yes	null	Bachelor's Degree	Never Married	F	1969	null
+demographic	ardac-dev_v0	demo_10	pat_10	not hispanic or latino	female	black or african american	Alive	22		Yes	null	High school graduate (including equivalency)	Never Married	M	1999	null
+demographic	ardac-dev_v0	demo_11	pat_11	not hispanic or latino	female	white	Alive	43		Yes	null	Some college or associate degree	Divorced	M	1978	null
+demographic	ardac-dev_v0	demo_12	pat_12	not hispanic or latino	female	white	Alive	27		Yes	null	Some college or associate degree	Married	F	1994	null
+demographic	ardac-dev_v0	demo_13	pat_13	not hispanic or latino	male	white	Dead	38		No	22	Data not available	Never Married	F	1983	2021
+demographic	ardac-dev_v0	demo_14	pat_14	hispanic or latino	male	black or african american	Alive	49		Yes	null	Bachelor's Degree	Never Married	F	1972	null
+demographic	ardac-dev_v0	demo_15	pat_15	not hispanic or latino	female	black or african american	Alive	44		Yes	null	High school graduate (including equivalency)	Never Married	M	1977	null
+demographic	ardac-dev_v0	demo_16	pat_16	not hispanic or latino	female	white	Alive	24		Yes	null	Some college or associate degree	Divorced	M	1997	null
+demographic	ardac-dev_v0	demo_17	pat_17	not hispanic or latino	male	white	Alive	24		Yes	null	Some college or associate degree	Married	F	1997	null
+demographic	ardac-dev_v0	demo_18	pat_18	not hispanic or latino	male	white	Dead	34		No	23	Data not available	Never Married	F	1987	2021
+demographic	ardac-dev_v0	demo_19	pat_19	hispanic or latino	female	black or african american	Alive	52		Yes	null	Bachelor's Degree	Never Married	F	1969	null
+demographic	ardac-dev_v0	demo_20	pat_20	not hispanic or latino	female	black or african american	Alive	24		Yes	null	High school graduate (including equivalency)	Never Married	M	1997	null
+demographic	ardac-dev_v0	demo_21	pat_21	not hispanic or latino	female	white	Alive	50		Yes	null	Some college or associate degree	Divorced	M	1971	null
+demographic	ardac-dev_v0	demo_22	pat_22	hispanic or latino	female	white	Alive	41		Yes	null	Some college or associate degree	Married	F	1980	null
+demographic	ardac-dev_v0	demo_23	pat_23	not hispanic or latino	male	white	Dead	47		No	24	Data not available	Never Married	F	1974	2021
+demographic	ardac-dev_v0	demo_24	pat_24	not hispanic or latino	male	black or african american	Alive	24		Yes	null	Bachelor's Degree	Never Married	F	1997	null
+demographic	ardac-dev_v0	demo_25	pat_25	not hispanic or latino	male	black or african american	Alive	23		Yes	null	High school graduate (including equivalency)	Never Married	M	1998	null
+demographic	ardac-dev_v0	demo_26	pat_26	not hispanic or latino	female	white	Alive	50		Yes	null	Some college or associate degree	Divorced	M	1971	null
+demographic	ardac-dev_v0	demo_27	pat_27	not hispanic or latino	female	white	Alive	27		Yes	null	Some college or associate degree	Married	F	1994	null
+demographic	ardac-dev_v0	demo_28	pat_28	not hispanic or latino	male	white	Dead	24		No	25	Data not available	Never Married	F	1997	2021
+demographic	ardac-dev_v0	demo_29	pat_29	hispanic or latino	male	black or african american	Alive	28		Yes	null	Bachelor's Degree	Never Married	F	1993	null
+demographic	ardac-dev_v0	demo_30	pat_30	not hispanic or latino	female	black or african american	Alive	26		Yes	null	High school graduate (including equivalency)	Never Married	M	1995	null
+demographic	ardac-dev_v0	demo_31	pat_31	not hispanic or latino	female	white	Alive	33		Yes	null	Some college or associate degree	Divorced	M	1988	null
+demographic	ardac-dev_v0	demo_32	pat_32	not hispanic or latino	female	white	Alive	21		Yes	null	Some college or associate degree	Married	F	2000	null
+demographic	ardac-dev_v0	demo_33	pat_33	not hispanic or latino	female	white	Dead	50		No	26	Data not available	Never Married	F	1971	2021
+demographic	ardac-dev_v0	demo_34	pat_34	not hispanic or latino	male	black or african american	Alive	23		Yes	null	Bachelor's Degree	Never Married	F	1998	null
+demographic	ardac-dev_v0	demo_35	pat_35	not hispanic or latino	female	black or african american	Alive	20		Yes	null	High school graduate (including equivalency)	Never Married	F	2001	null
+demographic	ardac-dev_v0	demo_36	pat_36	not hispanic or latino	female	white	Alive	26		Yes	null	Some college or associate degree	Divorced	M	1995	null
+demographic	ardac-dev_v0	demo_37	pat_37	not hispanic or latino	male	white	Alive	33		Yes	null	Some college or associate degree	Married	M	1988	null
+demographic	ardac-dev_v0	demo_38	pat_38	hispanic or latino	male	white	Dead	50		No	27	Data not available	Never Married	F	1971	2021
+demographic	ardac-dev_v0	demo_39	pat_39	not hispanic or latino	female	black or african american	Alive	48		Yes	null	Bachelor's Degree	Never Married	F	1973	null
+demographic	ardac-dev_v0	demo_40	pat_40	not hispanic or latino	female	black or african american	Alive	26		Yes	null	High school graduate (including equivalency)	Never Married	F	1995	null
+demographic	ardac-dev_v0	demo_41	pat_41	not hispanic or latino	female	white	Alive	18		Yes	null	Some college or associate degree	Divorced	M	2003	null
+demographic	ardac-dev_v0	demo_42	pat_42	not hispanic or latino	female	white	Alive	28		Yes	null	Some college or associate degree	Married	M	1993	null
+demographic	ardac-dev_v0	demo_43	pat_43	not hispanic or latino	male	white	Dead	28		No	28	Data not available	Never Married	F	1993	2021
+demographic	ardac-dev_v0	demo_44	pat_44	hispanic or latino	male	black or african american	Alive	47		Yes	null	Bachelor's Degree	Never Married	F	1974	null
+demographic	ardac-dev_v0	demo_45	pat_45	not hispanic or latino	female	black or african american	Alive	33		Yes	null	High school graduate (including equivalency)	Never Married	F	1988	null
+demographic	ardac-dev_v0	demo_46	pat_46	not hispanic or latino	female	white	Alive	47		Yes	null	Some college or associate degree	Divorced	M	1974	null
+demographic	ardac-dev_v0	demo_47	pat_47	not hispanic or latino	female	white	Alive	35		Yes	null	Some college or associate degree	Married	M	1986	null
+demographic	ardac-dev_v0	demo_48	pat_48	not hispanic or latino	male	white	Dead	23		No	29	Data not available	Never Married	F	1998	2021
+demographic	ardac-dev_v0	demo_49	pat_49	not hispanic or latino	female	black or african american	Alive	29		Yes	null	Bachelor's Degree	Never Married	F	1992	null
+demographic	ardac-dev_v0	demo_50	pat_50	not hispanic or latino	female	black or african american	Alive	34		Yes	null	High school graduate (including equivalency)	Never Married	M	1987	null
+demographic	ardac-dev_v0	demo_51	pat_51	not hispanic or latino	female	white	Alive	28		Yes	null	Some college or associate degree	Divorced	M	1993	null
+demographic	ardac-dev_v0	demo_52	pat_52	not hispanic or latino	male	white	Alive	47		Yes	null	Some college or associate degree	Married	F	1974	null
+demographic	ardac-dev_v0	demo_53	pat_53	not hispanic or latino	male	white	Dead	52		No	30	Data not available	Never Married	F	1969	2021
+demographic	ardac-dev_v0	demo_54	pat_54	not hispanic or latino	female	black or african american	Alive	40		Yes	null	Bachelor's Degree	Never Married	F	1981	null
+demographic	ardac-dev_v0	demo_55	pat_55	not hispanic or latino	female	black or african american	Alive	53		Yes	null	High school graduate (including equivalency)	Never Married	M	1968	null
+demographic	ardac-dev_v0	demo_56	pat_56	not hispanic or latino	female	white	Alive	36		Yes	null	Some college or associate degree	Divorced	M	1985	null
+demographic	ardac-dev_v0	demo_57	pat_57	not hispanic or latino	male	white	Alive	49		Yes	null	Some college or associate degree	Married	F	1972	null
+demographic	ardac-dev_v0	demo_58	pat_58	not hispanic or latino	male	white	Dead	21		No	31	Data not available	Never Married	F	2000	2021
+demographic	ardac-dev_v0	demo_59	pat_59	not hispanic or latino	female	black or african american	Alive	45		Yes	null	Bachelor's Degree	Never Married	F	1976	null
+demographic	ardac-dev_v0	demo_60	pat_60	not hispanic or latino	female	black or african american	Alive	32		Yes	null	High school graduate (including equivalency)	Never Married	M	1989	null
+demographic	ardac-dev_v0	demo_61	pat_61	not hispanic or latino	female	white	Alive	27		Yes	null	Some college or associate degree	Divorced	M	1994	null
+demographic	ardac-dev_v0	demo_62	pat_62	not hispanic or latino	male	white	Alive	20		Yes	null	Some college or associate degree	Married	F	2001	null
+demographic	ardac-dev_v0	demo_63	pat_63	not hispanic or latino	male	white	Dead	30		No	32	Data not available	Never Married	F	1991	2021
+demographic	ardac-dev_v0	demo_64	pat_64	not hispanic or latino	female	black or african american	Alive	51		Yes	null	Bachelor's Degree	Never Married	F	1970	null
+demographic	ardac-dev_v0	demo_65	pat_65	not hispanic or latino	male	black or african american	Alive	32		Yes	null	High school graduate (including equivalency)	Never Married	M	1989	null
+demographic	ardac-dev_v0	demo_66	pat_66	not hispanic or latino	male	white	Alive	24		Yes	null	Some college or associate degree	Divorced	M	1997	null
+demographic	ardac-dev_v0	demo_67	pat_67	not hispanic or latino	female	white	Alive	28		Yes	null	Some college or associate degree	Married	F	1993	null
+demographic	ardac-dev_v0	demo_68	pat_68	not hispanic or latino	female	white	Dead	50		No	33	Data not available	Never Married	F	1971	2021
+demographic	ardac-dev_v0	demo_69	pat_69	not hispanic or latino	female	black or african american	Alive	53		Yes	null	Bachelor's Degree	Never Married	F	1968	null
+demographic	ardac-dev_v0	demo_70	pat_70	not hispanic or latino	male	black or african american	Alive	36		Yes	null	High school graduate (including equivalency)	Never Married	M	1985	null
+demographic	ardac-dev_v0	demo_71	pat_71	not hispanic or latino	male	white	Alive	34		Yes	null	Some college or associate degree	Divorced	M	1987	null
+demographic	ardac-dev_v0	demo_72	pat_72	not hispanic or latino	female	white	Alive	34		Yes	null	Some college or associate degree	Married	F	1987	null
+demographic	ardac-dev_v0	demo_73	pat_73	not hispanic or latino	female	white	Dead	48		No	34	Data not available	Never Married	F	1973	2021
+demographic	ardac-dev_v0	demo_74	pat_74	not hispanic or latino	female	black or african american	Alive	51		Yes	null	Bachelor's Degree	Never Married	F	1970	null
+demographic	ardac-dev_v0	demo_75	pat_75	not hispanic or latino	male	black or african american	Alive	41		Yes	null	High school graduate (including equivalency)	Never Married	M	1980	null
+demographic	ardac-dev_v0	demo_76	pat_76	not hispanic or latino	male	white	Alive	41		Yes	null	Some college or associate degree	Divorced	M	1980	null
+demographic	ardac-dev_v0	demo_77	pat_77	not hispanic or latino	female	white	Alive	43		Yes	null	Some college or associate degree	Married	F	1978	null
+demographic	ardac-dev_v0	demo_78	pat_78	not hispanic or latino	female	white	Dead	20		No	35	Data not available	Never Married	F	2001	2021
+demographic	ardac-dev_v0	demo_79	pat_79	not hispanic or latino	female	black or african american	Alive	46		Yes	null	Bachelor's Degree	Never Married	F	1975	null
+demographic	ardac-dev_v0	demo_80	pat_80	hispanic or latino	male	black or african american	Alive	19		Yes	null	High school graduate (including equivalency)	Never Married	M	2002	null
+demographic	ardac-dev_v0	demo_81	pat_81	not hispanic or latino	male	white	Alive	53		Yes	null	Some college or associate degree	Divorced	M	1968	null
+demographic	ardac-dev_v0	demo_82	pat_82	not hispanic or latino	female	white	Alive	27		Yes	null	Some college or associate degree	Married	F	1994	null
+demographic	ardac-dev_v0	demo_83	pat_83	not hispanic or latino	female	white	Dead	32		No	36	Data not available	Never Married	F	1989	2021
+demographic	ardac-dev_v0	demo_84	pat_84	not hispanic or latino	female	black or african american	Alive	34		Yes	null	Bachelor's Degree	Never Married	F	1987	null
+demographic	ardac-dev_v0	demo_85	pat_85	not hispanic or latino	male	black or african american	Alive	56		Yes	null	High school graduate (including equivalency)	Never Married	M	1965	null
+demographic	ardac-dev_v0	demo_86	pat_86	not hispanic or latino	male	white	Alive	46		Yes	null	Some college or associate degree	Divorced	M	1975	null
+demographic	ardac-dev_v0	demo_87	pat_87	hispanic or latino	female	white	Alive	50		Yes	null	Some college or associate degree	Married	F	1971	null
+demographic	ardac-dev_v0	demo_88	pat_88	not hispanic or latino	female	white	Dead	53		No	37	Data not available	Never Married	M	1968	2021
+demographic	ardac-dev_v0	demo_89	pat_89	not hispanic or latino	female	black or african american	Alive	40		Yes	null	Bachelor's Degree	Never Married	F	1981	null
+demographic	ardac-dev_v0	demo_90	pat_90	not hispanic or latino	female	black or african american	Alive	30		Yes	null	High school graduate (including equivalency)	Never Married	F	1991	null
+demographic	ardac-dev_v0	demo_91	pat_91	not hispanic or latino	female	white	Alive	25		Yes	null	Some college or associate degree	Divorced	F	1996	null
+demographic	ardac-dev_v0	demo_92	pat_92	not hispanic or latino	male	white	Alive	44		Yes	null	Some college or associate degree	Married	F	1977	null
+demographic	ardac-dev_v0	demo_93	pat_93	not hispanic or latino	male	white	Dead	39		No	38	Data not available	Never Married	F	1982	2021
+demographic	ardac-dev_v0	demo_94	pat_94	not hispanic or latino	female	black or african american	Alive	41		Yes	null	Bachelor's Degree	Never Married	F	1980	null
+demographic	ardac-dev_v0	demo_95	pat_95	hispanic or latino	female	black or african american	Alive	52		Yes	null	High school graduate (including equivalency)	Never Married	M	1969	null
+demographic	ardac-dev_v0	demo_96	pat_96	not hispanic or latino	female	white	Alive	32		Yes	null	Some college or associate degree	Divorced	M	1989	null
+demographic	ardac-dev_v0	demo_97	pat_97	not hispanic or latino	male	white	Alive	37		Yes	null	Some college or associate degree	Married	F	1984	null
+demographic	ardac-dev_v0	demo_98	pat_98	not hispanic or latino	male	white	Dead	27		No	39	Data not available	Never Married	F	1994	2021
+demographic	ardac-dev_v0	demo_99	pat_99	not hispanic or latino	female	black or african american	Alive	45		Yes	null	Bachelor's Degree	Never Married	F	1976	null
+demographic	ardac-dev_v0	demo_100	pat_100	not hispanic or latino	female	black or african american	Alive	58		Yes	null	High school graduate (including equivalency)	Never Married	M	1963	null

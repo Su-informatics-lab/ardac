@@ -1,0 +1,432 @@
+$schema: "http://json-schema.org/draft-04/schema#"
+
+id: "follow_up"
+title: Follow_up
+type: object
+namespace: http://gdc.nci.nih.gov
+category: administrative
+program: '*'
+project: '*'
+description: "follow_up for a project."
+additionalProperties: false
+submittable: true
+validators: null
+
+systemProperties:
+  - id
+  - project_id
+  - state
+  - created_datetime
+  - updated_datetime
+
+links:
+  - name: cases
+    backref: follow_ups
+    label: describes
+    target_type: case
+    multiplicity: many_to_one
+    required: true
+
+required:
+  - submitter_id
+  - type
+  - days_to_follow_up
+
+uniqueKeys:
+  - [ id ]
+  - [ project_id, submitter_id ]
+
+properties:
+  type:
+    enum: [ "follow_up" ]
+  id:
+    $ref: "_definitions.yaml#/UUID"
+    systemAlias: node_id
+  state:
+    $ref: "_definitions.yaml#/state"
+  submitter_id:
+    type:
+      - string
+      - "null"
+  days_to_follow_up:
+    description: "Number of days between the date used for index and the date of the patient's last follow-up appointment or contact."
+    type:
+      - number
+      - "null"
+  visit_day:
+    description: "Number of days between the baseline and when the visit is scheduled according to the protocol. Equivalent to the visit."
+    enum:
+      - "0"
+      - "3"
+      - "7"
+      - "14"
+      - "28"
+      - "60"
+      - "90"
+      - "180"
+      - "84"
+      - "168"
+  cdc_hiv_risk_factors:
+    description: "The text term used to describe a risk factor for human immunodeficiency virus, as described by the Center for Disease Control."
+    enum:
+      - Hemophiliac
+      - Heterosexual Contact
+      - Homosexual Contact
+      - Intravenous Drug User
+      - None
+      - Not Reported
+      - Transfusion Recipient
+      - Unknown
+  height: 
+    description: "The height of the patient in centimeters."
+    type:
+      - number
+  weight: 
+    description: "The weight of the patient measured in kilograms."
+    type:
+      - number
+  bmi:
+    description: "A calculated numerical quantity that represents an individual's weight to height ratio."
+    type:
+      - number
+  procedures_performed:
+    description: "The type of precedures performed on the patient."
+    enum:
+      - Colonoscopy
+      - Endoscopy
+      - Unknown
+      - Not Reported
+  risk_factor:
+    description: "The text term used to describe a risk factor the patient had at the time of or prior to their diagnosis."
+    enum:
+      - Abnormal Glucose Level
+      - Adenosis (Atypical Adenomatous Hyperplasia)
+      - Alcohol Consumption
+      - Alcoholic Liver Disease
+      - Allergy, Animal, NOS
+      - Allergy, Ant
+      - Allergy, Bee
+      - Allergy, Cat
+      - Allergy, Dairy or Lactose
+      - Allergy, Dog
+      - Allergy, Eggs
+      - Allergy, Food, NOS
+      - Allergy, Fruit
+      - Allergy, Meat
+      - Allergy, Mold or Dust
+      - Allergy, Nuts
+      - Allergy, Processed Foods
+      - Allergy, Seafood
+      - Allergy, Wasp
+      - Alpha-1 Antitrypsin Deficiency
+      - Ataxia-telangiectasia
+      - Autoimmune Atrophic Chronic Gastritis
+      - Autoimmune Lymphoproliferative Syndrome (ALPS)
+      - Bacteroides fragilis
+      - BAP1 Tumor Predisposition Syndrome
+      - Barrett's Esophagus
+      - Beckwith-Wiedemann
+      - Behcet's Disease
+      - Benign Prostatic Hyperplasia
+      - Birt-Hogg-Dube Syndrome
+      - BRCA Family History
+      - Cancer
+      - hlamydia
+      - Cholelithiasis
+      - Chronic Hepatitis
+      - Chronic Kidney Disease
+      - Chronic Systemic Steroid Use
+      - Cirrhosis
+      - Colon Polyps
+      - Colonization, Bacterial
+      - Colonization, Fungal
+      - Common variable immune deficiency (CVID)
+      - Cowden Syndrome
+      - Cryptococcal Meningitis
+      - Cyst(s)
+      - Cytomegalovirus (CMV)
+      - Denys-Drash Syndrome
+      - Dermatomyosis
+      - Diabetes, NOS
+      - Diabetes, Type I
+      - Diabetes, Type II
+      - Diet
+      - Diverticulitis
+      - Eczema
+      - Endometriosis
+      - Endosalpingiosis
+      - Epithelial Dysplasia
+      - Epithelial Hyperplasia
+      - Epstein-Barr Virus
+      - Escherichia coli
+      - Familial Adenomatous Polyposis
+      - Fanconi Anemia
+      - Fibrosis
+      - Gastric Polyp(s)
+      - Gastritis
+      - Gilbert's Syndrome
+      - Glomerular Disease
+      - Gorlin Syndrome
+      - Hashimoto's Thyroiditis
+      - Hay Fever
+      - Headache
+      - Helicobacter Pylori-Associated Gastritis
+      - Hematologic Disorder, NOS
+      - Hemihypertrophy
+      - Hemochromatosis
+      - Hepatic Encephalopathy
+      - Hepatitis B Infection
+      - Hepatitis C Infection
+      - Hepatitis, NOS
+      - Hereditary Breast Cancer
+      - Hereditary Kidney Oncocytoma
+      - Hereditary Leiomyomatosis and Renal Cell Carcinoma
+      - Hereditary Ovarian Cancer
+      - Hereditary Papillary Renal Cell Carcinoma
+      - Hereditary Prostate Cancer
+      - Hereditary Renal Cell Carcinoma
+      - Herpes Zoster
+      - High Grade Dysplasia
+      - High-grade Prostatic Intraepithelial Neoplasia (PIN)
+      - HIV
+      - Human Papillomavirus Infection
+      - Hypospadias
+      - Inflammation
+      - Inflammation, Hyperkeratosis
+      - Intestinal Metaplasia
+      - Iron Overload
+      - Li-Fraumeni Syndrome
+      - Low Grade Dysplasia
+      - Lymphocytic Meningitis
+      - Lymphocytic Thyroiditis
+      - Lynch Syndrome
+      - Malaria
+      - Metabolic Syndrome
+      - Myasthenia Gravis
+      - Mycobacterium avium Complex
+      - Nodular Prostatic Hyperplasia
+      - Nonalcoholic Fatty Liver Disease
+      - Nonalcoholic Steatohepatitis
+      - Obesity
+      - Oral Contraceptives
+      - Pancreatitis
+      - Parasitic Disease of Biliary Tract
+      - Pneumocystis Pneumonia
+      - Polycystic Ovarian Syndrome (PCOS)
+      - Primary Sclerosing Cholangitis
+      - Recurrent Pyogenic Cholangitis
+      - Reflux Disease
+      - Rheumatoid Arthritis
+      - Rubinstein-Taybi Syndrome
+      - Sarcoidosis
+      - Seizure
+      - Sensory Changes
+      - Serous tubal intraepithelial carcinoma (STIC)
+      - Shingles
+      - Sialadenitis
+      - Sjogren's Syndrome
+      - Skin Rash
+      - Squamous Metaplasia
+      - Staphylococcus aureus
+      - Steatosis
+      - Succinate Dehydrogenase-Deficient Renal Cell Carcinoma
+      - Syphilis
+      - Tattoo
+      - Thyroid Nodular Hyperplasia
+      - Tobacco, NOS
+      - Tobacco, Smokeless
+      - Tobacco, Smoking
+      - Treponema pallidum
+      - Tuberculosis
+      - Tuberous Sclerosis
+      - Tubulointerstitial Disease
+      - Tumor-associated Lymphoid Proliferation
+      - Turcot Syndrome
+      - Undescended Testis
+      - Varicella Zoster Virus
+      - Vascular Disease
+      - Vision Changes
+      - Von Hippel-Lindau Syndrome
+      - Wagr Syndrome
+      - Unknown
+      - Not Reported
+  comorbidity:
+    description: "The text term used to describe a comorbidity disease which coexists with the patient's malignant disease."
+    enum:
+      - Abnormal Glucose Level
+      - Acute Renal Failure
+      - Adenocarcinoma
+      - Adenomatous Polyposis Coli
+      - Adrenocortical Insufficiency
+      - Allergies
+      - Alpha-1 Antitrypsin
+      - Anemia
+      - Anxiety
+      - Arrhythmia
+      - Arthritis
+      - Asthma
+      - Ataxia-telangiectasia
+      - Atrial Fibrillation
+      - Autoimmune Lymphoproliferative Syndrome (ALPS)
+      - Avascular Necrosis
+      - Bacteroides fragilis
+      - Barrett's Esophagus
+      - Basal Cell Carcinoma
+      - Beckwith-Wiedemann
+      - Behcet's Disease
+      - Biliary Disorder
+      - Blood Clots
+      - Bone Fracture(s)
+      - Bronchitis
+      - Calcium Channel Blockers
+      - Cancer
+      - Cataracts
+      - Celiac Disease
+      - Cerebrovascular Disease
+      - Chlamydia
+      - Cholelithiasis
+      - Chronic Fatigue Syndrome
+      - Chronic Renal Failure
+      - Chronic Systemic Steroid Use
+      - Cirrhosis, Unknown Etiology
+      - Clonal Hematopoiesis
+      - Colon Polyps
+      - Common Variable Immunodeficiency
+      - Congestive Heart Failure (CHF)
+      - Connective Tissue Disorder
+      - COPD
+      - Coronary Artery Disease
+      - Crohn's Disease
+      - Cryptogenic Organizing Pneumonia
+      - Cryptococcal Meningitis
+      - Cytomegalovirus (CMV)
+      - Deep Vein Thrombosis / Thromboembolism
+      - Denys-Drash Syndrome
+      - Dermatomyosis
+      - Depression
+      - Diabetes
+      - Diabetes, Type II
+      - Diabetic Neuropathy
+      - Diet Controlled Diabetes
+      - Diverticulitis
+      - DVT/PE
+      - Dyslipidemia
+      - Eczema
+      - Epilepsy
+      - Epstein-Barr Virus
+      - Familial Adenomatous Polyposis
+      - Fanconi Anemia
+      - Fibromyalgia
+      - Fibrosis
+      - Gastritis
+      - Gastroesophageal Reflux Disease
+      - GERD
+      - Glaucoma
+      - Glycogen Storage Disease
+      - Gonadal Dysfunction
+      - Gorlin Syndrome
+      - Gout
+      - H. pylori Infection
+      - Hashimoto's Thyroiditis
+      - Headache
+      - Heart Disease
+      - Hemihypertrophy
+      - Hemorrhagic Cystitis
+      - Hepatitis
+      - Hepatitis A Infection
+      - Hepatitis B Infection
+      - Hepatitis C Infection
+      - Hepatitis, Chronic
+      - Hereditary Non-polyposis Colon Cancer
+      - Herpes
+      - Herpes Zoster
+      - High Grade Liver Dysplastic Nodule
+      - HIV / AIDS
+      - Human Papillomavirus Infection
+      - HUS/TTP
+      - Hypercalcemia
+      - Hypercholesterolemia
+      - Hyperglycemia
+      - Hyperlipidemia
+      - Hypertension
+      - Hypospadias
+      - Hypothyroidism
+      - Inflammatory Bowel Disease
+      - Insulin Controlled Diabetes
+      - Interstitial Pneumontis or ARDS
+      - Intraductal Papillary Mucinous Neoplasm
+      - Iron Overload
+      - Ischemic Heart Disease
+      - ITP
+      - Joint Replacement
+      - Kidney Disease
+      - Li-Fraumeni Syndrome
+      - Liver Cirrhosis (Liver Disease)
+      - Liver Toxicity (Non-Infectious)
+      - Low Grade Liver Dysplastic Nodule
+      - Lupus
+      - Lymphocytic Meningitis
+      - Lynch Syndrome
+      - MAI
+      - Malaria
+      - Metabolic Syndrome
+      - Myasthenia Gravis
+      - Mycobacterium avium Complex
+      - Myocardial Infarction
+      - Neuroendocrine Tumor
+      - Nonalcoholic Steatohepatitis
+      - Obesity
+      - Organ transplant (site)
+      - Osteoarthritis
+      - Osteoporosis or Osteopenia
+      - Other
+      - Other Cancer Within 5 Years
+      - Other Nonmalignant Systemic Disease
+      - Other Pulmonary Complications
+      - Pain (Various)
+      - Pancreatitis
+      - Peptic Ulcer (Ulcer)
+      - Peripheral Neuropathy
+      - Peripheral Vascular Disease
+      - Peutz-Jeghers Disease
+      - Pneumocystis Pneumonia
+      - Polycystic Ovarian Syndrome (PCOS)
+      - Pregnancy in Patient or Partner
+      - Primary Sclerosing Cholangitis
+      - Psoriasis
+      - Pulmonary Fibrosis
+      - Pulmonary Hemorrhage
+      - Renal Dialysis
+      - Renal Failure (Requiring Dialysis)
+      - Renal Insufficiency
+      - Rheumatoid Arthritis
+      - Rheumatologic Disease
+      - Rubinstein-Taybi Syndrome
+      - Sarcoidosis
+      - Seizure
+      - Shingles
+      - Sjogren's Syndrome
+      - Sleep apnea
+      - Smoking
+      - Staphylococcus aureus
+      - Steatosis
+      - Stroke
+      - Syphilis
+      - Transient Ischemic Attack
+      - Treponema pallidum
+      - Tuberculosis
+      - Turcot Syndrome
+      - Tyrosinemia
+      - Ulcerative Colitis
+      - Varicella Zoster Virus
+      - Wagr Syndrome
+      - Unknown
+      - Not Reported
+  cases:
+    $ref: "_definitions.yaml#/to_one"
+  project_id:
+    $ref: "_definitions.yaml#/project_id"
+  created_datetime:
+    $ref: "_definitions.yaml#/datetime"
+  updated_datetime:
+    $ref: "_definitions.yaml#/datetime"

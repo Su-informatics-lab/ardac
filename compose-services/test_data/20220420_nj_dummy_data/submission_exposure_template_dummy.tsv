@@ -1,0 +1,201 @@
+*type	project_id	*submitter_id	follow_ups.submitter_id	ALC_LIFETIME_IND	BEG_ALC_USE_AGE	TM_UOM_TXT_NM	alc_reg_use_len	alcohol_drinks_per_day	alcohol_history	alcohol_intensity	intravenous_drug_use
+exposure	ardac-dev_v0	exposure_1	follow_up_1	Yes	42	Weeks	7	8	Not Reported	Heavy Drinker	No
+exposure	ardac-dev_v0	exposure_2	follow_up_2	Unknown	44	Days	0	7	Unknown	Occasional Drinker	Yes
+exposure	ardac-dev_v0	exposure_3	follow_up_3	No	40	Don't Know	8	5	Unknown	Unknown	Yes
+exposure	ardac-dev_v0	exposure_4	follow_up_4	Unknown	43	Days	2	1	Not Reported	Lifelong- Non-Drinker	Yes
+exposure	ardac-dev_v0	exposure_5	follow_up_5	Unknown	40	Don't Know	3	1	Not Reported	Occasional Drinker	Yes
+exposure	ardac-dev_v0	exposure_6	follow_up_6	No	21	Years	7	1	Yes	Heavy Drinker	No
+exposure	ardac-dev_v0	exposure_7	follow_up_7	Unknown	30	Days	5	6	Unknown	Lifelong- Non-Drinker	No
+exposure	ardac-dev_v0	exposure_8	follow_up_8	Yes	37	Unknown	2	0	Not Reported	Occasional Drinker	No
+exposure	ardac-dev_v0	exposure_9	follow_up_9	No	19	Weeks	5	6	Yes	Unknown	Yes
+exposure	ardac-dev_v0	exposure_10	follow_up_10	Unknown	26	Don't Know	3	1	Not Reported	Unknown	No
+exposure	ardac-dev_v0	exposure_11	follow_up_11	No	49	Years	3	9	Unknown	Heavy Drinker	No
+exposure	ardac-dev_v0	exposure_12	follow_up_12	Unknown	19	Weeks	6	0	Yes	Heavy Drinker	Yes
+exposure	ardac-dev_v0	exposure_13	follow_up_13	No	41	Don't Know	3	4	Yes	Not Reported	Yes
+exposure	ardac-dev_v0	exposure_14	follow_up_14	Unknown	11	Days	8	6	Yes	Lifelong- Non-Drinker	Unknown
+exposure	ardac-dev_v0	exposure_15	follow_up_15	Yes	14	Refused	4	8	Unknown	Heavy Drinker	No
+exposure	ardac-dev_v0	exposure_16	follow_up_16	No	10	Don't Know	5	10	Not Reported	Heavy Drinker	No
+exposure	ardac-dev_v0	exposure_17	follow_up_17	No	15	Months	8	9	Yes	Not Reported	Unknown
+exposure	ardac-dev_v0	exposure_18	follow_up_18	Unknown	23	Refused	0	5	Unknown	Heavy Drinker	Unknown
+exposure	ardac-dev_v0	exposure_19	follow_up_19	Unknown	14	Unknown	4	0	No	Occasional Drinker	Yes
+exposure	ardac-dev_v0	exposure_20	follow_up_20	No	40	Refused	0	4	No	Lifelong- Non-Drinker	No
+exposure	ardac-dev_v0	exposure_21	follow_up_21	No	13	Unknown	4	6	Yes	Heavy Drinker	Yes
+exposure	ardac-dev_v0	exposure_22	follow_up_22	Unknown	26	Refused	8	4	Yes	Not Reported	Yes
+exposure	ardac-dev_v0	exposure_23	follow_up_23	Yes	42	Unknown	7	4	Not Reported	Drink	Unknown
+exposure	ardac-dev_v0	exposure_24	follow_up_24	Yes	15	Months	4	3	Yes	Non-Drinker	Unknown
+exposure	ardac-dev_v0	exposure_25	follow_up_25	Unknown	34	Years	3	3	Yes	Drink	Yes
+exposure	ardac-dev_v0	exposure_26	follow_up_26	Unknown	19	Days	6	4	Unknown	Unknown	No
+exposure	ardac-dev_v0	exposure_27	follow_up_27	Unknown	31	Days	5	5	Not Reported	Drink	Unknown
+exposure	ardac-dev_v0	exposure_28	follow_up_28	No	50	Months	7	8	No	Drink	Unknown
+exposure	ardac-dev_v0	exposure_29	follow_up_29	Yes	17	Don't Know	0	0	Unknown	Occasional Drinker	Unknown
+exposure	ardac-dev_v0	exposure_30	follow_up_30	Unknown	40	Refused	4	4	Not Reported	Drink	Yes
+exposure	ardac-dev_v0	exposure_31	follow_up_31	Yes	49	Years	8	2	Not Reported	Drink	Unknown
+exposure	ardac-dev_v0	exposure_32	follow_up_32	Unknown	44	Years	2	5	Yes	Non-Drinker	No
+exposure	ardac-dev_v0	exposure_33	follow_up_33	Yes	32	Months	4	9	No	Occasional Drinker	Yes
+exposure	ardac-dev_v0	exposure_34	follow_up_34	Yes	17	Unknown	8	6	No	Not Reported	Yes
+exposure	ardac-dev_v0	exposure_35	follow_up_35	No	39	Years	6	7	Unknown	Drink	Unknown
+exposure	ardac-dev_v0	exposure_36	follow_up_36	Unknown	37	Weeks	6	2	No	Unknown	Unknown
+exposure	ardac-dev_v0	exposure_37	follow_up_37	No	26	Months	1	1	Unknown	Lifelong- Non-Drinker	No
+exposure	ardac-dev_v0	exposure_38	follow_up_38	No	27	Weeks	1	1	Yes	Unknown	No
+exposure	ardac-dev_v0	exposure_39	follow_up_39	Unknown	15	Years	8	6	Not Reported	Heavy Drinker	No
+exposure	ardac-dev_v0	exposure_40	follow_up_40	Unknown	33	Don't Know	1	1	Unknown	Occasional Drinker	Unknown
+exposure	ardac-dev_v0	exposure_41	follow_up_41	Yes	22	Years	0	5	Unknown	Drink	No
+exposure	ardac-dev_v0	exposure_42	follow_up_42	No	41	Refused	4	1	No	Not Reported	Yes
+exposure	ardac-dev_v0	exposure_43	follow_up_43	Unknown	47	Weeks	6	3	No	Not Reported	Yes
+exposure	ardac-dev_v0	exposure_44	follow_up_44	Yes	30	Days	3	4	Yes	Heavy Drinker	Yes
+exposure	ardac-dev_v0	exposure_45	follow_up_45	Yes	41	Weeks	5	9	Not Reported	Heavy Drinker	No
+exposure	ardac-dev_v0	exposure_46	follow_up_46	Yes	43	Don't Know	4	9	Not Reported	Non-Drinker	No
+exposure	ardac-dev_v0	exposure_47	follow_up_47	No	39	Refused	2	0	No	Lifelong- Non-Drinker	No
+exposure	ardac-dev_v0	exposure_48	follow_up_48	No	43	Don't Know	4	2	Unknown	Occasional Drinker	No
+exposure	ardac-dev_v0	exposure_49	follow_up_49	No	20	Days	8	6	Not Reported	Unknown	Unknown
+exposure	ardac-dev_v0	exposure_50	follow_up_50	Yes	47	Years	1	5	Yes	Drink	Unknown
+exposure	ardac-dev_v0	exposure_51	follow_up_51	Unknown	34	Refused	4	3	Unknown	Non-Drinker	Yes
+exposure	ardac-dev_v0	exposure_52	follow_up_52	No	46	Days	4	3	No	Occasional Drinker	Yes
+exposure	ardac-dev_v0	exposure_53	follow_up_53	No	31	Months	8	7	Unknown	Unknown	No
+exposure	ardac-dev_v0	exposure_54	follow_up_54	Unknown	17	Weeks	7	0	Yes	Occasional Drinker	Unknown
+exposure	ardac-dev_v0	exposure_55	follow_up_55	Yes	46	Refused	7	1	Yes	Heavy Drinker	No
+exposure	ardac-dev_v0	exposure_56	follow_up_56	Unknown	23	Weeks	3	4	Unknown	Non-Drinker	Yes
+exposure	ardac-dev_v0	exposure_57	follow_up_57	Unknown	49	Refused	0	5	Yes	Occasional Drinker	Unknown
+exposure	ardac-dev_v0	exposure_58	follow_up_58	Yes	17	Years	4	7	Not Reported	Occasional Drinker	Unknown
+exposure	ardac-dev_v0	exposure_59	follow_up_59	No	16	Weeks	7	5	Not Reported	Non-Drinker	Unknown
+exposure	ardac-dev_v0	exposure_60	follow_up_60	Yes	18	Months	7	0	Not Reported	Drink	Unknown
+exposure	ardac-dev_v0	exposure_61	follow_up_61	Unknown	14	Months	6	6	Not Reported	Not Reported	Yes
+exposure	ardac-dev_v0	exposure_62	follow_up_62	Yes	12	Don't Know	1	0	No	Unknown	Unknown
+exposure	ardac-dev_v0	exposure_63	follow_up_63	Yes	14	Days	7	7	No	Lifelong- Non-Drinker	No
+exposure	ardac-dev_v0	exposure_64	follow_up_64	Unknown	10	Days	8	1	Not Reported	Heavy Drinker	Unknown
+exposure	ardac-dev_v0	exposure_65	follow_up_65	Yes	45	Months	0	7	Unknown	Lifelong- Non-Drinker	Yes
+exposure	ardac-dev_v0	exposure_66	follow_up_66	Unknown	43	Refused	5	3	Not Reported	Occasional Drinker	No
+exposure	ardac-dev_v0	exposure_67	follow_up_67	No	17	Days	7	5	Yes	Unknown	No
+exposure	ardac-dev_v0	exposure_68	follow_up_68	Yes	17	Years	4	8	Yes	Unknown	No
+exposure	ardac-dev_v0	exposure_69	follow_up_69	Unknown	43	Unknown	8	0	Unknown	Lifelong- Non-Drinker	Yes
+exposure	ardac-dev_v0	exposure_70	follow_up_70	Yes	22	Weeks	6	2	Unknown	Heavy Drinker	No
+exposure	ardac-dev_v0	exposure_71	follow_up_71	Yes	20	Weeks	4	1	Not Reported	Non-Drinker	Yes
+exposure	ardac-dev_v0	exposure_72	follow_up_72	Yes	50	Unknown	8	8	Unknown	Not Reported	Yes
+exposure	ardac-dev_v0	exposure_73	follow_up_73	No	46	Months	5	5	No	Lifelong- Non-Drinker	Yes
+exposure	ardac-dev_v0	exposure_74	follow_up_74	Yes	26	Days	6	10	No	Heavy Drinker	Yes
+exposure	ardac-dev_v0	exposure_75	follow_up_75	Yes	30	Weeks	4	9	Unknown	Occasional Drinker	No
+exposure	ardac-dev_v0	exposure_76	follow_up_76	Unknown	22	Don't Know	0	7	Yes	Heavy Drinker	Unknown
+exposure	ardac-dev_v0	exposure_77	follow_up_77	No	35	Weeks	1	6	Not Reported	Drink	Unknown
+exposure	ardac-dev_v0	exposure_78	follow_up_78	No	30	Unknown	0	9	Not Reported	Unknown	No
+exposure	ardac-dev_v0	exposure_79	follow_up_79	Unknown	13	Don't Know	0	3	No	Drink	No
+exposure	ardac-dev_v0	exposure_80	follow_up_80	No	48	Unknown	6	2	Yes	Occasional Drinker	Unknown
+exposure	ardac-dev_v0	exposure_81	follow_up_81	Unknown	44	Refused	5	8	Unknown	Heavy Drinker	Yes
+exposure	ardac-dev_v0	exposure_82	follow_up_82	Yes	15	Refused	4	9	Not Reported	Occasional Drinker	No
+exposure	ardac-dev_v0	exposure_83	follow_up_83	No	22	Years	6	0	No	Drink	Unknown
+exposure	ardac-dev_v0	exposure_84	follow_up_84	Unknown	29	Days	8	10	Not Reported	Heavy Drinker	No
+exposure	ardac-dev_v0	exposure_85	follow_up_85	No	21	Refused	2	0	Yes	Non-Drinker	Unknown
+exposure	ardac-dev_v0	exposure_86	follow_up_86	Unknown	45	Don't Know	1	1	Yes	Occasional Drinker	Unknown
+exposure	ardac-dev_v0	exposure_87	follow_up_87	Unknown	45	Don't Know	8	10	Yes	Lifelong- Non-Drinker	No
+exposure	ardac-dev_v0	exposure_88	follow_up_88	Yes	50	Don't Know	8	6	Yes	Lifelong- Non-Drinker	Yes
+exposure	ardac-dev_v0	exposure_89	follow_up_89	No	40	Unknown	8	7	Not Reported	Not Reported	Yes
+exposure	ardac-dev_v0	exposure_90	follow_up_90	Yes	33	Don't Know	5	1	Unknown	Heavy Drinker	No
+exposure	ardac-dev_v0	exposure_91	follow_up_91	No	47	Weeks	6	7	Yes	Non-Drinker	Yes
+exposure	ardac-dev_v0	exposure_92	follow_up_92	Yes	16	Years	3	6	Not Reported	Drink	Unknown
+exposure	ardac-dev_v0	exposure_93	follow_up_93	No	21	Unknown	5	4	No	Drink	Yes
+exposure	ardac-dev_v0	exposure_94	follow_up_94	Yes	35	Weeks	4	6	Yes	Drink	No
+exposure	ardac-dev_v0	exposure_95	follow_up_95	Unknown	30	Refused	8	5	Unknown	Drink	Yes
+exposure	ardac-dev_v0	exposure_96	follow_up_96	No	44	Months	3	5	Unknown	Lifelong- Non-Drinker	No
+exposure	ardac-dev_v0	exposure_97	follow_up_97	Unknown	12	Years	1	0	Unknown	Unknown	Unknown
+exposure	ardac-dev_v0	exposure_98	follow_up_98	Unknown	45	Months	0	9	No	Unknown	No
+exposure	ardac-dev_v0	exposure_99	follow_up_99	No	42	Refused	0	6	Unknown	Occasional Drinker	Unknown
+exposure	ardac-dev_v0	exposure_100	follow_up_100	No	33	Days	8	1	Yes	Lifelong- Non-Drinker	No
+exposure	ardac-dev_v0	exposure_101	follow_up_101	Unknown	12	Years	2	9	Not Reported	Non-Drinker	Yes
+exposure	ardac-dev_v0	exposure_102	follow_up_102	No	40	Unknown	0	2	Unknown	Non-Drinker	Unknown
+exposure	ardac-dev_v0	exposure_103	follow_up_103	Yes	10	Years	7	0	No	Lifelong- Non-Drinker	No
+exposure	ardac-dev_v0	exposure_104	follow_up_104	Unknown	44	Days	8	6	Yes	Drink	Yes
+exposure	ardac-dev_v0	exposure_105	follow_up_105	No	31	Don't Know	0	0	Yes	Lifelong- Non-Drinker	Yes
+exposure	ardac-dev_v0	exposure_106	follow_up_106	Yes	26	Weeks	6	6	Unknown	Lifelong- Non-Drinker	No
+exposure	ardac-dev_v0	exposure_107	follow_up_107	No	45	Weeks	6	7	Unknown	Not Reported	No
+exposure	ardac-dev_v0	exposure_108	follow_up_108	No	30	Don't Know	8	5	No	Occasional Drinker	Unknown
+exposure	ardac-dev_v0	exposure_109	follow_up_109	Yes	41	Years	1	0	Not Reported	Not Reported	Yes
+exposure	ardac-dev_v0	exposure_110	follow_up_110	Unknown	23	Weeks	2	1	Yes	Drink	Yes
+exposure	ardac-dev_v0	exposure_111	follow_up_111	Yes	45	Weeks	3	1	Not Reported	Unknown	Yes
+exposure	ardac-dev_v0	exposure_112	follow_up_112	Yes	13	Years	4	3	Unknown	Non-Drinker	Unknown
+exposure	ardac-dev_v0	exposure_113	follow_up_113	Unknown	22	Days	1	9	Unknown	Lifelong- Non-Drinker	No
+exposure	ardac-dev_v0	exposure_114	follow_up_114	No	45	Unknown	2	2	No	Heavy Drinker	Unknown
+exposure	ardac-dev_v0	exposure_115	follow_up_115	No	37	Months	3	10	Unknown	Lifelong- Non-Drinker	Unknown
+exposure	ardac-dev_v0	exposure_116	follow_up_116	Unknown	45	Months	6	8	Yes	Occasional Drinker	Unknown
+exposure	ardac-dev_v0	exposure_117	follow_up_117	No	44	Refused	4	9	No	Unknown	No
+exposure	ardac-dev_v0	exposure_118	follow_up_118	No	14	Don't Know	2	2	No	Heavy Drinker	No
+exposure	ardac-dev_v0	exposure_119	follow_up_119	No	22	Refused	4	5	No	Unknown	Yes
+exposure	ardac-dev_v0	exposure_120	follow_up_120	No	46	Days	6	9	Unknown	Non-Drinker	No
+exposure	ardac-dev_v0	exposure_121	follow_up_121	No	20	Refused	5	10	Not Reported	Non-Drinker	Yes
+exposure	ardac-dev_v0	exposure_122	follow_up_122	Unknown	17	Days	0	3	No	Drink	Unknown
+exposure	ardac-dev_v0	exposure_123	follow_up_123	Yes	43	Don't Know	8	9	Not Reported	Occasional Drinker	Unknown
+exposure	ardac-dev_v0	exposure_124	follow_up_124	Yes	44	Years	6	5	Yes	Lifelong- Non-Drinker	No
+exposure	ardac-dev_v0	exposure_125	follow_up_125	Yes	29	Unknown	4	10	Yes	Non-Drinker	Yes
+exposure	ardac-dev_v0	exposure_126	follow_up_126	No	35	Weeks	7	3	Yes	Drink	Unknown
+exposure	ardac-dev_v0	exposure_127	follow_up_127	Unknown	27	Years	3	8	Not Reported	Drink	No
+exposure	ardac-dev_v0	exposure_128	follow_up_128	Unknown	35	Unknown	1	10	Unknown	Lifelong- Non-Drinker	No
+exposure	ardac-dev_v0	exposure_129	follow_up_129	Yes	42	Refused	8	2	Not Reported	Not Reported	Unknown
+exposure	ardac-dev_v0	exposure_130	follow_up_130	Yes	44	Don't Know	3	1	No	Heavy Drinker	Yes
+exposure	ardac-dev_v0	exposure_131	follow_up_131	Unknown	28	Refused	0	4	No	Lifelong- Non-Drinker	No
+exposure	ardac-dev_v0	exposure_132	follow_up_132	Unknown	22	Unknown	0	7	Not Reported	Unknown	Yes
+exposure	ardac-dev_v0	exposure_133	follow_up_133	Yes	24	Refused	6	4	Unknown	Non-Drinker	Unknown
+exposure	ardac-dev_v0	exposure_134	follow_up_134	No	42	Unknown	4	8	Not Reported	Not Reported	No
+exposure	ardac-dev_v0	exposure_135	follow_up_135	Yes	27	Don't Know	7	9	No	Occasional Drinker	No
+exposure	ardac-dev_v0	exposure_136	follow_up_136	No	21	Weeks	6	1	Unknown	Lifelong- Non-Drinker	Yes
+exposure	ardac-dev_v0	exposure_137	follow_up_137	Yes	47	Months	3	4	Not Reported	Not Reported	No
+exposure	ardac-dev_v0	exposure_138	follow_up_138	Unknown	18	Don't Know	6	8	Not Reported	Heavy Drinker	No
+exposure	ardac-dev_v0	exposure_139	follow_up_139	No	14	Years	6	1	Not Reported	Lifelong- Non-Drinker	No
+exposure	ardac-dev_v0	exposure_140	follow_up_140	Yes	40	Days	7	8	No	Occasional Drinker	Yes
+exposure	ardac-dev_v0	exposure_141	follow_up_141	Unknown	39	Days	7	9	Not Reported	Non-Drinker	Yes
+exposure	ardac-dev_v0	exposure_142	follow_up_142	No	50	Unknown	8	0	Yes	Occasional Drinker	Unknown
+exposure	ardac-dev_v0	exposure_143	follow_up_143	Yes	15	Days	5	4	No	Occasional Drinker	No
+exposure	ardac-dev_v0	exposure_144	follow_up_144	No	48	Days	3	6	Unknown	Occasional Drinker	Unknown
+exposure	ardac-dev_v0	exposure_145	follow_up_145	No	16	Refused	4	1	Not Reported	Lifelong- Non-Drinker	Unknown
+exposure	ardac-dev_v0	exposure_146	follow_up_146	Unknown	18	Refused	7	6	Unknown	Unknown	No
+exposure	ardac-dev_v0	exposure_147	follow_up_147	No	21	Unknown	0	7	Unknown	Non-Drinker	No
+exposure	ardac-dev_v0	exposure_148	follow_up_148	No	26	Weeks	8	4	No	Not Reported	Yes
+exposure	ardac-dev_v0	exposure_149	follow_up_149	Unknown	33	Years	6	4	Not Reported	Drink	Yes
+exposure	ardac-dev_v0	exposure_150	follow_up_150	Yes	12	Weeks	2	4	Unknown	Lifelong- Non-Drinker	Unknown
+exposure	ardac-dev_v0	exposure_151	follow_up_151	No	24	Years	1	5	Not Reported	Unknown	Unknown
+exposure	ardac-dev_v0	exposure_152	follow_up_152	No	37	Years	4	10	Yes	Drink	No
+exposure	ardac-dev_v0	exposure_153	follow_up_153	No	44	Months	3	3	No	Lifelong- Non-Drinker	No
+exposure	ardac-dev_v0	exposure_154	follow_up_154	Yes	16	Weeks	5	6	Yes	Unknown	Yes
+exposure	ardac-dev_v0	exposure_155	follow_up_155	Yes	41	Days	1	2	Unknown	Non-Drinker	No
+exposure	ardac-dev_v0	exposure_156	follow_up_156	Unknown	32	Unknown	0	6	No	Unknown	Unknown
+exposure	ardac-dev_v0	exposure_157	follow_up_157	Yes	47	Refused	3	8	Not Reported	Unknown	Yes
+exposure	ardac-dev_v0	exposure_158	follow_up_158	No	33	Days	0	4	Not Reported	Heavy Drinker	No
+exposure	ardac-dev_v0	exposure_159	follow_up_159	Unknown	34	Weeks	0	4	Yes	Drink	Yes
+exposure	ardac-dev_v0	exposure_160	follow_up_160	Yes	13	Years	7	9	Unknown	Drink	Unknown
+exposure	ardac-dev_v0	exposure_161	follow_up_161	No	23	Years	8	0	No	Heavy Drinker	No
+exposure	ardac-dev_v0	exposure_162	follow_up_162	Yes	45	Months	3	7	No	Non-Drinker	Yes
+exposure	ardac-dev_v0	exposure_163	follow_up_163	Yes	28	Unknown	4	9	Yes	Unknown	No
+exposure	ardac-dev_v0	exposure_164	follow_up_164	No	24	Years	4	1	No	Occasional Drinker	Unknown
+exposure	ardac-dev_v0	exposure_165	follow_up_165	Unknown	37	Refused	7	8	No	Not Reported	Yes
+exposure	ardac-dev_v0	exposure_166	follow_up_166	No	11	Weeks	3	10	Not Reported	Non-Drinker	Unknown
+exposure	ardac-dev_v0	exposure_167	follow_up_167	Yes	10	Weeks	1	5	Not Reported	Occasional Drinker	No
+exposure	ardac-dev_v0	exposure_168	follow_up_168	Unknown	26	Refused	0	9	Unknown	Heavy Drinker	No
+exposure	ardac-dev_v0	exposure_169	follow_up_169	Yes	12	Unknown	5	4	Not Reported	Occasional Drinker	No
+exposure	ardac-dev_v0	exposure_170	follow_up_170	Yes	34	Days	4	10	No	Unknown	Yes
+exposure	ardac-dev_v0	exposure_171	follow_up_171	No	50	Unknown	2	8	Not Reported	Not Reported	Unknown
+exposure	ardac-dev_v0	exposure_172	follow_up_172	Unknown	47	Days	5	0	Yes	Not Reported	No
+exposure	ardac-dev_v0	exposure_173	follow_up_173	Yes	12	Years	4	10	Yes	Unknown	Yes
+exposure	ardac-dev_v0	exposure_174	follow_up_174	Unknown	16	Refused	2	5	No	Occasional Drinker	No
+exposure	ardac-dev_v0	exposure_175	follow_up_175	Yes	31	Weeks	5	8	Yes	Unknown	Yes
+exposure	ardac-dev_v0	exposure_176	follow_up_176	Unknown	10	Days	2	5	Unknown	Unknown	Unknown
+exposure	ardac-dev_v0	exposure_177	follow_up_177	Yes	25	Weeks	2	3	Not Reported	Drink	Unknown
+exposure	ardac-dev_v0	exposure_178	follow_up_178	No	16	Refused	2	1	Unknown	Drink	Yes
+exposure	ardac-dev_v0	exposure_179	follow_up_179	Unknown	37	Weeks	2	7	Not Reported	Unknown	Yes
+exposure	ardac-dev_v0	exposure_180	follow_up_180	No	19	Unknown	8	3	No	Occasional Drinker	Yes
+exposure	ardac-dev_v0	exposure_181	follow_up_181	No	30	Refused	3	6	No	Drink	No
+exposure	ardac-dev_v0	exposure_182	follow_up_182	Yes	45	Days	1	5	Not Reported	Lifelong- Non-Drinker	Yes
+exposure	ardac-dev_v0	exposure_183	follow_up_183	No	33	Don't Know	0	7	Yes	Lifelong- Non-Drinker	Unknown
+exposure	ardac-dev_v0	exposure_184	follow_up_184	No	47	Unknown	1	2	No	Lifelong- Non-Drinker	Unknown
+exposure	ardac-dev_v0	exposure_185	follow_up_185	No	33	Years	2	9	Yes	Non-Drinker	Yes
+exposure	ardac-dev_v0	exposure_186	follow_up_186	Unknown	28	Don't Know	2	2	No	Heavy Drinker	Yes
+exposure	ardac-dev_v0	exposure_187	follow_up_187	No	33	Weeks	7	6	Yes	Lifelong- Non-Drinker	Unknown
+exposure	ardac-dev_v0	exposure_188	follow_up_188	Yes	10	Weeks	1	5	No	Unknown	Unknown
+exposure	ardac-dev_v0	exposure_189	follow_up_189	Unknown	45	Days	5	5	No	Drink	Unknown
+exposure	ardac-dev_v0	exposure_190	follow_up_190	No	18	Refused	4	5	Unknown	Drink	No
+exposure	ardac-dev_v0	exposure_191	follow_up_191	No	22	Days	8	3	Not Reported	Drink	Yes
+exposure	ardac-dev_v0	exposure_192	follow_up_192	No	45	Months	0	7	Not Reported	Non-Drinker	Unknown
+exposure	ardac-dev_v0	exposure_193	follow_up_193	Unknown	28	Weeks	2	7	No	Drink	No
+exposure	ardac-dev_v0	exposure_194	follow_up_194	No	46	Refused	3	8	Not Reported	Lifelong- Non-Drinker	No
+exposure	ardac-dev_v0	exposure_195	follow_up_195	Yes	46	Unknown	4	5	Not Reported	Unknown	Unknown
+exposure	ardac-dev_v0	exposure_196	follow_up_196	Unknown	29	Don't Know	1	7	Yes	Occasional Drinker	Yes
+exposure	ardac-dev_v0	exposure_197	follow_up_197	Unknown	41	Years	1	4	Unknown	Non-Drinker	Yes
+exposure	ardac-dev_v0	exposure_198	follow_up_198	Yes	31	Don't Know	7	2	No	Heavy Drinker	Unknown
+exposure	ardac-dev_v0	exposure_199	follow_up_199	Yes	34	Don't Know	0	0	Unknown	Unknown	Yes
+exposure	ardac-dev_v0	exposure_200	follow_up_200	Yes	29	Unknown	0	7	Not Reported	Drink	Unknown

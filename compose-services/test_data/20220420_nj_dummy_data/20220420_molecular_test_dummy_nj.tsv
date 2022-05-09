@@ -1,0 +1,401 @@
+*type	project_id	*submitter_id	*follow_ups.submitter_id	*gene_symbol	*molecular_analysis_method	*test_result	blood_test_normal_range_lower	blood_test_normal_range_upper	days_to_test	laboratory_test	test_value
+molecular_test	ardac-dev_v0	molecular_test_1	follow_up_1	ACVR2A	Immunofluorescence	Unknown	10	94	158	Estimated GFR	103
+molecular_test	ardac-dev_v0	molecular_test_2	follow_up_2	AFF3	Southern Blotting	Loss of Expression	1	97	176	Estimated GFR	115
+molecular_test	ardac-dev_v0	molecular_test_3	follow_up_3	AFF4	Microarray	Overexpressed	3	96	66	Estimated GFR	109
+molecular_test	ardac-dev_v0	molecular_test_4	follow_up_4	AFF1	PCR	Overexpressed	5	99	196	Estimated GFR	106
+molecular_test	ardac-dev_v0	molecular_test_5	follow_up_5	AFF1	Karyotype	Normal	7	90	264	Estimated GFR	99
+molecular_test	ardac-dev_v0	molecular_test_6	follow_up_6	ACVR2A	WXS	Normal	1	97	337	Estimated GFR	97
+molecular_test	ardac-dev_v0	molecular_test_7	follow_up_7	AFF1	Karyotype	Normal	9	91	260	Estimated GFR	85
+molecular_test	ardac-dev_v0	molecular_test_8	follow_up_8	AFF1	Unknown	Loss of Expression	10	99	218	Estimated GFR	104
+molecular_test	ardac-dev_v0	molecular_test_9	follow_up_9	ACVR2A	RNA Sequencing	Abnormal, NOS	6	99	41	Estimated GFR	108
+molecular_test	ardac-dev_v0	molecular_test_10	follow_up_10	AFF3	Southern Blotting	Unknown	5	96	267	Estimated GFR	99
+molecular_test	ardac-dev_v0	molecular_test_11	follow_up_11	AFF4	Comparative Genomic Hybridization	High	0	91	318	Estimated GFR	120
+molecular_test	ardac-dev_v0	molecular_test_12	follow_up_12	ACVR2A	Microsatellite Analysis	Unknown	3	95	133	Estimated GFR	120
+molecular_test	ardac-dev_v0	molecular_test_13	follow_up_13	AFF1	Karyotype	Positive	3	97	221	Estimated GFR	119
+molecular_test	ardac-dev_v0	molecular_test_14	follow_up_14	AFF4	Flow Cytometry	Intermediate	1	91	251	Estimated GFR	101
+molecular_test	ardac-dev_v0	molecular_test_15	follow_up_15	ACVR2A	Unknown	Negative	10	96	98	Estimated GFR	98
+molecular_test	ardac-dev_v0	molecular_test_16	follow_up_16	ACVR2A	Other	High	1	95	243	Estimated GFR	88
+molecular_test	ardac-dev_v0	molecular_test_17	follow_up_17	AFF4	Cytogenetics, NOS	Positive	1	97	87	Estimated GFR	99
+molecular_test	ardac-dev_v0	molecular_test_18	follow_up_18	AFF4	Karyotype	Unknown	9	98	235	Estimated GFR	94
+molecular_test	ardac-dev_v0	molecular_test_19	follow_up_19	AFF3	Not Reported	Unknown	0	95	160	Estimated GFR	115
+molecular_test	ardac-dev_v0	molecular_test_20	follow_up_20	AFF3	Unknown	Intermediate	6	100	320	Estimated GFR	86
+molecular_test	ardac-dev_v0	molecular_test_21	follow_up_21	ACVR2A	Other	High	9	91	53	Estimated GFR	120
+molecular_test	ardac-dev_v0	molecular_test_22	follow_up_22	AFF4	Cytogenetics, NOS	Intermediate	1	94	223	Estimated GFR	101
+molecular_test	ardac-dev_v0	molecular_test_23	follow_up_23	AFF4	Targeted Sequencing	Abnormal, NOS	7	92	190	Estimated GFR	115
+molecular_test	ardac-dev_v0	molecular_test_24	follow_up_24	AFF4	Karyotype	Equivocal	1	95	308	Estimated GFR	105
+molecular_test	ardac-dev_v0	molecular_test_25	follow_up_25	ACVR2A	IHC	Not Reported	0	98	284	Estimated GFR	86
+molecular_test	ardac-dev_v0	molecular_test_26	follow_up_26	AFF4	Microarray	Test Value Reported	5	98	309	Estimated GFR	93
+molecular_test	ardac-dev_v0	molecular_test_27	follow_up_27	AFF1	Microsatellite Analysis	Test Value Reported	0	98	30	Estimated GFR	105
+molecular_test	ardac-dev_v0	molecular_test_28	follow_up_28	AFF4	Other	Copy Number Reported	3	94	72	Estimated GFR	97
+molecular_test	ardac-dev_v0	molecular_test_29	follow_up_29	AFF1	Karyotype	Overexpressed	8	95	292	Estimated GFR	94
+molecular_test	ardac-dev_v0	molecular_test_30	follow_up_30	AFF4	Cytogenetics, NOS	High	4	91	315	Estimated GFR	103
+molecular_test	ardac-dev_v0	molecular_test_31	follow_up_31	AFF3	Targeted Sequencing	Loss of Expression	9	94	139	Estimated GFR	109
+molecular_test	ardac-dev_v0	molecular_test_32	follow_up_32	AFF3	Nuclear Staining	Test Value Reported	5	97	298	Estimated GFR	100
+molecular_test	ardac-dev_v0	molecular_test_33	follow_up_33	AFF4	ISH	Negative	3	91	67	Estimated GFR	88
+molecular_test	ardac-dev_v0	molecular_test_34	follow_up_34	AFF4	IHC	Normal	9	99	27	Estimated GFR	96
+molecular_test	ardac-dev_v0	molecular_test_35	follow_up_35	ACVR2A	FISH	Normal	8	91	117	Estimated GFR	111
+molecular_test	ardac-dev_v0	molecular_test_36	follow_up_36	AFF4	Cytogenetics, NOS	Overexpressed	9	92	75	Estimated GFR	103
+molecular_test	ardac-dev_v0	molecular_test_37	follow_up_37	ACVR2A	WGS	Normal	1	92	318	Estimated GFR	106
+molecular_test	ardac-dev_v0	molecular_test_38	follow_up_38	AFF4	Microsatellite Analysis	Abnormal, NOS	0	90	295	Estimated GFR	97
+molecular_test	ardac-dev_v0	molecular_test_39	follow_up_39	AFF4	RNA Sequencing	Equivocal	9	94	94	Estimated GFR	90
+molecular_test	ardac-dev_v0	molecular_test_40	follow_up_40	ACVR2A	Targeted Sequencing	Positive	10	90	40	Estimated GFR	118
+molecular_test	ardac-dev_v0	molecular_test_41	follow_up_41	AFF4	Southern Blotting	Equivocal	4	90	319	Estimated GFR	86
+molecular_test	ardac-dev_v0	molecular_test_42	follow_up_42	ACVR2A	Southern Blotting	Intermediate	9	91	356	Estimated GFR	95
+molecular_test	ardac-dev_v0	molecular_test_43	follow_up_43	AFF3	Cytogenetics, NOS	Normal	0	93	201	Estimated GFR	102
+molecular_test	ardac-dev_v0	molecular_test_44	follow_up_44	ACVR2A	Microsatellite Analysis	Equivocal	4	92	28	Estimated GFR	106
+molecular_test	ardac-dev_v0	molecular_test_45	follow_up_45	AFF3	RT-PCR	High	0	93	96	Estimated GFR	92
+molecular_test	ardac-dev_v0	molecular_test_46	follow_up_46	AFF3	Microarray	Overexpressed	5	93	136	Estimated GFR	108
+molecular_test	ardac-dev_v0	molecular_test_47	follow_up_47	AFF4	WGS	Abnormal, NOS	4	98	19	Estimated GFR	104
+molecular_test	ardac-dev_v0	molecular_test_48	follow_up_48	AFF3	Cytogenetics, NOS	Abnormal, NOS	4	95	196	Estimated GFR	101
+molecular_test	ardac-dev_v0	molecular_test_49	follow_up_49	AFF1	WXS	Abnormal, NOS	6	98	137	Estimated GFR	118
+molecular_test	ardac-dev_v0	molecular_test_50	follow_up_50	AFF1	Microarray	Low	10	98	47	Estimated GFR	115
+molecular_test	ardac-dev_v0	molecular_test_51	follow_up_51	AFF4	ISH	Positive	8	90	186	Estimated GFR	116
+molecular_test	ardac-dev_v0	molecular_test_52	follow_up_52	AFF1	Cytogenetics, NOS	Test Value Reported	9	97	159	Estimated GFR	117
+molecular_test	ardac-dev_v0	molecular_test_53	follow_up_53	AFF1	Cytogenetics, NOS	Unknown	9	95	325	Estimated GFR	100
+molecular_test	ardac-dev_v0	molecular_test_54	follow_up_54	AFF4	Microarray	Normal	0	92	7	Estimated GFR	113
+molecular_test	ardac-dev_v0	molecular_test_55	follow_up_55	AFF1	Targeted Sequencing	Equivocal	9	90	292	Estimated GFR	102
+molecular_test	ardac-dev_v0	molecular_test_56	follow_up_56	AFF3	IHC	Intermediate	6	90	13	Estimated GFR	111
+molecular_test	ardac-dev_v0	molecular_test_57	follow_up_57	AFF4	Immunofluorescence	Normal	5	92	294	Estimated GFR	108
+molecular_test	ardac-dev_v0	molecular_test_58	follow_up_58	AFF3	Karyotype	Abnormal, NOS	2	94	114	Estimated GFR	117
+molecular_test	ardac-dev_v0	molecular_test_59	follow_up_59	AFF1	IHC	Copy Number Reported	1	91	147	Estimated GFR	90
+molecular_test	ardac-dev_v0	molecular_test_60	follow_up_60	AFF3	RNA Sequencing	High	10	93	335	Estimated GFR	89
+molecular_test	ardac-dev_v0	molecular_test_61	follow_up_61	AFF3	Cytogenetics, NOS	Test Value Reported	7	97	227	Estimated GFR	97
+molecular_test	ardac-dev_v0	molecular_test_62	follow_up_62	ACVR2A	Targeted Sequencing	Loss of Expression	4	96	3	Estimated GFR	113
+molecular_test	ardac-dev_v0	molecular_test_63	follow_up_63	AFF3	Flow Cytometry	Equivocal	2	98	88	Estimated GFR	104
+molecular_test	ardac-dev_v0	molecular_test_64	follow_up_64	AFF3	Microarray	Intermediate	1	98	206	Estimated GFR	112
+molecular_test	ardac-dev_v0	molecular_test_65	follow_up_65	AFF4	Southern Blotting	Copy Number Reported	3	91	352	Estimated GFR	102
+molecular_test	ardac-dev_v0	molecular_test_66	follow_up_66	AFF4	Unknown	Loss of Expression	2	98	306	Estimated GFR	105
+molecular_test	ardac-dev_v0	molecular_test_67	follow_up_67	ACVR2A	FISH	Positive	4	99	101	Estimated GFR	85
+molecular_test	ardac-dev_v0	molecular_test_68	follow_up_68	AFF4	Unknown	Abnormal, NOS	6	90	24	Estimated GFR	105
+molecular_test	ardac-dev_v0	molecular_test_69	follow_up_69	ACVR2A	Sequencing, NOS	Normal	7	91	10	Estimated GFR	85
+molecular_test	ardac-dev_v0	molecular_test_70	follow_up_70	AFF3	RT-PCR	Normal	6	98	327	Estimated GFR	118
+molecular_test	ardac-dev_v0	molecular_test_71	follow_up_71	ACVR2A	RNA Sequencing	Overexpressed	4	94	182	Estimated GFR	87
+molecular_test	ardac-dev_v0	molecular_test_72	follow_up_72	AFF1	ISH	Negative	9	98	220	Estimated GFR	102
+molecular_test	ardac-dev_v0	molecular_test_73	follow_up_73	AFF4	Other	Normal	3	100	280	Estimated GFR	108
+molecular_test	ardac-dev_v0	molecular_test_74	follow_up_74	AFF4	Karyotype	Test Value Reported	1	99	139	Estimated GFR	105
+molecular_test	ardac-dev_v0	molecular_test_75	follow_up_75	AFF4	Karyotype	Positive	8	90	113	Estimated GFR	85
+molecular_test	ardac-dev_v0	molecular_test_76	follow_up_76	AFF4	Targeted Sequencing	Negative	0	98	271	Estimated GFR	104
+molecular_test	ardac-dev_v0	molecular_test_77	follow_up_77	AFF4	Unknown	Intermediate	10	99	353	Estimated GFR	99
+molecular_test	ardac-dev_v0	molecular_test_78	follow_up_78	AFF1	Immunofluorescence	High	1	99	105	Estimated GFR	114
+molecular_test	ardac-dev_v0	molecular_test_79	follow_up_79	ACVR2A	RT-PCR	Intermediate	10	99	322	Estimated GFR	93
+molecular_test	ardac-dev_v0	molecular_test_80	follow_up_80	AFF4	Not Reported	Low	3	100	77	Estimated GFR	120
+molecular_test	ardac-dev_v0	molecular_test_81	follow_up_81	AFF3	RT-PCR	Test Value Reported	7	91	346	Estimated GFR	115
+molecular_test	ardac-dev_v0	molecular_test_82	follow_up_82	AFF1	RT-PCR	Unknown	1	96	101	Estimated GFR	100
+molecular_test	ardac-dev_v0	molecular_test_83	follow_up_83	ACVR2A	Flow Cytometry	Abnormal, NOS	3	95	350	Estimated GFR	103
+molecular_test	ardac-dev_v0	molecular_test_84	follow_up_84	ACVR2A	Cytogenetics, NOS	Abnormal, NOS	8	96	170	Estimated GFR	109
+molecular_test	ardac-dev_v0	molecular_test_85	follow_up_85	ACVR2A	Southern Blotting	Test Value Reported	9	96	327	Estimated GFR	93
+molecular_test	ardac-dev_v0	molecular_test_86	follow_up_86	AFF1	PCR	Overexpressed	7	99	321	Estimated GFR	88
+molecular_test	ardac-dev_v0	molecular_test_87	follow_up_87	AFF1	Not Reported	Copy Number Reported	5	97	239	Estimated GFR	88
+molecular_test	ardac-dev_v0	molecular_test_88	follow_up_88	AFF4	Sequencing, NOS	Copy Number Reported	9	90	150	Estimated GFR	87
+molecular_test	ardac-dev_v0	molecular_test_89	follow_up_89	AFF4	RNA Sequencing	Negative	6	94	343	Estimated GFR	106
+molecular_test	ardac-dev_v0	molecular_test_90	follow_up_90	AFF4	Not Reported	Low	3	98	145	Estimated GFR	120
+molecular_test	ardac-dev_v0	molecular_test_91	follow_up_91	AFF4	FISH	Negative	4	90	218	Estimated GFR	117
+molecular_test	ardac-dev_v0	molecular_test_92	follow_up_92	ACVR2A	Sequencing, NOS	Test Value Reported	8	96	110	Estimated GFR	115
+molecular_test	ardac-dev_v0	molecular_test_93	follow_up_93	AFF4	Cytogenetics, NOS	Abnormal, NOS	5	90	35	Estimated GFR	95
+molecular_test	ardac-dev_v0	molecular_test_94	follow_up_94	ACVR2A	Flow Cytometry	Equivocal	10	90	7	Estimated GFR	92
+molecular_test	ardac-dev_v0	molecular_test_95	follow_up_95	ACVR2A	Southern Blotting	Test Value Reported	0	98	210	Estimated GFR	120
+molecular_test	ardac-dev_v0	molecular_test_96	follow_up_96	ACVR2A	Not Reported	Negative	3	98	342	Estimated GFR	95
+molecular_test	ardac-dev_v0	molecular_test_97	follow_up_97	ACVR2A	Other	Loss of Expression	5	92	275	Estimated GFR	93
+molecular_test	ardac-dev_v0	molecular_test_98	follow_up_98	AFF3	WXS	Not Reported	3	93	350	Estimated GFR	120
+molecular_test	ardac-dev_v0	molecular_test_99	follow_up_99	ACVR2A	Not Reported	High	10	97	40	Estimated GFR	106
+molecular_test	ardac-dev_v0	molecular_test_100	follow_up_100	AFF1	RNA Sequencing	Not Reported	4	90	298	Estimated GFR	104
+molecular_test	ardac-dev_v0	molecular_test_101	follow_up_101	AFF4	ISH	Negative	4	98	359	Estimated GFR	89
+molecular_test	ardac-dev_v0	molecular_test_102	follow_up_102	AFF3	Southern Blotting	Normal	5	98	263	Estimated GFR	116
+molecular_test	ardac-dev_v0	molecular_test_103	follow_up_103	AFF4	Karyotype	Test Value Reported	3	91	115	Estimated GFR	86
+molecular_test	ardac-dev_v0	molecular_test_104	follow_up_104	AFF4	Other	Not Reported	0	99	178	Estimated GFR	106
+molecular_test	ardac-dev_v0	molecular_test_105	follow_up_105	AFF3	Flow Cytometry	Loss of Expression	2	91	135	Estimated GFR	91
+molecular_test	ardac-dev_v0	molecular_test_106	follow_up_106	AFF1	Other	Normal	8	100	158	Estimated GFR	116
+molecular_test	ardac-dev_v0	molecular_test_107	follow_up_107	AFF4	Flow Cytometry	Not Reported	1	97	107	Estimated GFR	85
+molecular_test	ardac-dev_v0	molecular_test_108	follow_up_108	AFF1	RNA Sequencing	Test Value Reported	1	98	205	Estimated GFR	99
+molecular_test	ardac-dev_v0	molecular_test_109	follow_up_109	AFF3	Comparative Genomic Hybridization	Test Value Reported	5	95	332	Estimated GFR	89
+molecular_test	ardac-dev_v0	molecular_test_110	follow_up_110	AFF3	Southern Blotting	Low	4	98	56	Estimated GFR	87
+molecular_test	ardac-dev_v0	molecular_test_111	follow_up_111	AFF4	Microsatellite Analysis	High	4	93	317	Estimated GFR	87
+molecular_test	ardac-dev_v0	molecular_test_112	follow_up_112	ACVR2A	Comparative Genomic Hybridization	Positive	6	95	240	Estimated GFR	87
+molecular_test	ardac-dev_v0	molecular_test_113	follow_up_113	AFF3	Nuclear Staining	Test Value Reported	9	93	352	Estimated GFR	107
+molecular_test	ardac-dev_v0	molecular_test_114	follow_up_114	AFF4	WXS	Unknown	3	91	41	Estimated GFR	99
+molecular_test	ardac-dev_v0	molecular_test_115	follow_up_115	AFF3	Microarray	Low	4	98	28	Estimated GFR	86
+molecular_test	ardac-dev_v0	molecular_test_116	follow_up_116	AFF4	Microsatellite Analysis	Loss of Expression	0	93	351	Estimated GFR	115
+molecular_test	ardac-dev_v0	molecular_test_117	follow_up_117	ACVR2A	Unknown	Not Reported	0	94	224	Estimated GFR	90
+molecular_test	ardac-dev_v0	molecular_test_118	follow_up_118	AFF1	Microsatellite Analysis	Abnormal, NOS	9	93	349	Estimated GFR	90
+molecular_test	ardac-dev_v0	molecular_test_119	follow_up_119	AFF4	Flow Cytometry	Abnormal, NOS	9	100	261	Estimated GFR	111
+molecular_test	ardac-dev_v0	molecular_test_120	follow_up_120	ACVR2A	Unknown	Unknown	6	99	73	Estimated GFR	110
+molecular_test	ardac-dev_v0	molecular_test_121	follow_up_121	AFF3	Flow Cytometry	Test Value Reported	2	92	13	Estimated GFR	116
+molecular_test	ardac-dev_v0	molecular_test_122	follow_up_122	ACVR2A	Flow Cytometry	Equivocal	3	95	226	Estimated GFR	107
+molecular_test	ardac-dev_v0	molecular_test_123	follow_up_123	AFF4	Southern Blotting	Low	9	98	13	Estimated GFR	113
+molecular_test	ardac-dev_v0	molecular_test_124	follow_up_124	AFF3	Targeted Sequencing	Not Reported	3	92	109	Estimated GFR	97
+molecular_test	ardac-dev_v0	molecular_test_125	follow_up_125	AFF3	Not Reported	Intermediate	2	98	307	Estimated GFR	95
+molecular_test	ardac-dev_v0	molecular_test_126	follow_up_126	AFF1	Unknown	Overexpressed	10	91	246	Estimated GFR	92
+molecular_test	ardac-dev_v0	molecular_test_127	follow_up_127	AFF1	RNA Sequencing	Loss of Expression	9	93	189	Estimated GFR	93
+molecular_test	ardac-dev_v0	molecular_test_128	follow_up_128	AFF1	WGS	Low	0	98	85	Estimated GFR	88
+molecular_test	ardac-dev_v0	molecular_test_129	follow_up_129	ACVR2A	Immunofluorescence	Test Value Reported	9	96	217	Estimated GFR	85
+molecular_test	ardac-dev_v0	molecular_test_130	follow_up_130	AFF4	Unknown	Not Reported	3	98	222	Estimated GFR	98
+molecular_test	ardac-dev_v0	molecular_test_131	follow_up_131	AFF4	Unknown	Negative	1	91	229	Estimated GFR	119
+molecular_test	ardac-dev_v0	molecular_test_132	follow_up_132	ACVR2A	WGS	Overexpressed	10	94	183	Estimated GFR	98
+molecular_test	ardac-dev_v0	molecular_test_133	follow_up_133	AFF1	RT-PCR	Abnormal, NOS	9	95	344	Estimated GFR	103
+molecular_test	ardac-dev_v0	molecular_test_134	follow_up_134	AFF1	Southern Blotting	Equivocal	9	95	338	Estimated GFR	118
+molecular_test	ardac-dev_v0	molecular_test_135	follow_up_135	ACVR2A	WXS	Positive	9	95	261	Estimated GFR	91
+molecular_test	ardac-dev_v0	molecular_test_136	follow_up_136	ACVR2A	Unknown	Abnormal, NOS	0	97	120	Estimated GFR	113
+molecular_test	ardac-dev_v0	molecular_test_137	follow_up_137	ACVR2A	Other	Overexpressed	4	90	105	Estimated GFR	102
+molecular_test	ardac-dev_v0	molecular_test_138	follow_up_138	AFF1	Nuclear Staining	Equivocal	2	91	191	Estimated GFR	106
+molecular_test	ardac-dev_v0	molecular_test_139	follow_up_139	AFF3	Nuclear Staining	Intermediate	9	96	89	Estimated GFR	88
+molecular_test	ardac-dev_v0	molecular_test_140	follow_up_140	ACVR2A	Flow Cytometry	High	4	90	296	Estimated GFR	113
+molecular_test	ardac-dev_v0	molecular_test_141	follow_up_141	AFF4	Microsatellite Analysis	Not Reported	4	94	126	Estimated GFR	97
+molecular_test	ardac-dev_v0	molecular_test_142	follow_up_142	ACVR2A	ISH	Copy Number Reported	0	95	234	Estimated GFR	99
+molecular_test	ardac-dev_v0	molecular_test_143	follow_up_143	AFF3	RT-PCR	High	0	91	256	Estimated GFR	114
+molecular_test	ardac-dev_v0	molecular_test_144	follow_up_144	ACVR2A	WXS	Copy Number Reported	4	100	311	Estimated GFR	97
+molecular_test	ardac-dev_v0	molecular_test_145	follow_up_145	AFF3	WXS	Positive	3	100	318	Estimated GFR	117
+molecular_test	ardac-dev_v0	molecular_test_146	follow_up_146	AFF4	WGS	Abnormal, NOS	4	94	188	Estimated GFR	104
+molecular_test	ardac-dev_v0	molecular_test_147	follow_up_147	AFF1	Nuclear Staining	Negative	2	92	264	Estimated GFR	102
+molecular_test	ardac-dev_v0	molecular_test_148	follow_up_148	AFF3	Southern Blotting	Negative	7	93	97	Estimated GFR	86
+molecular_test	ardac-dev_v0	molecular_test_149	follow_up_149	ACVR2A	WGS	Copy Number Reported	8	93	254	Estimated GFR	111
+molecular_test	ardac-dev_v0	molecular_test_150	follow_up_150	AFF1	RT-PCR	Loss of Expression	2	91	95	Estimated GFR	111
+molecular_test	ardac-dev_v0	molecular_test_151	follow_up_151	AFF4	Nuclear Staining	Intermediate	5	98	107	Estimated GFR	107
+molecular_test	ardac-dev_v0	molecular_test_152	follow_up_152	AFF3	Cytogenetics, NOS	Positive	1	96	218	Estimated GFR	117
+molecular_test	ardac-dev_v0	molecular_test_153	follow_up_153	ACVR2A	WGS	Not Reported	6	99	203	Estimated GFR	99
+molecular_test	ardac-dev_v0	molecular_test_154	follow_up_154	ACVR2A	Comparative Genomic Hybridization	Negative	9	93	359	Estimated GFR	114
+molecular_test	ardac-dev_v0	molecular_test_155	follow_up_155	AFF4	Flow Cytometry	Test Value Reported	4	99	362	Estimated GFR	87
+molecular_test	ardac-dev_v0	molecular_test_156	follow_up_156	AFF1	WGS	Low	10	90	340	Estimated GFR	111
+molecular_test	ardac-dev_v0	molecular_test_157	follow_up_157	AFF1	Unknown	Normal	4	99	160	Estimated GFR	101
+molecular_test	ardac-dev_v0	molecular_test_158	follow_up_158	AFF1	Not Reported	Abnormal, NOS	6	97	201	Estimated GFR	118
+molecular_test	ardac-dev_v0	molecular_test_159	follow_up_159	AFF4	ISH	Normal	0	98	90	Estimated GFR	86
+molecular_test	ardac-dev_v0	molecular_test_160	follow_up_160	ACVR2A	Other	High	0	99	56	Estimated GFR	88
+molecular_test	ardac-dev_v0	molecular_test_161	follow_up_161	AFF1	RNA Sequencing	Normal	2	93	39	Estimated GFR	94
+molecular_test	ardac-dev_v0	molecular_test_162	follow_up_162	AFF1	RNA Sequencing	Unknown	10	92	318	Estimated GFR	114
+molecular_test	ardac-dev_v0	molecular_test_163	follow_up_163	ACVR2A	Cytogenetics, NOS	Negative	8	90	106	Estimated GFR	119
+molecular_test	ardac-dev_v0	molecular_test_164	follow_up_164	AFF3	Nuclear Staining	Equivocal	6	95	37	Estimated GFR	120
+molecular_test	ardac-dev_v0	molecular_test_165	follow_up_165	ACVR2A	Unknown	Loss of Expression	4	97	281	Estimated GFR	101
+molecular_test	ardac-dev_v0	molecular_test_166	follow_up_166	AFF1	Unknown	Normal	10	100	138	Estimated GFR	102
+molecular_test	ardac-dev_v0	molecular_test_167	follow_up_167	AFF4	FISH	Unknown	7	98	236	Estimated GFR	119
+molecular_test	ardac-dev_v0	molecular_test_168	follow_up_168	AFF3	IHC	Intermediate	9	96	60	Estimated GFR	116
+molecular_test	ardac-dev_v0	molecular_test_169	follow_up_169	AFF4	RNA Sequencing	Negative	5	99	144	Estimated GFR	108
+molecular_test	ardac-dev_v0	molecular_test_170	follow_up_170	ACVR2A	Targeted Sequencing	Negative	1	90	144	Estimated GFR	92
+molecular_test	ardac-dev_v0	molecular_test_171	follow_up_171	AFF4	Flow Cytometry	Overexpressed	8	100	144	Estimated GFR	92
+molecular_test	ardac-dev_v0	molecular_test_172	follow_up_172	AFF3	RT-PCR	Equivocal	8	97	348	Estimated GFR	87
+molecular_test	ardac-dev_v0	molecular_test_173	follow_up_173	ACVR2A	Unknown	Positive	9	95	155	Estimated GFR	92
+molecular_test	ardac-dev_v0	molecular_test_174	follow_up_174	AFF3	Targeted Sequencing	Negative	6	97	130	Estimated GFR	96
+molecular_test	ardac-dev_v0	molecular_test_175	follow_up_175	AFF1	Comparative Genomic Hybridization	Positive	9	96	199	Estimated GFR	113
+molecular_test	ardac-dev_v0	molecular_test_176	follow_up_176	AFF1	RT-PCR	Normal	6	94	201	Estimated GFR	119
+molecular_test	ardac-dev_v0	molecular_test_177	follow_up_177	AFF1	RNA Sequencing	Normal	9	92	49	Estimated GFR	93
+molecular_test	ardac-dev_v0	molecular_test_178	follow_up_178	AFF3	IHC	Copy Number Reported	1	98	249	Estimated GFR	100
+molecular_test	ardac-dev_v0	molecular_test_179	follow_up_179	AFF4	RNA Sequencing	Unknown	6	100	6	Estimated GFR	114
+molecular_test	ardac-dev_v0	molecular_test_180	follow_up_180	AFF4	Karyotype	Unknown	10	92	226	Estimated GFR	91
+molecular_test	ardac-dev_v0	molecular_test_181	follow_up_181	AFF1	WXS	Normal	2	92	52	Estimated GFR	92
+molecular_test	ardac-dev_v0	molecular_test_182	follow_up_182	AFF3	Karyotype	Overexpressed	7	93	215	Estimated GFR	88
+molecular_test	ardac-dev_v0	molecular_test_183	follow_up_183	AFF4	Targeted Sequencing	Intermediate	4	93	181	Estimated GFR	85
+molecular_test	ardac-dev_v0	molecular_test_184	follow_up_184	AFF4	Unknown	Positive	5	96	134	Estimated GFR	102
+molecular_test	ardac-dev_v0	molecular_test_185	follow_up_185	AFF4	Targeted Sequencing	Loss of Expression	7	94	160	Estimated GFR	104
+molecular_test	ardac-dev_v0	molecular_test_186	follow_up_186	ACVR2A	Unknown	Not Reported	6	96	138	Estimated GFR	105
+molecular_test	ardac-dev_v0	molecular_test_187	follow_up_187	AFF4	Other	Abnormal, NOS	0	98	282	Estimated GFR	91
+molecular_test	ardac-dev_v0	molecular_test_188	follow_up_188	ACVR2A	Karyotype	Positive	9	95	246	Estimated GFR	109
+molecular_test	ardac-dev_v0	molecular_test_189	follow_up_189	AFF3	Comparative Genomic Hybridization	Intermediate	2	90	63	Estimated GFR	95
+molecular_test	ardac-dev_v0	molecular_test_190	follow_up_190	ACVR2A	ISH	Overexpressed	8	98	76	Estimated GFR	87
+molecular_test	ardac-dev_v0	molecular_test_191	follow_up_191	ACVR2A	PCR	Positive	5	94	329	Estimated GFR	88
+molecular_test	ardac-dev_v0	molecular_test_192	follow_up_192	AFF3	Not Reported	Loss of Expression	2	94	210	Estimated GFR	116
+molecular_test	ardac-dev_v0	molecular_test_193	follow_up_193	AFF1	Cytogenetics, NOS	Unknown	9	96	75	Estimated GFR	92
+molecular_test	ardac-dev_v0	molecular_test_194	follow_up_194	AFF1	Targeted Sequencing	Normal	0	95	347	Estimated GFR	118
+molecular_test	ardac-dev_v0	molecular_test_195	follow_up_195	AFF3	Targeted Sequencing	Low	7	98	285	Estimated GFR	94
+molecular_test	ardac-dev_v0	molecular_test_196	follow_up_196	AFF3	Flow Cytometry	Loss of Expression	2	95	344	Estimated GFR	99
+molecular_test	ardac-dev_v0	molecular_test_197	follow_up_197	AFF4	Karyotype	Low	3	94	39	Estimated GFR	114
+molecular_test	ardac-dev_v0	molecular_test_198	follow_up_198	ACVR2A	Unknown	Normal	5	90	250	Estimated GFR	101
+molecular_test	ardac-dev_v0	molecular_test_199	follow_up_199	AFF4	PCR	Unknown	0	96	264	Estimated GFR	117
+molecular_test	ardac-dev_v0	molecular_test_200	follow_up_200	ACVR2A	RT-PCR	Loss of Expression	2	90	233	Estimated GFR	98
+molecular_test	ardac-dev_v0	molecular_test_201	follow_up_201	AFF1	Flow Cytometry	Equivocal	5	100	123	Estimated GFR	120
+molecular_test	ardac-dev_v0	molecular_test_202	follow_up_202	AFF3	Not Reported	Loss of Expression	7	92	115	Estimated GFR	92
+molecular_test	ardac-dev_v0	molecular_test_203	follow_up_203	AFF3	Flow Cytometry	Unknown	8	93	192	Estimated GFR	107
+molecular_test	ardac-dev_v0	molecular_test_204	follow_up_204	AFF3	Not Reported	Intermediate	1	94	172	Estimated GFR	86
+molecular_test	ardac-dev_v0	molecular_test_205	follow_up_205	AFF4	ISH	Positive	3	94	268	Estimated GFR	105
+molecular_test	ardac-dev_v0	molecular_test_206	follow_up_206	AFF3	Cytogenetics, NOS	Normal	6	95	222	Estimated GFR	93
+molecular_test	ardac-dev_v0	molecular_test_207	follow_up_207	AFF1	Flow Cytometry	Not Reported	6	92	169	Estimated GFR	97
+molecular_test	ardac-dev_v0	molecular_test_208	follow_up_208	ACVR2A	Karyotype	Positive	7	94	102	Estimated GFR	99
+molecular_test	ardac-dev_v0	molecular_test_209	follow_up_209	AFF4	Microarray	Normal	1	97	206	Estimated GFR	109
+molecular_test	ardac-dev_v0	molecular_test_210	follow_up_210	AFF3	Comparative Genomic Hybridization	Not Reported	3	100	40	Estimated GFR	119
+molecular_test	ardac-dev_v0	molecular_test_211	follow_up_211	AFF4	Cytogenetics, NOS	Unknown	10	96	280	Estimated GFR	119
+molecular_test	ardac-dev_v0	molecular_test_212	follow_up_212	AFF1	Sequencing, NOS	Intermediate	3	92	337	Estimated GFR	90
+molecular_test	ardac-dev_v0	molecular_test_213	follow_up_213	AFF3	ISH	Overexpressed	9	95	243	Estimated GFR	88
+molecular_test	ardac-dev_v0	molecular_test_214	follow_up_214	AFF4	Other	Copy Number Reported	8	94	182	Estimated GFR	114
+molecular_test	ardac-dev_v0	molecular_test_215	follow_up_215	AFF4	PCR	Not Reported	4	96	188	Estimated GFR	91
+molecular_test	ardac-dev_v0	molecular_test_216	follow_up_216	AFF1	Microsatellite Analysis	Unknown	2	94	199	Estimated GFR	103
+molecular_test	ardac-dev_v0	molecular_test_217	follow_up_217	AFF4	Unknown	Normal	2	90	28	Estimated GFR	118
+molecular_test	ardac-dev_v0	molecular_test_218	follow_up_218	AFF1	Unknown	Unknown	7	94	72	Estimated GFR	100
+molecular_test	ardac-dev_v0	molecular_test_219	follow_up_219	AFF3	Unknown	Overexpressed	10	93	182	Estimated GFR	94
+molecular_test	ardac-dev_v0	molecular_test_220	follow_up_220	AFF3	Cytogenetics, NOS	Copy Number Reported	10	91	41	Estimated GFR	87
+molecular_test	ardac-dev_v0	molecular_test_221	follow_up_221	AFF1	Flow Cytometry	Not Reported	0	93	54	Estimated GFR	103
+molecular_test	ardac-dev_v0	molecular_test_222	follow_up_222	ACVR2A	Cytogenetics, NOS	High	6	93	60	Estimated GFR	103
+molecular_test	ardac-dev_v0	molecular_test_223	follow_up_223	ACVR2A	Microarray	Copy Number Reported	7	98	85	Estimated GFR	89
+molecular_test	ardac-dev_v0	molecular_test_224	follow_up_224	AFF3	Unknown	High	8	92	204	Estimated GFR	120
+molecular_test	ardac-dev_v0	molecular_test_225	follow_up_225	AFF3	Karyotype	Not Reported	1	99	96	Estimated GFR	108
+molecular_test	ardac-dev_v0	molecular_test_226	follow_up_226	AFF1	Microarray	Abnormal, NOS	6	99	66	Estimated GFR	85
+molecular_test	ardac-dev_v0	molecular_test_227	follow_up_227	ACVR2A	ISH	Abnormal, NOS	1	98	139	Estimated GFR	120
+molecular_test	ardac-dev_v0	molecular_test_228	follow_up_228	AFF1	Southern Blotting	Not Reported	10	100	114	Estimated GFR	111
+molecular_test	ardac-dev_v0	molecular_test_229	follow_up_229	ACVR2A	IHC	Positive	7	93	284	Estimated GFR	115
+molecular_test	ardac-dev_v0	molecular_test_230	follow_up_230	AFF4	Karyotype	Intermediate	4	92	246	Estimated GFR	110
+molecular_test	ardac-dev_v0	molecular_test_231	follow_up_231	AFF3	Targeted Sequencing	Copy Number Reported	0	94	67	Estimated GFR	102
+molecular_test	ardac-dev_v0	molecular_test_232	follow_up_232	AFF3	Unknown	Intermediate	4	96	112	Estimated GFR	89
+molecular_test	ardac-dev_v0	molecular_test_233	follow_up_233	AFF1	WXS	Copy Number Reported	2	99	102	Estimated GFR	93
+molecular_test	ardac-dev_v0	molecular_test_234	follow_up_234	AFF1	Flow Cytometry	Low	3	94	218	Estimated GFR	93
+molecular_test	ardac-dev_v0	molecular_test_235	follow_up_235	AFF4	IHC	Normal	6	93	22	Estimated GFR	101
+molecular_test	ardac-dev_v0	molecular_test_236	follow_up_236	AFF1	Not Reported	Test Value Reported	2	90	187	Estimated GFR	112
+molecular_test	ardac-dev_v0	molecular_test_237	follow_up_237	ACVR2A	FISH	High	5	92	279	Estimated GFR	101
+molecular_test	ardac-dev_v0	molecular_test_238	follow_up_238	ACVR2A	Microsatellite Analysis	Equivocal	1	98	362	Estimated GFR	107
+molecular_test	ardac-dev_v0	molecular_test_239	follow_up_239	AFF1	Sequencing, NOS	Overexpressed	1	99	300	Estimated GFR	115
+molecular_test	ardac-dev_v0	molecular_test_240	follow_up_240	ACVR2A	Flow Cytometry	Loss of Expression	9	96	69	Estimated GFR	85
+molecular_test	ardac-dev_v0	molecular_test_241	follow_up_241	AFF3	Other	Not Reported	3	94	305	Estimated GFR	102
+molecular_test	ardac-dev_v0	molecular_test_242	follow_up_242	ACVR2A	Comparative Genomic Hybridization	Negative	10	93	263	Estimated GFR	98
+molecular_test	ardac-dev_v0	molecular_test_243	follow_up_243	AFF4	Targeted Sequencing	Test Value Reported	1	96	9	Estimated GFR	106
+molecular_test	ardac-dev_v0	molecular_test_244	follow_up_244	AFF3	FISH	Overexpressed	0	98	145	Estimated GFR	92
+molecular_test	ardac-dev_v0	molecular_test_245	follow_up_245	AFF4	Comparative Genomic Hybridization	Loss of Expression	8	93	47	Estimated GFR	88
+molecular_test	ardac-dev_v0	molecular_test_246	follow_up_246	ACVR2A	RT-PCR	Copy Number Reported	9	99	301	Estimated GFR	88
+molecular_test	ardac-dev_v0	molecular_test_247	follow_up_247	AFF1	FISH	Abnormal, NOS	5	98	276	Estimated GFR	98
+molecular_test	ardac-dev_v0	molecular_test_248	follow_up_248	AFF3	PCR	Intermediate	0	92	343	Estimated GFR	109
+molecular_test	ardac-dev_v0	molecular_test_249	follow_up_249	AFF3	Sequencing, NOS	Abnormal, NOS	8	99	169	Estimated GFR	97
+molecular_test	ardac-dev_v0	molecular_test_250	follow_up_250	ACVR2A	Unknown	Abnormal, NOS	10	94	252	Estimated GFR	117
+molecular_test	ardac-dev_v0	molecular_test_251	follow_up_251	AFF3	ISH	Copy Number Reported	5	92	78	Estimated GFR	48
+molecular_test	ardac-dev_v0	molecular_test_252	follow_up_252	AFF1	PCR	Low	0	93	71	Estimated GFR	49
+molecular_test	ardac-dev_v0	molecular_test_253	follow_up_253	ACVR2A	FISH	Intermediate	7	100	75	Estimated GFR	48
+molecular_test	ardac-dev_v0	molecular_test_254	follow_up_254	AFF3	Southern Blotting	Unknown	1	94	37	Estimated GFR	56
+molecular_test	ardac-dev_v0	molecular_test_255	follow_up_255	AFF1	Cytogenetics, NOS	Unknown	4	98	31	Estimated GFR	53
+molecular_test	ardac-dev_v0	molecular_test_256	follow_up_256	AFF1	IHC	Not Reported	9	90	15	Estimated GFR	56
+molecular_test	ardac-dev_v0	molecular_test_257	follow_up_257	AFF3	Not Reported	Copy Number Reported	6	96	66	Estimated GFR	33
+molecular_test	ardac-dev_v0	molecular_test_258	follow_up_258	AFF3	Microarray	Normal	7	93	124	Estimated GFR	51
+molecular_test	ardac-dev_v0	molecular_test_259	follow_up_259	ACVR2A	Flow Cytometry	Low	1	91	247	Estimated GFR	54
+molecular_test	ardac-dev_v0	molecular_test_260	follow_up_260	AFF3	FISH	Equivocal	4	92	270	Estimated GFR	57
+molecular_test	ardac-dev_v0	molecular_test_261	follow_up_261	AFF3	FISH	Low	7	97	56	Estimated GFR	17
+molecular_test	ardac-dev_v0	molecular_test_262	follow_up_262	ACVR2A	RNA Sequencing	Overexpressed	2	90	278	Estimated GFR	23
+molecular_test	ardac-dev_v0	molecular_test_263	follow_up_263	ACVR2A	Flow Cytometry	Equivocal	6	94	101	Estimated GFR	27
+molecular_test	ardac-dev_v0	molecular_test_264	follow_up_264	AFF1	WXS	High	2	93	52	Estimated GFR	24
+molecular_test	ardac-dev_v0	molecular_test_265	follow_up_265	AFF1	WGS	Overexpressed	10	91	224	Estimated GFR	16
+molecular_test	ardac-dev_v0	molecular_test_266	follow_up_266	AFF1	WXS	Low	1	97	73	Estimated GFR	17
+molecular_test	ardac-dev_v0	molecular_test_267	follow_up_267	ACVR2A	Other	Overexpressed	4	95	349	Estimated GFR	23
+molecular_test	ardac-dev_v0	molecular_test_268	follow_up_268	AFF3	Comparative Genomic Hybridization	Not Reported	2	95	178	Estimated GFR	20
+molecular_test	ardac-dev_v0	molecular_test_269	follow_up_269	ACVR2A	RT-PCR	High	7	97	60	Estimated GFR	17
+molecular_test	ardac-dev_v0	molecular_test_270	follow_up_270	AFF3	Immunofluorescence	Positive	10	98	77	Estimated GFR	17
+molecular_test	ardac-dev_v0	molecular_test_271	follow_up_271	AFF4	WXS	Low	6	96	209	Estimated GFR	5
+molecular_test	ardac-dev_v0	molecular_test_272	follow_up_272	AFF3	PCR	Abnormal, NOS	1	94	360	Estimated GFR	4
+molecular_test	ardac-dev_v0	molecular_test_273	follow_up_273	AFF4	Immunofluorescence	Not Reported	9	91	173	Estimated GFR	12
+molecular_test	ardac-dev_v0	molecular_test_274	follow_up_274	AFF3	ISH	Intermediate	4	94	191	Estimated GFR	4
+molecular_test	ardac-dev_v0	molecular_test_275	follow_up_275	AFF4	FISH	Equivocal	9	98	302	Estimated GFR	15
+molecular_test	ardac-dev_v0	molecular_test_276	follow_up_276	AFF4	ISH	Intermediate	4	95	195	Estimated GFR	4
+molecular_test	ardac-dev_v0	molecular_test_277	follow_up_277	AFF1	Comparative Genomic Hybridization	Low	5	94	51	Estimated GFR	13
+molecular_test	ardac-dev_v0	molecular_test_278	follow_up_278	ACVR2A	Flow Cytometry	Not Reported	0	95	288	Estimated GFR	1
+molecular_test	ardac-dev_v0	molecular_test_279	follow_up_279	AFF1	Microarray	Normal	4	97	22	Estimated GFR	14
+molecular_test	ardac-dev_v0	molecular_test_280	follow_up_280	AFF1	Microsatellite Analysis	Unknown	1	95	36	Estimated GFR	3
+molecular_test	ardac-dev_v0	molecular_test_281	follow_up_281	ACVR2A	PCR	Abnormal, NOS	8	98	273	Estimated GFR	46
+molecular_test	ardac-dev_v0	molecular_test_282	follow_up_282	AFF4	Flow Cytometry	Low	9	94	282	Estimated GFR	41
+molecular_test	ardac-dev_v0	molecular_test_283	follow_up_283	AFF1	IHC	Overexpressed	2	97	143	Estimated GFR	59
+molecular_test	ardac-dev_v0	molecular_test_284	follow_up_284	ACVR2A	Nuclear Staining	Abnormal, NOS	0	97	140	Estimated GFR	51
+molecular_test	ardac-dev_v0	molecular_test_285	follow_up_285	AFF1	PCR	Positive	2	90	204	Estimated GFR	47
+molecular_test	ardac-dev_v0	molecular_test_286	follow_up_286	AFF3	Flow Cytometry	Overexpressed	8	99	218	Estimated GFR	59
+molecular_test	ardac-dev_v0	molecular_test_287	follow_up_287	AFF4	Nuclear Staining	Normal	6	100	191	Estimated GFR	34
+molecular_test	ardac-dev_v0	molecular_test_288	follow_up_288	AFF3	Immunofluorescence	Not Reported	8	97	300	Estimated GFR	56
+molecular_test	ardac-dev_v0	molecular_test_289	follow_up_289	AFF4	Flow Cytometry	High	5	91	295	Estimated GFR	38
+molecular_test	ardac-dev_v0	molecular_test_290	follow_up_290	AFF3	FISH	Not Reported	7	94	340	Estimated GFR	31
+molecular_test	ardac-dev_v0	molecular_test_291	follow_up_291	AFF1	Immunofluorescence	Negative	1	96	296	Estimated GFR	15
+molecular_test	ardac-dev_v0	molecular_test_292	follow_up_292	AFF4	Southern Blotting	High	5	95	207	Estimated GFR	27
+molecular_test	ardac-dev_v0	molecular_test_293	follow_up_293	AFF3	PCR	Loss of Expression	9	96	336	Estimated GFR	19
+molecular_test	ardac-dev_v0	molecular_test_294	follow_up_294	AFF1	FISH	Copy Number Reported	4	90	56	Estimated GFR	28
+molecular_test	ardac-dev_v0	molecular_test_295	follow_up_295	AFF3	Other	Overexpressed	2	94	352	Estimated GFR	16
+molecular_test	ardac-dev_v0	molecular_test_296	follow_up_296	AFF3	Not Reported	Unknown	8	91	93	Estimated GFR	26
+molecular_test	ardac-dev_v0	molecular_test_297	follow_up_297	AFF3	Karyotype	Equivocal	5	90	254	Estimated GFR	16
+molecular_test	ardac-dev_v0	molecular_test_298	follow_up_298	ACVR2A	WGS	Overexpressed	10	96	286	Estimated GFR	29
+molecular_test	ardac-dev_v0	molecular_test_299	follow_up_299	AFF3	FISH	Loss of Expression	8	93	272	Estimated GFR	16
+molecular_test	ardac-dev_v0	molecular_test_300	follow_up_300	AFF3	Unknown	Intermediate	0	99	121	Estimated GFR	25
+molecular_test	ardac-dev_v0	molecular_test_301	follow_up_301	ACVR2A	Flow Cytometry	Equivocal	7	93	27	Estimated GFR	8
+molecular_test	ardac-dev_v0	molecular_test_302	follow_up_302	AFF3	WGS	Intermediate	3	93	19	Estimated GFR	15
+molecular_test	ardac-dev_v0	molecular_test_303	follow_up_303	ACVR2A	Other	Normal	0	93	40	Estimated GFR	14
+molecular_test	ardac-dev_v0	molecular_test_304	follow_up_304	ACVR2A	ISH	Abnormal, NOS	9	91	57	Estimated GFR	2
+molecular_test	ardac-dev_v0	molecular_test_305	follow_up_305	AFF4	Flow Cytometry	Loss of Expression	4	91	263	Estimated GFR	5
+molecular_test	ardac-dev_v0	molecular_test_306	follow_up_306	AFF3	PCR	Normal	2	93	329	Estimated GFR	15
+molecular_test	ardac-dev_v0	molecular_test_307	follow_up_307	AFF4	FISH	Copy Number Reported	6	100	210	Estimated GFR	11
+molecular_test	ardac-dev_v0	molecular_test_308	follow_up_308	AFF1	Karyotype	Intermediate	0	94	42	Estimated GFR	7
+molecular_test	ardac-dev_v0	molecular_test_309	follow_up_309	ACVR2A	FISH	Normal	7	92	104	Estimated GFR	8
+molecular_test	ardac-dev_v0	molecular_test_310	follow_up_310	AFF1	Southern Blotting	Equivocal	10	97	15	Estimated GFR	12
+molecular_test	ardac-dev_v0	molecular_test_311	follow_up_311	AFF4	RNA Sequencing	Loss of Expression	1	96	204	Estimated GFR	90
+molecular_test	ardac-dev_v0	molecular_test_312	follow_up_312	ACVR2A	Cytogenetics, NOS	Loss of Expression	3	96	344	Estimated GFR	108
+molecular_test	ardac-dev_v0	molecular_test_313	follow_up_313	ACVR2A	Comparative Genomic Hybridization	Unknown	0	90	250	Estimated GFR	87
+molecular_test	ardac-dev_v0	molecular_test_314	follow_up_314	ACVR2A	Nuclear Staining	Negative	10	96	318	Estimated GFR	95
+molecular_test	ardac-dev_v0	molecular_test_315	follow_up_315	ACVR2A	PCR	Negative	1	99	333	Estimated GFR	111
+molecular_test	ardac-dev_v0	molecular_test_316	follow_up_316	AFF1	Nuclear Staining	High	3	97	92	Estimated GFR	112
+molecular_test	ardac-dev_v0	molecular_test_317	follow_up_317	AFF3	Sequencing, NOS	High	9	91	321	Estimated GFR	86
+molecular_test	ardac-dev_v0	molecular_test_318	follow_up_318	AFF1	Sequencing, NOS	Overexpressed	5	94	115	Estimated GFR	88
+molecular_test	ardac-dev_v0	molecular_test_319	follow_up_319	AFF3	Microsatellite Analysis	Positive	3	97	310	Estimated GFR	118
+molecular_test	ardac-dev_v0	molecular_test_320	follow_up_320	AFF1	PCR	Normal	9	92	97	Estimated GFR	107
+molecular_test	ardac-dev_v0	molecular_test_321	follow_up_321	AFF4	PCR	Intermediate	4	93	255	Estimated GFR	108
+molecular_test	ardac-dev_v0	molecular_test_322	follow_up_322	ACVR2A	ISH	Loss of Expression	1	90	135	Estimated GFR	120
+molecular_test	ardac-dev_v0	molecular_test_323	follow_up_323	AFF4	Immunofluorescence	Low	7	100	56	Estimated GFR	110
+molecular_test	ardac-dev_v0	molecular_test_324	follow_up_324	AFF1	Immunofluorescence	Positive	4	94	312	Estimated GFR	94
+molecular_test	ardac-dev_v0	molecular_test_325	follow_up_325	AFF3	Immunofluorescence	Low	2	92	239	Estimated GFR	87
+molecular_test	ardac-dev_v0	molecular_test_326	follow_up_326	ACVR2A	Southern Blotting	Loss of Expression	1	97	216	Estimated GFR	117
+molecular_test	ardac-dev_v0	molecular_test_327	follow_up_327	ACVR2A	Karyotype	Low	0	90	133	Estimated GFR	96
+molecular_test	ardac-dev_v0	molecular_test_328	follow_up_328	AFF3	FISH	Intermediate	6	91	68	Estimated GFR	112
+molecular_test	ardac-dev_v0	molecular_test_329	follow_up_329	AFF4	WXS	Overexpressed	3	96	269	Estimated GFR	87
+molecular_test	ardac-dev_v0	molecular_test_330	follow_up_330	AFF1	Flow Cytometry	Not Reported	7	93	346	Estimated GFR	117
+molecular_test	ardac-dev_v0	molecular_test_331	follow_up_331	AFF1	Unknown	Abnormal, NOS	3	98	222	Estimated GFR	85
+molecular_test	ardac-dev_v0	molecular_test_332	follow_up_332	ACVR2A	Microarray	Normal	4	95	21	Estimated GFR	90
+molecular_test	ardac-dev_v0	molecular_test_333	follow_up_333	AFF4	Unknown	Negative	3	100	90	Estimated GFR	106
+molecular_test	ardac-dev_v0	molecular_test_334	follow_up_334	AFF4	WGS	Test Value Reported	4	95	231	Estimated GFR	106
+molecular_test	ardac-dev_v0	molecular_test_335	follow_up_335	AFF3	PCR	Test Value Reported	7	94	238	Estimated GFR	107
+molecular_test	ardac-dev_v0	molecular_test_336	follow_up_336	AFF3	Flow Cytometry	Negative	10	90	142	Estimated GFR	120
+molecular_test	ardac-dev_v0	molecular_test_337	follow_up_337	ACVR2A	IHC	Low	2	92	62	Estimated GFR	85
+molecular_test	ardac-dev_v0	molecular_test_338	follow_up_338	ACVR2A	FISH	Copy Number Reported	0	98	104	Estimated GFR	90
+molecular_test	ardac-dev_v0	molecular_test_339	follow_up_339	AFF3	Cytogenetics, NOS	Normal	1	96	70	Estimated GFR	112
+molecular_test	ardac-dev_v0	molecular_test_340	follow_up_340	ACVR2A	Microarray	Overexpressed	3	96	165	Estimated GFR	107
+molecular_test	ardac-dev_v0	molecular_test_341	follow_up_341	ACVR2A	WGS	Loss of Expression	7	98	99	Estimated GFR	92
+molecular_test	ardac-dev_v0	molecular_test_342	follow_up_342	AFF1	Unknown	Copy Number Reported	2	92	163	Estimated GFR	110
+molecular_test	ardac-dev_v0	molecular_test_343	follow_up_343	ACVR2A	Immunofluorescence	Loss of Expression	10	90	221	Estimated GFR	115
+molecular_test	ardac-dev_v0	molecular_test_344	follow_up_344	AFF3	Sequencing, NOS	Abnormal, NOS	3	91	180	Estimated GFR	119
+molecular_test	ardac-dev_v0	molecular_test_345	follow_up_345	AFF1	Targeted Sequencing	Low	5	92	182	Estimated GFR	106
+molecular_test	ardac-dev_v0	molecular_test_346	follow_up_346	AFF3	RNA Sequencing	Loss of Expression	5	97	256	Estimated GFR	109
+molecular_test	ardac-dev_v0	molecular_test_347	follow_up_347	AFF3	RNA Sequencing	Unknown	7	94	86	Estimated GFR	93
+molecular_test	ardac-dev_v0	molecular_test_348	follow_up_348	AFF3	Immunofluorescence	High	7	99	304	Estimated GFR	91
+molecular_test	ardac-dev_v0	molecular_test_349	follow_up_349	ACVR2A	Immunofluorescence	Copy Number Reported	1	98	100	Estimated GFR	115
+molecular_test	ardac-dev_v0	molecular_test_350	follow_up_350	AFF3	WXS	Not Reported	3	93	289	Estimated GFR	117
+molecular_test	ardac-dev_v0	molecular_test_351	follow_up_351	AFF3	Not Reported	Unknown	3	96	175	Estimated GFR	109
+molecular_test	ardac-dev_v0	molecular_test_352	follow_up_352	ACVR2A	Microsatellite Analysis	Copy Number Reported	8	92	135	Estimated GFR	88
+molecular_test	ardac-dev_v0	molecular_test_353	follow_up_353	ACVR2A	Cytogenetics, NOS	Normal	2	96	143	Estimated GFR	119
+molecular_test	ardac-dev_v0	molecular_test_354	follow_up_354	AFF4	RT-PCR	Loss of Expression	4	90	136	Estimated GFR	102
+molecular_test	ardac-dev_v0	molecular_test_355	follow_up_355	ACVR2A	PCR	High	7	92	317	Estimated GFR	97
+molecular_test	ardac-dev_v0	molecular_test_356	follow_up_356	AFF1	RNA Sequencing	Test Value Reported	6	96	259	Estimated GFR	93
+molecular_test	ardac-dev_v0	molecular_test_357	follow_up_357	ACVR2A	IHC	Intermediate	9	95	167	Estimated GFR	101
+molecular_test	ardac-dev_v0	molecular_test_358	follow_up_358	AFF4	Comparative Genomic Hybridization	Overexpressed	8	90	241	Estimated GFR	102
+molecular_test	ardac-dev_v0	molecular_test_359	follow_up_359	AFF4	RNA Sequencing	Positive	7	92	105	Estimated GFR	97
+molecular_test	ardac-dev_v0	molecular_test_360	follow_up_360	AFF4	IHC	Unknown	2	90	306	Estimated GFR	97
+molecular_test	ardac-dev_v0	molecular_test_361	follow_up_361	AFF1	Unknown	Test Value Reported	7	94	17	Estimated GFR	105
+molecular_test	ardac-dev_v0	molecular_test_362	follow_up_362	AFF3	Microsatellite Analysis	Intermediate	5	96	84	Estimated GFR	98
+molecular_test	ardac-dev_v0	molecular_test_363	follow_up_363	ACVR2A	Southern Blotting	High	1	96	188	Estimated GFR	98
+molecular_test	ardac-dev_v0	molecular_test_364	follow_up_364	AFF3	WGS	Negative	8	94	153	Estimated GFR	104
+molecular_test	ardac-dev_v0	molecular_test_365	follow_up_365	AFF4	Unknown	Loss of Expression	3	92	278	Estimated GFR	99
+molecular_test	ardac-dev_v0	molecular_test_366	follow_up_366	AFF4	Not Reported	Intermediate	8	98	312	Estimated GFR	102
+molecular_test	ardac-dev_v0	molecular_test_367	follow_up_367	AFF3	Microarray	Abnormal, NOS	6	100	106	Estimated GFR	115
+molecular_test	ardac-dev_v0	molecular_test_368	follow_up_368	ACVR2A	FISH	Unknown	5	93	85	Estimated GFR	91
+molecular_test	ardac-dev_v0	molecular_test_369	follow_up_369	AFF4	Microarray	Low	8	94	84	Estimated GFR	102
+molecular_test	ardac-dev_v0	molecular_test_370	follow_up_370	AFF1	Other	Unknown	1	93	199	Estimated GFR	113
+molecular_test	ardac-dev_v0	molecular_test_371	follow_up_371	AFF3	Nuclear Staining	Loss of Expression	6	91	130	Estimated GFR	110
+molecular_test	ardac-dev_v0	molecular_test_372	follow_up_372	ACVR2A	Flow Cytometry	Equivocal	2	92	293	Estimated GFR	98
+molecular_test	ardac-dev_v0	molecular_test_373	follow_up_373	ACVR2A	Sequencing, NOS	Not Reported	1	93	219	Estimated GFR	109
+molecular_test	ardac-dev_v0	molecular_test_374	follow_up_374	AFF3	Unknown	Equivocal	3	98	117	Estimated GFR	117
+molecular_test	ardac-dev_v0	molecular_test_375	follow_up_375	AFF1	RT-PCR	Overexpressed	10	98	222	Estimated GFR	92
+molecular_test	ardac-dev_v0	molecular_test_376	follow_up_376	ACVR2A	Comparative Genomic Hybridization	High	6	93	154	Estimated GFR	96
+molecular_test	ardac-dev_v0	molecular_test_377	follow_up_377	AFF4	RNA Sequencing	Negative	2	96	226	Estimated GFR	97
+molecular_test	ardac-dev_v0	molecular_test_378	follow_up_378	AFF3	Not Reported	Unknown	7	91	91	Estimated GFR	105
+molecular_test	ardac-dev_v0	molecular_test_379	follow_up_379	AFF4	Not Reported	Normal	9	94	298	Estimated GFR	103
+molecular_test	ardac-dev_v0	molecular_test_380	follow_up_380	ACVR2A	Southern Blotting	Equivocal	2	91	187	Estimated GFR	120
+molecular_test	ardac-dev_v0	molecular_test_381	follow_up_381	AFF3	Sequencing, NOS	Negative	1	92	343	Estimated GFR	93
+molecular_test	ardac-dev_v0	molecular_test_382	follow_up_382	ACVR2A	Targeted Sequencing	Positive	5	92	242	Estimated GFR	110
+molecular_test	ardac-dev_v0	molecular_test_383	follow_up_383	ACVR2A	WXS	Copy Number Reported	7	97	287	Estimated GFR	92
+molecular_test	ardac-dev_v0	molecular_test_384	follow_up_384	AFF3	Not Reported	Negative	10	91	185	Estimated GFR	119
+molecular_test	ardac-dev_v0	molecular_test_385	follow_up_385	ACVR2A	Comparative Genomic Hybridization	Negative	7	90	259	Estimated GFR	108
+molecular_test	ardac-dev_v0	molecular_test_386	follow_up_386	ACVR2A	Microsatellite Analysis	Overexpressed	9	99	291	Estimated GFR	102
+molecular_test	ardac-dev_v0	molecular_test_387	follow_up_387	AFF1	Comparative Genomic Hybridization	Positive	4	99	154	Estimated GFR	113
+molecular_test	ardac-dev_v0	molecular_test_388	follow_up_388	AFF4	ISH	High	2	91	255	Estimated GFR	101
+molecular_test	ardac-dev_v0	molecular_test_389	follow_up_389	AFF3	ISH	Unknown	8	100	288	Estimated GFR	87
+molecular_test	ardac-dev_v0	molecular_test_390	follow_up_390	AFF4	WXS	Abnormal, NOS	10	90	31	Estimated GFR	94
+molecular_test	ardac-dev_v0	molecular_test_391	follow_up_391	AFF1	Microarray	Normal	6	92	131	Estimated GFR	86
+molecular_test	ardac-dev_v0	molecular_test_392	follow_up_392	AFF4	Unknown	Loss of Expression	2	99	116	Estimated GFR	117
+molecular_test	ardac-dev_v0	molecular_test_393	follow_up_393	ACVR2A	Other	Intermediate	4	96	95	Estimated GFR	90
+molecular_test	ardac-dev_v0	molecular_test_394	follow_up_394	AFF4	Immunofluorescence	Normal	10	100	11	Estimated GFR	98
+molecular_test	ardac-dev_v0	molecular_test_395	follow_up_395	AFF3	RT-PCR	Equivocal	8	92	92	Estimated GFR	90
+molecular_test	ardac-dev_v0	molecular_test_396	follow_up_396	AFF3	WXS	Equivocal	6	99	7	Estimated GFR	86
+molecular_test	ardac-dev_v0	molecular_test_397	follow_up_397	AFF4	FISH	Low	8	95	343	Estimated GFR	114
+molecular_test	ardac-dev_v0	molecular_test_398	follow_up_398	AFF3	WGS	Abnormal, NOS	6	96	77	Estimated GFR	120
+molecular_test	ardac-dev_v0	molecular_test_399	follow_up_399	AFF1	Immunofluorescence	Not Reported	0	94	110	Estimated GFR	88
+molecular_test	ardac-dev_v0	molecular_test_400	follow_up_400	ACVR2A	RNA Sequencing	Overexpressed	5	92	307	Estimated GFR	117
