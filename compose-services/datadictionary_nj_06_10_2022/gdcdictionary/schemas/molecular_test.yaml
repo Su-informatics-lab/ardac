@@ -1,0 +1,986 @@
+$schema: "http://json-schema.org/draft-04/schema#"
+
+id: "molecular_test"
+title: Molecular_test
+type: object
+namespace: http://gdc.nci.nih.gov
+category: clinical
+program: '*'
+project: '*'
+description: >
+  Data for the characterization of the patient by means of segementing the population (e.g.,
+  characterization by age, sex, or race).
+additionalProperties: false
+submittable: true
+validators: null
+
+systemProperties:
+  - id
+  - project_id
+  - state
+  - created_datetime
+  - updated_datetime
+
+links:
+  - name: follow_ups
+    backref: molecular_tests
+    label: describes
+    target_type: follow_up
+    multiplicity: many_to_one
+    required: true
+
+required:
+  - submitter_id
+  - type
+  - follow_ups
+  - gene_symbol
+  - molecular_analysis_method
+  - test_result
+  
+
+preferred:
+  - year_of_death
+
+uniqueKeys:
+  #unclear if want submitter ID for clinical
+  - [id]
+  - [project_id, submitter_id]
+
+properties:
+  type:
+    type: string
+
+  id:
+    $ref: "_definitions.yaml#/UUID"
+    systemAlias: node_id
+
+  state:
+    $ref: "_definitions.yaml#/state"
+
+  submitter_id:
+    type:
+      - string
+      - "null"
+
+  gene_symbol:
+    description: "The text term used to describe a gene targeted or included in molecular analysis. For rearrangements, this is shold be used to represent the reference gene."
+    enum:
+      - A1CF
+      - ABI1
+      - ABL1
+      - ABL2
+      - ACKR3
+      - ACSL3
+      - ACSL6
+      - ACVR1
+      - ACVR2A
+      - AFF1
+      - AFF3
+      - AFF4
+      - AKAP9
+      - AKT1
+      - AKT2
+      - AKT3
+      - ALDH2
+      - ALK
+      - AMER1
+      - ANK1
+      - APC
+      - APOBEC3B
+      - AQP1
+      - AR
+      - ARAF
+      - ARHGAP26
+      - ARHGAP5
+      - ARHGEF12
+      - ARID1A
+      - ARID1B
+      - ARID2
+      - ARNT
+      - ASPSCR1
+      - ASXL1
+      - ASXL2
+      - ATF1
+      - ATIC
+      - ATM
+      - ATP1A1
+      - ATP2B3
+      - ATR
+      - ATRX
+      - AXIN1
+      - AXIN2
+      - B2M
+      - BAP1
+      - BARD1
+      - BCL10
+      - BCL11A
+      - BCL11B
+      - BCL2
+      - BCL2L12
+      - BCL3
+      - BCL6
+      - BCL7A
+      - BCL9
+      - BCL9L
+      - BCLAF1
+      - BCOR
+      - BCORL1
+      - BCR
+      - BIRC3
+      - BIRC6
+      - BLM
+      - BMP5
+      - BMPR1A
+      - BRAF
+      - BRCA1
+      - BRCA2
+      - BRD3
+      - BRD4
+      - BRIP1
+      - BTG1
+      - BTK
+      - BUB1B
+      - C15orf65
+      - CACNA1D
+      - CALB2
+      - CALR
+      - CAMTA1
+      - CANT1
+      - CARD11
+      - CARS
+      - CASP8
+      - CBFA2T3
+      - CBFB
+      - CBL
+      - CBLB
+      - CBLC
+      - CCDC6
+      - CCNB1IP1
+      - CCNC
+      - CCND1
+      - CCND2
+      - CCND3
+      - CCNE1
+      - CCR4
+      - CCR7
+      - CD209
+      - CD274
+      - CD28
+      - CD74
+      - CD79A
+      - CD79B
+      - CD99
+      - CDC73
+      - CDH1
+      - CDH10
+      - CDH11
+      - CDH17
+      - CDK12
+      - CDK4
+      - CDK6
+      - CDKN1A
+      - CDKN1B
+      - CDKN2A
+      - CDKN2C
+      - CDX2
+      - CEBPA
+      - CEP89
+      - CHCHD7
+      - CHD2
+      - CHD4
+      - CHEK2
+      - CHGA
+      - CHIC2
+      - CHST11
+      - CIC
+      - CIITA
+      - CLIP1
+      - CLP1
+      - CLTC
+      - CLTCL1
+      - CNBD1
+      - CNBP
+      - CNOT3
+      - CNTNAP2
+      - CNTRL
+      - COL1A1
+      - COL2A1
+      - COL3A1
+      - COX6C
+      - CREB1
+      - CREB3L1
+      - CREB3L2
+      - CREBBP
+      - CRLF2
+      - CRNKL1
+      - CRTC1
+      - CRTC3
+      - CSF1R
+      - CSF3R
+      - CSMD3
+      - CTCF
+      - CTNNA2
+      - CTNNB1
+      - CTNND1
+      - CTNND2
+      - CUL3
+      - CUX1
+      - CXCR4
+      - CYLD
+      - CYP2C8
+      - CYSLTR2
+      - DAXX
+      - DCAF12L2
+      - DCC
+      - DCTN1
+      - DDB2
+      - DDIT3
+      - DDR2
+      - DDX10
+      - DDX3X
+      - DDX5
+      - DDX6
+      - DEK
+      - DGCR8
+      - DICER1
+      - DNAJB1
+      - DNM2
+      - DNMT3A
+      - DNTT
+      - DROSHA
+      - DUX4L1
+      - EBF1
+      - ECT2L
+      - EED
+      - EGFR
+      - EIF1AX
+      - EIF3E
+      - EIF4A2
+      - ELF3
+      - ELF4
+      - ELK4
+      - ELL
+      - ELN
+      - EML4
+      - EP300
+      - EPAS1
+      - EPCAM
+      - EPHA3
+      - EPHA7
+      - EPS15
+      - ERBB2
+      - ERBB3
+      - ERBB4
+      - ERC1
+      - ERCC2
+      - ERCC3
+      - ERCC4
+      - ERCC5
+      - ERG
+      - ESR1
+      - ETNK1
+      - ETV1
+      - ETV4
+      - ETV5
+      - ETV6
+      - EWSR1
+      - EXT1
+      - EXT2
+      - EZH2
+      - EZR
+      - FAM131B
+      - FAM135B
+      - FAM46C
+      - FAM47C
+      - FANCA
+      - FANCC
+      - FANCD2
+      - FANCE
+      - FANCF
+      - FANCG
+      - FAS
+      - FAT1
+      - FAT3
+      - FAT4
+      - FBLN2
+      - FBXO11
+      - FBXW7
+      - FCGR2B
+      - FCRL4
+      - FEN1
+      - FES
+      - FEV
+      - FGFR1
+      - FGFR1OP
+      - FGFR2
+      - FGFR3
+      - FGFR4
+      - FH
+      - FHIT
+      - FIP1L1
+      - FKBP9
+      - FLCN
+      - FLI1
+      - FLNA
+      - FLT3
+      - FLT4
+      - FNBP1
+      - FOXA1
+      - FOXL2
+      - FOXO1
+      - FOXO3
+      - FOXO4
+      - FOXP1
+      - FOXR1
+      - FSTL3
+      - FUBP1
+      - FUS
+      - GAS7
+      - GATA1
+      - GATA2
+      - GATA3
+      - GCET1
+      - GLI1
+      - GMPS
+      - GNA11
+      - GNAQ
+      - GNAS
+      - GOLGA5
+      - GOPC
+      - GPC3
+      - GPHN
+      - GRIN2A
+      - GRM3
+      - H3F3A
+      - H3F3B
+      - HERPUD1
+      - HEY1
+      - HIF1A
+      - HIP1
+      - HIST1H3B
+      - HIST1H4I
+      - HLA-A
+      - HLF
+      - HMGA1
+      - HMGA2
+      - HMGN2P46
+      - HNF1A
+      - HNRNPA2B1
+      - HOOK3
+      - HOXA11
+      - HOXA13
+      - HOXA9
+      - HOXB1
+      - HOXC11
+      - HOXC13
+      - HOXD11
+      - HOXD13
+      - HRAS
+      - HSP90AA1
+      - HSP90AB1
+      - ID3
+      - IDH1
+      - IDH2
+      - IGH
+      - IGK
+      - IGKC
+      - IGL
+      - IKBKB
+      - IKZF1
+      - IL2
+      - IL21R
+      - IL6ST
+      - IL7R
+      - IRF4
+      - IRS4
+      - ISX
+      - ITGAV
+      - ITK
+      - JAK1
+      - JAK2
+      - JAK3
+      - JAZF1
+      - JUN
+      - KAT6A
+      - KAT6B
+      - KAT7
+      - KCNJ5
+      - KDM5A
+      - KDM5C
+      - KDM6A
+      - KDR
+      - KDSR
+      - KEAP1
+      - KIAA1549
+      - KIF5B
+      - KIT
+      - KLF4
+      - KLF6
+      - KLK2
+      - KMT2A
+      - KMT2C
+      - KMT2D
+      - KNL1
+      - KNSTRN
+      - KRAS
+      - KRT20
+      - KRT7
+      - KTN1
+      - LARP4B
+      - LASP1
+      - LCK
+      - LCP1
+      - LEF1
+      - LHFP
+      - LIFR
+      - LMNA
+      - LMO1
+      - LMO2
+      - LPP
+      - LRIG3
+      - LRP1B
+      - LSM14A
+      - LYL1
+      - LZTR1
+      - MAF
+      - MAFB
+      - MALAT1
+      - MALT1
+      - MAML2
+      - MAML3
+      - MAP2K1
+      - MAP2K2
+      - MAP2K4
+      - MAP3K1
+      - MAP3K13
+      - MAPK1
+      - MAX
+      - MB21D2
+      - MDM2
+      - MDM4
+      - MDS2
+      - MECOM
+      - MED12
+      - MEN1
+      - MET
+      - MGMT
+      - MIB1
+      - MITF
+      - MKL1
+      - MLF1
+      - MLH1
+      - MLH2
+      - MLLT1
+      - MLLT10
+      - MLLT11
+      - MLLT3
+      - MLLT4
+      - MLLT6
+      - MN1
+      - MNX1
+      - MPL
+      - MSH2
+      - MSH6
+      - MSI2
+      - MSN
+      - MTCP1
+      - MTOR
+      - MUC1
+      - MUC16
+      - MUC4
+      - MUTYH
+      - MYB
+      - MYC
+      - MYCL
+      - MYCN
+      - MYD88
+      - MYH11
+      - MYH9
+      - MYO5A
+      - MYOD1
+      - NAB2
+      - NACA
+      - NBEA
+      - NBN
+      - NCKIPSD
+      - NCOA1
+      - NCOA2
+      - NCOA4
+      - NCOR1
+      - NCOR2
+      - NDRG1
+      - NF1
+      - NF2
+      - NFATC2
+      - NFE2L2
+      - NFIB
+      - NFKB2
+      - NFKBIE
+      - NIN
+      - NKX2-1
+      - NONO
+      - Not Applicable
+      - NOTCH1
+      - NOTCH2
+      - NPM1
+      - NR4A3
+      - NRAS
+      - NRG1
+      - NSD1
+      - NSD2
+      - NSD3
+      - NT5C2
+      - NTHL1
+      - NTRK1
+      - NTRK3
+      - NUMA1
+      - NUP214
+      - NUP98
+      - NUTM1
+      - NUTM2A
+      - NUTM2B
+      - OLIG2
+      - OMD
+      - P2RY8
+      - PABPC1
+      - PAFAH1B2
+      - PALB2
+      - PATZ1
+      - PAX3
+      - PAX5
+      - PAX7
+      - PAX8
+      - PBRM1
+      - PBX1
+      - PCBP1
+      - PCM1
+      - PDCD1LG2
+      - PDE4DIP
+      - PDGFB
+      - PDGFRA
+      - PDGFRB
+      - PDPN
+      - PER1
+      - PGR
+      - PHF6
+      - PHOX2B
+      - PICALM
+      - PIK3CA
+      - PIK3CB
+      - PIK3R1
+      - PIM1
+      - PLAG1
+      - PLCG1
+      - PML
+      - PMS1
+      - PMS2
+      - POLD1
+      - POLE
+      - POLG
+      - POLQ
+      - POT1
+      - POU2AF1
+      - POU5F1
+      - PPARG
+      - PPFIBP1
+      - PPM1D
+      - PPP2R1A
+      - PPP6C
+      - PRCC
+      - PRDM1
+      - PRDM16
+      - PRDM2
+      - PREX2
+      - PRF1
+      - PRKACA
+      - PRKAR1A
+      - PRKCB
+      - PRPF40B
+      - PRRX1
+      - PSIP1
+      - PTCH1
+      - PTEN
+      - PTGS2
+      - PTK6
+      - PTPN11
+      - PTPN13
+      - PTPN6
+      - PTPRB
+      - PTPRC
+      - PTPRK
+      - PTPRT
+      - PWWP2A
+      - QKI
+      - RABEP1
+      - RAC1
+      - RAD21
+      - RAD51B
+      - RAF1
+      - RALGDS
+      - RANBP2
+      - RAP1GDS1
+      - RARA
+      - RB1
+      - RBM10
+      - RBM15
+      - RECQL4
+      - REL
+      - RET
+      - RGPD3
+      - RGS7
+      - RHOA
+      - RHOH
+      - RMI2
+      - RNF213
+      - RNF43
+      - ROBO2
+      - ROS1
+      - RPL10
+      - RPL22
+      - RPL5
+      - RPN1
+      - RSPO2
+      - RSPO3
+      - RUNX1
+      - RUNX1T1
+      - S100A7
+      - SALL4
+      - SBDS
+      - SDC4
+      - SDHA
+      - SDHAF2
+      - SDHB
+      - SDHC
+      - SDHD
+      - SEPT5
+      - SEPT6
+      - SEPT9
+      - SET
+      - SETBP1
+      - SETD2
+      - SF3B1
+      - SFPQ
+      - SFRP4
+      - SGK1
+      - SH2B3
+      - SH3GL1
+      - SHTN1
+      - SIRPA
+      - SKI
+      - SLC34A2
+      - SLC45A3
+      - SMAD2
+      - SMAD3
+      - SMAD4
+      - SMARCA4
+      - SMARCB1
+      - SMARCD1
+      - SMARCE1
+      - SMC1A
+      - SMO
+      - SND1
+      - SNX29
+      - SOCS1
+      - SOX2
+      - SPECC1
+      - SPEN
+      - SPOP
+      - SRC
+      - SRGAP3
+      - SRSF2
+      - SRSF3
+      - SS18
+      - SS18L1
+      - SSX1
+      - SSX2
+      - SSX4
+      - STAG1
+      - STAG2
+      - STAT3
+      - STAT5B
+      - STAT6
+      - STIL
+      - STK11
+      - STRN
+      - SUFU
+      - SUZ12
+      - SYK
+      - SYP
+      - TAF15
+      - TAL1
+      - TAL2
+      - TBL1XR1
+      - TBX3
+      - TCEA1
+      - TCF12
+      - TCF3
+      - TCF7L2
+      - TCL1A
+      - TEC
+      - TERT
+      - TET1
+      - TET2
+      - TFE3
+      - TFEB
+      - TFG
+      - TFPT
+      - TFRC
+      - TGFBR2
+      - THRAP3
+      - TLX1
+      - TLX3
+      - TMEM127
+      - TMPRSS2
+      - TNC
+      - TNFAIP3
+      - TNFRSF14
+      - TNFRSF17
+      - TOP1
+      - TP53
+      - TP63
+      - TPM3
+      - TPM4
+      - TPR
+      - TRA
+      - TRAF7
+      - TRB
+      - TRD
+      - TRIM24
+      - TRIM27
+      - TRIM33
+      - TRIP11
+      - TRRAP
+      - TSC1
+      - TSC2
+      - TSHR
+      - U2AF1
+      - UBR5
+      - USP6
+      - USP8
+      - VAV1
+      - VHL
+      - VTI1A
+      - WAS
+      - WDCP
+      - WIF1
+      - WNK2
+      - WRN
+      - WT1
+      - WWTR1
+      - XPA
+      - XPC
+      - XPO1
+      - YWHAE
+      - ZBTB16
+      - ZCCHC8
+      - ZEB1
+      - ZFHX3
+      - ZMYM3
+      - ZNF198
+      - ZNF331
+      - ZNF384
+      - ZNF429
+      - ZNF444
+      - ZNF479
+      - ZNF521
+      - ZNRF3
+      - ZRSR2
+      - Unknown
+      - Not Reported
+  molecular_analysis_method:
+    description: "The text term used to describe the method used for molecular analysis."
+    enum:
+      - Comparative Genomic Hybridization
+      - Cytogenetics, NOS
+      - FISH
+      - Flow Cytometry
+      - IHC
+      - Immunofluorescence
+      - ISH
+      - Karyotype
+      - Microarray
+      - Microsatellite Analysis
+      - Nuclear Staining
+      - Other
+      - PCR
+      - RNA Sequencing
+      - RT-PCR
+      - Sequencing, NOS
+      - Southern Blotting
+      - Targeted Sequencing
+      - WGS
+      - WXS
+      - Unknown
+      - Not Reported
+  test_result:
+    description: "The text term used to describe the result of the molecular test. If the test result was a numeric value see test_value."
+    enum:
+      - Abnormal, NOS
+      - Copy Number Reported
+      - Equivocal
+      - High
+      - Intermediate
+      - Loss of Expression
+      - Low
+      - Negative
+      - Normal
+      - Overexpressed
+      - Positive
+      - Test Value Reported
+      - Unknown
+      - Not Reported
+  blood_test_normal_range_lower:
+    description: "Numeric value used to describe the lower limit of the normal range used to describe a healthy individual at the institution where the test was completed."
+    type:
+      - number
+  blood_test_normal_range_upper:
+    description: "Numeric value used to describe the upper limit of the normal range used to describe a healthy individual at the institution where the test was completed."
+    type:
+      - number
+  days_to_test:
+    description: "Number of days between the date used for index and the date of the laboratory test."
+    type:
+      - number
+  laboratory_test:
+    description: "The text term used to describe the medical testing used to diagnose, treat or further understand a patient's disease."
+    enum:
+      - 5-Hydroxyindoleacetic Acid
+      - Absolute Neutrophil
+      - Albumin
+      - Alkaline
+      - Alpha Fetoprotein
+      - ALT
+      - AST
+      - B-cell genotyping
+      - Basophil
+      - Beta 2 Microglobulin
+      - BG8
+      - Blood Urea Nitrogen
+      - C-Reactive Protein
+      - Calcium
+      - Cellularity
+      - Cholesterol LDL
+      - Cholesterol HDL
+      - Chromogranin A
+      - Chromogranin B
+      - Circulating Endothelial Cells
+      - Circulating Tumor Cells
+      - Creatinine
+      - Cytokeratin 5
+      - Cytokeratin 6
+      - Direct Bilirubin
+      - Dopamine-Secreting
+      - Eosinophil
+      - Epinephrine-Secreting
+      - Epstein-Barr Virus
+      - Estimated GFR
+      - Gamma-Enolase
+      - Fasting Glucose
+      - Glucose
+      - HBV
+      - HCV Antibody
+      - Hematocrit
+      - Hemoglobin
+      - HIV
+      - HPV-E6/E7
+      - Human Chorionic Gonadotropin
+      - Human Papillomavirus
+      - Immunoglobulin A
+      - Immunoglobulin G
+      - Immunoglobulin M
+      - INR
+      - Lactate Dehydrogenase
+      - Leukocytes
+      - Luteinizing Hormone
+      - Lymphoblasts
+      - Lymphocytes
+      - M Protein
+      - MCV
+      - Metamyelocytes
+      - Metanephrine-Secreting
+      - Methoxytyramine-Secreting
+      - Microsatellite Instability
+      - Myeloblasts
+      - Myelocytes
+      - Neutrophil Bands
+      - Norepinephrine-Secreting
+      - Normetanephrine-Secreting
+      - Platelets
+      - Prothrombin Time
+      - Prolymphocytes
+      - Promonocytes
+      - Promyelocytes
+      - Random Glucose
+      - Segmented Neutrophil
+      - Serum Free Immunoglobulin Light Chain, Kappa
+      - Serum Free Immunoglobulin Light Chain, Lambda
+      - Serum Free Immunoglobulin Light Chain, NOS
+      - Serum Mesothelin
+      - TAG-72
+      - Testosterone
+      - Total Bilirubin
+      - Total Cholesterol
+      - Total Protein
+      - Triglycerides
+      - WBC
+      - Unknown
+      - Not Reported
+  test_value:
+    description: "The text term or numeric value used to describe a sepcific result of a molecular test."
+    type:
+      - number
+
+
+  # gender:
+  #   term:
+  #     $ref: "_terms.yaml#/gender"
+  #   enum:
+  #     - female
+  #     - male
+  #     - unknown
+  #     - unspecified
+  #     - not reported
+
+  # race:
+  #   term:
+  #     $ref: "_terms.yaml#/race"
+  #   enum:
+  #     - white
+  #     - american indian or alaska native
+  #     - black or african american
+  #     - asian
+  #     - native hawaiian or other pacific islander
+  #     - other
+  #     - Unknown
+  #     - not reported
+  #     - not allowed to collect
+
+  # ethnicity:
+  #   term:
+  #     $ref: "_terms.yaml#/ethnicity"
+  #   enum:
+  #     - hispanic or latino
+  #     - not hispanic or latino
+  #     - Unknown
+  #     - not reported
+  #     - not allowed to collect
+
+  # year_of_birth:
+  #   term:
+  #     $ref: "_terms.yaml#/year_of_birth"
+  #   type:
+  #     - number
+  #     - "null"
+
+  # year_of_death:
+  #   term:
+  #     $ref: "_terms.yaml#/year_of_death"
+  #   type: number
+  follow_ups:
+    $ref: "_definitions.yaml#/to_one"
+  project_id:
+    $ref: "_definitions.yaml#/project_id"
+  created_datetime:
+    $ref: "_definitions.yaml#/datetime"
+  updated_datetime:
+    $ref: "_definitions.yaml#/datetime"

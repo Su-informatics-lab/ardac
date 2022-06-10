@@ -1,0 +1,588 @@
+$schema: "http://json-schema.org/draft-04/schema#"
+
+id: "follow_up"
+title: Follow_up
+type: object
+namespace: http://gdc.nci.nih.gov
+category: administrative
+program: '*'
+project: '*'
+description: "follow_up for a project."
+additionalProperties: false
+submittable: true
+validators: null
+
+systemProperties:
+  - id
+  - project_id
+  - state
+  - created_datetime
+  - updated_datetime
+
+links:
+  - name: cases
+    backref: follow_ups
+    label: describe
+    target_type: case
+    multiplicity: many_to_one
+    required: true
+
+required:
+  - submitter_id
+  - type
+  - days_to_follow_up
+
+uniqueKeys:
+  - [ id ]
+  - [ project_id, submitter_id ]
+
+properties:
+  type:
+    enum: [ "follow_up" ]
+  id:
+    $ref: "_definitions.yaml#/UUID"
+    systemAlias: node_id
+  state:
+    $ref: "_definitions.yaml#/state"
+  submitter_id:
+    type:
+      - string
+      - "null"
+  days_to_follow_up:
+    description: "Number of days between the date used for index and the date of the patient's last follow-up appointment or contact."
+    type:
+      - number
+      - "null"
+  visit_day:
+    description: "Number of days between the baseline and when the visit is scheduled according to the protocol. Equivalent to the visit."
+    enum:
+      - "0"
+      - "3"
+      - "7"
+      - "14"
+      - "28"
+      - "60"
+      - "90"
+      - "180"
+      - "84"
+      - "168"
+  cdc_hiv_risk_factors:
+    description: "The text term used to describe a risk factor for human immunodeficiency virus, as described by the Center for Disease Control."
+    enum:
+      - Hemophiliac
+      - Heterosexual Contact
+      - Homosexual Contact
+      - Intravenous Drug User
+      - None
+      - Not Reported
+      - Transfusion Recipient
+      - Unknown
+  height: 
+    description: "The height of the patient in centimeters."
+    type:
+      - number
+  weight: 
+    description: "The weight of the patient measured in kilograms."
+    type:
+      - number
+  bmi:
+    description: "A calculated numerical quantity that represents an individual's weight to height ratio."
+    type:
+      - number
+  soc_collected:
+    description: "The yes/no indicator used to describe if standard of care procedure information collected."
+    enum:
+      - "Yes"
+      - "No"
+  infection_screen_done:
+    description: "The yes/no indicator used to describe if an infection screen was done."
+    enum:
+      - "Yes"
+      - "No"
+  infection_screen_date:
+    description: "The date of the infection screen. In (YYYY-MM-DD) format."
+    type:
+      - string
+  blood_culture:
+    description: "The yes/no indicator used to describe if a blood culture was done."
+    enum:
+      - "Yes"
+      - "No"
+  blood_culture_result:
+    description: "The text term used to describe the results of the blood culture test."
+    enum:
+      - Positive
+      - Negative
+  blood_organism:
+    description: "Text used to describe the organism growth found during blood culture."
+    type:
+      - string
+  blood_culture_date:
+    description: "The date of blood culture. In (YYYY-MM-DD) format."
+    type:
+      - string
+  urine_culture:
+    description: "The yes/no indicator used to describe if a urine culture test was done."
+    enum:
+      - "Yes"
+      - "No"
+  urine_culture_result:
+    description: "The text term used to describe the results of the urine culture test."
+    enum:
+      - positive
+      - Negative
+  urine_culture_organism:
+    description: "Text used to describe the organism growth found during urine culture test."
+    type:
+      - string
+  urine_culture_date:
+    description: "Date of urine culture. In (YYYY-MM-DD) format."
+    type:
+      - string
+  urine_culture_fungal_result:
+    description: "The text term used to describe if the urine culture was positive for a fungal culture with >50,000 colonies/mL?"
+    enum:
+      -  "Yes" 
+      - No; Positive fungal culture ≤50,000 colonies/mL 
+      - No; Positive for other organisms only 
+      - Missing
+  ascites_culture:
+    description: "The yes/no indicator to describe the state of ascites presence at a particular time."
+    enum:
+      - "Yes"
+      - "No"
+      - Not Reported
+  ascites_culture_result:
+    description: "The text used to describe the results of the ascites culture test."
+    enum:
+      - Positive
+      - Negative
+  ascites_organism:
+    description: "The text term used to describe the organism growth found ascites culture."
+    type:
+      - string
+  ascites_date:
+    description: "The date of ascites culture test. In (YYYY-MM-DD) format."
+    type:
+      - string
+  xray:
+    description: "The yes/no indicator used to describe if a x-ray was done as a standard of care procedure."
+    enum:
+      - "Yes"
+      - "No"
+  xray_last_4_weeks:
+    description: "The yes/no indicator used to describe if the patient received a chest X-ray in the last 4 weeks."
+    enum:
+      - "Yes"
+      - "No"
+      - Not Reported
+  xray_date:
+    description: "Date of X-ray. In (YYYY-MM-DD) format."
+    type:
+      - string
+  xray_infiltrates:
+    description: "The yes/no indicator used to describe if there are infiltrates noted."
+    enum:
+      - "Yes"
+      - "No"
+      - Not Reported
+  xray_impression:
+    description: "The text describing a list of impression ( if any) found during the x-ray."
+    type:
+      - string
+  xray_pleural_effusion:
+    description: "The yes/no indicator used to describe if pleural effusion was found during the x-ray."
+    enum:
+      - "Yes"
+      - "No"
+      - Missing
+  xray_normal:
+    description: "The yes/no indicator used to describe if the x-ray scan was normal."
+    enum:
+      - "Yes"
+      - "No"
+      - Missing
+  xray_findings:
+    description: "The text describing any additional findings from the x-ray."
+    type: 
+      - string
+  endoscopy:
+    description: "The yes/no indicator used to describe if an endoscopy was done as a standard of care procedure."
+    enum:
+      - "Yes"
+      - "No"
+  endoscopy_date:
+    description: "The date of endoscopy done as a standard of care procedure. In (YYYY-MM-DD) format."
+    type:
+      - string
+  endoscopy_varices_present:
+    description: "The text term used to describe if varices were present on endoscopy."
+    enum:
+      - Esophageal
+      - Gastric
+      - Esophageal and Gastric
+      - None Present
+  esophageal_varices_size:
+    description: "The text term used to describe the size of esophageal varices found during endoscopy."
+    enum:
+      - Small
+      - Medium
+      - Large
+      - Not Reported
+  esophageal_varices_bleed:
+    description: "The yes/no indicator used to describe if there were signs of recent bleeding from the esophageal varices."
+    enum:
+      - "Yes"
+      - "No"
+      - Not Reported
+  gastric_varices_size:
+    description: "The text term used to describe the size of gastric varices found during endoscopy."
+    enum:
+      - Small
+      - Medium
+      - Large
+      - Not Reported
+  gastric_varices_bleed:
+    description: "The yes/no indicator used to describe if there were signs of recent bleeding from the gastric varices."
+    enum:
+      - "Yes"
+      - "No"
+      - Not Reported
+  portal_hypertensive_gastropathy:
+    description: "The text term used to describe portal hypertensive gastropathy found on endoscopy."
+    enum:
+      - Yes, Mild
+      - Yes, Moderate
+      - Yes, Severe
+      - Yes, Unknown severity
+      - None
+      - Not Reported
+  endoscopy_ulcer_present:
+    description: "The text term used to describe ulcers or erosions present on endoscopy."
+    enum:
+      - Esophageal
+      - Stomach
+      - Duodenum
+      - Esophageal and Stomach
+      - Esophageal and Duodenum
+      - Stomach and Duodenum
+      - Esophageal, Stomach, and Duodenum
+      - None present
+  esophageal_ulcer_size:
+    description: "The text term used to describe the esophageal ulcer or erosion size."
+    enum:
+      - Small
+      - Medium
+      - Large
+      - Not Reported
+  esophageal_ulcer_bleed:
+    description: "The yes/no indicator used to describe if there were signs of recent bleeding from the esophageal ulcer or erosion."
+    enum:
+      - "Yes"
+      - "No"
+      - Not Reported
+  gastric_ulcer_size:
+    description: "The text term used to describe the gastric ulcer or erosion size."
+    enum:
+      - Small
+      - Medium
+      - Large
+      - Not Reported
+  gastric_ulcer_bleed:
+    description: "The yes/no indicator used to describe if there were signs of recent bleeding from the gastric ulcer or erosion."
+    enum:
+      - "Yes"
+      - "No"
+      - Not Reported
+  duodenum_ulcer_size:
+    description: "The text term used to describe the duodenal ulcer or erosion size."
+    enum:
+      - Small
+      - Medium
+      - Large
+      - Not Reported
+  duodenum_ulcer_bleed:
+    description: "The yes/no indicator used to describe if there were signs of recent bleeding from the duodenal ulcer or erosion."
+    enum:
+      - "Yes"
+      - "No"
+      - Not Reported
+  fibroscan:
+    description: "The yes/no indicator used to describe if a fibroscan was done as a standard care of procedure."
+    enum:
+      - "Yes"
+      - "No"
+  fibroscan_date:
+    description: "The date of fibroscan done as a standard of care procedure. In (YYYY-MM-DD) format."
+    type:
+      - string
+  fibro_capmed:
+    description: "Fibroscan median CAP score in decibels per meter (dB/m)."
+    type:
+      - number
+  fibro_iqr:
+    description: "Fibroscan CAP interquartile range."
+    type:
+      - number
+  fibro_e:
+    description: "Fibroscan fibrosis result in kilopascals (kPa)."
+    type:
+      - number
+  firbro_e_iqr:
+    description: "Fibroscan fibrosis interquartile range."
+    type:
+      - number
+  fibro_probe:
+    description: "The text term used to describe the probe used during the fibroscan."
+    enum:
+      - M
+      - XL
+      - Not Reported
+  firbro_valid_number:
+    description: "Number of valid measurements in the fibroscan."
+    type:
+      - number
+  fibro_total_number:
+    description: "Number describing the total measurements used in the fibroscan."
+    type: 
+      - number
+  liver_abdomen_imaging:
+    description: "The yes/no indicator use to describe if there were any other imaging test done on the liver or abdomen."
+    enum:
+      - "Yes"
+      - "No"
+  liver_imaging_type:
+    description: "The text term used to describe the other type of image done to the liver or abdomen."
+    enum:
+      - Ultrasound
+      - CT
+      - MRI
+      - Other type
+  ultrasound_date:
+    description: "The date of ultrasound. In (YYYY-MM-DD) format."
+    type:
+      - string
+  ultrasound_result:
+    description: "The text term used to describe the results of the ultrasound."
+    enum:
+      - Normal
+      - Abnormal
+      - Missing
+  ultrasound_result_sig:
+    description: "The yes/no indicator used to describe if the ultrasound results are clinically significant."
+    enum:
+      - "Yes"
+      - "No"
+      - Missing
+  ultrasound_finding:
+    description: "Description of the overall findings/impressions from the ultrasound."
+    type:
+      - string
+  ct_date:
+    description: "Date of CT. In (YYYY-MM-DD) format."
+    type:
+      - string
+  ct_result:
+    description: "The text term used to describe the results of the ultrasound."
+    enum:
+      - Normal
+      - Abnormal
+      - Missing
+  ct_result_sig:
+    description: "The yes/no indicator used to describe if the CT results are clinically significant."
+    enum:
+      - "Yes"
+      - "No"
+      - Missing
+  ct_result_finding:
+    description: "Description of the overall findings/impressions of the CT."
+    type:
+      - string
+  mri_date: 
+    description: "The date of MRI. In (YYYY-MM-DD) format."
+    type:
+      - string
+  mri_result:
+    description: "The text term used to describe the results of the CT."
+    enum:
+      - Normal
+      - Abnormal
+      - Missing
+  mri_sig:
+    description: "The yes/no indicator used to describe if the MRI results are clinically significant."
+    enum:
+      - "Yes"
+      - "No"
+      - Missing
+  mri_finding:
+    description: "Description of the overall findings/impressions of the MRI."
+    type:
+      - string
+  other_imaging_date:
+    description: "Date of other imaging. In (YYYY-MM-DD) format."
+    type:
+      - string
+  other_imaging_type:
+    description: "The text used to describe the other type of imaging."
+    type:
+      - string
+  other_imaging_result:
+    description: "The text term used to describe the other type of imaging result."
+    enum:
+      - Normal
+      - Abnormal
+      - Missing
+  other_imaging_sig:
+    description: "The yes/no indicator used to describe if the other type of imaging result is clinically significant."
+    enum:
+      - "Yes"
+      - "No"
+      - Missing
+  other_imaging_finding:
+    description: "Description of the overall findings/impressions of the other type of image."
+    type:
+      - string
+  medical_info_collected:
+    description: "The yes/no indicator used to describe if medical information was collected at a visit."
+    enum:
+      - "Yes"
+      - "No"
+  ascites_diagnosis_date:
+    description: "The date of most recent ascites diagnosis. In (YYYY-MM-DD) format."
+    type:
+      - string
+  hep_enceph:
+    description: "The yes/no indicator used to describe if subject has been diagnosed 
+with Spontaneous Hepatic Encephalopathy (grade 2 or higher)."
+    enum:
+      - "Yes"
+      - "No"
+      - Not Reported
+  hep_enceph_diagnosis_date:
+    description: "Date of most recent Spontaneous Hepatic Encephalopathy diagnosis 
+(grade 2 or higher). In (YYYY-MM-DD) format."
+    type:
+      - string
+  varices:
+    description: "The yes/no indicator used to describe if subject has been diagnosed 
+with moderate/large varices or bleeding from varices."
+    enum: 
+      - "Yes"
+      - "No"
+      - Not Reported
+  varices_diagnosis_date:
+    description: "Date of most recent diagnosis of moderate/large varices or bleeding 
+from varices. In (YYYY-MM-DD) format."
+    type:
+      - string
+  hep_carcinoma:
+    description: "The yes/no indicator used to describe if subject has been diagnosed 
+with Hepatocellular Carcinoma (HCC)."
+    enum:
+      - "Yes"
+      - "No"
+      - Not Reported
+  hepcar_diagnosis_date:
+    description: "Date of most recent diagnosis of Hepatocellular Carcinoma (HCC). In (YYYY-MM-DD) format."
+    type:
+      - string
+  liver_transplant:
+    description: "The yes/no indicator used to describe if a liver transplant was 
+performed for patient."
+    enum:
+      - "Yes"
+      - "No"
+      - Not Reported
+  liver_transplant_date:
+    description: "The date of liver transplant. In (YYYY-MM-DD) format."
+    type:
+      - string
+  stool_test:
+    description: "The text term used to describe if a stool test was performed."
+    enum:
+      - Yes; WBCs present 
+      - Yes; C. diff present  
+      - Yes; both WBCs and C. diff present
+      - Yes; neither WBCs or C diff present
+      - Not Done
+  stool_test_finding:
+    description: "Text used to describe other stool findings if present."
+    type:
+      - string
+  stool_test_date:
+    description: "The date of stool test. In (YYYY-MM-DD) format."
+    type:
+      - string
+  bariatric_surgery:
+    description: "The yes/no indicator used to describe if the patient has ever had any type of bariatric surgery."
+    enum:
+      - "Yes"
+      - "No"
+      - Not Reported
+  hospitalized_alc_hep:
+    description: "The yes/no indicator used to describe if the patient was hospitalized due to alcoholic hepatitis in the past year."
+    enum:
+      - "Yes"
+      - "No"
+      - Not Reported
+  hospitalized_alc_hep_times:
+    description: "The number of times the patient was hospitalized during the past year due to alcoholic hepatitis."
+    type:
+      - number
+  hospitalized_at_enrollment:
+    description: "The yes/no indicator used to describe if the patient was hospitalized at the time of enrollment."
+    enum:
+      - "Yes"
+      - "No"
+      - Not Reported
+  admission_date:
+    description: "The date of admission for patients who were hospitalized at time of enrollment. In (YYYY-MM-DD) format."
+    type:
+      - string
+  liver_score_collected:
+    description: "The yes/no indicator used to describe if liver disease scores were collected."
+    enum:
+      - "Yes"
+      - "No"
+  liver_score_date:
+    description: "The date liver disease scores were obtained. In (YYYY-MM-DD) format."
+    type:
+      - string
+  meld_score:
+    description: "Numerical value for MELD score."
+    type:
+      - number
+  child_pugh_score:
+    description: "Numerical value for Child Pugh Score."
+    type:
+      - number
+  lille_score:
+    description: "Numerical value for Lille score."
+    type:
+      - number
+  maddreys_score:
+    description: "Numerical value for Maddrey's Discriminant Function Score."
+    type:
+      - number
+  tlfb_collected:
+    description: "The yes/no indicator used to describe of the Timeline Followback (TLFB) questionnaire was completed."
+    enum:
+      - "Yes"
+      - "No"
+  tlfb_number_drinks:
+    description: "Numerical value for the total number of drinks in the 30 days prior to the visit as reported in the TLFB."
+    type:
+      - number
+  tlfb_drinking_days:
+    description: "Numerical value for the total number of drinking days out of the 30 days prior to the visit as reported in the TLFB."
+    type:
+      - number
+
+  cases:
+    $ref: "_definitions.yaml#/to_one"
+  project_id:
+    $ref: "_definitions.yaml#/project_id"
+  created_datetime:
+    $ref: "_definitions.yaml#/datetime"
+  updated_datetime:
+    $ref: "_definitions.yaml#/datetime"
