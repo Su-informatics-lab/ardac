@@ -1,0 +1,99 @@
+.explorer-table {
+  margin-top: 20px;
+}
+
+.explorer-table__description {
+  margin-bottom: 10px;
+}
+
+.explorer-table__hide_empty_column_toggle {
+  cursor: pointer;
+  margin: 0 0 0 25px;
+  font-weight: bold;
+}
+.explorer-table__hide_empty_column_toggle.ant-switch-disabled {
+  cursor: not-allowed;
+}
+
+.explorer-table__hide_empty_column_toggle > button {
+  width: 44px;
+  margin: 0 10px;
+}
+
+.explorer-table .ReactTable.-striped .rt-tr.-odd {
+  background-color: var(--g3-color__bg-cloud);
+}
+
+.explorer-table .ReactTable.-striped .rt-tr.-even {
+  background-color: var(--g3-color__white);
+}
+
+.explorer-table .ReactTable .rt-thead.-header {
+  background-color: var(--g3-color__white);
+  font-weight: 700;
+  border-bottom: solid 1px var(--g3-color__black);
+}
+
+.explorer-table .ReactTable .rt-th {
+  padding: 15px 5px;
+}
+
+.explorer-table .ReactTable .rt-noData {
+  width: 100%;
+  text-align: center;
+  border: 3px;
+}
+
+.explorer-table .ReactTable .rt-th,
+.explorer-table .ReactTable .rt-td {
+  white-space: unset;
+}
+
+.explorer-table .ReactTable .rt-thead .rt-th.-sort-asc, .ReactTable .rt-thead .rt-td.-sort-asc,
+.explorer-table .ReactTable .rt-thead .rt-th.-sort-desc, .ReactTable .rt-thead .rt-td.-sort-desc {
+  box-shadow: inset 0 0 0 0 transparent;
+}
+
+.explorer-table .ReactTable .rt-thead .rt-tr {
+  text-align: left;
+}
+
+.explorer-table-link-button svg {
+  top: -7px;
+  position: relative;
+}
+
+.explorer-table-link-button svg, .explorer-table-link-button svg path {
+  color: #606060;
+  fill: #606060;
+  transition: color .2s, fill.2s;
+  --webkit-transition: color .2s, fill.2s;
+  display: block;
+  margin: auto;
+}
+
+.explorer-table-link-button {
+  border: solid #606060 1px;
+  transition: border-color .2s;
+  --webkit-transition: border-color .2s;
+  width: 40px;
+  height: auto;
+}
+
+.explorer-table-link-button:hover {
+  border-color: #3283c8;
+}
+
+.explorer-table-link-button:hover svg path, .explorer-table-link-button:hover svg {
+  color: #3283c8;
+  fill: #3283c8;
+}
+
+.explorer-nested-table {
+  padding: 10px;
+  width: 75vw;
+}
+
+.explorer-nested-table .ReactTable .pagination-bottom .-pagination .-center {
+  display: none;
+}
