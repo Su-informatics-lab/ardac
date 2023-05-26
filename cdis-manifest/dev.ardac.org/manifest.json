@@ -1,0 +1,268 @@
+{
+    "notes": [
+      "ARDaC release manifest",
+      "Based on release 2022-05"
+    ],
+    "jenkins": {
+      "autodeploy": "yes"
+    },
+    "versions": {
+      "arborist": "quay.io/cdis/arborist:2022.05",
+      "audit-service": "quay.io/cdis/audit-service:2022.05",
+      "aws-es-proxy": "quay.io/cdis/aws-es-proxy:v1.3.1",
+      "fence": "233907574649.dkr.ecr.us-east-1.amazonaws.com/fence:latest",
+      "indexd": "quay.io/cdis/indexd:2022.05",
+      "peregrine": "quay.io/cdis/peregrine:2022.05",
+      "pidgin": "quay.io/cdis/pidgin:2022.05",
+      "revproxy": "quay.io/cdis/nginx:2022.05",
+      "sheepdog": "quay.io/cdis/sheepdog:2022.05",
+      "portal": "leftsweety/ardac-portal:1_11_23",
+      "fluentd": "fluent/fluentd-kubernetes-daemonset:v1.2-debian-cloudwatch",
+      "spark": "quay.io/cdis/gen3-spark:2022.05",
+      "tube": "quay.io/cdis/tube:2022.11",
+      "guppy": "quay.io/cdis/guppy:2022.05",
+      "sower": "quay.io/cdis/sower:2022.05",
+      "hatchery": "quay.io/cdis/hatchery:2022.08",
+      "ambassador": "quay.io/datawire/ambassador:1.4.2",
+      "wts": "quay.io/cdis/workspace-token-service:2022.05",
+      "manifestservice": "quay.io/cdis/manifestservice:2022.05"
+    },
+    "arborist": {
+      "deployment_version": "2"
+    },
+    "indexd": {
+      "arborist": "true"
+    },
+    "guppy": {
+      "indices": [
+        {
+          "index": "ardac_case",
+          "type": "case"
+        },
+        {
+          "index": "ardac_follow_up",
+          "type": "follow_up"
+        },
+        {
+          "index": "ardac_biospecimen",
+          "type": "aliquot"
+        },
+        {
+          "index": "ardac_lab_result",
+          "type": "molecular_test"
+        }
+      ],
+      "config_index": ["ardac_case-array-config", "ardac_follow_up-array-config",
+                      "ardac_biospecimen-array-config", "ardac_lab_result-array-config"],
+      "auth_filter_field": "auth_resource_path"
+   },
+    "sower": [
+      {
+        "name": "pelican-export",
+        "action": "export",
+        "container": {
+          "name": "job-task",
+          "image": "quay.io/cdis/pelican-export:2022.05",
+          "pull_policy": "Always",
+          "env": [
+            {
+              "name": "DICTIONARY_URL",
+              "valueFrom": {
+                "configMapKeyRef": {
+                  "name": "manifest-global",
+                  "key": "dictionary_url"
+                }
+              }
+            },
+            {
+              "name": "GEN3_HOSTNAME",
+              "valueFrom": {
+                "configMapKeyRef": {
+                  "name": "manifest-global",
+                  "key": "hostname"
+                }
+              }
+            },
+            {
+              "name": "ROOT_NODE",
+              "value": "subject"
+            }
+          ],
+          "volumeMounts": [
+            {
+              "name": "pelican-creds-volume",
+              "readOnly": true,
+              "mountPath": "/pelican-creds.json",
+              "subPath": "config.json"
+            },
+            {
+              "name": "peregrine-creds-volume",
+              "readOnly": true,
+              "mountPath": "/peregrine-creds.json",
+              "subPath": "creds.json"
+            }
+          ],
+          "cpu-limit": "1",
+          "memory-limit": "4Gi"
+        },
+        "volumes": [
+          {
+            "name": "pelican-creds-volume",
+            "secret": {
+              "secretName": "pelicanservice-g3auto"
+            }
+          },
+          {
+            "name": "peregrine-creds-volume",
+            "secret": {
+              "secretName": "peregrine-creds"
+            }
+          }
+        ],
+        "restart_policy": "Never"
+      }
+    ],
+    "hatchery": {
+      "user-namespace": "jupyter-pods",
+      "sub-dir": "/lw-workspace",
+      "user-volume-size": "10Gi",
+      "sidecar": {
+        "cpu-limit": "0.8",
+        "memory-limit": "256Mi",
+        "image": "quay.io/cdis/gen3fuse-sidecar:2022.08",
+        "env": {
+          "NAMESPACE": "dev",
+          "HOSTNAME": "dev.ardac.org"
+        },
+        "args": [
+  
+        ],
+        "command": [
+          "/bin/bash",
+          "/sidecarDockerrun.sh"
+        ],
+        "lifecycle-pre-stop": [
+          "su",
+          "-c",
+          "echo test",
+          "-s",
+          "/bin/sh",
+          "root"
+        ]
+      },
+      "containers": [
+        {
+          "target-port": 8888,
+          "cpu-limit": "0.8",
+          "memory-limit": "1.5Gi",
+          "name": "Brain - Python/R/Freesurfer",
+          "image": "quay.io/cdis/jupyterbrain:1.1",
+          "env": {
+  
+          },
+          "args": [
+            "--NotebookApp.base_url=/lw-workspace/proxy/",
+            "--NotebookApp.password=''",
+            "--NotebookApp.token=''"
+          ],
+          "command": [
+            "start-notebook.sh"
+          ],
+          "path-rewrite": "/lw-workspace/proxy/",
+          "use-tls": "false",
+          "ready-probe": "/lw-workspace/proxy/",
+          "lifecycle-post-start": [
+            "/bin/sh",
+            "-c",
+            "export IAM=`whoami`; rm -rf /home/$IAM/pd/dockerHome; ln -s $(pwd) /home/$IAM/pd/dockerHome; mkdir -p /home/$IAM/.jupyter/custom; echo \"define(['base/js/namespace'], function(Jupyter){Jupyter._target = '_self';})\" >/home/$IAM/.jupyter/custom/custom.js; ln -s /data /home/$IAM/pd/; true"
+          ],
+          "user-uid": 1000,
+          "fs-gid": 100,
+          "user-volume-location": "/home/jovyan/pd"
+        },
+        {
+          "target-port": 8888,
+          "cpu-limit": "0.5",
+          "memory-limit": "256Mi",
+          "name": "Bioinfo - Python/R",
+          "image": "quay.io/occ_data/jupyternotebook:1.7.2",
+          "env": {
+  
+          },
+          "args": [
+            "--NotebookApp.base_url=/lw-workspace/proxy/",
+            "--NotebookApp.password=''",
+            "--NotebookApp.token=''"
+          ],
+          "command": [
+            "start-notebook.sh"
+          ],
+          "path-rewrite": "/lw-workspace/proxy/",
+          "use-tls": "false",
+          "ready-probe": "/lw-workspace/proxy/",
+          "lifecycle-post-start": [
+            "/bin/sh",
+            "-c",
+            "export IAM=`whoami`; rm -rf /home/$IAM/pd/dockerHome; ln -s $(pwd) /home/$IAM/pd/dockerHome; mkdir -p /home/$IAM/.jupyter/custom; echo \"define(['base/js/namespace'], function(Jupyter){Jupyter._target = '_self';})\" >/home/$IAM/.jupyter/custom/custom.js; ln -s /data /home/$IAM/pd/; true"
+          ],
+          "user-uid": 1000,
+          "fs-gid": 100,
+          "user-volume-location": "/home/jovyan/pd"
+        },
+        {
+          "target-port": 8888,
+          "cpu-limit": "0.8",
+          "memory-limit": "1024Mi",
+          "name": "Bioinfo - Python/R",
+          "image": "quay.io/occ_data/jupyternotebook:1.7.2",
+          "env": {
+  
+          },
+          "args": [
+            "--NotebookApp.base_url=/lw-workspace/proxy/",
+            "--NotebookApp.password=''",
+            "--NotebookApp.token=''"
+          ],
+          "command": [
+            "start-notebook.sh"
+          ],
+          "path-rewrite": "/lw-workspace/proxy/",
+          "use-tls": "false",
+          "ready-probe": "/lw-workspace/proxy/",
+          "lifecycle-post-start": [
+            "/bin/sh",
+            "-c",
+            "export IAM=`whoami`; rm -rf /home/$IAM/pd/dockerHome; ln -s $(pwd) /home/$IAM/pd/dockerHome; mkdir -p /home/$IAM/.jupyter/custom; echo \"define(['base/js/namespace'], function(Jupyter){Jupyter._target = '_self';})\" >/home/$IAM/.jupyter/custom/custom.js; ln -s /data /home/$IAM/pd/; true"
+          ],
+          "user-uid": 1000,
+          "fs-gid": 100,
+          "user-volume-location": "/home/jovyan/pd"
+        }
+      ]
+    },
+    "global": {
+      "environment": "dev",
+      "hostname": "dev.ardac.org",
+      "revproxy_arn": "arn:aws:acm:us-east-1:233907574649:certificate/ea2a3f25-db2c-4549-aba0-61af2df0342b",
+      "dictionary_url": "https://s3.amazonaws.com/ardac.org/datadictionary/ARDaC_dictionary_1031_demo.json",
+      "portal_app": "gitops",
+      "kube_bucket": "kube-ardac-dev-gen3",
+      "logs_bucket": "logs-ardac-dev-gen3",
+      "sync_from_dbgap": "False",
+      "dispatcher_job_num": "5",
+      "useryaml_s3path": "s3://cdis-state-ac233907574649-gen3/config/user.yaml",
+      "netpolicy": "on",
+      "tier_access_level": "regular",
+      "tier_access_limit": "50",
+      "public_datasets": true
+    },
+    "ssjdispatcher": {
+      "job_images": {
+        "indexing": "quay.io/cdis/indexs3client:2022.05"
+      }
+    },
+    "canary": {
+      "default": 0
+    }
+  }
+  

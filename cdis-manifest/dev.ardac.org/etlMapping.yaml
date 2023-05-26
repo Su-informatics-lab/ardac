@@ -1,0 +1,126 @@
+mappings:
+  - name: ardac_case
+    doc_type: case
+    type: aggregator
+    root: case
+    props:
+    - name: pat_id
+      src: submitter_id
+    - name: project_id
+    - name: cohort
+    - name: study_site
+    - name: actarm
+    parent_props:
+    - path: studies[study_name]
+    flatten_props:
+    - path: demographics
+      props:
+      - name: gender
+        value_mappings:
+        - female: Female
+        - male: Male
+      - name: race
+        value_mappings:
+        - american indian or alaskan native: Native
+      - name: ethnicity
+      - name: year_of_birth
+      - name: age_at_index
+    - path: audits
+      props:
+      - name: drinking_frequency
+        src: usaudit_q1
+      - name: drinks_per_day
+        src: usaudit_q2
+      - name: frequency_of_heavy_drinking
+        src: usaudit_q3
+    aggregated_props:
+      - name: visit_day
+        path: follow_ups
+        src: visit_day
+        fn: max
+      - name: visit_day_set
+        path: follow_ups
+        src: visit_day
+        fn: set
+      - name: eGFR
+        path: follow_ups.molecular_tests
+        src: test_value
+        fn: min
+
+  - name: ardac_follow_up
+    parent_props:
+      - path: cases[pat_id:submitter_id]
+      - path: cases[case_arm:actarm].studies[study_name]
+    doc_type: follow_up
+    type: aggregator
+    root: follow_up
+    props:
+      - name: project_id
+      - name: follow_up_id
+        src: submitter_id
+      - name: visit_day
+      - name: bmi
+        src: bmi
+      - name: child_pugh_score
+      - name: lille_score
+      - name: maddreys_score
+      - name: meld_score
+    aggregated_props:
+      - name: eGFR
+        path: molecular_tests
+        src: test_value
+        fn: max
+      - name: aliquot_amount
+        path: aliquots
+        src: aliquot_amount
+        fn: max
+      - name: container_type
+        path: aliquots
+        src: container_type
+        fn: set
+    # joining_props:
+    #   - index: case      # the index to join on
+    #     join_on: pat_id # the identifier to join on (it should be in both indices)
+    #     props:
+    #     - name: gender
+    #     - name: race
+    #     - name: ethnicity
+
+  - name: ardac_biospecimen
+    doc_type: aliquot
+    type: aggregator
+    root: aliquot
+    props:
+      - name: project_id
+      - name: aliquot_id
+        src: submitter_id
+      - name: specimen_type
+      - name: container_type
+      - name: aliquot_collection_unit
+      - name: aliquot_amount
+    parent_props:
+      - path: follow_ups[follow_up_id:submitter_id, visit_day].cases[pat_id:submitter_id].studies[study_name]
+
+  - name: ardac_lab_result
+    doc_type: molecular_test
+    type: aggregator
+    root: molecular_test
+    parent_props:
+      - path: follow_ups[follow_up_id:submitter_id, visit_day]
+      - path: follow_ups.cases[pat_id:submitter_id].studies[study_name]
+    props:
+      - name: project_id
+      - name: molecular_test_id
+        src: submitter_id
+      - name: gene_symbol
+      - name: molecular_analysis_method
+      - name: test_result
+      - name: blood_test_normal_range_lower
+        fn: max
+      - name: blood_test_normal_range_upper
+        fn: max
+      - name: days_to_test
+      - name: laboratory_test
+      - name: eGFR
+        src: test_value
+        fn: max
