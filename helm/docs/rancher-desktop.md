@@ -16,7 +16,7 @@ helm repo update
 
 helm upgrade --install dev gen3/gen3 -f rancher-desktop-values.yaml
 
-(Optional, list installed helm charts) helm list --all-namespace
+(Optional, list installed helm charts) helm list -all-namespace
 ```
 
 The project will start up, this can be monitored and logs reviewed via k9s:
