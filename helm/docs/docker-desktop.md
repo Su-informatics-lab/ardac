@@ -27,3 +27,17 @@ Now you can create an ingress for Gen3:
 kubectl create ingress gen3-local --class=nginx --rule="localhost/*=revproxy-service:80"
 ```
 At this point you should be able to point your browser at http://localhost and bring up the Gen3 portal. Note that you will see a browser warning about security.
+
+## Part 3: Undeploy
+To undeploy Gen3, start by removing the ingress:
+```
+kubectl delete ingress gen3-local
+```
+Next, remove the ingress controller:
+```
+helm uninstall ingress-nginx --namespace ingress-nginx
+```
+Finally, remove the Gen3 deployment:
+```
+helm uninstall gen3
+```
