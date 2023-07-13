@@ -205,6 +205,9 @@ fence:
         - audit_reader
 
 portal:
+  image:
+    repository: leftsweety/ardac-portal
+    tag: "1_11_23"
   gitops:
     json: |
       {
