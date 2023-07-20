@@ -1,12 +1,18 @@
 global:
   hostname: localhost
 
-fence: 
+fence:
   FENCE_CONFIG:
     MOCK_GOOGLE_AUTH: true
     OPENID_CONNECT:
       google:
         mock_default_user: 'test@example.com'
+
+portal:
+  image:
+    repository: windmill
+    pullPolicy: Never
+    tag: latest
 
 postgresql:
   primary:
