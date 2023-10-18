@@ -8,7 +8,8 @@
 
 ## Gen3 deployment
 Clone the repository and install Gen3. A sample rancher-desktop-values.yaml file is included in the config folder of
-this repo. It includes a locally build data-portal (windmill). A similar pattern is applicable for other services.
+this repo. It includes a locally build data-portal (windmill) and guppy. A similar pattern is applicable for other
+services.
 ```
 helm repo add gen3 http://helm.gen3.org
 helm repo update
@@ -17,8 +18,10 @@ helm repo update
 
 git clone https://github.com/jing-su/ardac.git
 git clone https://github.com/jing-su/data-portal.git
+git clone https://github.com/uc-cdis/guppy.git
 docker build -t windmill data-portal/.
-helm upgrade --install dev gen3/gen3 -f ardac/helm/config/rancher-desktop-values.yaml
+docker build -t guppy guppy/.
+in gen3/gen3-helm:  helm upgrade --install dev ./helm/gen3 -f ../jing-su/ardac/helm/config/rancher-desktop-values.yaml
 ```
 
 The project will start up, this can be monitored and logs reviewed via k9s:
@@ -54,10 +57,63 @@ sudo sysctl -p
 exit
 ```
 
+## Creating a program and project
+
+These steps are useful for preparing program and project data prior to submitting data.
+
+* Go to https://localhost/_root and login
+* Toggle Use Form Submission
+* Select Program in the dropdown list
+* Enter the below data, generate submission and submit
+```
+{
+  "type": "program",
+  "dbgap_accession_number": "phs1006",
+  "name": "ARDaC"
+}
+```
+* There will be no feedback on this form but if navigating to https://localhost/ARDaC is successful it worked
+* Toggle Use Form Submission
+* Select Project in the dropdown list
+* Enter the below data, generate submission and submit
+```
+{
+  "type": "project",
+  "code": "AlcHepNet",
+  "name": "AlcHepNet",
+  "dbgap_accession_number": "phs1006"
+}
+```
+* There will be a 200 / Submitted chunk 1 of 1 upon success of this submission. Projects can also be reviewed per https://localhost/api/search/datasets/projects
+* Navigate to Submit Data (upper right) and note the program / project should display
+* Select Submit data and upload files in the order of the hierarchy starting with study_node.tsv, make sure the program / project match with what was created above
+  * lab_node.tsv -> case_node.tsv -> demographic_node.tsv -> follow_up_node.tsv -> aliquot_node.tsv -> aliquot_node_part_2.tsv
+
+Now the ETL job needs to be started:
+```
+kubectl create job --from=cronjob/etl-cronjob etl
+```
+
+Verify the job for etl completes in k9s. You can also curl the indices on the elasticsearch endpoint. Like so (make sure
+to replace the pod name with what is in k9s)
+
+```
+kubectl exec -it portal-deployment-74b89bd75f-r8lcc -- bash
+curl -X GET http://gen3-elasticsearch-master:9200/_cat/indices?v
+```
+
+Now guppy can be started:
+
+```
+in gen3/gen3-helm/helm/guppy:  helm dependency build
+in gen3/gen3-helm:  helm upgrade --install guppy ./helm/guppy -f ../jing-su/ardac/helm/config/rancher-desktop-values-guppy.yaml
+```
+
 ## Gen3 uninstall
 
 The persistent database needs to be uninstalled via a seperate command.
 ```
+helm uninstall guppy
 helm uninstall dev
 kubectl delete pvc data-dev-postgresql-0
 ```
