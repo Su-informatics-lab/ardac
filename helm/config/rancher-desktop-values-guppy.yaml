@@ -5,19 +5,3 @@ guppy:
 #    repository: guppy
 #    pullPolicy: Never
 #    tag: latest
-  ## from https://github.com/Su-informatics-lab/cdis-manifest/blob/35cddce4fc8f208e277cbed7f5a9ed3eb9c34273/dev.ardac.org/manifest.json#L35C1-L57C4
-  indices:
-    - index: ardac_case
-      type: case
-    - index: ardac_follow_up
-      type: follow_up
-    - index: ardac_biospecimen
-      type: aliquot
-    - index: ardac_lab_result
-      type: molecular_test
-  config_index:
-    - ardac_case-array-config
-    - ardac_follow_up-array-config
-    - ardac_biospecimen-array-config
-    - ardac_lab_result-array-config
-  auth_filter_field: auth_resource_path

@@ -111,11 +111,18 @@ in gen3/gen3-helm:  helm upgrade --install guppy ./helm/guppy -f ../jing-su/arda
 
 ## Gen3 uninstall
 
-The persistent database needs to be uninstalled via a seperate command.
+The persistent database needs to be uninstalled via a separate command.
 ```
 helm uninstall guppy
 helm uninstall dev
+kubectl delete pvc gen3-elasticsearch-master-gen3-elasticsearch-master-0
 kubectl delete pvc data-dev-postgresql-0
+```
+
+## Collection of useful commands
+```
+kubectl get configmaps
+kubectl describe configmaps manifest-guppy
 ```
 
 ## Sources
