@@ -1,7 +1,25 @@
 guppy:
   enabled: true
-# TODO when you are ready to locally modify and build guppy, re-add this
-#  image:
-#    repository: guppy
-#    pullPolicy: Never
-#    tag: latest
+  image:
+    repository: guppy
+    pullPolicy: Never
+    tag: latest
+
+# for guppy from https://github.com/Su-informatics-lab/cdis-manifest/blob/35cddce4fc8f208e277cbed7f5a9ed3eb9c34273/dev.ardac.org/manifest.json#L35C1-L57C4
+indices:
+  - index: ardac_case_0
+    type: case
+  - index: ardac_follow_up_0
+    type: follow_up
+  - index: ardac_biospecimen_0
+    type: aliquot
+  - index: ardac_lab_result_0
+    type: molecular_test
+# -- (string) The Elasticsearch configuration index
+configIndex:
+  - ardac_case-array-config_0
+  - ardac_follow_up-array-config_0
+  - ardac_biospecimen-array-config_0
+  - ardac_lab_result-array-config_0
+# -- (string) The field used for access control and authorization filters
+authFilterField: auth_resource_path
