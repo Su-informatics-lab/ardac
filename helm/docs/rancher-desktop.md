@@ -87,7 +87,7 @@ These steps are useful for preparing program and project data prior to submittin
 * There will be a 200 / Submitted chunk 1 of 1 upon success of this submission. Projects can also be reviewed per https://localhost/api/search/datasets/projects
 * Navigate to Submit Data (upper right) and note the program / project should display
 * Select Submit data and upload files in the order of the hierarchy starting with study_node.tsv, make sure the program / project match with what was created above
-  * lab_node.tsv -> case_node.tsv -> demographic_node.tsv -> follow_up_node.tsv -> aliquot_node.tsv -> aliquot_node_part_2.tsv
+  * study_node.tsv -> lab_node.tsv -> case_node.tsv -> demographic_node.tsv -> follow_up_node.tsv -> aliquot_node.tsv -> aliquot_node_part_2.tsv
 
 Now the ETL job needs to be started:
 ```
@@ -124,6 +124,21 @@ kubectl delete pvc data-dev-postgresql-0
 kubectl get configmaps
 kubectl describe configmaps manifest-guppy
 ```
+
+## Troubleshooting
+
+### Elasticsearch deployment fail with `max virtual memory areas`
+
+See vm.max_map_count for sysctl.conf instructions above.
+
+### InvalidImageName
+
+`stream logs failed container "ambassador" in pod "ambassador-deployment-58f48b8dc4-zq2kk" is waiting to start: InvalidImageName for ...`
+
+Helm version > 3.12.3 is not supported. Note that rancher by default auto updates and resets this configuration on occasion.
+1. Download https://github.com/helm/helm/releases/tag/v3.12.3 and unpack in an appropriate location
+2. Update the symlink under .rd/bin/helm pointing to that version
+3. Verify with `helm version`
 
 ## Sources
 
