@@ -223,11 +223,12 @@ fence:
         - all_programs_reader
         - audit_reader
 
-portal:
-  image:
-    repository: windmill
-    pullPolicy: Never
-    tag: latest
+# The following is not being picked up, even though the template should resolve it https://github.com/uc-cdis/gen3-helm/blob/feat/es7/helm/portal/templates/deployment.yaml
+#portal:
+#  image:
+#    repository: windmill
+#    pullPolicy: Never
+#    tag: latest
 
 ## from https://github.com/Su-informatics-lab/cdis-manifest/blob/feat/ardac-branches/dev.ardac.org/etlMapping.yaml
 etl:

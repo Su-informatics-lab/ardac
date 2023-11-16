@@ -1,9 +1,9 @@
-guppy:
-  enabled: true
-  image:
-    repository: guppy
-    pullPolicy: Never
-    tag: latest
+enabled: true
+
+image:
+  repository: guppy
+  pullPolicy: Never
+  tag: latest
 
 # for guppy from https://github.com/Su-informatics-lab/cdis-manifest/blob/35cddce4fc8f208e277cbed7f5a9ed3eb9c34273/dev.ardac.org/manifest.json#L35C1-L57C4
 indices:
