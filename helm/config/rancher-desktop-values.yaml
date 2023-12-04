@@ -233,7 +233,6 @@ fence:
 ## from https://github.com/Su-informatics-lab/cdis-manifest/blob/feat/ardac-branches/dev.ardac.org/etlMapping.yaml
 etl:
   enabled: true
-  esEndpoint: "gen3-elasticsearch-master:9200"
   etlMapping:
     mappings:
       - name: ardac_case

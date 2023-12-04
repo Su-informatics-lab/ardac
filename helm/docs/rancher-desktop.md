@@ -16,12 +16,12 @@ helm repo update
 
 (Optional, search repos) helm search repo gen3
 
-git clone https://github.com/jing-su/ardac.git
-git clone https://github.com/jing-su/data-portal.git
+git clone https://github.com/Su-informatics-lab/ardac.git
+git clone https://github.com/Su-informatics-lab/data-portal.git
 git clone https://github.com/uc-cdis/guppy.git
 docker build -t windmill data-portal/.
 docker build -t guppy guppy/.
-in gen3/gen3-helm:  helm upgrade --install dev ./helm/gen3 -f ../jing-su/ardac/helm/config/rancher-desktop-values.yaml
+in gen3/gen3-helm:  helm upgrade --install dev ./helm/gen3 -f ../Su-informatics-lab/ardac/helm/config/rancher-desktop-values.yaml
 ```
 
 The project will start up, this can be monitored and logs reviewed via k9s:
