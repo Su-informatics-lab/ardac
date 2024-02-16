@@ -120,8 +120,8 @@ with this:
 now start guppy:
 
 ```
-in gen3/gen3-helm/helm/guppy:  helm dependency build
-in gen3/gen3-helm:  helm upgrade --install guppy ./helm/guppy -f ../jing-su/ardac/helm/config/rancher-desktop-values-guppy.yaml
+in gen3/gen3-helm/helm/guppy:  helm dependency update;helm dependency build
+in gen3/gen3-helm:  helm upgrade --install guppy ./helm/guppy -f ../Su-informatics-lab/ardac/helm/config/rancher-desktop-values-guppy.yaml
 ```
 
 ## Gen3 uninstall
@@ -132,6 +132,15 @@ helm uninstall guppy
 helm uninstall dev
 kubectl delete pvc gen3-elasticsearch-master-gen3-elasticsearch-master-0
 kubectl delete pvc data-dev-postgresql-0
+```
+
+## (Use case) Deploy a code changes to guppy
+
+This is an example scenario if a developer were to change source code in guppy and wants to deploy it:
+```
+in gen3/gen3-helm:  helm uninstall guppy
+in gen3/Su-informatics-lab: docker build -t guppy guppy/.
+in gen3/gen3-helm:  helm upgrade --install guppy ./helm/guppy -f ../Su-informatics-lab/ardac/helm/config/rancher-desktop-values-guppy.yaml
 ```
 
 ## Collection of useful commands
