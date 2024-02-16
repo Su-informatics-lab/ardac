@@ -170,7 +170,7 @@ Make sure that only rancher-desktop is running on your laptop, not a standalone 
 own Docker daemon. Furthermore the steps where we build images needs to be done with the rancher-desktop Docker daemon,
 otherwise the images will not be available. Finally verify the "Diagnostics" tab in rancher-desktop, it will verify
 symlinks on your laptop point to the correct (rancher-desktop) Docker daemon. The symlinks being wrong will result in
-messages such as Docker not running which should be the case if rancher-desktop is running.
+messages such as Docker not running.
 
 ## Sources
 
