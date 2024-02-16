@@ -164,6 +164,14 @@ Helm version > 3.12.3 is not supported. Note that rancher by default auto update
 2. Update the symlink under .rd/bin/helm pointing to that version
 3. Verify with `helm version`
 
+### stream logs failed container "guppy" in pod "guppy-deployment-78cb9bf997-lkmjb" is waiting to start: ErrImageNeverPull for default/guppy-deployment-78cb9bf997-lkmjb (guppy)
+
+Make sure that only rancher-desktop is running on your laptop, not a standalone version of Docker. rancher-desktop has its
+own Docker daemon. Furthermore the steps where we build images needs to be done with the rancher-desktop Docker daemon,
+otherwise the images will not be available. Finally verify the "Diagnostics" tab in rancher-desktop, it will verify
+symlinks on your laptop point to the correct (rancher-desktop) Docker daemon. The symlinks being wrong will result in
+messages such as Docker not running which should be the case if rancher-desktop is running.
+
 ## Sources
 
 * Basic setup: https://github.com/uc-cdis/gen3-helm/blob/master/docs/gen3_developer_environments.md, https://www.youtube.com/watch?v=0WCKOJtj3RM&t=385s.
