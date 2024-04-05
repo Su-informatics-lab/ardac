@@ -1,0 +1,13 @@
+clusterName: gen3-elasticsearch
+volumeClaimTemplate:
+  accessModes: ["ReadWriteOnce"]
+  resources:
+    requests:
+      storage: 15Gi
+maxUnavailable: 0
+singleNode: true
+replicas: 1
+clusterHealthCheckParams: "wait_for_status=yellow&timeout=1s"
+esConfig:
+  elasticsearch.yml: |
+    # Here we can add elasticsearch config

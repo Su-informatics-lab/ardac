@@ -1,0 +1,8 @@
+global:
+  postgresql:
+    auth:
+      postgresPassword: "AbCdEfGhIjKlMnOpQrStUvWxYz1234567890"
+fullnameOverride: "gen3-postgresql"
+primary:
+  persistence:
+    size: 15Gi
