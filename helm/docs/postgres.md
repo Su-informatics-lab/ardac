@@ -7,17 +7,17 @@ Gen3 requires a PostgreSQL database and in "dev" mode, it is deployed by the umb
 
 To deploy the chart:
 
-    ```bash
-    helm repo add bitnami https://charts.bitnami.com/bitnami
-    helm repo update
-    helm upgrade --install gen3-postgres bitnami/postgresql --version 11.9.13 -f postgres.yaml
-    ```
+```bash
+helm repo add bitnami https://charts.bitnami.com/bitnami
+helm repo update
+helm upgrade --install gen3-postgres bitnami/postgresql --version 11.9.13 -f postgres.yaml
+```
 
 To check the status of the deployment:
 
-    ```bash
-    kubectl get pods
-    ```
+```bash
+kubectl get pods
+```
 
 You should find a single pod called `gen3-postgres-0` running. This is your PostgreSQL database.
 
