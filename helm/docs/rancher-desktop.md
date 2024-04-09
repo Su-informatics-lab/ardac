@@ -5,7 +5,7 @@
 * Install https://docs.rancherdesktop.io/getting-started/installation
 * Once installed and started, review the Troubleshooting. Some warnings may cause problems later on
 * Under Settings -> Virtual Machine Memory 16GB, 8 CPUs. During testing less memory caused the portal (webpack) build to fail
-  * Meaning your machine should have more then 16GB so that your local OS has memory
+  * Meaning your machine should have more than 16GB. 32GB is recommended.
 
 ## Gen3 deployment
 Clone the repository and install Gen3. A sample rancher-desktop-values.yaml file is included in the config folder of
