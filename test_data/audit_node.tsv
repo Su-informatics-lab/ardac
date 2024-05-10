@@ -1,0 +1,902 @@
+*type	project_id	*submitter_id	cases.submitter_id	days_to_test	usaudit_collected	usaudit_completed_by	usaudit_q1	usaudit_q10	usaudit_q2	usaudit_q3	usaudit_q4	usaudit_q5	usaudit_q6	usaudit_q7	usaudit_q8	usaudit_q9	auditnd	adtcomploth	adt0101	adt0102	adt0103	adt0104	adt0105	adt0106	adt0107	adt0108	adt0109	adt0110
+audit	ARDaC-AlcHepNet	11001_obs_audit	11001_obs														Yes		2 to 4 times a month	1 or 2	Never	Never	Never	Never	Never	Never	No	No
+audit	ARDaC-AlcHepNet	11002_obs_audit	11002_obs														Yes		Monthly or less	1 or 2	Never	Never	Never	Never	Never	Never	No	No
+audit	ARDaC-AlcHepNet	11003_obs_audit	11003_obs														Yes		4 or more times a week	3 or 4	Weekly	Weekly	Weekly	Less than monthly	Weekly	Less than monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	11004_obs_audit	11004_obs														Yes		2 to 4 times a month	1 or 2	Never	Never	Never	Never	Never	Never	No	No
+audit	ARDaC-AlcHepNet	11006_obs_audit	11006_obs														Yes		4 or more times a week	3 or 4	Weekly	Daily or almost daily	Less than monthly	Never	Weekly	Monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	11007_obs_audit	11007_obs														Yes		Monthly or less	1 or 2	Never	Never	Never	Never	Never	Never	No	No
+audit	ARDaC-AlcHepNet	11008_obs_audit	11008_obs														Yes		2 to 3 times a week	3 or 4	Less than monthly	Never	Never	Never	Never	Never	No	No
+audit	ARDaC-AlcHepNet	11009_obs_audit	11009_obs														Yes		2 to 4 times a month	1 or 2	Never	Never	Never	Never	Never	Never	No	No
+audit	ARDaC-AlcHepNet	11010_obs_audit	11010_obs														Yes		Monthly or less	1 or 2	Never	Never	Never	Never	Never	Never	No	No
+audit	ARDaC-AlcHepNet	11011_obs_audit	11011_obs														Yes		4 or more times a week	5 or 6	Weekly	Weekly	Monthly	Less than monthly	Daily or almost daily	Less than monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	11012_obs_audit	11012_obs														Yes		Never	1 or 2	Never	Never	Never	Never	Never	Never	No	No
+audit	ARDaC-AlcHepNet	11013_obs_audit	11013_obs														Yes		4 or more times a week	7 to 9	Weekly	Daily or almost daily	Never	Daily or almost daily	Never	Weekly	"Yes, during the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	11014_obs_audit	11014_obs														Yes		2 to 4 times a month	1 or 2	Never	Never	Never	Never	Never	Never	No	No
+audit	ARDaC-AlcHepNet	11015_obs_audit	11015_obs														Yes		4 or more times a week	7 to 9	Daily or almost daily	Daily or almost daily	Weekly	Weekly	Daily or almost daily	Weekly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	11017_obs_audit	11017_obs														Yes		Monthly or less	1 or 2	Never	Never	Never	Never	Never	Never	No	No
+audit	ARDaC-AlcHepNet	11018_obs_audit	11018_obs														Yes		4 or more times a week	5 or 6	Less than monthly	Monthly	Never	Never	Monthly	Never	No	"Yes, but not in the last year"
+audit	ARDaC-AlcHepNet	11019_obs_audit	11019_obs														Yes		4 or more times a week	3 or 4	Less than monthly	Weekly	Never	Daily or almost daily	Daily or almost daily	Never	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	11020_obs_audit	11020_obs														Yes		4 or more times a week	5 or 6	Weekly	Monthly	Monthly	Never	Never	Less than monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	11021_obs_audit	11021_obs														Yes		4 or more times a week	1 or 2	Monthly	Less than monthly	Never	Less than monthly	Less than monthly	Never	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	11022_obs_audit	11022_obs														Yes		2 to 3 times a week	7 to 9	Weekly	Weekly	Weekly	Weekly	Weekly	Weekly	"Yes, during the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	11023_obs_audit	11023_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Weekly	Never	Daily or almost daily	Monthly	"Yes, but not in the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	11024_obs_audit	11024_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Weekly	Weekly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	11025_obs_audit	11025_obs														Yes		2 to 3 times a week	5 or 6	Weekly	Monthly	Monthly	Never	Weekly	Monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	11026_obs_audit	11026_obs														Yes		4 or more times a week	3 or 4	Weekly	Monthly	Never	Never	Less than monthly	Less than monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	11027_obs_audit	11027_obs														Yes		2 to 4 times a month	1 or 2	Never	Never	Never	Never	Less than monthly	Never	No	No
+audit	ARDaC-AlcHepNet	11028_obs_audit	11028_obs														Yes		4 or more times a week	5 or 6	Weekly	Daily or almost daily	Never	Less than monthly	Less than monthly	Never	"Yes, but not in the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	11029_obs_audit	11029_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Weekly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	11030_obs_audit	11030_obs														No											
+audit	ARDaC-AlcHepNet	11031_obs_audit	11031_obs														Yes		2 to 3 times a week	1 or 2	Never	Never	Never	Never	Never	Never	No	No
+audit	ARDaC-AlcHepNet	11032_obs_audit	11032_obs														Yes		4 or more times a week	5 or 6	Never	Never	Weekly	Monthly	Daily or almost daily	Never	No	"Yes, but not in the last year"
+audit	ARDaC-AlcHepNet	11033_obs_audit	11033_obs														No											
+audit	ARDaC-AlcHepNet	11034_obs_audit	11034_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Less than monthly	"Yes, during the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	11035_obs_audit	11035_obs														Yes		4 or more times a week	7 to 9	Daily or almost daily	Weekly	Less than monthly	Never	Weekly	Less than monthly	No	"Yes, but not in the last year"
+audit	ARDaC-AlcHepNet	11036_obs_audit	11036_obs														Yes		4 or more times a week	5 or 6	Daily or almost daily	Daily or almost daily	Monthly	Never	Daily or almost daily	Monthly	No	"Yes, but not in the last year"
+audit	ARDaC-AlcHepNet	11038_obs_audit	11038_obs														Yes		4 or more times a week	3 or 4	Weekly	Daily or almost daily	Weekly	Daily or almost daily	Daily or almost daily	Weekly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	11039_obs_audit	11039_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Monthly	Weekly	Weekly	Monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	11040_obs_audit	11040_obs														Yes		4 or more times a week	7 to 9	Daily or almost daily	Daily or almost daily	Weekly	Less than monthly	Weekly	Weekly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	11041_obs_audit	11041_obs														Yes		4 or more times a week	5 or 6	Weekly	Daily or almost daily	Weekly	Weekly	Weekly	Monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	11042_obs_audit	11042_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Monthly	Never	Never	Monthly	Never	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	11043_obs_audit	11043_obs														Yes		4 or more times a week	3 or 4	Weekly	Weekly	Never	Daily or almost daily	Daily or almost daily	Daily or almost daily	"Yes, during the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	11044_obs_audit	11044_obs														Yes		2 to 3 times a week	7 to 9	Weekly	Weekly	Weekly	Never	Weekly	Weekly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	11045_obs_audit	11045_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Never	Weekly	Monthly	Weekly	"Yes, during the last year"	"Yes, but not in the last year"
+audit	ARDaC-AlcHepNet	11046_obs_audit	11046_obs														Yes		4 or more times a week	5 or 6	Daily or almost daily	Less than monthly	Never	Less than monthly	Never	Less than monthly	"Yes, but not in the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	11047_obs_audit	11047_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Weekly	Weekly	Daily or almost daily	Less than monthly	"Yes, during the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	11048_obs_audit	11048_obs														Yes		4 or more times a week	7 to 9	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	"Yes, during the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	11049_obs_audit	11049_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Weekly	"Yes, during the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	11050_obs_audit	11050_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	"Yes, during the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	11051_obs_audit	11051_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Never	Weekly	Weekly	Weekly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	11052_obs_audit	11052_obs														Yes		4 or more times a week	3 or 4	Never	Weekly	Monthly	Monthly	Daily or almost daily	Less than monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	11053_obs_audit	11053_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Never	Monthly	Daily or almost daily	Never	Weekly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	11054_obs_audit	11054_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Never	Daily or almost daily	Monthly	Never	No	No
+audit	ARDaC-AlcHepNet	11055_clinical_audit	11055_clinical														Yes		4 or more times a week	7 to 9	Weekly	Less than monthly	Less than monthly	Less than monthly	Weekly	Daily or almost daily	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	11056_obs_audit	11056_obs														Yes		Never	Not Done/Missing	Never	Never	Never	Never	Never	Never	No	No
+audit	ARDaC-AlcHepNet	11057_obs_audit	11057_obs														Yes		4 or more times a week	3 or 4	Monthly	Never	Never	Never	Never	Less than monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	11058_clinical_audit	11058_clinical														Yes		4 or more times a week	3 or 4	Never	Daily or almost daily	Daily or almost daily	Never	Monthly	Less than monthly	"Yes, but not in the last year"	"Yes, but not in the last year"
+audit	ARDaC-AlcHepNet	11059_obs_audit	11059_obs														Yes		4 or more times a week	3 or 4	Weekly	Weekly	Less than monthly	Monthly	Never	Monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	11060_obs_audit	11060_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Never	Never	Daily or almost daily	Monthly	Monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	11061_obs_audit	11061_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Monthly	Monthly	Daily or almost daily	Daily or almost daily	Daily or almost daily	No	No
+audit	ARDaC-AlcHepNet	11062_obs_audit	11062_obs														Yes		4 or more times a week	3 or 4	Never	Less than monthly	Never	Never	Weekly	Monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	11063_obs_audit	11063_obs														Yes		4 or more times a week	5 or 6	Less than monthly	Never	Monthly	Never	Monthly	Monthly	No	No
+audit	ARDaC-AlcHepNet	11064_obs_audit	11064_obs														Yes		4 or more times a week	7 to 9	Daily or almost daily	Weekly	Never	Never	Monthly	Weekly	"Yes, during the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	11065_obs_audit	11065_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Weekly	Weekly	Weekly	Weekly	Daily or almost daily	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	11066_clinical_audit	11066_clinical														Yes		4 or more times a week	7 to 9	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Less than monthly	No	No
+audit	ARDaC-AlcHepNet	11067_clinical_audit	11067_clinical														Yes		4 or more times a week	7 to 9	Daily or almost daily	Never	Monthly	Daily or almost daily	Never	Monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	11068_obs_audit	11068_obs														Yes		4 or more times a week	7 to 9	Daily or almost daily	Not Done/Missing	Daily or almost daily	Not Done/Missing	Not Done/Missing	Not Done/Missing	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	11069_obs_audit	11069_obs														Yes		4 or more times a week	3 or 4	Never	Never	Never	Never	Less than monthly	Never	No	No
+audit	ARDaC-AlcHepNet	11070_obs_audit	11070_obs														Yes		4 or more times a week	7 to 9	Daily or almost daily	Never	Monthly	Monthly	Less than monthly	Less than monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	11071_clinical_audit	11071_clinical														Yes		4 or more times a week	10 or more	Daily or almost daily	Weekly	Monthly	Monthly	Monthly	Monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	11073_obs_audit	11073_obs														Yes		4 or more times a week	7 to 9	Daily or almost daily	Less than monthly	Less than monthly	Weekly	Never	Monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	11074_obs_audit	11074_obs														Yes		4 or more times a week	5 or 6	Monthly	Never	Less than monthly	Less than monthly	Never	Never	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	11075_obs_audit	11075_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Never	Never	Weekly	Never	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	11076_obs_audit	11076_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Weekly	Daily or almost daily	Daily or almost daily	Weekly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	11077_obs_audit	11077_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Never	Daily or almost daily	Weekly	Daily or almost daily	Less than monthly	"Yes, during the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	11078_clinical_audit	11078_clinical														Yes		4 or more times a week	3 or 4	Weekly	Weekly	Less than monthly	Never	Not Done/Missing	Less than monthly	No	No
+audit	ARDaC-AlcHepNet	11079_obs_audit	11079_obs														Yes		4 or more times a week	7 to 9	Daily or almost daily	Never	Never	Never	Never	Weekly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	11080_clinical_audit	11080_clinical														Yes		4 or more times a week	10 or more	Daily or almost daily	Never	Weekly	Monthly	Weekly	Weekly	"Yes, during the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	11081_obs_audit	11081_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	"Yes, during the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	11082_obs_audit	11082_obs														Yes		4 or more times a week	5 or 6	Daily or almost daily	Monthly	Weekly	Weekly	Weekly	Never	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	11083_clinical_audit	11083_clinical														Yes		4 or more times a week	7 to 9	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Weekly	Monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	11084_obs_audit	11084_obs														Yes		4 or more times a week	5 or 6	Less than monthly	Less than monthly	Less than monthly	Less than monthly	Monthly	Monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	11085_clinical_audit	11085_clinical														Yes		4 or more times a week	10 or more	Daily or almost daily	Less than monthly	Weekly	Never	Monthly	Weekly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	11086_obs_audit	11086_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Less than monthly	Never	Daily or almost daily	Monthly	"Yes, but not in the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	11087_obs_audit	11087_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Never	Never	Never	Never	Monthly	No	No
+audit	ARDaC-AlcHepNet	11088_obs_audit	11088_obs														Yes		Monthly or less	1 or 2	Never							
+audit	ARDaC-AlcHepNet	11089_clinical_audit	11089_clinical														Yes		4 or more times a week	7 to 9	Daily or almost daily	Weekly	Never	Never	Monthly	Monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	11090_obs_audit	11090_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Less than monthly	Daily or almost daily	Daily or almost daily	Daily or almost daily	"Yes, during the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	11091_clinical_audit	11091_clinical														Yes		4 or more times a week	7 to 9	Daily or almost daily	Never	Daily or almost daily	Never	Monthly	Weekly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	11092_clinical_audit	11092_clinical														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Daily or almost daily	Weekly	Never	Weekly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	11093_obs_audit	11093_obs														Yes		4 or more times a week	5 or 6	Weekly	Daily or almost daily	Weekly	Not Done/Missing	Not Done/Missing	Not Done/Missing	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	11094_obs_audit	11094_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Never	Never	Daily or almost daily	Daily or almost daily	Never	"Yes, but not in the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	11095_clinical_audit	11095_clinical														No											
+audit	ARDaC-AlcHepNet	11096_obs_audit	11096_obs														Yes		4 or more times a week	5 or 6	Daily or almost daily	Weekly	Less than monthly	Never	Monthly	Monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	11097_obs_audit	11097_obs														Yes		4 or more times a week	3 or 4	Never	Daily or almost daily	Never	Never	Never	Never	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	11098_clinical_audit	11098_clinical														Yes		4 or more times a week	7 to 9	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Never	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	11099_clinical_audit	11099_clinical														Yes		4 or more times a week	7 to 9	Daily or almost daily	Daily or almost daily	Never	Never	Weekly	Monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	11100_obs_audit	11100_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Never	Never	Less than monthly	Monthly	"Yes, but not in the last year"	"Yes, but not in the last year"
+audit	ARDaC-AlcHepNet	11101_obs_audit	11101_obs														Yes		4 or more times a week	5 or 6	Weekly	Daily or almost daily	Daily or almost daily	Never	Weekly	Never	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	11102_obs_audit	11102_obs														Yes		4 or more times a week	7 to 9	Daily or almost daily	Never	Never	Never	Never	Never	No	No
+audit	ARDaC-AlcHepNet	11103_clinical_audit	11103_clinical														Yes		4 or more times a week	7 to 9	Daily or almost daily	Monthly	Daily or almost daily	Daily or almost daily	Daily or almost daily	Weekly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	11104_obs_audit	11104_obs														Yes		4 or more times a week	5 or 6	Weekly	Weekly	Less than monthly	Daily or almost daily	Never	Never	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	11105_obs_audit	11105_obs														Yes		4 or more times a week	3 or 4	Never	Never	Never	Never	Never	Never	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	11106_obs_audit	11106_obs														Yes		4 or more times a week	5 or 6	Less than monthly	Never	Monthly	Never	Never	Never	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	11107_obs_audit	11107_obs														Yes		4 or more times a week	7 to 9	Daily or almost daily	Daily or almost daily	Weekly	Less than monthly	Daily or almost daily	Weekly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	11108_obs_audit	11108_obs														Yes		4 or more times a week	5 or 6	Less than monthly	Monthly	Monthly	Daily or almost daily	Weekly	Monthly	"Yes, during the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	11109_obs_audit	11109_obs														Yes		Monthly or less	1 or 2	Never							
+audit	ARDaC-AlcHepNet	11110_obs_audit	11110_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Weekly	Daily or almost daily	Daily or almost daily	Weekly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	11111_obs_audit	11111_obs														Yes		4 or more times a week	7 to 9	Daily or almost daily	Monthly	Less than monthly	Never	Daily or almost daily	Less than monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	11112_obs_audit	11112_obs														Yes		2 to 4 times a month	1 or 2	Never							
+audit	ARDaC-AlcHepNet	11113_obs_audit	11113_obs														Yes		4 or more times a week	3 or 4	Less than monthly	Never	Never	Never	Never	Never	No	No
+audit	ARDaC-AlcHepNet	11114_clinical_audit	11114_clinical														Yes		4 or more times a week	3 or 4	Never	Never	Never	Never	Less than monthly	Never	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	11115_obs_audit	11115_obs														Yes		4 or more times a week	5 or 6	Daily or almost daily	Not Done/Missing	Weekly	Weekly	Not Done/Missing	Not Done/Missing	"Yes, during the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	11116_clinical_audit	11116_clinical														Yes		4 or more times a week	7 to 9	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	"Yes, during the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	11117_obs_audit	11117_obs														Yes		4 or more times a week	7 to 9	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Weekly	Weekly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	11118_clinical_audit	11118_clinical														Yes		2 to 3 times a week	3 or 4	Never	Never	Never	Never	Daily or almost daily	Monthly	No	"Yes, but not in the last year"
+audit	ARDaC-AlcHepNet	11119_obs_audit	11119_obs														Yes		Never	1 or 2	Never	Never	Never	Never	Never	Never	No	No
+audit	ARDaC-AlcHepNet	11120_obs_audit	11120_obs														Yes		4 or more times a week	5 or 6	Weekly	Daily or almost daily	Never	Never	Never	Never	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	11121_obs_audit	11121_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Never	Never	Never	Never	Never	No	No
+audit	ARDaC-AlcHepNet	11122_clinical_audit	11122_clinical														Yes		4 or more times a week	10 or more	Daily or almost daily	Less than monthly	Weekly	Daily or almost daily	Less than monthly	Never	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	11123_obs_audit	11123_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	"Yes, during the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	11124_obs_audit	11124_obs														Yes		4 or more times a week	7 to 9	Daily or almost daily	Daily or almost daily	Never	Daily or almost daily	Daily or almost daily	Never	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	11125_clinical_audit	11125_clinical														Yes		4 or more times a week	5 or 6	Weekly	Weekly	Less than monthly	Monthly	Daily or almost daily	Weekly	No	No
+audit	ARDaC-AlcHepNet	11127_obs_audit	11127_obs														Yes		4 or more times a week	5 or 6	Monthly	Weekly	Monthly	Never	Weekly	Daily or almost daily	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	11128_clinical_audit	11128_clinical														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Weekly	Weekly	"Yes, during the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	11129_obs_audit	11129_obs														Yes		4 or more times a week	5 or 6	Never	Never	Never	Never	Less than monthly	Never	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	11130_obs_audit	11130_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Never	Monthly	Daily or almost daily	Monthly	Monthly	"Yes, during the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	11131_clinical_audit	11131_clinical														Yes		4 or more times a week	5 or 6	Monthly	Never	Never	Never	Never	Less than monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	11132_clinical_audit	11132_clinical														Yes		4 or more times a week	10 or more	Daily or almost daily	Never	Monthly	Weekly	Daily or almost daily	Less than monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	11133_obs_audit	11133_obs														Yes		4 or more times a week	7 to 9	Daily or almost daily	Monthly	Never	Weekly	Never	Never	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	11134_obs_audit	11134_obs														Yes		4 or more times a week	7 to 9	Daily or almost daily	Weekly	Weekly	Monthly	Weekly	Monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	11135_obs_audit	11135_obs														Yes		4 or more times a week	5 or 6	Monthly	Never	Less than monthly	Never	Monthly	Less than monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	11136_obs_audit	11136_obs														Yes		4 or more times a week	3 or 4	Less than monthly	Never	Never	Never	Less than monthly	Never	No	"Yes, but not in the last year"
+audit	ARDaC-AlcHepNet	11137_obs_audit	11137_obs														Yes		2 to 3 times a week	3 or 4	Never	Never	Never	Never	Never	Never	No	No
+audit	ARDaC-AlcHepNet	11138_obs_audit	11138_obs														Yes		4 or more times a week	5 or 6	Daily or almost daily	Monthly	Never	Less than monthly	Monthly	Never	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	11139_clinical_audit	11139_clinical														Yes		4 or more times a week	3 or 4	Never	Less than monthly	Never	Never	Monthly	Monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	11140_obs_audit	11140_obs														Yes		4 or more times a week	5 or 6	Weekly	Monthly	Weekly	Daily or almost daily	Daily or almost daily	Daily or almost daily	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	11141_obs_audit	11141_obs														Yes		4 or more times a week	5 or 6	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Weekly	"Yes, during the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	11142_obs_audit	11142_obs														Yes		4 or more times a week	5 or 6	Daily or almost daily	Daily or almost daily	Weekly	Daily or almost daily	Daily or almost daily	Weekly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	11143_obs_audit	11143_obs														Yes		4 or more times a week	3 or 4	Less than monthly	Less than monthly	Never	Never	Less than monthly	Less than monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	11144_obs_audit	11144_obs														Yes		4 or more times a week	3 or 4	Weekly	Weekly	Never	Never	Daily or almost daily	Never	No	No
+audit	ARDaC-AlcHepNet	11145_obs_audit	11145_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Never	Less than monthly	"Yes, but not in the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	11146_obs_audit	11146_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Less than monthly	Monthly	"Yes, but not in the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	11147_obs_audit	11147_obs														No											
+audit	ARDaC-AlcHepNet	11149_obs_audit	11149_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Weekly	Monthly	Weekly	Daily or almost daily	No	No
+audit	ARDaC-AlcHepNet	11150_obs_audit	11150_obs														Yes		4 or more times a week	5 or 6	Daily or almost daily	Less than monthly	Never	Weekly	Never	Monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	11151_obs_audit	11151_obs														Yes		4 or more times a week	7 to 9	Daily or almost daily	Daily or almost daily	Weekly	Weekly	Daily or almost daily	Monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	11152_obs_audit	11152_obs														No											
+audit	ARDaC-AlcHepNet	11153_obs_audit	11153_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Less than monthly	Daily or almost daily	Weekly	Less than monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	11154_obs_audit	11154_obs														Yes		4 or more times a week	5 or 6	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	11155_obs_audit	11155_obs														No											
+audit	ARDaC-AlcHepNet	11156_obs_audit	11156_obs														Yes		4 or more times a week	3 or 4	Weekly	Weekly	Monthly	Monthly	Monthly	Less than monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	11157_obs_audit	11157_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily		Weekly	Daily or almost daily	Daily or almost daily	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	11158_obs_audit	11158_obs														Yes		4 or more times a week	5 or 6	Less than monthly	Never	Weekly	Daily or almost daily	Daily or almost daily	Daily or almost daily	"Yes, during the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	11159_obs_audit	11159_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Less than monthly	"Yes, but not in the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	11160_obs_audit	11160_obs														Yes		4 or more times a week	5 or 6	Daily or almost daily	Daily or almost daily	Never	Never	Never	Less than monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	11161_obs_audit	11161_obs														Yes		4 or more times a week	3 or 4	Monthly	Daily or almost daily	Weekly	Monthly	Daily or almost daily	Monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	11162_obs_audit	11162_obs														Yes		4 or more times a week	5 or 6	Daily or almost daily	Weekly	Weekly	Weekly	Weekly	Monthly	No	No
+audit	ARDaC-AlcHepNet	11163_obs_audit	11163_obs														Yes		4 or more times a week	7 to 9	Weekly	Daily or almost daily	Monthly	Monthly	Daily or almost daily	Monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	11164_obs_audit	11164_obs														Yes		2 to 3 times a week	7 to 9	Weekly	Weekly	Never	Weekly	Daily or almost daily	Monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	11165_obs_audit	11165_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	"Yes, but not in the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	11166_obs_audit	11166_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Daily or almost daily	Never	Daily or almost daily	Daily or almost daily	"Yes, during the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	11167_obs_audit	11167_obs														Yes		2 to 3 times a week	3 or 4	Less than monthly	Never	Never	Never	Less than monthly	Less than monthly	No	No
+audit	ARDaC-AlcHepNet	11168_obs_audit	11168_obs														No											
+audit	ARDaC-AlcHepNet	11169_obs_audit	11169_obs														Yes		4 or more times a week	1 or 2	Monthly	Never	Less than monthly	Never	Never	Never	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	11170_obs_audit	11170_obs														Yes		4 or more times a week	7 to 9	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Never	"Yes, but not in the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	21001_obs_audit	21001_obs														Yes		4 or more times a week	7 to 9	Weekly	Monthly	Monthly	Less than monthly	Monthly	Monthly	"Yes, but not in the last year"	No
+audit	ARDaC-AlcHepNet	21002_obs_audit	21002_obs														Yes		2 to 4 times a month	1 or 2	Not Done/Missing	Never	Never	Less than monthly	Less than monthly	Less than monthly	No	No
+audit	ARDaC-AlcHepNet	21003_obs_audit	21003_obs														Yes		2 to 3 times a week	1 or 2	Weekly	Never	Never	Never	Never	Less than monthly	No	"Yes, but not in the last year"
+audit	ARDaC-AlcHepNet	21004_obs_audit	21004_obs														Yes		4 or more times a week	3 or 4	Never	Never	Weekly	Never	Never	Never	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	21005_obs_audit	21005_obs														Yes		4 or more times a week	5 or 6	Weekly	Never	Never	Weekly	Never	Never	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	21006_obs_audit	21006_obs														Yes		4 or more times a week	5 or 6	Monthly	Weekly	Weekly	Weekly	Weekly	Weekly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	21007_obs_audit	21007_obs														No											
+audit	ARDaC-AlcHepNet	21008_obs_audit	21008_obs														Yes		4 or more times a week	5 or 6	Daily or almost daily	Daily or almost daily	Less than monthly	Not Done/Missing	Not Done/Missing	Not Done/Missing	No	Not Done/Missing
+audit	ARDaC-AlcHepNet	21009_obs_audit	21009_obs														Yes		4 or more times a week	7 to 9	Daily or almost daily	Daily or almost daily	Weekly	Daily or almost daily	Daily or almost daily	Monthly	"Yes, during the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	21010_obs_audit	21010_obs														Yes		Monthly or less	1 or 2	Less than monthly	Never	Never	Never	Never	Never	No	No
+audit	ARDaC-AlcHepNet	21011_obs_audit	21011_obs														Yes		Monthly or less	1 or 2	Never	Never	Never	Never	Less than monthly	Never	No	No
+audit	ARDaC-AlcHepNet	21012_obs_audit	21012_obs														Yes		Monthly or less	1 or 2	Never	Never	Never	Never	Never	Never	No	No
+audit	ARDaC-AlcHepNet	21013_obs_audit	21013_obs														Yes		Monthly or less	3 or 4	Less than monthly	Never	Never	Never	Never	Never	No	No
+audit	ARDaC-AlcHepNet	21014_obs_audit	21014_obs														Yes		2 to 3 times a week	3 or 4	Monthly	Never	Never	Never	Less than monthly	Never	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	21015_obs_audit	21015_obs														Yes		Monthly or less	3 or 4	Less than monthly	Never	Never	Never	Never	Never	No	No
+audit	ARDaC-AlcHepNet	21016_obs_audit	21016_obs														Yes		Monthly or less	1 or 2	Never	Never	Never	Never	Never	Never	No	No
+audit	ARDaC-AlcHepNet	21018_obs_audit	21018_obs														Yes		Monthly or less	1 or 2	Never	Never	Never	Never	Never	Never	No	No
+audit	ARDaC-AlcHepNet	21019_obs_audit	21019_obs														Yes		Monthly or less	1 or 2	Never	Never	Never	Never	Never	Never	No	No
+audit	ARDaC-AlcHepNet	21020_obs_audit	21020_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Weekly	Daily or almost daily	Daily or almost daily	Weekly	"Yes, during the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	21021_obs_audit	21021_obs														Yes		Monthly or less	1 or 2	Never	Never	Never	Never	Never	Never	No	No
+audit	ARDaC-AlcHepNet	21022_obs_audit	21022_obs														Yes		Never	1 or 2	Never	Never	Never	Never	Less than monthly	Never	No	No
+audit	ARDaC-AlcHepNet	21023_obs_audit	21023_obs														Yes		Never	1 or 2	Never	Never	Never	Never	Never	Never	No	No
+audit	ARDaC-AlcHepNet	21024_obs_audit	21024_obs														Yes		Never	1 or 2	Never	Never	Never	Never	Never	Never	No	No
+audit	ARDaC-AlcHepNet	21025_obs_audit	21025_obs														Yes		Never	1 or 2	Never	Never	Never	Never	Never	Never	No	No
+audit	ARDaC-AlcHepNet	21026_obs_audit	21026_obs														Yes		Monthly or less	1 or 2	Never	Never	Never	Never	Never	Never	No	No
+audit	ARDaC-AlcHepNet	21028_obs_audit	21028_obs														Yes		Never	1 or 2	Never	Never	Never	Never	Never	Never	No	No
+audit	ARDaC-AlcHepNet	21029_obs_audit	21029_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Monthly	"Yes, during the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	21031_obs_audit	21031_obs														Yes		Never	1 or 2	Never	Never	Never	Never	Never	Never	No	No
+audit	ARDaC-AlcHepNet	21032_obs_audit	21032_obs														No											
+audit	ARDaC-AlcHepNet	21034_clinical_audit	21034_clinical														Yes		4 or more times a week	1 or 2	Never	Never	Never	Never	Less than monthly	Never	No	"Yes, but not in the last year"
+audit	ARDaC-AlcHepNet	21035_clinical_audit	21035_clinical														Yes		4 or more times a week	3 or 4	Less than monthly	Less than monthly	Never	Never	Less than monthly	Less than monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	21036_clinical_audit	21036_clinical														Yes		4 or more times a week	Not Done/Missing	Not Done/Missing	Daily or almost daily	Daily or almost daily	Weekly	Daily or almost daily	Weekly	"Yes, during the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	21037_obs_audit	21037_obs														Yes		4 or more times a week	10 or more	Daily or almost daily							
+audit	ARDaC-AlcHepNet	21038_clinical_audit	21038_clinical														Yes		4 or more times a week	3 or 4	Weekly	Monthly	Monthly	Weekly	Monthly	Less than monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	21039_clinical_audit	21039_clinical														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Weekly	Weekly	Daily or almost daily	Weekly	"Yes, but not in the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	21040_clinical_audit	21040_clinical														Yes		4 or more times a week	7 to 9	Daily or almost daily	Monthly	Monthly	Monthly	Weekly	Monthly	"Yes, but not in the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	21042_obs_audit	21042_obs														Yes		4 or more times a week	5 or 6	Daily or almost daily	Weekly	Monthly	Weekly	Less than monthly	Never	No	No
+audit	ARDaC-AlcHepNet	21043_clinical_audit	21043_clinical														Yes		2 to 4 times a month	1 or 2	Never	Never	Monthly	Never	Never	Never	No	No
+audit	ARDaC-AlcHepNet	21044_clinical_audit	21044_clinical														Yes		4 or more times a week	7 to 9	Daily or almost daily	Daily or almost daily	Weekly	Less than monthly	Daily or almost daily	Monthly	"Yes, but not in the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	21045_clinical_audit	21045_clinical														Yes		4 or more times a week	7 to 9	Daily or almost daily	Daily or almost daily	Weekly	Daily or almost daily	Daily or almost daily	Daily or almost daily	"Yes, but not in the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	21046_clinical_audit	21046_clinical														Yes		2 to 4 times a month	1 or 2	Never	Never	Never	Never	Less than monthly	Never	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	21047_clinical_audit	21047_clinical														Yes		4 or more times a week	5 or 6	Weekly	Never	Never	Not Done/Missing	Never	Never	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	21048_clinical_audit	21048_clinical														Yes		4 or more times a week	10 or more	Daily or almost daily	Weekly	Less than monthly	Daily or almost daily	Less than monthly	Less than monthly	"Yes, but not in the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	21051_obs_audit	21051_obs														Yes		4 or more times a week	3 or 4	Monthly	Never	Less than monthly	Daily or almost daily	Daily or almost daily	Less than monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	21052_obs_audit	21052_obs														Yes	"Coordinator read questions and answer options, patient verbally responded with answers. Subject unable to read form due to lack of glasses at bedside."	4 or more times a week	5 or 6	Monthly	Weekly	Never	Monthly	Daily or almost daily	Daily or almost daily	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	21053_obs_audit	21053_obs														Yes		4 or more times a week	7 to 9	Daily or almost daily	Daily or almost daily	Monthly	Daily or almost daily	Daily or almost daily	Never	"Yes, but not in the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	21054_clinical_audit	21054_clinical														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Weekly	Weekly	Daily or almost daily	Weekly	"Yes, but not in the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	21055_clinical_audit	21055_clinical														Yes		2 to 4 times a month	3 or 4	Never	Monthly	Monthly	Less than monthly	Less than monthly	Never	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	21056_obs_audit	21056_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Less than monthly	Monthly	Monthly	Weekly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	21057_obs_audit	21057_obs														Yes		2 to 4 times a month	3 or 4	Never	Monthly	Monthly	Less than monthly	Less than monthly	Never	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	21058_clinical_audit	21058_clinical														Yes	Both patient and husband of patient answered questions together.	4 or more times a week	3 or 4	Monthly	Never	Never	Never	Never	Never	No	No
+audit	ARDaC-AlcHepNet	21059_obs_audit	21059_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	"Yes, during the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	21061_obs_audit	21061_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Never	Never	Daily or almost daily	Weekly	"Yes, but not in the last year"	No
+audit	ARDaC-AlcHepNet	21062_obs_audit	21062_obs														Yes		4 or more times a week	3 or 4	Daily or almost daily	Daily or almost daily	Daily or almost daily	Weekly	Weekly	Weekly	"Yes, during the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	21063_obs_audit	21063_obs														Yes		4 or more times a week	7 to 9	Daily or almost daily	Weekly	Weekly	Weekly	Weekly	Less than monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	21064_obs_audit	21064_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Weekly	Daily or almost daily	Never	Never	Daily or almost daily	"Yes, during the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	21065_obs_audit	21065_obs														Yes		4 or more times a week	5 or 6	Less than monthly	Less than monthly	Never	Never	Less than monthly	Weekly	No	No
+audit	ARDaC-AlcHepNet	21066_obs_audit	21066_obs														Yes	both patient/study participant and his wife	4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Daily or almost daily	Monthly	Monthly	Never	"Yes, during the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	21067_obs_audit	21067_obs														Yes		4 or more times a week	7 to 9	Daily or almost daily	Never	Never	Daily or almost daily	Never	Less than monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	21068_obs_audit	21068_obs														Yes		2 to 3 times a week	1 or 2	Less than monthly	Never	Less than monthly	Never	Less than monthly	Less than monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	21069_clinical_audit	21069_clinical														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Never	Never	Less than monthly	Never	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	21071_obs_audit	21071_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Never	Daily or almost daily	Daily or almost daily	Weekly	Weekly	"Yes, during the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	21073_clinical_audit	21073_clinical														Yes		4 or more times a week	7 to 9	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Weekly	"Yes, during the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	21075_obs_audit	21075_obs														Yes		4 or more times a week	5 or 6	Monthly	Never	Less than monthly	Never	Never	Less than monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	21076_clinical_audit	21076_clinical														Yes		4 or more times a week	7 to 9	Daily or almost daily	Weekly	Monthly	Weekly	Weekly	Less than monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	21077_obs_audit	21077_obs														Yes		4 or more times a week	1 or 2	Never	Monthly	Less than monthly	Monthly	Weekly	Monthly	"Yes, during the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	21078_obs_audit	21078_obs														Yes		2 to 3 times a week	3 or 4	Monthly	Weekly	Weekly	Daily or almost daily	Daily or almost daily	Daily or almost daily	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	21079_obs_audit	21079_obs														Yes		4 or more times a week	1 or 2	Never	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	"Yes, during the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	21080_obs_audit	21080_obs														Yes		4 or more times a week	5 or 6	Daily or almost daily	Weekly	Never	Daily or almost daily	Monthly	Less than monthly	"Yes, but not in the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	21081_clinical_audit	21081_clinical														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Weekly	Daily or almost daily	Daily or almost daily	Daily or almost daily	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	21082_obs_audit	21082_obs														Yes		4 or more times a week	5 or 6	Daily or almost daily	Daily or almost daily	Weekly	Daily or almost daily	Daily or almost daily	Weekly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	21083_obs_audit	21083_obs														Yes		2 to 3 times a week	10 or more	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Never	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	21085_obs_audit	21085_obs														Yes		4 or more times a week	7 to 9	Daily or almost daily	Daily or almost daily	Weekly	Weekly	Monthly	Weekly	"Yes, but not in the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	21086_obs_audit	21086_obs														Yes		4 or more times a week	1 or 2	Never	Never	Never	Never	Less than monthly	Never	No	"Yes, but not in the last year"
+audit	ARDaC-AlcHepNet	21090_obs_audit	21090_obs														Yes		4 or more times a week	7 to 9	Monthly	Never	Never	Never	Never	Never	No	No
+audit	ARDaC-AlcHepNet	21091_obs_audit	21091_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Never	Never	Never	Less than monthly	"Yes, but not in the last year"	"Yes, but not in the last year"
+audit	ARDaC-AlcHepNet	21092_obs_audit	21092_obs														Yes		4 or more times a week	3 or 4	Never	Never	Never	Never	Never	Never	No	No
+audit	ARDaC-AlcHepNet	21093_obs_audit	21093_obs														Yes		2 to 3 times a week	3 or 4	Weekly	Weekly	Never	Daily or almost daily	Never	Never	No	No
+audit	ARDaC-AlcHepNet	21094_obs_audit	21094_obs														Yes		4 or more times a week	5 or 6	Weekly	Monthly	Never	Never	Monthly	Less than monthly	"Yes, but not in the last year"	No
+audit	ARDaC-AlcHepNet	21096_obs_audit	21096_obs														Yes		4 or more times a week	5 or 6	Weekly	Never	Monthly	Never	Weekly	Monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	21097_obs_audit	21097_obs														Yes		4 or more times a week	5 or 6	Monthly	Monthly	Weekly	Monthly	Weekly	Weekly	"Yes, during the last year"	No
+audit	ARDaC-AlcHepNet	21099_obs_audit	21099_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	"Yes, during the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	21101_obs_audit	21101_obs														Yes		4 or more times a week	5 or 6	Monthly	Monthly	Weekly	Less than monthly	Daily or almost daily	Daily or almost daily	"Yes, during the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	22001_obs_audit	22001_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Weekly	"Yes, during the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	31001_obs_audit	31001_obs														Yes		2 to 3 times a week	1 or 2	Never	Never	Never	Never	Never	Never	No	No
+audit	ARDaC-AlcHepNet	31002_obs_audit	31002_obs														Yes		Never	Not Done/Missing	Never							
+audit	ARDaC-AlcHepNet	31003_obs_audit	31003_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Daily or almost daily	Never	Never	Never	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	31004_obs_audit	31004_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Monthly	Never	Never	Never	Never	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	31005_obs_audit	31005_obs														Yes		4 or more times a week	5 or 6	Daily or almost daily	Never	Never	Never	Never	Never	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	31006_obs_audit	31006_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Never	Never	Daily or almost daily	Daily or almost daily	Daily or almost daily	"Yes, during the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	31007_obs_audit	31007_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Weekly	Less than monthly	"Yes, during the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	31008_obs_audit	31008_obs														Yes		Monthly or less	1 or 2	Never	Never	Never	Never	Never	Never	No	No
+audit	ARDaC-AlcHepNet	31009_obs_audit	31009_obs														Yes		Monthly or less	3 or 4	Never	Never	Never	Never	Never	Never	No	No
+audit	ARDaC-AlcHepNet	31010_obs_audit	31010_obs														Yes		4 or more times a week	5 or 6	Daily or almost daily	Daily or almost daily	Never	Monthly	Daily or almost daily	Weekly	"Yes, during the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	31012_obs_audit	31012_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	31013_obs_audit	31013_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Weekly	Less than monthly	Less than monthly	Monthly	Less than monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	31014_obs_audit	31014_obs														Yes		4 or more times a week	7 to 9	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	31015_obs_audit	31015_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Weekly	Never	Daily or almost daily	Daily or almost daily	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	31016_obs_audit	31016_obs														Yes		4 or more times a week	7 to 9	Daily or almost daily	Weekly	Weekly	Monthly	Never	Never	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	31017_obs_audit	31017_obs														Yes		2 to 3 times a week	5 or 6	Weekly	Less than monthly	Monthly	Never	Never	Weekly	"Yes, during the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	31018_obs_audit	31018_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	"Yes, but not in the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	31019_obs_audit	31019_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Weekly	Never	Monthly	Daily or almost daily	Never	"Yes, during the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	31020_obs_audit	31020_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Weekly	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	31021_obs_audit	31021_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Never	Never	Never	Never	Never	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	31022_obs_audit	31022_obs														Yes		4 or more times a week	5 or 6	Daily or almost daily	Daily or almost daily	Never	Never	Daily or almost daily	Never	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	31023_obs_audit	31023_obs														Yes		4 or more times a week	10 or more	Weekly	Daily or almost daily	Weekly	Never	Monthly	Monthly	"Yes, during the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	31024_obs_audit	31024_obs														Yes		4 or more times a week	5 or 6	Weekly	Weekly	Never	Never	Less than monthly	Never	No	No
+audit	ARDaC-AlcHepNet	31025_obs_audit	31025_obs														Yes		4 or more times a week	7 to 9	Daily or almost daily	Daily or almost daily	Monthly	Daily or almost daily	Never	Never	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	31026_obs_audit	31026_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Weekly	Weekly	Weekly	Less than monthly	"Yes, during the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	31027_obs_audit	31027_obs														Yes		4 or more times a week	3 or 4	Less than monthly	Monthly	Weekly	Never	Weekly	Less than monthly	"Yes, during the last year"	"Yes, but not in the last year"
+audit	ARDaC-AlcHepNet	31028_obs_audit	31028_obs														Yes		4 or more times a week	10 or more	Monthly	Daily or almost daily	Daily or almost daily	Daily or almost daily	Weekly	Monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	31029_obs_audit	31029_obs														Yes		4 or more times a week	7 to 9	Daily or almost daily	Daily or almost daily	Weekly	Weekly	Weekly	Daily or almost daily	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	31030_obs_audit	31030_obs														Yes		Not Done/Missing	Not Done/Missing	Not Done/Missing	Not Done/Missing	Not Done/Missing	Not Done/Missing	Not Done/Missing	Not Done/Missing	"Yes, during the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	31031_obs_audit	31031_obs														Yes		2 to 3 times a week	1 or 2	Never							
+audit	ARDaC-AlcHepNet	31032_obs_audit	31032_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	"Yes, during the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	31033_clinical_audit	31033_clinical														Yes		4 or more times a week	5 or 6	Daily or almost daily	Daily or almost daily	Monthly	Monthly	Daily or almost daily	Never	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	31034_obs_audit	31034_obs														No											
+audit	ARDaC-AlcHepNet	31035_obs_audit	31035_obs														Yes		Monthly or less	1 or 2	Less than monthly							
+audit	ARDaC-AlcHepNet	31036_clinical_audit	31036_clinical														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	"Yes, during the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	31037_obs_audit	31037_obs														Yes		2 to 4 times a month	1 or 2	Less than monthly							
+audit	ARDaC-AlcHepNet	31038_obs_audit	31038_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Never	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	31039_obs_audit	31039_obs														No											
+audit	ARDaC-AlcHepNet	31040_obs_audit	31040_obs														Yes		4 or more times a week	7 to 9	Daily or almost daily	Not Done/Missing	Daily or almost daily	Daily or almost daily	Weekly	Daily or almost daily	"Yes, during the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	31041_clinical_audit	31041_clinical														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Weekly	Less than monthly	Monthly	Less than monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	31042_clinical_audit	31042_clinical														Yes		4 or more times a week	5 or 6	Daily or almost daily	Never	Never	Never	Never	Never	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	31043_clinical_audit	31043_clinical														No											
+audit	ARDaC-AlcHepNet	31044_clinical_audit	31044_clinical														Yes		4 or more times a week	10 or more	Daily or almost daily	Never	Less than monthly	Less than monthly	Less than monthly	Less than monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	31045_obs_audit	31045_obs														Yes		4 or more times a week	5 or 6	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Never	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	31047_clinical_audit	31047_clinical														Yes		4 or more times a week	10 or more	Daily or almost daily	Never	Never	Never	Monthly	Monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	31048_obs_audit	31048_obs														Yes		4 or more times a week	5 or 6	Daily or almost daily	Weekly	Never	Never	Never	Never	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	31049_clinical_audit	31049_clinical														Yes		4 or more times a week	10 or more	Never	Daily or almost daily	Never	Never	Weekly	Less than monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	31050_clinical_audit	31050_clinical														Yes		4 or more times a week	10 or more	Daily or almost daily	Not Done/Missing	Weekly	Monthly	Daily or almost daily	Never	"Yes, during the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	31051_clinical_audit	31051_clinical														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Weekly	Daily or almost daily	Daily or almost daily	Never	"Yes, but not in the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	31052_obs_audit	31052_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Never	Less than monthly	"Yes, during the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	31053_obs_audit	31053_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Weekly	Monthly	Monthly	Never	No	No
+audit	ARDaC-AlcHepNet	31054_obs_audit	31054_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Daily or almost daily	Never	Daily or almost daily	Never	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	31055_obs_audit	31055_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	"Yes, during the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	31056_obs_audit	31056_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Daily or almost daily	Weekly	Never	Never	"Yes, during the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	31057_obs_audit	31057_obs														Yes		4 or more times a week	7 to 9	Never	Never	Never	Never	Never	Never	No	No
+audit	ARDaC-AlcHepNet	31058_clinical_audit	31058_clinical														No											
+audit	ARDaC-AlcHepNet	31059_obs_audit	31059_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Less than monthly	"Yes, during the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	31060_obs_audit	31060_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Daily or almost daily	Never	Never	Never	"Yes, during the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	31061_obs_audit	31061_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Daily or almost daily	Monthly	Never	Never	"Yes, during the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	31062_clinical_audit	31062_clinical														No											
+audit	ARDaC-AlcHepNet	31063_obs_audit	31063_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Daily or almost daily	Never	Weekly	Never	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	31064_clinical_audit	31064_clinical														Yes		4 or more times a week	3 or 4	Monthly	Weekly	Weekly	Weekly	Never	Never	"Yes, during the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	31065_obs_audit	31065_obs														Yes		4 or more times a week	10 or more	Weekly	Daily or almost daily	Less than monthly	Daily or almost daily	Not Done/Missing	Weekly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	31066_obs_audit	31066_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Weekly	Daily or almost daily	Daily or almost daily	Daily or almost daily	"Yes, during the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	31067_obs_audit	31067_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Never	Never	Never	Never	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	31068_clinical_audit	31068_clinical														Yes		4 or more times a week	7 to 9	Daily or almost daily	Never	Never	Never	Never	Never	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	31069_obs_audit	31069_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Monthly	Daily or almost daily	Monthly	Never	"Yes, during the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	31070_obs_audit	31070_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Never	Never	"Yes, during the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	31071_clinical_audit	31071_clinical														No											
+audit	ARDaC-AlcHepNet	31073_obs_audit	31073_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Daily or almost daily	Weekly	Monthly	Weekly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	31074_clinical_audit	31074_clinical														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Weekly	Weekly	Monthly	Monthly	"Yes, during the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	31075_obs_audit	31075_obs														No											
+audit	ARDaC-AlcHepNet	31076_obs_audit	31076_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Weekly	Never	Daily or almost daily	Daily or almost daily	Never	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	31077_clinical_audit	31077_clinical														Yes		4 or more times a week	10 or more	Daily or almost daily	Never	Daily or almost daily	Daily or almost daily	Not Done/Missing	Never	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	31078_obs_audit	31078_obs														Yes		4 or more times a week	3 or 4	Weekly	Daily or almost daily	Monthly	Weekly	Monthly	Less than monthly	"Yes, but not in the last year"	No
+audit	ARDaC-AlcHepNet	31079_clinical_audit	31079_clinical														Yes		4 or more times a week	10 or more	Daily or almost daily	Weekly	Daily or almost daily	Daily or almost daily	Daily or almost daily	Weekly	"Yes, but not in the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	31080_obs_audit	31080_obs														Yes		4 or more times a week	3 or 4	Weekly	Weekly	Weekly	Never	Weekly	Never	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	31081_obs_audit	31081_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Weekly	Monthly	Monthly	Never	"Yes, but not in the last year"	"Yes, but not in the last year"
+audit	ARDaC-AlcHepNet	31082_obs_audit	31082_obs														No											
+audit	ARDaC-AlcHepNet	31083_obs_audit	31083_obs														Yes		4 or more times a week	7 to 9	Weekly	Never	Never	Never	Daily or almost daily	Never	No	No
+audit	ARDaC-AlcHepNet	31084_obs_audit	31084_obs														Yes		Never	1 or 2	Never							
+audit	ARDaC-AlcHepNet	31085_obs_audit	31085_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Never	Daily or almost daily	Weekly	Never	"Yes, during the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	31086_obs_audit	31086_obs														Yes		2 to 3 times a week	5 or 6	Weekly	Never	Never	Never	Never	Never	No	"Yes, but not in the last year"
+audit	ARDaC-AlcHepNet	31087_obs_audit	31087_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Never	Never	Never	Weekly	"Yes, during the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	31088_obs_audit	31088_obs														Yes		Monthly or less	1 or 2	Never							
+audit	ARDaC-AlcHepNet	31089_obs_audit	31089_obs														Yes		2 to 3 times a week	5 or 6	Daily or almost daily	Never	Weekly	Never	Daily or almost daily	Weekly	"Yes, during the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	31090_obs_audit	31090_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Never	Never	Never	Never	No	"Yes, but not in the last year"
+audit	ARDaC-AlcHepNet	31091_obs_audit	31091_obs														Yes		4 or more times a week	5 or 6	Weekly	Never	Monthly	Monthly	Less than monthly	Never	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	31092_obs_audit	31092_obs														Yes		2 to 3 times a week	3 or 4	Weekly	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	"Yes, but not in the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	31093_obs_audit	31093_obs														Yes		4 or more times a week	10 or more	Weekly	Daily or almost daily	Weekly	Weekly	Weekly	Never	No	No
+audit	ARDaC-AlcHepNet	31094_obs_audit	31094_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Weekly	Less than monthly	No	"Yes, but not in the last year"
+audit	ARDaC-AlcHepNet	31095_obs_audit	31095_obs														Yes		4 or more times a week	10 or more	Monthly	Monthly	Monthly	Monthly	Monthly	Monthly	"Yes, during the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	31096_obs_audit	31096_obs														Yes		2 to 3 times a week	7 to 9	Daily or almost daily	Daily or almost daily	Less than monthly	Daily or almost daily	Less than monthly	Monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	31097_obs_audit	31097_obs														Yes		4 or more times a week	10 or more	Monthly	Daily or almost daily	Daily or almost daily	Weekly	Daily or almost daily	Less than monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	31098_obs_audit	31098_obs														Yes		4 or more times a week	1 or 2	Never							
+audit	ARDaC-AlcHepNet	31099_obs_audit	31099_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Weekly	Daily or almost daily	Daily or almost daily	Daily or almost daily	"Yes, but not in the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	31100_obs_audit	31100_obs														Yes		4 or more times a week	7 to 9	Daily or almost daily	Daily or almost daily	Monthly	Never	Daily or almost daily	Less than monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	31101_obs_audit	31101_obs														Yes		4 or more times a week	5 or 6	Monthly	Daily or almost daily	Monthly	Less than monthly	Less than monthly	Less than monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	31102_obs_audit	31102_obs														Yes		2 to 3 times a week	1 or 2	Less than monthly	Never	Never	Never	Never	Never	No	No
+audit	ARDaC-AlcHepNet	31103_obs_audit	31103_obs														Yes		2 to 3 times a week	5 or 6	Monthly	Never	Never	Never	Less than monthly	Never	No	No
+audit	ARDaC-AlcHepNet	31104_obs_audit	31104_obs																									
+audit	ARDaC-AlcHepNet	31107_obs_audit	31107_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Weekly	Daily or almost daily	Daily or almost daily	Weekly	"Yes, during the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	31108_obs_audit	31108_obs																									
+audit	ARDaC-AlcHepNet	41001_obs_audit	41001_obs														Yes		Never	Not Done/Missing	Never	Never			Never	Never	Not Done/Missing	Not Done/Missing
+audit	ARDaC-AlcHepNet	41002_obs_audit	41002_obs														Yes		2 to 4 times a month	1 or 2	Never	Never	Never	Never	Never	Never	No	No
+audit	ARDaC-AlcHepNet	41003_obs_audit	41003_obs														Yes		Monthly or less	1 or 2	Never	Never	Never	Never	Never	Never	No	No
+audit	ARDaC-AlcHepNet	41004_obs_audit	41004_obs														Yes		4 or more times a week	5 or 6	Less than monthly	Less than monthly	Monthly	Weekly	Daily or almost daily	Weekly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	41005_obs_audit	41005_obs														Yes		4 or more times a week	7 to 9	Daily or almost daily	Less than monthly	Monthly	Less than monthly	Less than monthly	Less than monthly	No	"Yes, but not in the last year"
+audit	ARDaC-AlcHepNet	41006_obs_audit	41006_obs														Yes		2 to 4 times a month	1 or 2	Never	Never	Never	Never	Never	Never	No	No
+audit	ARDaC-AlcHepNet	41007_obs_audit	41007_obs														Yes		4 or more times a week	3 or 4	Monthly	Never	Never	Never	Never	Never	No	No
+audit	ARDaC-AlcHepNet	41008_obs_audit	41008_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Never	No	"Yes, but not in the last year"
+audit	ARDaC-AlcHepNet	41009_obs_audit	41009_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	41010_obs_audit	41010_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Weekly	Daily or almost daily	Daily or almost daily	Weekly	"Yes, but not in the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	41011_obs_audit	41011_obs														Yes		4 or more times a week	7 to 9	Weekly	Monthly	Less than monthly	Monthly	Weekly	Monthly	No	No
+audit	ARDaC-AlcHepNet	41012_obs_audit	41012_obs														Yes		Monthly or less	1 or 2	Never	Never	Never	Never	Never	Never	No	No
+audit	ARDaC-AlcHepNet	41013_obs_audit	41013_obs														Yes		Never	Not Done/Missing	Never	Never	Never	Never	Never	Never	No	No
+audit	ARDaC-AlcHepNet	41014_obs_audit	41014_obs														Yes		Monthly or less	1 or 2	Never	Never	Never	Never	Never	Never	No	No
+audit	ARDaC-AlcHepNet	41015_obs_audit	41015_obs														Yes		Monthly or less	5 or 6	Weekly	Monthly	Monthly	Never	Never	Less than monthly	No	"Yes, but not in the last year"
+audit	ARDaC-AlcHepNet	41016_obs_audit	41016_obs														Yes		4 or more times a week	3 or 4	Weekly	Daily or almost daily	Daily or almost daily	Less than monthly	Weekly	Weekly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	41017_obs_audit	41017_obs														Yes		Never	1 or 2	Never	Never	Never	Never	Never	Never	No	No
+audit	ARDaC-AlcHepNet	41018_obs_audit	41018_obs														Yes		2 to 4 times a month	1 or 2	Never	Never	Never	Never	Never	Never	No	No
+audit	ARDaC-AlcHepNet	41019_obs_audit	41019_obs														Yes		Monthly or less	1 or 2	Never	Never	Never	Never	Never	Never	No	No
+audit	ARDaC-AlcHepNet	41020_obs_audit	41020_obs														Yes		4 or more times a week	3 or 4	Monthly	Monthly	Never	Never	Less than monthly	Never	No	No
+audit	ARDaC-AlcHepNet	41021_obs_audit	41021_obs														Yes		2 to 4 times a month	1 or 2	Never	Never	Never	Never	Never	Never	No	No
+audit	ARDaC-AlcHepNet	41023_obs_audit	41023_obs														Yes		4 or more times a week	3 or 4	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Weekly	Weekly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	41024_obs_audit	41024_obs														Yes		Never	Not Done/Missing	Never	Never	Never	Never	Never	Never	No	No
+audit	ARDaC-AlcHepNet	41025_obs_audit	41025_obs														Yes		Never	1 or 2	Never	Never	Never	Never	Never	Never	No	No
+audit	ARDaC-AlcHepNet	41026_obs_audit	41026_obs														Yes		4 or more times a week	5 or 6	Weekly	Less than monthly	Never	Never	Less than monthly	Monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	41027_obs_audit	41027_obs														Yes		Monthly or less	1 or 2	Never	Never	Never	Never	Less than monthly	Never	No	No
+audit	ARDaC-AlcHepNet	41028_obs_audit	41028_obs														Yes		4 or more times a week	5 or 6	Weekly	Less than monthly	Less than monthly	Less than monthly	Daily or almost daily	Weekly	No	No
+audit	ARDaC-AlcHepNet	41029_obs_audit	41029_obs														Yes		4 or more times a week	5 or 6	Less than monthly	Never	Never	Monthly	Never	Never	No	No
+audit	ARDaC-AlcHepNet	42001_obs_audit	42001_obs														Yes		4 or more times a week	5 or 6	Daily or almost daily	Daily or almost daily	Weekly	Weekly	Weekly	Monthly	No	No
+audit	ARDaC-AlcHepNet	42002_obs_audit	42002_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Less than monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	42003_obs_audit	42003_obs														Yes		2 to 3 times a week	1 or 2	Never	Never	Less than monthly	Never	Monthly	Never	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	42004_obs_audit	42004_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	"Yes, during the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	42005_obs_audit	42005_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Less than monthly	Daily or almost daily	Never	Daily or almost daily	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	42006_obs_audit	42006_obs														Yes		4 or more times a week	5 or 6	Weekly	Daily or almost daily	Never	Never	Weekly	Less than monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	42007_obs_audit	42007_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Never	Daily or almost daily	Never	Never	"Yes, during the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	42008_obs_audit	42008_obs														Yes		4 or more times a week	3 or 4	Daily or almost daily	Weekly	Weekly	Daily or almost daily	Weekly	Less than monthly	"Yes, during the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	42009_obs_audit	42009_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	"Yes, during the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	42010_obs_audit	42010_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Monthly	Weekly	Weekly	Daily or almost daily	Weekly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	42011_obs_audit	42011_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	"Yes, during the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	42012_obs_audit	42012_obs														Yes		2 to 4 times a month	10 or more	Monthly	Daily or almost daily	Weekly	Less than monthly	Less than monthly	Weekly	"Yes, but not in the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	42013_obs_audit	42013_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	"Yes, during the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	42014_obs_audit	42014_obs														Yes		4 or more times a week	7 to 9	Daily or almost daily	Never	Weekly	Less than monthly	Never	Monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	42015_clinical_audit	42015_clinical														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Never	Never	Daily or almost daily	Never	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	42016_obs_audit	42016_obs														Yes		4 or more times a week	5 or 6	Daily or almost daily	Never	Never	Monthly	Never	Never	"Yes, during the last year"	"Yes, but not in the last year"
+audit	ARDaC-AlcHepNet	42017_obs_audit	42017_obs														Yes		4 or more times a week	5 or 6	Daily or almost daily	Never	Never	Never	Daily or almost daily	Never	No	No
+audit	ARDaC-AlcHepNet	42018_obs_audit	42018_obs														Yes		4 or more times a week	3 or 4	Never	Daily or almost daily	Less than monthly	Less than monthly	Daily or almost daily	Never	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	42019_obs_audit	42019_obs														Yes		4 or more times a week	7 to 9	Daily or almost daily	Monthly	Monthly	Weekly	Weekly	Weekly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	42020_clinical_audit	42020_clinical														Yes		4 or more times a week	1 or 2	Never	Never	Never	Never	Monthly	Never	No	Not Done/Missing
+audit	ARDaC-AlcHepNet	42021_clinical_audit	42021_clinical														Yes		2 to 4 times a month	1 or 2	Never	Never	Never	Never	Less than monthly	Never	No	No
+audit	ARDaC-AlcHepNet	42022_clinical_audit	42022_clinical														Yes		4 or more times a week	3 or 4	Less than monthly	Less than monthly	Less than monthly	Never	Monthly	Less than monthly	No	No
+audit	ARDaC-AlcHepNet	42023_clinical_audit	42023_clinical														No											
+audit	ARDaC-AlcHepNet	42024_obs_audit	42024_obs														Yes		4 or more times a week	3 or 4	Never	Never	Never	Never	Never	Never	No	"Yes, but not in the last year"
+audit	ARDaC-AlcHepNet	42025_obs_audit	42025_obs														Yes		Not Done/Missing	5 or 6	Less than monthly	Monthly	Monthly	Never	Monthly	Never	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	42026_clinical_audit	42026_clinical														Yes		4 or more times a week	5 or 6	Daily or almost daily	Daily or almost daily	Monthly	Weekly	Daily or almost daily	Monthly	"Yes, but not in the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	42027_clinical_audit	42027_clinical														No											
+audit	ARDaC-AlcHepNet	42028_clinical_audit	42028_clinical														Yes		4 or more times a week	5 or 6	Weekly	Never	Never	Never	Monthly	Less than monthly	No	"Yes, but not in the last year"
+audit	ARDaC-AlcHepNet	42029_obs_audit	42029_obs														Yes		2 to 4 times a month	1 or 2	Never	Never	Never	Never	Never	Never	No	No
+audit	ARDaC-AlcHepNet	42031_obs_audit	42031_obs														Yes		Never	7 to 9	Daily or almost daily	Daily or almost daily	Weekly	Daily or almost daily	Daily or almost daily	Weekly	"Yes, during the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	42032_obs_audit	42032_obs														Yes		Never	1 or 2	Never	Never	Less than monthly	Never	Less than monthly	Never	No	No
+audit	ARDaC-AlcHepNet	42033_clinical_audit	42033_clinical														Yes		2 to 3 times a week	3 or 4	Less than monthly	Never	Monthly	Less than monthly	Never	Never	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	42034_obs_audit	42034_obs														Yes		Monthly or less	7 to 9	Daily or almost daily	Less than monthly	Less than monthly	Monthly	Less than monthly	Less than monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	42035_obs_audit	42035_obs														No											
+audit	ARDaC-AlcHepNet	42036_obs_audit	42036_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Never	Never	Never	Never	Never	No	"Yes, but not in the last year"
+audit	ARDaC-AlcHepNet	42037_obs_audit	42037_obs														Yes		Never	3 or 4	Daily or almost daily	Monthly	Never	Monthly	Daily or almost daily	Never	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	42038_obs_audit	42038_obs														Yes		4 or more times a week	5 or 6	Weekly	Never	Less than monthly	Daily or almost daily	Monthly	Never	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	42039_obs_audit	42039_obs														No											
+audit	ARDaC-AlcHepNet	42040_obs_audit	42040_obs														No											
+audit	ARDaC-AlcHepNet	42041_obs_audit	42041_obs														No											
+audit	ARDaC-AlcHepNet	51001_obs_audit	51001_obs														Yes		2 to 4 times a month	10 or more	Weekly	Less than monthly	Less than monthly	Less than monthly	Less than monthly	Less than monthly	"Yes, but not in the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	51002_obs_audit	51002_obs														Yes		2 to 3 times a week	1 or 2	Less than monthly	Not Done/Missing	Not Done/Missing	Not Done/Missing	Not Done/Missing	Not Done/Missing	Not Done/Missing	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	51003_obs_audit	51003_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Weekly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	51004_obs_audit	51004_obs														Yes		2 to 3 times a week	5 or 6	Never	Never	Never	Never	Never	Less than monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	51005_obs_audit	51005_obs														Yes		Never	Not Done/Missing	Never	Never	Never	Never	Never	Never	No	No
+audit	ARDaC-AlcHepNet	51006_obs_audit	51006_obs														Yes		Never	1 or 2	Never	Never	Never	Never	Never	Never	No	No
+audit	ARDaC-AlcHepNet	51007_obs_audit	51007_obs														Yes		Monthly or less	1 or 2	Never	Never	Never	Never	Never	Never	No	No
+audit	ARDaC-AlcHepNet	51008_obs_audit	51008_obs														Yes		Never	Not Done/Missing	Never							
+audit	ARDaC-AlcHepNet	51009_obs_audit	51009_obs														Yes		Never	Not Done/Missing	Never	Never	Never	Never	Never	Never	No	No
+audit	ARDaC-AlcHepNet	51010_obs_audit	51010_obs														Yes		Never	Not Done/Missing	Never	Never	Never	Never	Never	Never	No	No
+audit	ARDaC-AlcHepNet	51011_obs_audit	51011_obs														Yes		2 to 4 times a month	1 or 2	Never	Never	Never	Never	Never	Never	No	No
+audit	ARDaC-AlcHepNet	51012_obs_audit	51012_obs														Yes		Never	Not Done/Missing	Never	Never	Never	Never	Never	Never	No	No
+audit	ARDaC-AlcHepNet	51013_obs_audit	51013_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Never	Weekly	No	No
+audit	ARDaC-AlcHepNet	51014_obs_audit	51014_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Weekly	Weekly	Monthly	Monthly	"Yes, during the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	51015_obs_audit	51015_obs														Yes		Monthly or less	Not Done/Missing	Never	Never	Never	Never	Never	Never	No	No
+audit	ARDaC-AlcHepNet	51016_obs_audit	51016_obs														Yes		Never	Not Done/Missing	Never	Never	Never	Never	Never	Never	No	No
+audit	ARDaC-AlcHepNet	51017_obs_audit	51017_obs														Yes		Never	Not Done/Missing	Never	Never	Never	Never	Never	Never	No	No
+audit	ARDaC-AlcHepNet	51018_obs_audit	51018_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Weekly	Weekly	Weekly	Weekly	Weekly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	51019_obs_audit	51019_obs														Yes		Never	7 to 9	Never	Monthly	Weekly	Less than monthly	Daily or almost daily	Less than monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	51021_obs_audit	51021_obs														Yes		4 or more times a week	3 or 4	Monthly	Monthly	Less than monthly	Less than monthly	Daily or almost daily	Monthly	"Yes, during the last year"	No
+audit	ARDaC-AlcHepNet	51022_obs_audit	51022_obs														Yes		Never	Not Done/Missing	Never	Never	Never	Never	Never	Never	No	No
+audit	ARDaC-AlcHepNet	51023_obs_audit	51023_obs														Yes		2 to 3 times a week	10 or more	Weekly	Weekly	Weekly	Weekly	Monthly	Monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	51024_obs_audit	51024_obs														Yes		4 or more times a week	3 or 4	Less than monthly	Never	Monthly	Weekly	Weekly	Never	"Yes, during the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	51025_obs_audit	51025_obs														Yes		2 to 3 times a week	7 to 9	Weekly	Weekly	Less than monthly	Monthly	Monthly	Monthly	"Yes, during the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	51026_obs_audit	51026_obs														Yes		4 or more times a week	3 or 4	Monthly	Never	Never	Never	Never	Never	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	51027_obs_audit	51027_obs														Yes		Not Done/Missing	7 to 9	Weekly	Monthly	Less than monthly	Weekly	Monthly	Monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	51028_obs_audit	51028_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Never	Daily or almost daily	"Yes, but not in the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	51029_obs_audit	51029_obs														Yes		4 or more times a week	5 or 6	Not Done/Missing	Weekly	Daily or almost daily	Never	Daily or almost daily	Less than monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	51030_obs_audit	51030_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Weekly	Weekly	"Yes, during the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	51031_obs_audit	51031_obs														No											
+audit	ARDaC-AlcHepNet	51032_obs_audit	51032_obs														Yes		4 or more times a week	7 to 9	Daily or almost daily	Daily or almost daily	Weekly	Weekly	Daily or almost daily	Less than monthly	"Yes, during the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	51033_obs_audit	51033_obs														Yes		4 or more times a week	3 or 4	Less than monthly	Monthly	Never	Never	Less than monthly	Less than monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	51034_obs_audit	51034_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Never	Less than monthly	Never	Less than monthly	Never	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	51035_obs_audit	51035_obs														Yes		2 to 4 times a month	5 or 6	Monthly	Monthly	Monthly	Monthly	Monthly	Monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	51036_obs_audit	51036_obs														Yes		4 or more times a week	7 to 9	Daily or almost daily	Daily or almost daily	Less than monthly	Daily or almost daily	Daily or almost daily	Less than monthly	"Yes, during the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	51037_obs_audit	51037_obs														Yes		2 to 3 times a week	10 or more	Weekly	Weekly	Weekly	Weekly	Weekly	Weekly	"Yes, during the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	51038_obs_audit	51038_obs														Yes		4 or more times a week	5 or 6	Weekly	Daily or almost daily	Daily or almost daily	Weekly	Daily or almost daily	Less than monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	51039_obs_audit	51039_obs														Yes		4 or more times a week	5 or 6	Weekly	Weekly	Never	Never	Daily or almost daily	Never	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	51040_obs_audit	51040_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Monthly	Monthly	Weekly	Daily or almost daily	Never	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	51041_obs_audit	51041_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Weekly	Weekly	Daily or almost daily	Weekly	"Yes, during the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	51042_obs_audit	51042_obs														Yes		2 to 3 times a week	10 or more	Daily or almost daily	Monthly	Monthly	Less than monthly	Monthly	Weekly	"Yes, during the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	51043_obs_audit	51043_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Weekly	"Yes, during the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	51044_obs_audit	51044_obs														Yes		2 to 4 times a month	1 or 2	Never	Never	Never	Never	Never	Never	No	No
+audit	ARDaC-AlcHepNet	51045_obs_audit	51045_obs														Yes		Never	Not Done/Missing	Never	Never	Never	Never	Never	Never	No	No
+audit	ARDaC-AlcHepNet	51046_obs_audit	51046_obs														Yes		2 to 3 times a week	10 or more	Never	Monthly	Less than monthly	Never	Weekly	Never	"Yes, during the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	51047_obs_audit	51047_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	51048_obs_audit	51048_obs														Yes		2 to 4 times a month	1 or 2	Never	Never	Never	Never	Less than monthly	Less than monthly	No	No
+audit	ARDaC-AlcHepNet	51049_obs_audit	51049_obs														Yes		Never	Not Done/Missing	Never	Never	Never	Never	Never	Never	"Yes, but not in the last year"	"Yes, but not in the last year"
+audit	ARDaC-AlcHepNet	51050_obs_audit	51050_obs														Yes		2 to 4 times a month	10 or more	Monthly	Monthly	Less than monthly	Never	Less than monthly	Less than monthly	Not Done/Missing	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	51051_obs_audit	51051_obs														Yes		Monthly or less	1 or 2	Never	Never	Never	Never	Never	Never	No	No
+audit	ARDaC-AlcHepNet	51052_obs_audit	51052_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Never	Never	Monthly	Monthly	"Yes, but not in the last year"	"Yes, but not in the last year"
+audit	ARDaC-AlcHepNet	51053_obs_audit	51053_obs														Yes		4 or more times a week	3 or 4	Less than monthly	Never	Never	Never	Never	Never	No	"Yes, but not in the last year"
+audit	ARDaC-AlcHepNet	51054_clinical_audit	51054_clinical														Yes		2 to 3 times a week	5 or 6	Monthly	Monthly	Less than monthly	Less than monthly	Weekly	Never	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	51055_obs_audit	51055_obs														Yes		4 or more times a week	5 or 6	Less than monthly	Never	Never	Less than monthly	Never	Less than monthly	No	"Yes, but not in the last year"
+audit	ARDaC-AlcHepNet	51056_obs_audit	51056_obs														Yes		4 or more times a week	10 or more	Weekly	Monthly	Less than monthly	Monthly	Weekly	Monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	51057_clinical_audit	51057_clinical														Yes		4 or more times a week	5 or 6	Daily or almost daily	Not Done/Missing	Monthly	Daily or almost daily	Never	Never	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	51058_clinical_audit	51058_clinical														No											
+audit	ARDaC-AlcHepNet	51059_obs_audit	51059_obs														Yes		4 or more times a week	7 to 9	Weekly	Weekly	Weekly	Monthly	Weekly	Weekly	"Yes, during the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	51061_obs_audit	51061_obs														Yes		Never	Not Done/Missing	Never	Never	Never	Never	Less than monthly	Never	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	51062_clinical_audit	51062_clinical														Yes		4 or more times a week	7 to 9	Daily or almost daily	Weekly	Monthly	Daily or almost daily	Monthly	Never	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	51063_clinical_audit	51063_clinical														Yes		4 or more times a week	3 or 4	Never	Never	Never	Less than monthly	Weekly	Never	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	51064_obs_audit	51064_obs														Yes		4 or more times a week	10 or more	Weekly	Daily or almost daily	Never	Never	Daily or almost daily	Weekly	"Yes, during the last year"	No
+audit	ARDaC-AlcHepNet	51065_obs_audit	51065_obs														Yes		4 or more times a week	1 or 2	Monthly							
+audit	ARDaC-AlcHepNet	51066_obs_audit	51066_obs														Yes		2 to 3 times a week	10 or more	Weekly	Weekly	Weekly	Weekly	Daily or almost daily	Weekly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	51067_obs_audit	51067_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Weekly	Weekly	Daily or almost daily	Weekly	"Yes, during the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	51068_obs_audit	51068_obs														Yes		2 to 3 times a week	1 or 2	Less than monthly							
+audit	ARDaC-AlcHepNet	51069_clinical_audit	51069_clinical														Yes		2 to 4 times a month	1 or 2	Less than monthly	Never	Never	Never	Never	Never	No	No
+audit	ARDaC-AlcHepNet	51070_obs_audit	51070_obs														Yes		4 or more times a week	Not Done/Missing	Daily or almost daily	Daily or almost daily	Monthly	Weekly	Daily or almost daily	Weekly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	51071_obs_audit	51071_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	51072_obs_audit	51072_obs														Yes		2 to 3 times a week	3 or 4	Weekly	Less than monthly	Less than monthly	Never	Less than monthly	Less than monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	51073_clinical_audit	51073_clinical														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Weekly	Daily or almost daily	Daily or almost daily	Less than monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	51074_obs_audit	51074_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Weekly	Weekly	"Yes, during the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	51075_obs_audit	51075_obs														No											
+audit	ARDaC-AlcHepNet	51076_obs_audit	51076_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Weekly	Never	Daily or almost daily	Weekly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	51077_obs_audit	51077_obs														Yes		Monthly or less	10 or more	Monthly	Less than monthly	Less than monthly	Never	Less than monthly	Less than monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	51078_obs_audit	51078_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Less than monthly	Less than monthly	Weekly	Less than monthly	No	No
+audit	ARDaC-AlcHepNet	51079_obs_audit	51079_obs														Yes		4 or more times a week	7 to 9	Daily or almost daily	Never	Monthly	Never	Monthly	Monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	51080_clinical_audit	51080_clinical														Yes		4 or more times a week	5 or 6	Daily or almost daily	Never	Never	Never	Daily or almost daily	Less than monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	51081_obs_audit	51081_obs														No											
+audit	ARDaC-AlcHepNet	51082_obs_audit	51082_obs														Yes		4 or more times a week	5 or 6	Less than monthly	Never	Never	Never	Never	Less than monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	51083_obs_audit	51083_obs														Yes		4 or more times a week	5 or 6	Never	Never	Never	Never	Never	Monthly	No	No
+audit	ARDaC-AlcHepNet	51084_obs_audit	51084_obs														Yes		4 or more times a week	7 to 9	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Weekly	"Yes, during the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	51085_obs_audit	51085_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Weekly	"Yes, during the last year"	No
+audit	ARDaC-AlcHepNet	51086_obs_audit	51086_obs														Yes		2 to 3 times a week	7 to 9	Not Done/Missing	Monthly	Less than monthly	Never	Monthly	Monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	51087_obs_audit	51087_obs														Yes		4 or more times a week	7 to 9	Daily or almost daily	Daily or almost daily	Weekly	Less than monthly	Daily or almost daily	Less than monthly	No	No
+audit	ARDaC-AlcHepNet	51088_clinical_audit	51088_clinical														Yes		4 or more times a week	7 to 9	Daily or almost daily	Less than monthly	Daily or almost daily	Weekly	Never	Never	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	51089_obs_audit	51089_obs														Yes		4 or more times a week	5 or 6	Weekly	Weekly	Weekly	Never	Daily or almost daily	Weekly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	51090_obs_audit	51090_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Monthly	Never	Daily or almost daily	Never	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	51091_obs_audit	51091_obs														Yes		2 to 3 times a week	3 or 4	Monthly	Never	Less than monthly	Never	Never	Less than monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	51092_obs_audit	51092_obs														Yes		4 or more times a week	7 to 9	Weekly	Daily or almost daily	Weekly	Monthly	Daily or almost daily	Weekly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	51093_obs_audit	51093_obs														Yes		4 or more times a week	5 or 6	Weekly	Monthly	Less than monthly	Weekly	Weekly	Less than monthly	No	No
+audit	ARDaC-AlcHepNet	51094_obs_audit	51094_obs														No											
+audit	ARDaC-AlcHepNet	51095_obs_audit	51095_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Weekly	Never	Daily or almost daily	Weekly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	51096_obs_audit	51096_obs														Yes		Never	1 or 2	Never	Never	Less than monthly	Less than monthly	Daily or almost daily	Never	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	51097_obs_audit	51097_obs														Yes		4 or more times a week	10 or more	Weekly	Weekly	Monthly	Weekly	Monthly	Monthly	"Yes, but not in the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	51098_clinical_audit	51098_clinical														Yes		4 or more times a week	1 or 2	Monthly	Never	Never	Daily or almost daily	Never	Never	"Yes, during the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	51099_obs_audit	51099_obs														Yes		4 or more times a week	7 to 9	Weekly	Less than monthly	Monthly	Never	Never	Never	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	51100_clinical_audit	51100_clinical														Yes		4 or more times a week	7 to 9	Daily or almost daily	Daily or almost daily	Weekly	Weekly	Daily or almost daily	Weekly	"Yes, during the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	51101_obs_audit	51101_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Monthly	Daily or almost daily	Daily or almost daily	Less than monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	51102_obs_audit	51102_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Weekly	Daily or almost daily	Weekly	Daily or almost daily	"Yes, but not in the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	51103_obs_audit	51103_obs														Yes		4 or more times a week	3 or 4	Weekly	Weekly	Less than monthly	Never	Daily or almost daily	Less than monthly	"Yes, but not in the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	51104_obs_audit	51104_obs														Yes		4 or more times a week	3 or 4	Monthly	Weekly	Daily or almost daily	Weekly	Monthly	Never	"Yes, but not in the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	51105_obs_audit	51105_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Monthly	Monthly	Never	Weekly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	51106_obs_audit	51106_obs														Yes		4 or more times a week	3 or 4	Less than monthly	Monthly	Never	Never	Weekly	Daily or almost daily	No	No
+audit	ARDaC-AlcHepNet	51107_obs_audit	51107_obs														Yes		4 or more times a week	3 or 4	Weekly	Never	Monthly	Never	Never	Less than monthly	No	No
+audit	ARDaC-AlcHepNet	51108_obs_audit	51108_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	"Yes, during the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	51109_obs_audit	51109_obs														No											
+audit	ARDaC-AlcHepNet	51110_obs_audit	51110_obs														Yes		2 to 3 times a week	7 to 9	Weekly	Weekly	Monthly	Weekly	Monthly	Weekly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	51111_obs_audit	51111_obs														Yes		Never	7 to 9	Daily or almost daily	Daily or almost daily	Never	Never	Daily or almost daily	Monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	51112_obs_audit	51112_obs														Yes		2 to 3 times a week	10 or more	Weekly	Monthly	Daily or almost daily	Never	Never	Weekly	No	No
+audit	ARDaC-AlcHepNet	51113_obs_audit	51113_obs														Yes		2 to 3 times a week	5 or 6	Weekly	Weekly	Less than monthly	Never	Never	Less than monthly	No	No
+audit	ARDaC-AlcHepNet	51114_obs_audit	51114_obs														Yes		4 or more times a week	5 or 6	Weekly	Never	Never	Never	Less than monthly	Less than monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	51115_obs_audit	51115_obs														Yes		2 to 3 times a week	5 or 6	Monthly	Less than monthly	Less than monthly	Never	Weekly	Monthly	"Yes, but not in the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	51116_obs_audit	51116_obs														Yes		4 or more times a week	5 or 6	Monthly	Daily or almost daily	Daily or almost daily	Weekly	Daily or almost daily	Weekly	"Yes, during the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	51117_obs_audit	51117_obs														Yes		Monthly or less	5 or 6	Less than monthly							
+audit	ARDaC-AlcHepNet	51118_obs_audit	51118_obs														Yes		4 or more times a week	7 to 9	Daily or almost daily	Daily or almost daily	Weekly	Never	Never	Less than monthly	No	No
+audit	ARDaC-AlcHepNet	51119_obs_audit	51119_obs														Yes		4 or more times a week	7 to 9	Daily or almost daily	Daily or almost daily	Weekly	Never	Weekly	Daily or almost daily	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	51120_obs_audit	51120_obs														Yes		4 or more times a week	5 or 6	Weekly	Never	Never	Never	Never	Never	No	No
+audit	ARDaC-AlcHepNet	51121_obs_audit	51121_obs														Yes		4 or more times a week	3 or 4	Less than monthly	Never	Never	Never	Less than monthly	Never	No	No
+audit	ARDaC-AlcHepNet	51122_obs_audit	51122_obs														Yes		4 or more times a week	5 or 6	Daily or almost daily	Never	Never	Never	Never	Less than monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	51123_obs_audit	51123_obs														Yes		4 or more times a week	5 or 6	Daily or almost daily	Never	Never	Less than monthly	Less than monthly	Monthly	No	"Yes, but not in the last year"
+audit	ARDaC-AlcHepNet	51124_obs_audit	51124_obs														Yes		4 or more times a week	3 or 4	Monthly	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Weekly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	51125_obs_audit	51125_obs														Yes		4 or more times a week	7 to 9	Daily or almost daily	Daily or almost daily	Weekly	Daily or almost daily	Weekly	Less than monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	51126_obs_audit	51126_obs														Yes		4 or more times a week	7 to 9	Daily or almost daily	Monthly	Monthly	Monthly	Monthly	Monthly	"Yes, during the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	51127_obs_audit	51127_obs														Yes		4 or more times a week	5 or 6	Daily or almost daily	Daily or almost daily	Less than monthly	Never	Never	Less than monthly	No	"Yes, but not in the last year"
+audit	ARDaC-AlcHepNet	51128_obs_audit	51128_obs														Yes		4 or more times a week	5 or 6	Monthly	Weekly	Less than monthly	Weekly	Less than monthly	Monthly	No	No
+audit	ARDaC-AlcHepNet	52001_clinical_audit	52001_clinical														Yes		4 or more times a week	5 or 6	Daily or almost daily	Less than monthly	Never	Never	Never	Monthly	No	No
+audit	ARDaC-AlcHepNet	52003_clinical_audit	52003_clinical														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Never	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	52004_clinical_audit	52004_clinical														Yes		4 or more times a week	7 to 9	Daily or almost daily	Weekly	Never	Never	Less than monthly	Monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	52005_clinical_audit	52005_clinical														Yes		4 or more times a week	3 or 4	Weekly	Daily or almost daily	Weekly	Weekly	Weekly	Never	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	52006_clinical_audit	52006_clinical														Yes		4 or more times a week	7 to 9	Weekly	Less than monthly	Less than monthly	Daily or almost daily	Less than monthly	Never	No	"Yes, but not in the last year"
+audit	ARDaC-AlcHepNet	52007_clinical_audit	52007_clinical														No											
+audit	ARDaC-AlcHepNet	53003_clinical_audit	53003_clinical														Yes	CRC read questions to participant	Monthly or less	10 or more	Less than monthly	Daily or almost daily	Weekly	Daily or almost daily	Daily or almost daily	Daily or almost daily	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	53004_clinical_audit	53004_clinical														Yes		4 or more times a week	5 or 6	Daily or almost daily	Daily or almost daily	Less than monthly	Never	Weekly	Less than monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	61001_obs_audit	61001_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Weekly	"Yes, during the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	61002_obs_audit	61002_obs														Yes		2 to 3 times a week	1 or 2	Monthly	Weekly	Less than monthly	Less than monthly	Daily or almost daily	Never	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	61003_obs_audit	61003_obs														Yes		Monthly or less	1 or 2	Never	Never	Never	Never	Daily or almost daily	Daily or almost daily	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	61004_obs_audit	61004_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Weekly	Daily or almost daily	"Yes, during the last year"	"Yes, but not in the last year"
+audit	ARDaC-AlcHepNet	61005_obs_audit	61005_obs														Yes		4 or more times a week	3 or 4	Less than monthly	Never	Less than monthly	Less than monthly	Weekly	Never	No	"Yes, but not in the last year"
+audit	ARDaC-AlcHepNet	61006_obs_audit	61006_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Daily or almost daily	Weekly	Daily or almost daily	Weekly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	61007_obs_audit	61007_obs														Yes		4 or more times a week	5 or 6	Daily or almost daily	Daily or almost daily	Daily or almost daily	Weekly	Monthly	Monthly	"Yes, during the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	61008_obs_audit	61008_obs														Yes		2 to 4 times a month	1 or 2	Less than monthly	Monthly	Not Done/Missing	Weekly	Monthly	Less than monthly	No	No
+audit	ARDaC-AlcHepNet	61009_obs_audit	61009_obs														Yes		4 or more times a week	5 or 6	Monthly	Less than monthly	Monthly	Daily or almost daily	Weekly	Never	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	61010_obs_audit	61010_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Less than monthly	Less than monthly	Less than monthly	Monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	61011_obs_audit	61011_obs														Yes		4 or more times a week	5 or 6	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Weekly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	61012_obs_audit	61012_obs														No											
+audit	ARDaC-AlcHepNet	61013_obs_audit	61013_obs														Yes		4 or more times a week	3 or 4	Monthly	Less than monthly	Never	Less than monthly	Monthly	Never	No	"Yes, but not in the last year"
+audit	ARDaC-AlcHepNet	61014_obs_audit	61014_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Less than monthly	Daily or almost daily	Less than monthly	Not Done/Missing	"Yes, but not in the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	61015_obs_audit	61015_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Weekly	No	"Yes, but not in the last year"
+audit	ARDaC-AlcHepNet	61016_obs_audit	61016_obs														Yes		2 to 3 times a week	5 or 6	Weekly	Weekly	Never	Less than monthly	Daily or almost daily	Monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	61017_obs_audit	61017_obs														Yes		Monthly or less	1 or 2	Never	Never	Never	Never	Never	Never	No	No
+audit	ARDaC-AlcHepNet	61018_obs_audit	61018_obs														Yes		Monthly or less	1 or 2	Less than monthly	Never	Never	Never	Never	Never	No	No
+audit	ARDaC-AlcHepNet	61019_obs_audit	61019_obs														Yes		Monthly or less	1 or 2	Never	Never	Never	Never	Never	Never	No	No
+audit	ARDaC-AlcHepNet	61020_obs_audit	61020_obs														Yes		Monthly or less	1 or 2	Never	Never	Never	Never	Never	Never	No	No
+audit	ARDaC-AlcHepNet	61022_obs_audit	61022_obs														Yes		2 to 4 times a month	1 or 2	Less than monthly	Never	Never	Never	Never	Never	No	No
+audit	ARDaC-AlcHepNet	61023_obs_audit	61023_obs														Yes		Monthly or less	1 or 2	Never	Never	Never	Never	Never	Never	No	No
+audit	ARDaC-AlcHepNet	61024_obs_audit	61024_obs														Yes		Monthly or less	1 or 2	Never	Never	Never	Never	Never	Never	No	No
+audit	ARDaC-AlcHepNet	61025_obs_audit	61025_obs														Yes		2 to 4 times a month	3 or 4	Never	Never	Never	Never	Never	Never	No	No
+audit	ARDaC-AlcHepNet	61026_obs_audit	61026_obs														Yes		2 to 4 times a month	1 or 2	Never	Never	Never	Never	Less than monthly	Never	No	No
+audit	ARDaC-AlcHepNet	61027_obs_audit	61027_obs														Yes	Study Coordinator	4 or more times a week	5 or 6	Less than monthly	Not Done/Missing	Weekly	Less than monthly	Weekly	Less than monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	61028_obs_audit	61028_obs														Yes	Study Coordinator	Monthly or less	10 or more	Never	Less than monthly	Monthly	Never	Never	Less than monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	61029_obs_audit	61029_obs														Yes		4 or more times a week	5 or 6	Weekly	Daily or almost daily	Weekly	Monthly	Monthly	Never	"Yes, but not in the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	61030_obs_audit	61030_obs														Yes	Study Coordinator	4 or more times a week	5 or 6	Weekly	Monthly	Never	Monthly	Less than monthly	Never	"Yes, but not in the last year"	No
+audit	ARDaC-AlcHepNet	61031_obs_audit	61031_obs														Yes		4 or more times a week	10 or more	Never	Daily or almost daily	Daily or almost daily	Never	Daily or almost daily	Daily or almost daily	No	"Yes, but not in the last year"
+audit	ARDaC-AlcHepNet	61032_obs_audit	61032_obs														Yes		Monthly or less	7 to 9	Daily or almost daily	Weekly	Less than monthly	Weekly	Weekly	Weekly	"Yes, but not in the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	61033_obs_audit	61033_obs														Yes		2 to 4 times a month	10 or more	Daily or almost daily	Daily or almost daily	Not Done/Missing	Daily or almost daily	Daily or almost daily	Daily or almost daily	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	61034_obs_audit	61034_obs														Yes		2 to 4 times a month	1 or 2	Never	Never	Never	Never	Never	Never	No	No
+audit	ARDaC-AlcHepNet	61036_obs_audit	61036_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Monthly	Daily or almost daily	Less than monthly	Less than monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	61037_clinical_audit	61037_clinical														Yes		4 or more times a week	7 to 9	Daily or almost daily	Never	Monthly	Monthly	Less than monthly	Weekly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	61038_clinical_audit	61038_clinical														Yes	study coordinator	4 or more times a week	10 or more	Daily or almost daily	Never	Never	Never	Less than monthly	Less than monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	61039_clinical_audit	61039_clinical														Yes		4 or more times a week	Not Done/Missing	Daily or almost daily	Monthly	Monthly	Weekly	Weekly	Monthly	No	No
+audit	ARDaC-AlcHepNet	61040_obs_audit	61040_obs														Yes		4 or more times a week	5 or 6	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Weekly	"Yes, during the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	61041_obs_audit	61041_obs														Yes		4 or more times a week	3 or 4	Less than monthly	Monthly	Monthly	Daily or almost daily	Daily or almost daily	Never	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	61042_obs_audit	61042_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Weekly	Daily or almost daily	Weekly	Daily or almost daily	"Yes, during the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	61043_obs_audit	61043_obs														Yes	Study Coordinator	4 or more times a week	10 or more	Daily or almost daily	Never	Never	Daily or almost daily	Never	Never	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	61044_obs_audit	61044_obs														Yes	Study Coordinator	4 or more times a week	5 or 6	Weekly	Weekly	Daily or almost daily	Daily or almost daily	Daily or almost daily	Monthly	"Yes, but not in the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	61045_clinical_audit	61045_clinical														Yes	Study Coordinator	4 or more times a week	5 or 6	Less than monthly	Never	Monthly	Weekly	Never	Never	"Yes, during the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	61046_clinical_audit	61046_clinical														Yes	study coordinator	4 or more times a week	10 or more	Daily or almost daily	Never	Never	Never	Less than monthly	Never	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	61047_clinical_audit	61047_clinical														Yes	study coordinator	2 to 3 times a week	7 to 9	Weekly	Never	Never	Monthly	Monthly	Never	"Yes, during the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	61048_clinical_audit	61048_clinical														Yes		4 or more times a week	5 or 6	Monthly	Monthly	Weekly	Monthly	Daily or almost daily	Monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	61049_obs_audit	61049_obs														Yes	Study Coordinator	2 to 3 times a week	3 or 4	Monthly	Never	Less than monthly	Monthly	Monthly	Never	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	61050_obs_audit	61050_obs														Yes	study coordinator	2 to 3 times a week	1 or 2	Less than monthly	Never	Never	Never	Less than monthly	Never	No	No
+audit	ARDaC-AlcHepNet	61051_obs_audit	61051_obs														Yes		4 or more times a week	7 to 9	Daily or almost daily	Daily or almost daily	Never	Weekly	Daily or almost daily	Daily or almost daily	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	61052_clinical_audit	61052_clinical														Yes		2 to 4 times a month	3 or 4	Less than monthly	Less than monthly	Never	Weekly	Less than monthly	Not Done/Missing	No	"Yes, but not in the last year"
+audit	ARDaC-AlcHepNet	61053_obs_audit	61053_obs														Yes	study coordinator	4 or more times a week	5 or 6	Less than monthly	Never	Less than monthly	Never	Daily or almost daily	Less than monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	61054_clinical_audit	61054_clinical														Yes	study coordinator	4 or more times a week	1 or 2	Never	Never	Less than monthly	Less than monthly	Monthly	Less than monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	61055_obs_audit	61055_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	"Yes, during the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	61056_clinical_audit	61056_clinical														Yes		4 or more times a week	7 to 9	Daily or almost daily	Weekly	Weekly	Daily or almost daily	Daily or almost daily	Less than monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	61057_obs_audit	61057_obs														Yes		4 or more times a week	5 or 6	Weekly	Monthly	Monthly	Never	Monthly	Monthly	"Yes, during the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	61058_clinical_audit	61058_clinical														No											
+audit	ARDaC-AlcHepNet	61059_obs_audit	61059_obs														Yes	study coordinator	2 to 3 times a week	1 or 2	Never	Monthly	Never	Never	Daily or almost daily	Never	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	61060_clinical_audit	61060_clinical														Yes		4 or more times a week	10 or more	Daily or almost daily	Never	Never	Never	Daily or almost daily	Never	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	61061_obs_audit	61061_obs														Yes	study coordinator	4 or more times a week	3 or 4	Never	Daily or almost daily	Weekly	Daily or almost daily	Daily or almost daily	Weekly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	61062_obs_audit	61062_obs														Yes	study coordinator	4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Daily or almost daily	Weekly	Daily or almost daily	Never	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	61063_clinical_audit	61063_clinical														Yes	study coordinator	4 or more times a week	7 to 9	Daily or almost daily	Daily or almost daily	Weekly	Daily or almost daily	Daily or almost daily	Weekly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	61065_obs_audit	61065_obs														Yes	study coordinator	4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Less than monthly	"Yes, but not in the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	61066_obs_audit	61066_obs														Yes	study coordinator	4 or more times a week	3 or 4	Monthly	Daily or almost daily	Less than monthly	Daily or almost daily	Less than monthly	Never	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	61067_obs_audit	61067_obs														Yes	study coordinator	4 or more times a week	10 or more	Weekly	Weekly	Less than monthly	Daily or almost daily	Weekly	Weekly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	61068_obs_audit	61068_obs														Yes		Monthly or less	1 or 2	Never							
+audit	ARDaC-AlcHepNet	61069_obs_audit	61069_obs														Yes		Monthly or less	1 or 2	Never							
+audit	ARDaC-AlcHepNet	61070_obs_audit	61070_obs														Yes		2 to 4 times a month	1 or 2	Never							
+audit	ARDaC-AlcHepNet	61071_obs_audit	61071_obs														Yes		2 to 4 times a month	1 or 2	Never							
+audit	ARDaC-AlcHepNet	61072_obs_audit	61072_obs														Yes		Monthly or less	1 or 2	Less than monthly							
+audit	ARDaC-AlcHepNet	61073_obs_audit	61073_obs														Yes		Monthly or less	10 or more	Daily or almost daily	Less than monthly	Never	Never	Less than monthly	Never	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	61074_obs_audit	61074_obs														Yes		Never	1 or 2	Never							
+audit	ARDaC-AlcHepNet	61075_obs_audit	61075_obs														Yes		Never	Not Done/Missing	Not Done/Missing							
+audit	ARDaC-AlcHepNet	61076_obs_audit	61076_obs														Yes		2 to 4 times a month	1 or 2	Never							
+audit	ARDaC-AlcHepNet	61077_obs_audit	61077_obs														Yes		2 to 4 times a month	1 or 2	Less than monthly							
+audit	ARDaC-AlcHepNet	61078_obs_audit	61078_obs														Yes	study coordinator	4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Never	Daily or almost daily	Never	Never	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	61079_obs_audit	61079_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Weekly	Daily or almost daily	Daily or almost daily	Daily or almost daily	Weekly	"Yes, during the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	61080_obs_audit	61080_obs														Yes	study coordinator	4 or more times a week	10 or more	Daily or almost daily	Weekly	Never	Daily or almost daily	Daily or almost daily	Less than monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	61081_obs_audit	61081_obs														Yes		Monthly or less	1 or 2	Never							
+audit	ARDaC-AlcHepNet	61082_obs_audit	61082_obs														Yes		2 to 4 times a month	1 or 2	Never							
+audit	ARDaC-AlcHepNet	61083_obs_audit	61083_obs														Yes		4 or more times a week	5 or 6	Daily or almost daily	Weekly	Weekly	Daily or almost daily	Daily or almost daily	Monthly	No	No
+audit	ARDaC-AlcHepNet	61084_clinical_audit	61084_clinical														No											
+audit	ARDaC-AlcHepNet	61085_obs_audit	61085_obs														Yes	study coordinator	4 or more times a week	1 or 2	Never	Less than monthly	Never	Less than monthly	Never	Monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	61086_obs_audit	61086_obs														No											
+audit	ARDaC-AlcHepNet	61087_obs_audit	61087_obs														Yes	study coordinator	4 or more times a week	10 or more	Less than monthly	Weekly	Weekly	Daily or almost daily	Daily or almost daily	Less than monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	61088_obs_audit	61088_obs														Yes	study coordinator	4 or more times a week	7 to 9	Daily or almost daily	Weekly	Weekly	Monthly	Weekly	Weekly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	61089_obs_audit	61089_obs														Yes		Monthly or less	1 or 2	Never							
+audit	ARDaC-AlcHepNet	61090_obs_audit	61090_obs														Yes		Monthly or less	1 or 2	Never							
+audit	ARDaC-AlcHepNet	61091_obs_audit	61091_obs														Yes	study coordinator	Monthly or less	7 to 9	Daily or almost daily	Less than monthly	Monthly	Never	Daily or almost daily	Less than monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	61092_obs_audit	61092_obs														Yes	study coordinator	4 or more times a week	3 or 4	Weekly	Never	Never	Less than monthly	Never	Never	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	61093_obs_audit	61093_obs														Yes		4 or more times a week	3 or 4	Monthly	Less than monthly	Never	Never	Less than monthly	Never	No	No
+audit	ARDaC-AlcHepNet	61094_obs_audit	61094_obs														Yes		4 or more times a week	5 or 6	Never	Monthly	Weekly	Monthly	Less than monthly	Less than monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	61095_obs_audit	61095_obs														No											
+audit	ARDaC-AlcHepNet	61096_obs_audit	61096_obs														Yes		Never	1 or 2	Never							
+audit	ARDaC-AlcHepNet	61097_obs_audit	61097_obs														Yes		2 to 4 times a month	1 or 2	Never							
+audit	ARDaC-AlcHepNet	61098_obs_audit	61098_obs														Yes		2 to 4 times a month	1 or 2	Never							
+audit	ARDaC-AlcHepNet	61099_obs_audit	61099_obs														Yes	study coordinator	4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Less than monthly	Daily or almost daily	Daily or almost daily	Never	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	61100_obs_audit	61100_obs														Yes		2 to 4 times a month	1 or 2	Never							
+audit	ARDaC-AlcHepNet	61101_obs_audit	61101_obs														Yes		4 or more times a week	10 or more	Weekly	Monthly	Less than monthly	Never	Daily or almost daily	Less than monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	61102_obs_audit	61102_obs														Yes		Never	1 or 2	Never							
+audit	ARDaC-AlcHepNet	61103_obs_audit	61103_obs														Yes		2 to 4 times a month	1 or 2	Never							
+audit	ARDaC-AlcHepNet	61104_obs_audit	61104_obs														Yes	study coordinator with study participant	2 to 3 times a week	3 or 4	Not Done/Missing	Never	Daily or almost daily	Less than monthly	Less than monthly	Weekly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	61105_obs_audit	61105_obs														Yes		Never	1 or 2	Never							
+audit	ARDaC-AlcHepNet	61106_obs_audit	61106_obs														Yes		Monthly or less	1 or 2	Never							
+audit	ARDaC-AlcHepNet	71001_obs_audit	71001_obs														Yes		Monthly or less	5 or 6	Never	Never	Less than monthly	Monthly	Never	Never	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	71002_obs_audit	71002_obs														Yes		4 or more times a week	3 or 4	Less than monthly	Never	Never	Never	Never	Never	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	71003_obs_audit	71003_obs														Yes		4 or more times a week	7 to 9	Daily or almost daily	Never	Never	Never	Never	Less than monthly	"Yes, but not in the last year"	No
+audit	ARDaC-AlcHepNet	71004_obs_audit	71004_obs														Yes		4 or more times a week	5 or 6	Daily or almost daily	Never	Less than monthly	Never	Never	Never	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	71005_obs_audit	71005_obs														Yes		4 or more times a week	1 or 2	Less than monthly	Less than monthly	Less than monthly	Never	Never	Never	No	No
+audit	ARDaC-AlcHepNet	71006_obs_audit	71006_obs														Yes		Never	1 or 2	Never	Never	Never	Never	Never	Never	No	No
+audit	ARDaC-AlcHepNet	71007_obs_audit	71007_obs														Yes		2 to 3 times a week	10 or more	Weekly	Weekly	Weekly	Monthly	Less than monthly	Never	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	71008_obs_audit	71008_obs														Yes		4 or more times a week	5 or 6	Never	Never	Less than monthly	Less than monthly	Less than monthly	Never	"Yes, but not in the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	71009_obs_audit	71009_obs														Yes		2 to 3 times a week	5 or 6	Weekly	Never	Never	Never	Never	Never	"Yes, during the last year"	"Yes, but not in the last year"
+audit	ARDaC-AlcHepNet	71010_clinical_audit	71010_clinical														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	"Yes, during the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	71011_clinical_audit	71011_clinical														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Weekly	Daily or almost daily	Monthly	Monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	71012_clinical_audit	71012_clinical														Yes		4 or more times a week	10 or more	Daily or almost daily	Weekly	Monthly	Monthly	Less than monthly	Weekly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	71013_clinical_audit	71013_clinical														Yes	study coordinator read answer choices out loud and selected for subject per subject's request.	4 or more times a week	10 or more	Weekly	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Weekly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	71014_clinical_audit	71014_clinical														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Never	Daily or almost daily	Monthly	Daily or almost daily	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	71015_obs_audit	71015_obs														Yes		Monthly or less	1 or 2	Never							
+audit	ARDaC-AlcHepNet	71016_clinical_audit	71016_clinical														Yes		4 or more times a week	5 or 6	Less than monthly	Never	Monthly	Weekly	Never	Less than monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	71017_obs_audit	71017_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Never	Never	Daily or almost daily	Less than monthly	Less than monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	71018_clinical_audit	71018_clinical														Yes	LR read questions outloud to patient at patient's request and circled for patient as they were in the hospital bed	4 or more times a week	5 or 6	Daily or almost daily	Daily or almost daily	Less than monthly	Never	Daily or almost daily	Never	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	71019_obs_audit	71019_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Weekly	Less than monthly	Monthly	Never	Less than monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	71020_obs_audit	71020_obs														Yes	PI per subject hospitalized at the time of AUDIT	4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Weekly	Daily or almost daily	Daily or almost daily	Weekly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	71021_clinical_audit	71021_clinical														Yes		4 or more times a week	3 or 4	Monthly	Less than monthly	Less than monthly	Less than monthly	Weekly	Monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	71022_clinical_audit	71022_clinical														Yes	Study coordinator per subject's request	4 or more times a week	5 or 6	Daily or almost daily	Daily or almost daily	Never	Never	Never	Monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	71023_obs_audit	71023_obs														Yes		4 or more times a week	3 or 4	Weekly	Weekly	Weekly	Daily or almost daily	Daily or almost daily	Weekly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	71024_obs_audit	71024_obs														Yes		4 or more times a week	5 or 6	Weekly	Daily or almost daily	Monthly	Daily or almost daily	Daily or almost daily	Less than monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	71025_obs_audit	71025_obs														Yes	study coordinator per subject's request	4 or more times a week	3 or 4	Less than monthly	Less than monthly	Less than monthly	Never	Less than monthly	Weekly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	71026_obs_audit	71026_obs														Yes		4 or more times a week	5 or 6	Monthly	Daily or almost daily	Less than monthly	Never	Daily or almost daily	Weekly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	71027_obs_audit	71027_obs														Yes		Monthly or less	1 or 2	Never							
+audit	ARDaC-AlcHepNet	71029_obs_audit	71029_obs														Yes	study coordinator per subject's request	4 or more times a week	7 to 9	Daily or almost daily	Daily or almost daily	Less than monthly	Never	Weekly	Weekly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	71030_obs_audit	71030_obs														Yes		Monthly or less	1 or 2	Never							
+audit	ARDaC-AlcHepNet	71031_obs_audit	71031_obs														Yes		4 or more times a week	7 to 9	Daily or almost daily	Daily or almost daily	Weekly	Weekly	Weekly	Weekly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	71032_obs_audit	71032_obs														Yes		4 or more times a week	10 or more	Weekly	Daily or almost daily	Less than monthly	Never	Daily or almost daily	Weekly	"Yes, but not in the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	71033_obs_audit	71033_obs														Yes		4 or more times a week	3 or 4	Monthly	Monthly	Less than monthly	Less than monthly	Weekly	Less than monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	71034_obs_audit	71034_obs														Yes		Monthly or less	1 or 2	Never							
+audit	ARDaC-AlcHepNet	71035_obs_audit	71035_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Monthly	Less than monthly	Daily or almost daily	Daily or almost daily	Monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	71036_obs_audit	71036_obs														Yes		Monthly or less	1 or 2	Never							
+audit	ARDaC-AlcHepNet	71037_obs_audit	71037_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Never	Monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	71038_obs_audit	71038_obs														Yes		Monthly or less	1 or 2	Never							
+audit	ARDaC-AlcHepNet	72001_obs_audit	72001_obs														Yes		4 or more times a week	7 to 9	Daily or almost daily	Monthly	Weekly	Daily or almost daily	Monthly	Weekly	"Yes, but not in the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	72002_obs_audit	72002_obs														Yes		4 or more times a week	3 or 4	Weekly	Monthly	Less than monthly	Less than monthly	Less than monthly	Never	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	72003_obs_audit	72003_obs														Yes		4 or more times a week	5 or 6	Daily or almost daily	Monthly	Less than monthly	Weekly	Monthly	Less than monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	72004_obs_audit	72004_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Monthly	Monthly	No	No
+audit	ARDaC-AlcHepNet	72005_obs_audit	72005_obs														Yes		4 or more times a week	7 to 9	Daily or almost daily	Daily or almost daily	Weekly	Daily or almost daily	Monthly	Less than monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	72006_obs_audit	72006_obs														Yes		4 or more times a week	1 or 2	Never	Never	Less than monthly	Never	Less than monthly	Never	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	72007_obs_audit	72007_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Weekly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	72008_obs_audit	72008_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Weekly	Daily or almost daily	Daily or almost daily	Weekly	Monthly	"Yes, during the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	72009_clinical_audit	72009_clinical														Yes		4 or more times a week	5 or 6	Daily or almost daily	Weekly	Weekly	Weekly	Weekly	Less than monthly	"Yes, but not in the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	72010_obs_audit	72010_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Weekly	Weekly	Weekly	Weekly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	72011_obs_audit	72011_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Weekly	Less than monthly	Daily or almost daily	Daily or almost daily	Never	"Yes, but not in the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	72012_clinical_audit	72012_clinical														Yes		4 or more times a week	10 or more	Daily or almost daily	Weekly	Less than monthly	Daily or almost daily	Daily or almost daily	Never	"Yes, but not in the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	72013_clinical_audit	72013_clinical														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Monthly	Weekly	Weekly	Monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	72015_obs_audit	72015_obs														Yes		2 to 4 times a month	10 or more	Monthly	Daily or almost daily	Daily or almost daily	Weekly	Weekly	Weekly	"Yes, during the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	72017_clinical_audit	72017_clinical														Yes		4 or more times a week	10 or more	Daily or almost daily	Never	Monthly	Daily or almost daily	Daily or almost daily	Never	"Yes, during the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	72018_clinical_audit	72018_clinical														No											
+audit	ARDaC-AlcHepNet	72019_clinical_audit	72019_clinical														Yes		4 or more times a week	1 or 2	Less than monthly	Never	Less than monthly	Less than monthly	Never	Never	No	No
+audit	ARDaC-AlcHepNet	72020_clinical_audit	72020_clinical														Yes		Never	10 or more	Daily or almost daily	Monthly	Daily or almost daily	Daily or almost daily	Never	Less than monthly	"Yes, but not in the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	72021_clinical_audit	72021_clinical														Yes		4 or more times a week	5 or 6	Weekly	Weekly	Never	Daily or almost daily	Daily or almost daily	Never	No	No
+audit	ARDaC-AlcHepNet	72022_clinical_audit	72022_clinical														Yes	LR checked per study participant's request and response	4 or more times a week	7 to 9	Daily or almost daily	Daily or almost daily	Never	Less than monthly	Weekly	Never	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	72023_clinical_audit	72023_clinical														Yes		4 or more times a week	10 or more	Daily or almost daily	Less than monthly	Less than monthly	Weekly	Never	Monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	72024_obs_audit	72024_obs														Yes		4 or more times a week	7 to 9	Never	Daily or almost daily	Never	Daily or almost daily	Never	Never	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	72025_obs_audit	72025_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	"Yes, during the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	72026_obs_audit	72026_obs														Yes		4 or more times a week	3 or 4	Weekly	Monthly	Less than monthly	Less than monthly	Daily or almost daily	Less than monthly	No	"Yes, but not in the last year"
+audit	ARDaC-AlcHepNet	72027_obs_audit	72027_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Less than monthly	Weekly	Daily or almost daily	Monthly	Less than monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	72028_obs_audit	72028_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Less than monthly	Less than monthly	Monthly	Less than monthly	Less than monthly	No	"Yes, but not in the last year"
+audit	ARDaC-AlcHepNet	72029_clinical_audit	72029_clinical														Yes		2 to 3 times a week	5 or 6	Weekly	Weekly	Never	Monthly	Daily or almost daily	Never	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	72030_clinical_audit	72030_clinical														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Weekly	Weekly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	72031_obs_audit	72031_obs														Yes	per subject's request questions were translated by coordinator. answer choices were circled by subject during hospitalization.	4 or more times a week	5 or 6	Weekly	Daily or almost daily	Monthly	Weekly	Monthly	Never	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	72032_obs_audit	72032_obs														Yes		4 or more times a week	7 to 9	Daily or almost daily	Never	Never	Never	Never	Never	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	72033_obs_audit	72033_obs														Yes		4 or more times a week	7 to 9	Daily or almost daily	Never	Never	Monthly	Never	Never	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	72034_obs_audit	72034_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Weekly	Daily or almost daily	Daily or almost daily	Weekly	Monthly	"Yes, during the last year"	No
+audit	ARDaC-AlcHepNet	72035_clinical_audit	72035_clinical														Yes		4 or more times a week	7 to 9	Daily or almost daily	Daily or almost daily	Weekly	Never	Daily or almost daily	Weekly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	72036_clinical_audit	72036_clinical														Yes	research study coordinator per hospitalized patient's request	4 or more times a week	5 or 6	Daily or almost daily	Daily or almost daily	Monthly	Weekly	Daily or almost daily	Monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	72037_obs_audit	72037_obs														Yes		4 or more times a week	5 or 6	Daily or almost daily	Never	Never	Daily or almost daily	Never	Weekly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	72038_clinical_audit	72038_clinical														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Never	Daily or almost daily	Never	Never	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	72039_obs_audit	72039_obs														Yes	Research study coordinator per subject's request	4 or more times a week	5 or 6	Never	Weekly	Monthly	Monthly	Weekly	Weekly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	72040_obs_audit	72040_obs														Yes	per subject request	4 or more times a week	5 or 6	Weekly	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	72041_clinical_audit	72041_clinical														Yes	per subject request	4 or more times a week	7 to 9	Daily or almost daily	Weekly	Never	Weekly	Daily or almost daily	Never	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	72042_obs_audit	72042_obs														Yes	Per subject request	4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Weekly	Daily or almost daily	Monthly	Less than monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	72043_obs_audit	72043_obs														Yes	study coordinator per subject's request.	4 or more times a week	7 to 9	Daily or almost daily	Daily or almost daily	Never	Daily or almost daily	Weekly	Never	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	72044_obs_audit	72044_obs														Yes	study coordinator per subject's request	4 or more times a week	7 to 9	Monthly	Monthly	Never	Daily or almost daily	Never	Never	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	72045_obs_audit	72045_obs														Yes	study coordinator per subject's request	4 or more times a week	5 or 6	Less than monthly	Weekly	Less than monthly	Daily or almost daily	Daily or almost daily	Less than monthly	"Yes, during the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	72046_obs_audit	72046_obs														Yes		2 to 4 times a month	3 or 4	Weekly	Less than monthly	Never	Monthly	Monthly	Never	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	72047_obs_audit	72047_obs														Yes		4 or more times a week	7 to 9	Weekly	Weekly	Never	Weekly	Less than monthly	Never	No	No
+audit	ARDaC-AlcHepNet	72048_obs_audit	72048_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Weekly	Daily or almost daily	Daily or almost daily	Daily or almost daily	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	72049_obs_audit	72049_obs														Yes		2 to 4 times a month	5 or 6	Monthly	Less than monthly	Monthly	Less than monthly	Monthly	Never	No	No
+audit	ARDaC-AlcHepNet	72050_obs_audit	72050_obs														Yes		2 to 4 times a month	3 or 4	Less than monthly	Less than monthly	Never	Never	Less than monthly	Never	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	72051_obs_audit	72051_obs														Yes		4 or more times a week	5 or 6	Monthly	Daily or almost daily	Daily or almost daily	Daily or almost daily	Weekly	Daily or almost daily	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	72052_obs_audit	72052_obs														Yes		4 or more times a week	7 to 9	Daily or almost daily	Daily or almost daily	Weekly	Daily or almost daily	Weekly	Monthly	"Yes, but not in the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	72053_obs_audit	72053_obs														Yes		4 or more times a week	7 to 9	Weekly	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	72054_obs_audit	72054_obs														Yes		4 or more times a week	5 or 6	Daily or almost daily	Weekly	Less than monthly	Weekly	Less than monthly	Monthly	No	"Yes, but not in the last year"
+audit	ARDaC-AlcHepNet	72055_obs_audit	72055_obs														Yes		4 or more times a week	7 to 9	Weekly	Weekly	Less than monthly	Weekly	Daily or almost daily	Weekly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	72056_obs_audit	72056_obs														Yes		4 or more times a week	1 or 2	Never	Never	Never	Never	Daily or almost daily	Never	"Yes, but not in the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	72057_obs_audit	72057_obs														Yes		4 or more times a week	5 or 6	Weekly	Monthly	Never	Less than monthly	Daily or almost daily	Never	No	"Yes, but not in the last year"
+audit	ARDaC-AlcHepNet	72058_obs_audit	72058_obs														Yes		4 or more times a week	7 to 9	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Never	No	"Yes, but not in the last year"
+audit	ARDaC-AlcHepNet	72059_obs_audit	72059_obs														Yes		2 to 3 times a week	1 or 2	Never	Never	Never	Less than monthly	Never	Never	No	No
+audit	ARDaC-AlcHepNet	72060_obs_audit	72060_obs														Yes		4 or more times a week	3 or 4	Less than monthly	Monthly	Less than monthly	Weekly	Daily or almost daily	Monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	81001_obs_audit	81001_obs														Yes		4 or more times a week	7 to 9	Weekly	Weekly	Less than monthly	Weekly	Monthly	Monthly	"Yes, during the last year"	No
+audit	ARDaC-AlcHepNet	81002_obs_audit	81002_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Monthly	Daily or almost daily	Weekly	Monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	81003_obs_audit	81003_obs														Yes		2 to 3 times a week	5 or 6	Weekly	Monthly	Less than monthly	Less than monthly	Less than monthly	Less than monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	81004_obs_audit	81004_obs														Yes		4 or more times a week	3 or 4	Never	Daily or almost daily	Weekly	Weekly	Monthly	Never	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	81005_obs_audit	81005_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Weekly	Daily or almost daily	Daily or almost daily	Weekly	Never	"Yes, during the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	81006_obs_audit	81006_obs														Yes		4 or more times a week	7 to 9	Daily or almost daily	Daily or almost daily	Monthly	Daily or almost daily	Daily or almost daily	Weekly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	81007_obs_audit	81007_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Less than monthly	Daily or almost daily	Daily or almost daily	Less than monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	81008_obs_audit	81008_obs														Yes		4 or more times a week	1 or 2	Monthly	Monthly	Monthly	Never	Weekly	Never	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	81009_obs_audit	81009_obs														Yes		Monthly or less	1 or 2	Never	Never	Never	Never	Never	Never	No	No
+audit	ARDaC-AlcHepNet	81010_obs_audit	81010_obs														Yes		Never	Not Done/Missing	Never	Never	Never	Never	Never	Never	No	No
+audit	ARDaC-AlcHepNet	81011_obs_audit	81011_obs														Yes		Never	Not Done/Missing	Never	Never	Never	Never	Never	Never	No	No
+audit	ARDaC-AlcHepNet	81012_obs_audit	81012_obs														Yes		Monthly or less	1 or 2	Never	Never	Never	Never	Never	Never	No	No
+audit	ARDaC-AlcHepNet	81013_obs_audit	81013_obs														Yes		Never	Not Done/Missing	Never	Never	Never	Never	Never	Never	No	No
+audit	ARDaC-AlcHepNet	81015_obs_audit	81015_obs														Yes		Never	Not Done/Missing	Never	Never	Never	Never	Never	Never	No	No
+audit	ARDaC-AlcHepNet	81016_obs_audit	81016_obs														Yes		Monthly or less	1 or 2	Never							
+audit	ARDaC-AlcHepNet	81017_obs_audit	81017_obs														Yes		2 to 4 times a month	3 or 4	Never	Never	Never	Never	Never	Never	No	No
+audit	ARDaC-AlcHepNet	81018_obs_audit	81018_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Monthly	Monthly	Weekly	Monthly	"Yes, but not in the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	81019_obs_audit	81019_obs														Yes		4 or more times a week	5 or 6	Weekly	Weekly	Monthly	Daily or almost daily	Weekly	Monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	81020_obs_audit	81020_obs														Yes		4 or more times a week	5 or 6	Weekly	Weekly	Monthly	Weekly	Less than monthly	Monthly	"Yes, but not in the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	81021_obs_audit	81021_obs														No											
+audit	ARDaC-AlcHepNet	81022_obs_audit	81022_obs														Yes		Never	1 or 2	Never	Never	Never	Never	Never	Never	No	No
+audit	ARDaC-AlcHepNet	81023_obs_audit	81023_obs														Yes		4 or more times a week	5 or 6	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Never	Never	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	81024_obs_audit	81024_obs														No											
+audit	ARDaC-AlcHepNet	81025_obs_audit	81025_obs														Yes		4 or more times a week	5 or 6	Weekly	Weekly	Weekly	Weekly	Less than monthly	Less than monthly	"Yes, during the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	81026_obs_audit	81026_obs														Yes		4 or more times a week	5 or 6	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Weekly	"Yes, during the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	81027_obs_audit	81027_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Weekly	Less than monthly	Monthly	Never	Less than monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	81028_obs_audit	81028_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Monthly	Never	Daily or almost daily	Daily or almost daily	Weekly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	81029_obs_audit	81029_obs														Yes		4 or more times a week	7 to 9	Daily or almost daily	Never	Never	Less than monthly	Less than monthly	Never	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	81030_obs_audit	81030_obs														Yes		4 or more times a week	1 or 2	Never	Never	Never	Never	Monthly	Less than monthly	No	"Yes, but not in the last year"
+audit	ARDaC-AlcHepNet	81031_obs_audit	81031_obs														Yes		4 or more times a week	7 to 9	Daily or almost daily	Daily or almost daily	Less than monthly	Daily or almost daily	Daily or almost daily	Weekly	"Yes, during the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	81032_obs_audit	81032_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Less than monthly	Daily or almost daily	Daily or almost daily	Less than monthly	"Yes, but not in the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	81033_obs_audit	81033_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Weekly	"Yes, during the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	81034_obs_audit	81034_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Weekly	Daily or almost daily	Weekly	Weekly	"Yes, during the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	81035_obs_audit	81035_obs														Yes		Monthly or less	1 or 2	Never	Never	Never	Never	Never	Never	No	No
+audit	ARDaC-AlcHepNet	81036_obs_audit	81036_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Weekly	Daily or almost daily	Daily or almost daily	Weekly	"Yes, during the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	81037_obs_audit	81037_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Never	Weekly	"Yes, during the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	81038_obs_audit	81038_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Weekly	Daily or almost daily	Daily or almost daily	Weekly	Less than monthly	"Yes, during the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	81039_obs_audit	81039_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Never	Weekly	"Yes, during the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	81040_obs_audit	81040_obs														Yes		2 to 3 times a week	1 or 2	Never	Less than monthly	Less than monthly	Less than monthly	Never	Never	No	"Yes, but not in the last year"
+audit	ARDaC-AlcHepNet	81041_obs_audit	81041_obs														Yes		Never	3 or 4	Less than monthly	Never	Never	Never	Never	Never	"Yes, but not in the last year"	"Yes, but not in the last year"
+audit	ARDaC-AlcHepNet	81042_obs_audit	81042_obs														Yes		Monthly or less	3 or 4	Never	Never	Never	Never	Never	Never	No	No
+audit	ARDaC-AlcHepNet	81043_obs_audit	81043_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Weekly	Monthly	Daily or almost daily	Weekly	Monthly	"Yes, during the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	81044_obs_audit	81044_obs														Yes		4 or more times a week	5 or 6	Weekly	Never	Weekly	Never	Weekly	Never	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	81045_obs_audit	81045_obs														No											
+audit	ARDaC-AlcHepNet	81046_obs_audit	81046_obs														Yes		4 or more times a week	1 or 2	Never	Never	Never	Never	Daily or almost daily	Never	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	81047_obs_audit	81047_obs														Yes		2 to 3 times a week	1 or 2	Monthly	Monthly	Less than monthly	Weekly	Less than monthly	Weekly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	81048_obs_audit	81048_obs														Yes		Monthly or less	5 or 6	Less than monthly	Never	Less than monthly	Never	Less than monthly	Never	No	"Yes, but not in the last year"
+audit	ARDaC-AlcHepNet	81049_obs_audit	81049_obs														Yes		4 or more times a week	5 or 6	Weekly	Daily or almost daily	Weekly	Daily or almost daily	Daily or almost daily	Weekly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	81050_obs_audit	81050_obs														Yes		4 or more times a week	5 or 6	Never	Never	Never	Never	Weekly	Never	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	81051_clinical_audit	81051_clinical														Yes		4 or more times a week	5 or 6	Daily or almost daily	Never	Never	Less than monthly	Less than monthly	Less than monthly	No	No
+audit	ARDaC-AlcHepNet	81052_clinical_audit	81052_clinical														No											
+audit	ARDaC-AlcHepNet	81053_clinical_audit	81053_clinical														Yes		2 to 3 times a week	1 or 2	Less than monthly	Never	Never	Never	Never	Less than monthly	No	No
+audit	ARDaC-AlcHepNet	81054_clinical_audit	81054_clinical														Yes		4 or more times a week	3 or 4	Never	Monthly	Never	Weekly	Never	Never	No	No
+audit	ARDaC-AlcHepNet	81055_clinical_audit	81055_clinical														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Weekly	Daily or almost daily	Daily or almost daily	Weekly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	81056_obs_audit	81056_obs														Yes		4 or more times a week	3 or 4	Less than monthly	Never	Less than monthly	Daily or almost daily	Monthly	Never	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	81057_clinical_audit	81057_clinical														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Weekly	Daily or almost daily	Daily or almost daily	Weekly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	81058_clinical_audit	81058_clinical														Yes		4 or more times a week	3 or 4	Never	Never	Never	Never	Less than monthly	Never	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	81059_obs_audit	81059_obs														Yes		4 or more times a week	1 or 2	Monthly	Never	Never	Never	Weekly	Never	No	No
+audit	ARDaC-AlcHepNet	81060_obs_audit	81060_obs														Yes		4 or more times a week	7 to 9	Daily or almost daily	Daily or almost daily	Weekly	Weekly	Daily or almost daily	Monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	81061_clinical_audit	81061_clinical														Yes		4 or more times a week	3 or 4	Less than monthly	Daily or almost daily	Monthly	Weekly	Daily or almost daily	Less than monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	81062_obs_audit	81062_obs														Yes		4 or more times a week	5 or 6	Monthly	Less than monthly	Never	Less than monthly	Weekly	Less than monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	81063_clinical_audit	81063_clinical														Yes		4 or more times a week	5 or 6	Never	Never	Never	Never	Never	Less than monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	81064_clinical_audit	81064_clinical														Yes		4 or more times a week	3 or 4	Never	Never	Less than monthly	Never	Never	Never	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	81065_obs_audit	81065_obs														Yes		2 to 3 times a week	3 or 4	Never	Never	Never	Daily or almost daily	Never	Daily or almost daily	No	"Yes, but not in the last year"
+audit	ARDaC-AlcHepNet	81066_obs_audit	81066_obs														Yes		4 or more times a week	1 or 2	Monthly	Monthly	Never	Never	Less than monthly	Never	No	No
+audit	ARDaC-AlcHepNet	81067_obs_audit	81067_obs														Yes		2 to 3 times a week	5 or 6	Weekly	Never	Never	Never	Never	Never	No	No
+audit	ARDaC-AlcHepNet	81068_clinical_audit	81068_clinical														Yes		4 or more times a week	7 to 9	Daily or almost daily	Weekly	Weekly	Daily or almost daily	Daily or almost daily	Less than monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	81069_obs_audit	81069_obs														Yes		Never	1 or 2	Never	Never	Never	Never	Never	Never	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	81070_clinical_audit	81070_clinical														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Less than monthly	Weekly	Less than monthly	Weekly	"Yes, during the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	81071_obs_audit	81071_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Weekly	Daily or almost daily	Monthly	Weekly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	81072_obs_audit	81072_obs														Yes		4 or more times a week	5 or 6	Weekly	Weekly	Monthly	Less than monthly	Never	Daily or almost daily	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	81073_obs_audit	81073_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Weekly	Weekly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	81074_obs_audit	81074_obs														Yes		4 or more times a week	7 to 9	Daily or almost daily	Daily or almost daily	Weekly	Daily or almost daily	Never	Weekly	"Yes, during the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	81075_obs_audit	81075_obs														Yes		4 or more times a week	7 to 9	Daily or almost daily	Daily or almost daily	Weekly	Weekly	Never	Never	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	81076_clinical_audit	81076_clinical														Yes		4 or more times a week	5 or 6	Monthly	Daily or almost daily	Less than monthly	Weekly	Daily or almost daily	Less than monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	81077_clinical_audit	81077_clinical														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Less than monthly	Daily or almost daily	Daily or almost daily	Daily or almost daily	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	81078_obs_audit	81078_obs														Yes		2 to 3 times a week	3 or 4	Less than monthly	Less than monthly	Never	Never	Monthly	Less than monthly	No	"Yes, but not in the last year"
+audit	ARDaC-AlcHepNet	81079_obs_audit	81079_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Never	Never	Never	Weekly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	81080_clinical_audit	81080_clinical														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Monthly	Monthly	Monthly	Monthly	"Yes, during the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	81081_obs_audit	81081_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Less than monthly	Less than monthly	Never	Less than monthly	Never	No	No
+audit	ARDaC-AlcHepNet	81082_obs_audit	81082_obs														Yes		4 or more times a week	7 to 9	Daily or almost daily	Daily or almost daily	Weekly	Daily or almost daily	Daily or almost daily	Never	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	81084_obs_audit	81084_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Never	Never	Daily or almost daily	Never	Monthly	"Yes, during the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	81085_obs_audit	81085_obs														Yes		4 or more times a week	3 or 4	Weekly	Never	Never	Never	Less than monthly	Less than monthly	No	No
+audit	ARDaC-AlcHepNet	81086_obs_audit	81086_obs														Yes		4 or more times a week	7 to 9	Daily or almost daily	Never	Never	Less than monthly	Never	Never	No	"Yes, but not in the last year"
+audit	ARDaC-AlcHepNet	81087_obs_audit	81087_obs														Yes		4 or more times a week	3 or 4	Never	Weekly	Less than monthly	Never	Weekly	Less than monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	81088_obs_audit	81088_obs														Yes		4 or more times a week	7 to 9	Weekly	Less than monthly	Never	Daily or almost daily	Daily or almost daily	Less than monthly	No	"Yes, but not in the last year"
+audit	ARDaC-AlcHepNet	81089_obs_audit	81089_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Daily or almost daily	Monthly	Daily or almost daily	Never	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	81090_obs_audit	81090_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Weekly	Monthly	Weekly	Less than monthly	Monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	81091_clinical_audit	81091_clinical														Yes		4 or more times a week	3 or 4	Less than monthly	Monthly	Never	Never	Daily or almost daily	Never	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	81092_obs_audit	81092_obs														Yes		4 or more times a week	5 or 6	Daily or almost daily	Less than monthly	Never	Never	Daily or almost daily	Monthly	"Yes, but not in the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	81093_obs_audit	81093_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Weekly	Daily or almost daily	Daily or almost daily	Daily or almost daily	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	81094_obs_audit	81094_obs														Yes		4 or more times a week	5 or 6	Less than monthly	Never	Never	Never	Never	Never	No	No
+audit	ARDaC-AlcHepNet	81095_obs_audit	81095_obs														No											
+audit	ARDaC-AlcHepNet	81096_clinical_audit	81096_clinical														Yes		4 or more times a week	5 or 6	Daily or almost daily	Daily or almost daily	Never	Never	Daily or almost daily	Never	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	81097_obs_audit	81097_obs														Yes		4 or more times a week	7 to 9	Daily or almost daily	Daily or almost daily	Weekly	Daily or almost daily	Daily or almost daily	Weekly	"Yes, during the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	81098_obs_audit	81098_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Less than monthly	Less than monthly	Never	Daily or almost daily	Monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	81099_obs_audit	81099_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Weekly	Less than monthly	Less than monthly	Never	Weekly	"Yes, but not in the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	81100_obs_audit	81100_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Less than monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	81101_obs_audit	81101_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Never	Weekly	Daily or almost daily	Never	Never	No	No
+audit	ARDaC-AlcHepNet	81102_obs_audit	81102_obs														Yes		4 or more times a week	3 or 4	Less than monthly	Never	Weekly	Never	Daily or almost daily	Never	"Yes, during the last year"	"Yes, but not in the last year"
+audit	ARDaC-AlcHepNet	81103_obs_audit	81103_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Weekly	Never	Daily or almost daily	Daily or almost daily	Never	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	81104_obs_audit	81104_obs														Yes		4 or more times a week	3 or 4	Weekly	Never	Never	Weekly	Never	Never	No	No
+audit	ARDaC-AlcHepNet	81105_obs_audit	81105_obs														Yes		4 or more times a week	5 or 6	Weekly	Daily or almost daily	Weekly	Never	Daily or almost daily	Weekly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	81106_obs_audit	81106_obs														Yes		4 or more times a week	5 or 6	Less than monthly	Less than monthly	Never	Never	Never	Never	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	81107_obs_audit	81107_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Never	Never	Never	Less than monthly	Less than monthly	No	No
+audit	ARDaC-AlcHepNet	81108_clinical_audit	81108_clinical														Yes		4 or more times a week	7 to 9	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Weekly	"Yes, during the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	81109_obs_audit	81109_obs														Yes		4 or more times a week	5 or 6	Daily or almost daily	Daily or almost daily	Monthly	Daily or almost daily	Daily or almost daily	Less than monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	81110_obs_audit	81110_obs														Yes		4 or more times a week	5 or 6	Weekly	Weekly	Monthly	Never	Daily or almost daily	Never	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	81111_obs_audit	81111_obs														No											
+audit	ARDaC-AlcHepNet	81112_obs_audit	81112_obs														Yes		4 or more times a week	3 or 4	Less than monthly	Never	Never	Less than monthly	Never	Never	No	"Yes, but not in the last year"
+audit	ARDaC-AlcHepNet	81113_obs_audit	81113_obs														Yes		Monthly or less	3 or 4	Less than monthly	Weekly	Less than monthly	Less than monthly	Never	Monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	81114_obs_audit	81114_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Never	Monthly	Monthly	Monthly	No	"Yes, but not in the last year"
+audit	ARDaC-AlcHepNet	81115_obs_audit	81115_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	81116_obs_audit	81116_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Monthly	Never	Weekly	Daily or almost daily	Never	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	81117_obs_audit	81117_obs														Yes		4 or more times a week	5 or 6	Monthly	Never	Never	Never	Never	Never	No	No
+audit	ARDaC-AlcHepNet	81118_obs_audit	81118_obs														Yes		2 to 3 times a week	10 or more	Weekly	Weekly	Weekly	Weekly	Weekly	Weekly	"Yes, during the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	81119_obs_audit	81119_obs														Yes		4 or more times a week	5 or 6	Daily or almost daily	Less than monthly	Never	Never	Monthly	Never	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	81120_obs_audit	81120_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Monthly	Never	Less than monthly	Never	Monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	81121_obs_audit	81121_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Never	Daily or almost daily	Daily or almost daily	Never	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	81122_obs_audit	81122_obs														Yes		4 or more times a week	5 or 6	Monthly	Never	Never	Daily or almost daily	Monthly	Less than monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	81123_obs_audit	81123_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Daily or almost daily	Weekly	Weekly	Never	No	"Yes, but not in the last year"
+audit	ARDaC-AlcHepNet	81124_obs_audit	81124_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Weekly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	81125_obs_audit	81125_obs														Yes		4 or more times a week	5 or 6	Monthly	Weekly	Less than monthly	Weekly	Less than monthly	Monthly	No	"Yes, but not in the last year"
+audit	ARDaC-AlcHepNet	81126_obs_audit	81126_obs														Yes		4 or more times a week	7 to 9	Daily or almost daily	Weekly	Monthly	Monthly	Never	Weekly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	81127_obs_audit	81127_obs														Yes		4 or more times a week	7 to 9	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Never	Weekly	"Yes, during the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	81128_obs_audit	81128_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Not Done/Missing	Daily or almost daily	"Yes, during the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	81129_obs_audit	81129_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Less than monthly	Less than monthly	Monthly	Less than monthly	Less than monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	81130_obs_audit	81130_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Weekly	Daily or almost daily	Less than monthly	Less than monthly	No	No
+audit	ARDaC-AlcHepNet	81131_obs_audit	81131_obs														Yes		4 or more times a week	5 or 6	Monthly	Weekly	Daily or almost daily	Never	Less than monthly	Weekly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	81132_obs_audit	81132_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Not Done/Missing	Monthly	Not Done/Missing	Not Done/Missing	Not Done/Missing	"Yes, during the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	81133_obs_audit	81133_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Monthly	Monthly	Never	Daily or almost daily	Less than monthly	"Yes, during the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	81134_obs_audit	81134_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Never	Less than monthly	Never	Less than monthly	Less than monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	81135_obs_audit	81135_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Never	Daily or almost daily	Daily or almost daily	Less than monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	81136_obs_audit	81136_obs														Yes		4 or more times a week	5 or 6	Daily or almost daily	Never	Never	Never	Monthly	Never	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	81137_obs_audit	81137_obs														Yes		4 or more times a week	7 to 9	Daily or almost daily	Weekly	Daily or almost daily	Less than monthly	Daily or almost daily	Monthly	No	No
+audit	ARDaC-AlcHepNet	81138_obs_audit	81138_obs														Yes		4 or more times a week	5 or 6	Daily or almost daily	Weekly	Less than monthly	Weekly	Monthly	Monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	81139_obs_audit	81139_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Less than monthly	Daily or almost daily	Daily or almost daily	Monthly	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	81140_obs_audit	81140_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Weekly	Weekly	No	No
+audit	ARDaC-AlcHepNet	81141_obs_audit	81141_obs														Yes		4 or more times a week	7 to 9	Daily or almost daily	Never	Never	Never	Monthly	Never	No	"Yes, but not in the last year"
+audit	ARDaC-AlcHepNet	81142_obs_audit	81142_obs														Yes		4 or more times a week	3 or 4	Weekly	Never	Less than monthly	Weekly	Less than monthly	Never	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	81143_obs_audit	81143_obs														No											
+audit	ARDaC-AlcHepNet	81144_obs_audit	81144_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Less than monthly	Weekly	"Yes, but not in the last year"	"Yes, but not in the last year"
+audit	ARDaC-AlcHepNet	81146_obs_audit	81146_obs														Yes		4 or more times a week	7 to 9	Daily or almost daily	Daily or almost daily	Monthly	Never	Monthly	Never	"Yes, but not in the last year"	"Yes, but not in the last year"
+audit	ARDaC-AlcHepNet	81147_obs_audit	81147_obs														Yes		4 or more times a week	5 or 6	Weekly	Less than monthly	Never	Never	Never	Never	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	81148_obs_audit	81148_obs														Yes		4 or more times a week	5 or 6	Weekly	Never	Never	Never	Never	Never	No	"Yes, but not in the last year"
+audit	ARDaC-AlcHepNet	81149_obs_audit	81149_obs														Yes		4 or more times a week	7 to 9	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	No	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	81150_obs_audit	81150_obs														Yes		4 or more times a week	5 or 6	Daily or almost daily	Daily or almost daily	Never	Daily or almost daily	Less than monthly	Weekly	"Yes, but not in the last year"	"Yes, during the last year"
+audit	ARDaC-AlcHepNet	81151_obs_audit	81151_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Weekly	Weekly	No	No
+audit	ARDaC-AlcHepNet	81152_obs_audit	81152_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Monthly	No	"Yes, but not in the last year"
+audit	ARDaC-AlcHepNet	81153_obs_audit	81153_obs														Yes		4 or more times a week	10 or more	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	Daily or almost daily	"Yes, but not in the last year"	"Yes, during the last year"

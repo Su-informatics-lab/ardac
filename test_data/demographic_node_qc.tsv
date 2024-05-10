@@ -1,0 +1,34 @@
+	*type	project_id	*submitter_id	*cases.submitter_id	age_at_index	cause_of_death_primary	cause_of_death_secondary	cur_employ_stat	days_to_death	death_related_to	education	ethnicity	gender	marital	race	sex	vital_status	year_of_birth	year_of_death
+0	demographic	ardac-p1031		11005														nan	
+1	demographic	ardac-p1031		11016														nan	
+2	demographic	ardac-p1031		11037														nan	
+3	demographic	ardac-p1031		11072														nan	
+4	demographic	ardac-p1031		11126														nan	
+5	demographic	ardac-p1031		11148														nan	
+6	demographic	ardac-p1031		21017														nan	
+7	demographic	ardac-p1031		21027														nan	
+8	demographic	ardac-p1031		21030														nan	
+9	demographic	ardac-p1031		21033														nan	
+10	demographic	ardac-p1031		21060	58.556											Female		1962	
+11	demographic	ardac-p1031		21070														nan	
+12	demographic	ardac-p1031		21084														nan	
+13	demographic	ardac-p1031		21087														nan	
+14	demographic	ardac-p1031		21089														nan	
+15	demographic	ardac-p1031		21095														nan	
+16	demographic	ardac-p1031		31011														nan	
+17	demographic	ardac-p1031		31072	57.912											Male		1964	
+18	demographic	ardac-p1031		31106														nan	
+19	demographic	ardac-p1031		41022														nan	
+20	demographic	ardac-p1031		41500														nan	
+21	demographic	ardac-p1031		41501														nan	
+22	demographic	ardac-p1031		41502														nan	
+23	demographic	ardac-p1031		41503														nan	
+24	demographic	ardac-p1031		42030														nan	
+25	demographic	ardac-p1031		51020														nan	
+26	demographic	ardac-p1031		51060	45.915											Female		1974	
+27	demographic	ardac-p1031		71028														nan	
+28	demographic	ardac-p1031		72014														nan	
+29	demographic	ardac-p1031		72016														nan	
+30	demographic	ardac-p1031		81014														nan	
+31	demographic	ardac-p1031		81083														nan	
+32	demographic	ardac-p1031		81145														nan	
