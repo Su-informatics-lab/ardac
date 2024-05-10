@@ -1,0 +1,902 @@
+*type	project_id	*submitter_id	*cases.submitter_id	age_at_index	cause_of_death_primary	cause_of_death_secondary	cur_employ_stat	days_to_death	death_related_to	education	ethnicity	gender	marital	race	sex	vital_status	year_of_birth	year_of_death
+demographic	ARDaC-AlcHepNet	obs_11001_obs	11001_obs	58							not hispanic or latino	male		white	M		1962	
+demographic	ARDaC-AlcHepNet	obs_11002_obs	11002_obs	61							not hispanic or latino	female		native hawaiian or other pacific islander	F		1958	
+demographic	ARDaC-AlcHepNet	obs_11003_obs	11003_obs	36							not hispanic or latino	male		white	M		1983	
+demographic	ARDaC-AlcHepNet	obs_11004_obs	11004_obs	55							not hispanic or latino	male		white	M		1964	
+demographic	ARDaC-AlcHepNet	obs_11006_obs	11006_obs	50							not hispanic or latino	male		white	M		1970	
+demographic	ARDaC-AlcHepNet	obs_11007_obs	11007_obs	33							not hispanic or latino	male		asian	M		1986	
+demographic	ARDaC-AlcHepNet	obs_11008_obs	11008_obs	41							not hispanic or latino	female		white	F		1979	
+demographic	ARDaC-AlcHepNet	obs_11009_obs	11009_obs	54							not hispanic or latino	male		white	M		1966	
+demographic	ARDaC-AlcHepNet	obs_11010_obs	11010_obs	42							not hispanic or latino	female		white	F		1978	
+demographic	ARDaC-AlcHepNet	obs_11011_obs	11011_obs	68							not hispanic or latino	female		white	F		1951	
+demographic	ARDaC-AlcHepNet	obs_11012_obs	11012_obs	32							not hispanic or latino	female		white	F		1988	
+demographic	ARDaC-AlcHepNet	obs_11013_obs	11013_obs	64							not hispanic or latino	female		white	F		1956	
+demographic	ARDaC-AlcHepNet	obs_11014_obs	11014_obs	53							not hispanic or latino	male		white	M		1967	
+demographic	ARDaC-AlcHepNet	obs_11015_obs	11015_obs	38							not hispanic or latino	male		asian	M		1982	
+demographic	ARDaC-AlcHepNet	obs_11017_obs	11017_obs	54							not hispanic or latino	male		asian	M		1966	
+demographic	ARDaC-AlcHepNet	obs_11018_obs	11018_obs	68							not hispanic or latino	male		white	M		1951	
+demographic	ARDaC-AlcHepNet	obs_11019_obs	11019_obs	42							not hispanic or latino	female		white	F		1977	
+demographic	ARDaC-AlcHepNet	obs_11020_obs	11020_obs	47							not hispanic or latino	female		black or african american	F		1972	
+demographic	ARDaC-AlcHepNet	obs_11021_obs	11021_obs	60							not hispanic or latino	female		white	F		1959	
+demographic	ARDaC-AlcHepNet	obs_11022_obs	11022_obs	44							not hispanic or latino	male		white	M		1975	
+demographic	ARDaC-AlcHepNet	obs_11023_obs	11023_obs	31							not hispanic or latino	male		white	M		1988	
+demographic	ARDaC-AlcHepNet	obs_11024_obs	11024_obs	53							not hispanic or latino	male		white	M		1967	
+demographic	ARDaC-AlcHepNet	obs_11025_obs	11025_obs	64							not hispanic or latino	male		white	M		1956	
+demographic	ARDaC-AlcHepNet	obs_11026_obs	11026_obs	61							not hispanic or latino	male		white	M		1959	
+demographic	ARDaC-AlcHepNet	obs_11027_obs	11027_obs	38							not hispanic or latino	male		white	M		1982	
+demographic	ARDaC-AlcHepNet	obs_11028_obs	11028_obs	32							not hispanic or latino	male		white	M		1987	
+demographic	ARDaC-AlcHepNet	obs_11029_obs	11029_obs	60							not hispanic or latino	male		white	M		1960	
+demographic	ARDaC-AlcHepNet	obs_11030_obs	11030_obs	54							not hispanic or latino	male		white	M		1966	
+demographic	ARDaC-AlcHepNet	obs_11031_obs	11031_obs	61							not hispanic or latino	male		white	M		1959	
+demographic	ARDaC-AlcHepNet	obs_11032_obs	11032_obs	56							not hispanic or latino	female		white	F		1964	
+demographic	ARDaC-AlcHepNet	obs_11033_obs	11033_obs	46							not hispanic or latino	female		white	F		1974	
+demographic	ARDaC-AlcHepNet	obs_11034_obs	11034_obs	30							not hispanic or latino	female		white	F		1990	
+demographic	ARDaC-AlcHepNet	obs_11035_obs	11035_obs	32							not hispanic or latino	male		white	M		1988	
+demographic	ARDaC-AlcHepNet	obs_11036_obs	11036_obs	51							not hispanic or latino	female		white	F		1969	
+demographic	ARDaC-AlcHepNet	obs_11038_obs	11038_obs	45							not hispanic or latino	male		black or african american	M		1975	
+demographic	ARDaC-AlcHepNet	obs_11039_obs	11039_obs	32							not hispanic or latino	female		white	F		1988	
+demographic	ARDaC-AlcHepNet	obs_11040_obs	11040_obs	43							not hispanic or latino	male		white	M		1977	
+demographic	ARDaC-AlcHepNet	obs_11041_obs	11041_obs	39							not hispanic or latino	male		white	M		1981	
+demographic	ARDaC-AlcHepNet	obs_11042_obs	11042_obs	29							not hispanic or latino	female		white	F		1991	
+demographic	ARDaC-AlcHepNet	obs_11043_obs	11043_obs	55							not hispanic or latino	female		white	F		1965	
+demographic	ARDaC-AlcHepNet	obs_11044_obs	11044_obs	63							not hispanic or latino	male		white	M		1957	
+demographic	ARDaC-AlcHepNet	obs_11045_obs	11045_obs	61							not hispanic or latino	male		black or african american	M		1959	
+demographic	ARDaC-AlcHepNet	obs_11046_obs	11046_obs	41							not hispanic or latino	male		white	M		1980	
+demographic	ARDaC-AlcHepNet	obs_11047_obs	11047_obs	43							not hispanic or latino	female		white	F		1978	
+demographic	ARDaC-AlcHepNet	obs_11048_obs	11048_obs	36							not hispanic or latino	female		white	F		1985	
+demographic	ARDaC-AlcHepNet	obs_11049_obs	11049_obs	25							not hispanic or latino	female		black or african american	F		1995	
+demographic	ARDaC-AlcHepNet	obs_11050_obs	11050_obs	46							hispanic or latino	male		Unknown	M		1975	
+demographic	ARDaC-AlcHepNet	obs_11051_obs	11051_obs	40							not hispanic or latino	male		white	M		1981	
+demographic	ARDaC-AlcHepNet	obs_11052_obs	11052_obs	39							not hispanic or latino	female		white	F		1982	
+demographic	ARDaC-AlcHepNet	obs_11053_obs	11053_obs	43							not hispanic or latino	female		black or african american	F		1978	
+demographic	ARDaC-AlcHepNet	obs_11054_obs	11054_obs	61							not hispanic or latino	male		white	M		1960	
+demographic	ARDaC-AlcHepNet	clinical_11055_clinical	11055_clinical	36							not hispanic or latino	male		white	M		1985	
+demographic	ARDaC-AlcHepNet	obs_11056_obs	11056_obs	28							not hispanic or latino	female		black or african american	F		1993	
+demographic	ARDaC-AlcHepNet	obs_11057_obs	11057_obs	43							not hispanic or latino	male		white	M		1978	
+demographic	ARDaC-AlcHepNet	clinical_11058_clinical	11058_clinical	30							hispanic or latino	female		white	F		1991	
+demographic	ARDaC-AlcHepNet	obs_11059_obs	11059_obs	57							not hispanic or latino	female		black or african american	F		1964	
+demographic	ARDaC-AlcHepNet	obs_11060_obs	11060_obs	45							not hispanic or latino	male		white	M		1976	
+demographic	ARDaC-AlcHepNet	obs_11061_obs	11061_obs	43							not hispanic or latino	female		black or african american	F		1978	
+demographic	ARDaC-AlcHepNet	obs_11062_obs	11062_obs	62							not hispanic or latino	female		white	F		1959	
+demographic	ARDaC-AlcHepNet	obs_11063_obs	11063_obs	40							not hispanic or latino	male		white	M		1981	
+demographic	ARDaC-AlcHepNet	obs_11064_obs	11064_obs	36							not hispanic or latino	male		white	M		1985	
+demographic	ARDaC-AlcHepNet	obs_11065_obs	11065_obs	25							not hispanic or latino	female		white	F		1996	
+demographic	ARDaC-AlcHepNet	clinical_11066_clinical	11066_clinical	27							hispanic or latino	male		Unknown	M		1994	
+demographic	ARDaC-AlcHepNet	clinical_11067_clinical	11067_clinical	49							not hispanic or latino	male		white	M		1972	
+demographic	ARDaC-AlcHepNet	obs_11068_obs	11068_obs	32							not hispanic or latino	male		white	M		1989	
+demographic	ARDaC-AlcHepNet	obs_11069_obs	11069_obs	30							not hispanic or latino	male		white	M		1991	
+demographic	ARDaC-AlcHepNet	obs_11070_obs	11070_obs	36							not hispanic or latino	male		Unknown	M		1985	
+demographic	ARDaC-AlcHepNet	clinical_11071_clinical	11071_clinical	44							not hispanic or latino	male		white	M		1978	
+demographic	ARDaC-AlcHepNet	obs_11073_obs	11073_obs	65							not hispanic or latino	male		black or african american	M		1956	
+demographic	ARDaC-AlcHepNet	obs_11074_obs	11074_obs	57							not hispanic or latino	male		white	M		1964	
+demographic	ARDaC-AlcHepNet	obs_11075_obs	11075_obs	60							not hispanic or latino	male		white	M		1962	
+demographic	ARDaC-AlcHepNet	obs_11076_obs	11076_obs	38							not hispanic or latino	male		white	M		1983	
+demographic	ARDaC-AlcHepNet	obs_11077_obs	11077_obs	59							not hispanic or latino	male		black or african american	M		1962	
+demographic	ARDaC-AlcHepNet	clinical_11078_clinical	11078_clinical	44							not hispanic or latino	female		black or african american	F		1977	
+demographic	ARDaC-AlcHepNet	obs_11079_obs	11079_obs	53							not hispanic or latino	male		white	M		1968	
+demographic	ARDaC-AlcHepNet	clinical_11080_clinical	11080_clinical	53							not hispanic or latino	male		white	M		1968	
+demographic	ARDaC-AlcHepNet	obs_11081_obs	11081_obs	49							not hispanic or latino	male		white	M		1972	
+demographic	ARDaC-AlcHepNet	obs_11082_obs	11082_obs	28							not hispanic or latino	male		white	M		1993	
+demographic	ARDaC-AlcHepNet	clinical_11083_clinical	11083_clinical	68							not hispanic or latino	female		white	F		1953	
+demographic	ARDaC-AlcHepNet	obs_11084_obs	11084_obs	42							hispanic or latino	female		Unknown	F		1979	
+demographic	ARDaC-AlcHepNet	clinical_11085_clinical	11085_clinical	41							not hispanic or latino	male		white	M		1980	
+demographic	ARDaC-AlcHepNet	obs_11086_obs	11086_obs	49							not hispanic or latino	female		white	F		1972	
+demographic	ARDaC-AlcHepNet	obs_11087_obs	11087_obs	51							not hispanic or latino	male		white	M		1970	
+demographic	ARDaC-AlcHepNet	obs_11088_obs	11088_obs	31							not hispanic or latino	female		asian	F		1991	
+demographic	ARDaC-AlcHepNet	clinical_11089_clinical	11089_clinical	32							not hispanic or latino	male		white	M		1989	
+demographic	ARDaC-AlcHepNet	obs_11090_obs	11090_obs	40							hispanic or latino	male		Unknown	M		1982	
+demographic	ARDaC-AlcHepNet	clinical_11091_clinical	11091_clinical	69							not hispanic or latino	male		white	M		1952	
+demographic	ARDaC-AlcHepNet	clinical_11092_clinical	11092_clinical	50							not hispanic or latino	female		white	F		1972	
+demographic	ARDaC-AlcHepNet	obs_11093_obs	11093_obs	47							not hispanic or latino	female		white	F		1974	
+demographic	ARDaC-AlcHepNet	obs_11094_obs	11094_obs	47							not hispanic or latino	male		white	M		1974	
+demographic	ARDaC-AlcHepNet	clinical_11095_clinical	11095_clinical	64							not hispanic or latino	male		white	M		1957	
+demographic	ARDaC-AlcHepNet	obs_11096_obs	11096_obs	34							not hispanic or latino	male		white	M		1987	
+demographic	ARDaC-AlcHepNet	obs_11097_obs	11097_obs	35							not hispanic or latino	female		black or african american	F		1987	
+demographic	ARDaC-AlcHepNet	clinical_11098_clinical	11098_clinical	40							not hispanic or latino	male		black or african american	M		1982	
+demographic	ARDaC-AlcHepNet	clinical_11099_clinical	11099_clinical	46							not hispanic or latino	male		white	M		1976	
+demographic	ARDaC-AlcHepNet	obs_11100_obs	11100_obs	51							not hispanic or latino	male		white	M		1971	
+demographic	ARDaC-AlcHepNet	obs_11101_obs	11101_obs	40							not hispanic or latino	female		black or african american	F		1982	
+demographic	ARDaC-AlcHepNet	obs_11102_obs	11102_obs	45							not hispanic or latino	male		black or african american	M		1976	
+demographic	ARDaC-AlcHepNet	clinical_11103_clinical	11103_clinical	53							not hispanic or latino	female		white	F		1968	
+demographic	ARDaC-AlcHepNet	obs_11104_obs	11104_obs	45							not hispanic or latino	female		black or african american	F		1977	
+demographic	ARDaC-AlcHepNet	obs_11105_obs	11105_obs	57							not hispanic or latino	female		black or african american	F		1964	
+demographic	ARDaC-AlcHepNet	obs_11106_obs	11106_obs	47							not hispanic or latino	female		white	F		1974	
+demographic	ARDaC-AlcHepNet	obs_11107_obs	11107_obs	43							not hispanic or latino	female		white	F		1979	
+demographic	ARDaC-AlcHepNet	obs_11108_obs	11108_obs	64							not hispanic or latino	male		black or african american	M		1957	
+demographic	ARDaC-AlcHepNet	obs_11109_obs	11109_obs	51							not hispanic or latino	male		black or african american	M		1971	
+demographic	ARDaC-AlcHepNet	obs_11110_obs	11110_obs	39							Unknown	male		white	M		1982	
+demographic	ARDaC-AlcHepNet	obs_11111_obs	11111_obs	42							hispanic or latino	female		white	F		1980	
+demographic	ARDaC-AlcHepNet	obs_11112_obs	11112_obs	53							not hispanic or latino	male		white	M		1968	
+demographic	ARDaC-AlcHepNet	obs_11113_obs	11113_obs	58							not hispanic or latino	female		white	F		1964	
+demographic	ARDaC-AlcHepNet	clinical_11114_clinical	11114_clinical	49							not hispanic or latino	female		white	F		1973	
+demographic	ARDaC-AlcHepNet	obs_11115_obs	11115_obs	40							not hispanic or latino	male		white	M		1982	
+demographic	ARDaC-AlcHepNet	clinical_11116_clinical	11116_clinical	49							not hispanic or latino	female		black or african american	F		1973	
+demographic	ARDaC-AlcHepNet	obs_11117_obs	11117_obs	35							not hispanic or latino	female		white	F		1987	
+demographic	ARDaC-AlcHepNet	clinical_11118_clinical	11118_clinical	49							not hispanic or latino	male		white	M		1973	
+demographic	ARDaC-AlcHepNet	obs_11119_obs	11119_obs	43							not hispanic or latino	female		white	F		1979	
+demographic	ARDaC-AlcHepNet	obs_11120_obs	11120_obs	63							not hispanic or latino	male		white	M		1959	
+demographic	ARDaC-AlcHepNet	obs_11121_obs	11121_obs	65							not hispanic or latino	female		black or african american	F		1957	
+demographic	ARDaC-AlcHepNet	clinical_11122_clinical	11122_clinical	52							not hispanic or latino	female		black or african american	F		1970	
+demographic	ARDaC-AlcHepNet	obs_11123_obs	11123_obs	36							not hispanic or latino	female		white	F		1986	
+demographic	ARDaC-AlcHepNet	obs_11124_obs	11124_obs	67							not hispanic or latino	male		black or african american	M		1955	
+demographic	ARDaC-AlcHepNet	clinical_11125_clinical	11125_clinical	40							not hispanic or latino	female		white	F		1982	
+demographic	ARDaC-AlcHepNet	obs_11127_obs	11127_obs	47							not hispanic or latino	female		white	F		1975	
+demographic	ARDaC-AlcHepNet	clinical_11128_clinical	11128_clinical	44							not hispanic or latino	male		black or african american	M		1978	
+demographic	ARDaC-AlcHepNet	obs_11129_obs	11129_obs	61							not hispanic or latino	male		white	M		1961	
+demographic	ARDaC-AlcHepNet	obs_11130_obs	11130_obs	36							not hispanic or latino	male		white	M		1986	
+demographic	ARDaC-AlcHepNet	clinical_11131_clinical	11131_clinical	56							not hispanic or latino	male		white	M		1966	
+demographic	ARDaC-AlcHepNet	clinical_11132_clinical	11132_clinical	48							hispanic or latino	male		Unknown	M		1974	
+demographic	ARDaC-AlcHepNet	obs_11133_obs	11133_obs	64							not hispanic or latino	male		white	M		1958	
+demographic	ARDaC-AlcHepNet	obs_11134_obs	11134_obs	64							not hispanic or latino	male		black or african american	M		1958	
+demographic	ARDaC-AlcHepNet	obs_11135_obs	11135_obs	59							not hispanic or latino	male		white	M		1964	
+demographic	ARDaC-AlcHepNet	obs_11136_obs	11136_obs	36							not hispanic or latino	female		white	F		1986	
+demographic	ARDaC-AlcHepNet	obs_11137_obs	11137_obs	38							not hispanic or latino	female		native hawaiian or other pacific islander	F		1984	
+demographic	ARDaC-AlcHepNet	obs_11138_obs	11138_obs	48							not hispanic or latino	male		white	M		1975	
+demographic	ARDaC-AlcHepNet	clinical_11139_clinical	11139_clinical	48							not hispanic or latino	female		white	F		1974	
+demographic	ARDaC-AlcHepNet	obs_11140_obs	11140_obs	46							not hispanic or latino	female		black or african american	F		1976	
+demographic	ARDaC-AlcHepNet	obs_11141_obs	11141_obs	38							not hispanic or latino	female		white	F		1985	
+demographic	ARDaC-AlcHepNet	obs_11142_obs	11142_obs	33							not hispanic or latino	female		white	F		1990	
+demographic	ARDaC-AlcHepNet	obs_11143_obs	11143_obs	37							not hispanic or latino	female		white	F		1985	
+demographic	ARDaC-AlcHepNet	obs_11144_obs	11144_obs	66							not hispanic or latino	female		black or african american	F		1957	
+demographic	ARDaC-AlcHepNet	obs_11145_obs	11145_obs	45							not hispanic or latino	male		white	M		1977	
+demographic	ARDaC-AlcHepNet	obs_11146_obs	11146_obs	49							not hispanic or latino	male		white	M		1973	
+demographic	ARDaC-AlcHepNet	obs_11147_obs	11147_obs	57							not hispanic or latino	male		white	M		1966	
+demographic	ARDaC-AlcHepNet	obs_11149_obs	11149_obs	73							not hispanic or latino	male		black or african american	M		1949	
+demographic	ARDaC-AlcHepNet	obs_11150_obs	11150_obs	37							not hispanic or latino	male		white	M		1985	
+demographic	ARDaC-AlcHepNet	obs_11151_obs	11151_obs	46							not hispanic or latino	male		white	M		1976	
+demographic	ARDaC-AlcHepNet	obs_11152_obs	11152_obs	58							not hispanic or latino	female		white	F		1964	
+demographic	ARDaC-AlcHepNet	obs_11153_obs	11153_obs	33							not hispanic or latino	male		black or african american	M		1990	
+demographic	ARDaC-AlcHepNet	obs_11154_obs	11154_obs	44							not hispanic or latino	female		white	F		1978	
+demographic	ARDaC-AlcHepNet	obs_11155_obs	11155_obs	33							not hispanic or latino	female		white	F		1990	
+demographic	ARDaC-AlcHepNet	obs_11156_obs	11156_obs	49							not hispanic or latino	female		white	F		1973	
+demographic	ARDaC-AlcHepNet	obs_11157_obs	11157_obs	54							not hispanic or latino	female		white	F		1968	
+demographic	ARDaC-AlcHepNet	obs_11158_obs	11158_obs	41							not hispanic or latino	male		Unknown	M		1982	
+demographic	ARDaC-AlcHepNet	obs_11159_obs	11159_obs	52							not hispanic or latino	female		white	F		1971	
+demographic	ARDaC-AlcHepNet	obs_11160_obs	11160_obs	64							not hispanic or latino	male		white	M		1959	
+demographic	ARDaC-AlcHepNet	obs_11161_obs	11161_obs	49							not hispanic or latino	male		white	M		1973	
+demographic	ARDaC-AlcHepNet	obs_11162_obs	11162_obs	51							not hispanic or latino	male		white	M		1971	
+demographic	ARDaC-AlcHepNet	obs_11163_obs	11163_obs	43							hispanic or latino	female		white	F		1980	
+demographic	ARDaC-AlcHepNet	obs_11164_obs	11164_obs	36							not hispanic or latino	male		white	M		1987	
+demographic	ARDaC-AlcHepNet	obs_11165_obs	11165_obs	54							hispanic or latino	female		white	F		1968	
+demographic	ARDaC-AlcHepNet	obs_11166_obs	11166_obs	56							Unknown	female		Unknown	F		1966	
+demographic	ARDaC-AlcHepNet	obs_11167_obs	11167_obs	32							Unknown	female		Unknown	F		1991	
+demographic	ARDaC-AlcHepNet	obs_11168_obs	11168_obs	61							not hispanic or latino	male		white	M		1962	
+demographic	ARDaC-AlcHepNet	obs_11169_obs	11169_obs	48							not hispanic or latino	male		white	M		1975	
+demographic	ARDaC-AlcHepNet	obs_11170_obs	11170_obs	64							not hispanic or latino	female		black or african american	F		1958	
+demographic	ARDaC-AlcHepNet	obs_21001_obs	21001_obs	27							not hispanic or latino	male		white	M		1992	
+demographic	ARDaC-AlcHepNet	obs_21002_obs	21002_obs	53							not hispanic or latino	female		black or african american	F		1967	
+demographic	ARDaC-AlcHepNet	obs_21003_obs	21003_obs	22							not hispanic or latino	female		black or african american	F		1997	
+demographic	ARDaC-AlcHepNet	obs_21004_obs	21004_obs	55							not hispanic or latino	male		white	M		1964	
+demographic	ARDaC-AlcHepNet	obs_21005_obs	21005_obs	37							not hispanic or latino	male		white	M		1982	
+demographic	ARDaC-AlcHepNet	obs_21006_obs	21006_obs	46							not hispanic or latino	female		white	F		1973	
+demographic	ARDaC-AlcHepNet	obs_21007_obs	21007_obs	53							not hispanic or latino	female		white	F		1966	
+demographic	ARDaC-AlcHepNet	obs_21008_obs	21008_obs	38							not hispanic or latino	female		white	F		1981	
+demographic	ARDaC-AlcHepNet	obs_21009_obs	21009_obs	50							not hispanic or latino	female		white	F		1969	
+demographic	ARDaC-AlcHepNet	obs_21010_obs	21010_obs	23							not hispanic or latino	male		More than one race	M		1997	
+demographic	ARDaC-AlcHepNet	obs_21011_obs	21011_obs	27							Unknown	female		asian	F		1992	
+demographic	ARDaC-AlcHepNet	obs_21012_obs	21012_obs	27							not hispanic or latino	female		asian	F		1992	
+demographic	ARDaC-AlcHepNet	obs_21013_obs	21013_obs	28							not hispanic or latino	male		white	M		1992	
+demographic	ARDaC-AlcHepNet	obs_21014_obs	21014_obs	31							not hispanic or latino	male		white	M		1989	
+demographic	ARDaC-AlcHepNet	obs_21015_obs	21015_obs	22							not hispanic or latino	female		white	F		1998	
+demographic	ARDaC-AlcHepNet	obs_21016_obs	21016_obs	23							Unknown	female		white	F		1997	
+demographic	ARDaC-AlcHepNet	obs_21018_obs	21018_obs	24							not hispanic or latino	male		white	M		1996	
+demographic	ARDaC-AlcHepNet	obs_21019_obs	21019_obs	22							not hispanic or latino	female		white	F		1998	
+demographic	ARDaC-AlcHepNet	obs_21020_obs	21020_obs	36							not hispanic or latino	female		white	F		1984	
+demographic	ARDaC-AlcHepNet	obs_21021_obs	21021_obs	22							not hispanic or latino	male		white	M		1998	
+demographic	ARDaC-AlcHepNet	obs_21022_obs	21022_obs	38							not hispanic or latino	female		white	F		1982	
+demographic	ARDaC-AlcHepNet	obs_21023_obs	21023_obs	51							not hispanic or latino	female		black or african american	F		1969	
+demographic	ARDaC-AlcHepNet	obs_21024_obs	21024_obs	23							not hispanic or latino	female		white	F		1997	
+demographic	ARDaC-AlcHepNet	obs_21025_obs	21025_obs	30							not hispanic or latino	female		black or african american	F		1990	
+demographic	ARDaC-AlcHepNet	obs_21026_obs	21026_obs	23							not hispanic or latino	female		black or african american	F		1997	
+demographic	ARDaC-AlcHepNet	obs_21028_obs	21028_obs	27							not hispanic or latino	female		black or african american	F		1993	
+demographic	ARDaC-AlcHepNet	obs_21029_obs	21029_obs	34							not hispanic or latino	male		white	M		1986	
+demographic	ARDaC-AlcHepNet	obs_21031_obs	21031_obs	53							not hispanic or latino	female		white	F		1967	
+demographic	ARDaC-AlcHepNet	obs_21032_obs	21032_obs	41							not hispanic or latino	female		white	F		1979	
+demographic	ARDaC-AlcHepNet	clinical_21034_clinical	21034_clinical	69							not hispanic or latino	male		white	M		1951	
+demographic	ARDaC-AlcHepNet	clinical_21035_clinical	21035_clinical	47							not hispanic or latino	female		More than one race	F		1974	
+demographic	ARDaC-AlcHepNet	clinical_21036_clinical	21036_clinical	37							not hispanic or latino	female		white	F		1983	
+demographic	ARDaC-AlcHepNet	obs_21037_obs	21037_obs	42							not hispanic or latino	female		More than one race	F		1979	
+demographic	ARDaC-AlcHepNet	clinical_21038_clinical	21038_clinical	33							not hispanic or latino	male		white	M		1988	
+demographic	ARDaC-AlcHepNet	clinical_21039_clinical	21039_clinical	34							hispanic or latino	male		white	M		1986	
+demographic	ARDaC-AlcHepNet	clinical_21040_clinical	21040_clinical	33							not hispanic or latino	male		Unknown	M		1989	
+demographic	ARDaC-AlcHepNet	obs_21042_obs	21042_obs	46							not hispanic or latino	male		white	M		1975	
+demographic	ARDaC-AlcHepNet	clinical_21043_clinical	21043_clinical	30							not hispanic or latino	female		white	F		1991	
+demographic	ARDaC-AlcHepNet	clinical_21044_clinical	21044_clinical	40							not hispanic or latino	female		white	F		1981	
+demographic	ARDaC-AlcHepNet	clinical_21045_clinical	21045_clinical	40							not hispanic or latino	male		white	M		1981	
+demographic	ARDaC-AlcHepNet	clinical_21046_clinical	21046_clinical	59							not hispanic or latino	male		white	M		1962	
+demographic	ARDaC-AlcHepNet	clinical_21047_clinical	21047_clinical	59							not hispanic or latino	male		white	M		1962	
+demographic	ARDaC-AlcHepNet	clinical_21048_clinical	21048_clinical	32							not hispanic or latino	male		white	M		1990	
+demographic	ARDaC-AlcHepNet	obs_21051_obs	21051_obs	34							not hispanic or latino	female		white	F		1987	
+demographic	ARDaC-AlcHepNet	obs_21052_obs	21052_obs	47							Unknown	male		Unknown	M		1974	
+demographic	ARDaC-AlcHepNet	obs_21053_obs	21053_obs	30							not hispanic or latino	male		white	M		1991	
+demographic	ARDaC-AlcHepNet	clinical_21054_clinical	21054_clinical	42							not hispanic or latino	male		white	M		1980	
+demographic	ARDaC-AlcHepNet	clinical_21055_clinical	21055_clinical	61							not hispanic or latino	female		white	F		1960	
+demographic	ARDaC-AlcHepNet	obs_21056_obs	21056_obs	40							hispanic or latino	male		Unknown	M		1981	
+demographic	ARDaC-AlcHepNet	obs_21057_obs	21057_obs	61							not hispanic or latino	female		white	F		1960	
+demographic	ARDaC-AlcHepNet	clinical_21058_clinical	21058_clinical	46							not hispanic or latino	female		white	F		1976	
+demographic	ARDaC-AlcHepNet	obs_21059_obs	21059_obs	52							not hispanic or latino	male		white	M		1970	
+demographic	ARDaC-AlcHepNet	obs_21061_obs	21061_obs	34							not hispanic or latino	male		white	M		1987	
+demographic	ARDaC-AlcHepNet	obs_21062_obs	21062_obs	42							Unknown	female		white	F		1980	
+demographic	ARDaC-AlcHepNet	obs_21063_obs	21063_obs	54							not hispanic or latino	male		white	M		1967	
+demographic	ARDaC-AlcHepNet	obs_21064_obs	21064_obs	54							not hispanic or latino	male		white	M		1968	
+demographic	ARDaC-AlcHepNet	obs_21065_obs	21065_obs	53							not hispanic or latino	male		white	M		1968	
+demographic	ARDaC-AlcHepNet	obs_21066_obs	21066_obs	41							not hispanic or latino	male		white	M		1981	
+demographic	ARDaC-AlcHepNet	obs_21067_obs	21067_obs	29							not hispanic or latino	male		white	M		1993	
+demographic	ARDaC-AlcHepNet	obs_21068_obs	21068_obs	30							not hispanic or latino	female		white	F		1991	
+demographic	ARDaC-AlcHepNet	clinical_21069_clinical	21069_clinical	46							not hispanic or latino	male		white	M		1975	
+demographic	ARDaC-AlcHepNet	obs_21071_obs	21071_obs	39							not hispanic or latino	female		white	F		1983	
+demographic	ARDaC-AlcHepNet	clinical_21073_clinical	21073_clinical	37							not hispanic or latino	female		white	F		1985	
+demographic	ARDaC-AlcHepNet	obs_21075_obs	21075_obs	53							not hispanic or latino	male		white	M		1970	
+demographic	ARDaC-AlcHepNet	clinical_21076_clinical	21076_clinical	57							not hispanic or latino	male		white	M		1965	
+demographic	ARDaC-AlcHepNet	obs_21077_obs	21077_obs	40							not hispanic or latino	female		white	F		1982	
+demographic	ARDaC-AlcHepNet	obs_21078_obs	21078_obs	44							not hispanic or latino	female		white	F		1978	
+demographic	ARDaC-AlcHepNet	obs_21079_obs	21079_obs	55							not hispanic or latino	female		white	F		1967	
+demographic	ARDaC-AlcHepNet	obs_21080_obs	21080_obs	43							not hispanic or latino	female		white	F		1979	
+demographic	ARDaC-AlcHepNet	clinical_21081_clinical	21081_clinical	46							not hispanic or latino	female		black or african american	F		1976	
+demographic	ARDaC-AlcHepNet	obs_21082_obs	21082_obs	34							not hispanic or latino	female		white	F		1988	
+demographic	ARDaC-AlcHepNet	obs_21083_obs	21083_obs	47							not hispanic or latino	female		black or african american	F		1975	
+demographic	ARDaC-AlcHepNet	obs_21085_obs	21085_obs	37							not hispanic or latino	male		black or african american	M		1985	
+demographic	ARDaC-AlcHepNet	obs_21086_obs	21086_obs	66							not hispanic or latino	male		white	M		1956	
+demographic	ARDaC-AlcHepNet	obs_21090_obs	21090_obs	52							not hispanic or latino	female		black or african american	F		1970	
+demographic	ARDaC-AlcHepNet	obs_21091_obs	21091_obs	43							not hispanic or latino	male		black or african american	M		1979	
+demographic	ARDaC-AlcHepNet	obs_21092_obs	21092_obs	62							not hispanic or latino	female		white	F		1960	
+demographic	ARDaC-AlcHepNet	obs_21093_obs	21093_obs	52							not hispanic or latino	male		black or african american	M		1970	
+demographic	ARDaC-AlcHepNet	obs_21094_obs	21094_obs	27							not hispanic or latino	male		white	M		1996	
+demographic	ARDaC-AlcHepNet	obs_21096_obs	21096_obs	44							not hispanic or latino	male		white	M		1978	
+demographic	ARDaC-AlcHepNet	obs_21097_obs	21097_obs	24							not hispanic or latino	male		black or african american	M		1998	
+demographic	ARDaC-AlcHepNet	obs_21099_obs	21099_obs	49							not hispanic or latino	female		white	F		1974	
+demographic	ARDaC-AlcHepNet	obs_21101_obs	21101_obs	29							not hispanic or latino	male		white	M		1994	
+demographic	ARDaC-AlcHepNet	obs_22001_obs	22001_obs	38							not hispanic or latino	male		white	M		1984	
+demographic	ARDaC-AlcHepNet	obs_31001_obs	31001_obs	32							not hispanic or latino	male		white	M		1987	
+demographic	ARDaC-AlcHepNet	obs_31002_obs	31002_obs	32							not hispanic or latino	male		asian	M		1987	
+demographic	ARDaC-AlcHepNet	obs_31003_obs	31003_obs	50							not hispanic or latino	male		white	M		1969	
+demographic	ARDaC-AlcHepNet	obs_31004_obs	31004_obs	46							not hispanic or latino	male		white	M		1974	
+demographic	ARDaC-AlcHepNet	obs_31005_obs	31005_obs	72							not hispanic or latino	female		white	F		1948	
+demographic	ARDaC-AlcHepNet	obs_31006_obs	31006_obs	51							Unknown	female		white	F		1969	
+demographic	ARDaC-AlcHepNet	obs_31007_obs	31007_obs	33							not hispanic or latino	male		white	M		1987	
+demographic	ARDaC-AlcHepNet	obs_31008_obs	31008_obs	30							not hispanic or latino	male		asian	M		1990	
+demographic	ARDaC-AlcHepNet	obs_31009_obs	31009_obs	31							not hispanic or latino	male		asian	M		1989	
+demographic	ARDaC-AlcHepNet	obs_31010_obs	31010_obs	53							not hispanic or latino	male		white	M		1966	
+demographic	ARDaC-AlcHepNet	obs_31012_obs	31012_obs	31							not hispanic or latino	male		white	M		1989	
+demographic	ARDaC-AlcHepNet	obs_31013_obs	31013_obs	36							not hispanic or latino	male		white	M		1984	
+demographic	ARDaC-AlcHepNet	obs_31014_obs	31014_obs	46							hispanic or latino	male		white	M		1974	
+demographic	ARDaC-AlcHepNet	obs_31015_obs	31015_obs	56							hispanic or latino	male		white	M		1964	
+demographic	ARDaC-AlcHepNet	obs_31016_obs	31016_obs	41							not hispanic or latino	male		white	M		1979	
+demographic	ARDaC-AlcHepNet	obs_31017_obs	31017_obs	66							not hispanic or latino	male		white	M		1954	
+demographic	ARDaC-AlcHepNet	obs_31018_obs	31018_obs	57							not hispanic or latino	male		white	M		1963	
+demographic	ARDaC-AlcHepNet	obs_31019_obs	31019_obs	57							not hispanic or latino	male		white	M		1963	
+demographic	ARDaC-AlcHepNet	obs_31020_obs	31020_obs	43							not hispanic or latino	male		white	M		1977	
+demographic	ARDaC-AlcHepNet	obs_31021_obs	31021_obs	39							not hispanic or latino	male		white	M		1981	
+demographic	ARDaC-AlcHepNet	obs_31022_obs	31022_obs	57							not hispanic or latino	male		white	M		1963	
+demographic	ARDaC-AlcHepNet	obs_31023_obs	31023_obs	48							not hispanic or latino	male		black or african american	M		1972	
+demographic	ARDaC-AlcHepNet	obs_31024_obs	31024_obs	48							not hispanic or latino	female		white	F		1972	
+demographic	ARDaC-AlcHepNet	obs_31025_obs	31025_obs	44							not hispanic or latino	female		white	F		1976	
+demographic	ARDaC-AlcHepNet	obs_31026_obs	31026_obs	38							not hispanic or latino	male		white	M		1983	
+demographic	ARDaC-AlcHepNet	obs_31027_obs	31027_obs	52							hispanic or latino	female		white	F		1969	
+demographic	ARDaC-AlcHepNet	obs_31028_obs	31028_obs	46							not hispanic or latino	female		black or african american	F		1975	
+demographic	ARDaC-AlcHepNet	obs_31029_obs	31029_obs	52							not hispanic or latino	male		white	M		1968	
+demographic	ARDaC-AlcHepNet	obs_31030_obs	31030_obs	40							not hispanic or latino	male		white	M		1980	
+demographic	ARDaC-AlcHepNet	obs_31031_obs	31031_obs	66							not hispanic or latino	male		white	M		1955	
+demographic	ARDaC-AlcHepNet	obs_31032_obs	31032_obs	46							not hispanic or latino	male		white	M		1975	
+demographic	ARDaC-AlcHepNet	clinical_31033_clinical	31033_clinical	49							not hispanic or latino	male		black or african american	M		1972	
+demographic	ARDaC-AlcHepNet	obs_31034_obs	31034_obs	60							not hispanic or latino	male		black or african american	M		1961	
+demographic	ARDaC-AlcHepNet	obs_31035_obs	31035_obs	31							not hispanic or latino	male		asian	M		1990	
+demographic	ARDaC-AlcHepNet	clinical_31036_clinical	31036_clinical	30							not hispanic or latino	male		white	M		1991	
+demographic	ARDaC-AlcHepNet	obs_31037_obs	31037_obs	26							not hispanic or latino	male		white	M		1995	
+demographic	ARDaC-AlcHepNet	obs_31038_obs	31038_obs	64							not hispanic or latino	male		white	M		1957	
+demographic	ARDaC-AlcHepNet	obs_31039_obs	31039_obs	51							not hispanic or latino	female		white	F		1970	
+demographic	ARDaC-AlcHepNet	obs_31040_obs	31040_obs	51							not hispanic or latino	male		white	M		1970	
+demographic	ARDaC-AlcHepNet	clinical_31041_clinical	31041_clinical	55							not hispanic or latino	male		white	M		1966	
+demographic	ARDaC-AlcHepNet	clinical_31042_clinical	31042_clinical	52							not hispanic or latino	female		white	F		1969	
+demographic	ARDaC-AlcHepNet	clinical_31043_clinical	31043_clinical	60							not hispanic or latino	female		american indian or alaska native	F		1961	
+demographic	ARDaC-AlcHepNet	clinical_31044_clinical	31044_clinical	40							not hispanic or latino	female		white	F		1981	
+demographic	ARDaC-AlcHepNet	obs_31045_obs	31045_obs	58							not hispanic or latino	female		black or african american	F		1963	
+demographic	ARDaC-AlcHepNet	clinical_31047_clinical	31047_clinical	32							not hispanic or latino	male		white	M		1989	
+demographic	ARDaC-AlcHepNet	obs_31048_obs	31048_obs	50							not hispanic or latino	male		black or african american	M		1971	
+demographic	ARDaC-AlcHepNet	clinical_31049_clinical	31049_clinical	44							not hispanic or latino	male		white	M		1977	
+demographic	ARDaC-AlcHepNet	clinical_31050_clinical	31050_clinical	50							not hispanic or latino	male		white	M		1972	
+demographic	ARDaC-AlcHepNet	clinical_31051_clinical	31051_clinical	43							not hispanic or latino	male		white	M		1978	
+demographic	ARDaC-AlcHepNet	obs_31052_obs	31052_obs	29							not hispanic or latino	male		white	M		1993	
+demographic	ARDaC-AlcHepNet	obs_31053_obs	31053_obs	58							not hispanic or latino	male		white	M		1964	
+demographic	ARDaC-AlcHepNet	obs_31054_obs	31054_obs	53							Unknown	male		black or african american	M		1969	
+demographic	ARDaC-AlcHepNet	obs_31055_obs	31055_obs	50							Unknown	male		white	M		1971	
+demographic	ARDaC-AlcHepNet	obs_31056_obs	31056_obs	53							not hispanic or latino	male		white	M		1969	
+demographic	ARDaC-AlcHepNet	obs_31057_obs	31057_obs	44							not hispanic or latino	male		white	M		1978	
+demographic	ARDaC-AlcHepNet	clinical_31058_clinical	31058_clinical	44							not hispanic or latino	male		white	M		1978	
+demographic	ARDaC-AlcHepNet	obs_31059_obs	31059_obs	42							not hispanic or latino	male		white	M		1980	
+demographic	ARDaC-AlcHepNet	obs_31060_obs	31060_obs	59							not hispanic or latino	male		white	M		1962	
+demographic	ARDaC-AlcHepNet	obs_31061_obs	31061_obs	62							not hispanic or latino	male		black or african american	M		1959	
+demographic	ARDaC-AlcHepNet	clinical_31062_clinical	31062_clinical	45							Unknown	male		black or african american	M		1977	
+demographic	ARDaC-AlcHepNet	obs_31063_obs	31063_obs	63							not hispanic or latino	male		white	M		1958	
+demographic	ARDaC-AlcHepNet	clinical_31064_clinical	31064_clinical	49							not hispanic or latino	female		black or african american	F		1972	
+demographic	ARDaC-AlcHepNet	obs_31065_obs	31065_obs	51							not hispanic or latino	male		white	M		1971	
+demographic	ARDaC-AlcHepNet	obs_31066_obs	31066_obs	49							not hispanic or latino	male		white	M		1973	
+demographic	ARDaC-AlcHepNet	obs_31067_obs	31067_obs	54							not hispanic or latino	male		white	M		1968	
+demographic	ARDaC-AlcHepNet	clinical_31068_clinical	31068_clinical	50							not hispanic or latino	male		white	M		1972	
+demographic	ARDaC-AlcHepNet	obs_31069_obs	31069_obs	34							not hispanic or latino	male		white	M		1988	
+demographic	ARDaC-AlcHepNet	obs_31070_obs	31070_obs	42							not hispanic or latino	male		black or african american	M		1980	
+demographic	ARDaC-AlcHepNet	clinical_31071_clinical	31071_clinical	60							not hispanic or latino	male		More than one race	M		1962	
+demographic	ARDaC-AlcHepNet	obs_31073_obs	31073_obs	30							not hispanic or latino	male		white	M		1992	
+demographic	ARDaC-AlcHepNet	clinical_31074_clinical	31074_clinical	56							not hispanic or latino	female		white	F		1966	
+demographic	ARDaC-AlcHepNet	obs_31075_obs	31075_obs	45							not hispanic or latino	male		white	M		1977	
+demographic	ARDaC-AlcHepNet	obs_31076_obs	31076_obs	58							Unknown	male		white	M		1964	
+demographic	ARDaC-AlcHepNet	clinical_31077_clinical	31077_clinical	58							not hispanic or latino	male		white	M		1964	
+demographic	ARDaC-AlcHepNet	obs_31078_obs	31078_obs	42							not hispanic or latino	male		white	M		1980	
+demographic	ARDaC-AlcHepNet	clinical_31079_clinical	31079_clinical	53							not hispanic or latino	male		white	M		1970	
+demographic	ARDaC-AlcHepNet	obs_31080_obs	31080_obs	54							not hispanic or latino	male		black or african american	M		1968	
+demographic	ARDaC-AlcHepNet	obs_31081_obs	31081_obs	43							not hispanic or latino	male		white	M		1979	
+demographic	ARDaC-AlcHepNet	obs_31082_obs	31082_obs	64							not hispanic or latino	male		white	M		1958	
+demographic	ARDaC-AlcHepNet	obs_31083_obs	31083_obs	41							not hispanic or latino	male		white	M		1981	
+demographic	ARDaC-AlcHepNet	obs_31084_obs	31084_obs	56							not hispanic or latino	male		white	M		1966	
+demographic	ARDaC-AlcHepNet	obs_31085_obs	31085_obs	51							not hispanic or latino	male		white	M		1971	
+demographic	ARDaC-AlcHepNet	obs_31086_obs	31086_obs	49							not hispanic or latino	male		black or african american	M		1973	
+demographic	ARDaC-AlcHepNet	obs_31087_obs	31087_obs	54							not hispanic or latino	male		white	M		1968	
+demographic	ARDaC-AlcHepNet	obs_31088_obs	31088_obs	53							not hispanic or latino	female		white	F		1969	
+demographic	ARDaC-AlcHepNet	obs_31089_obs	31089_obs	53							not hispanic or latino	male		black or african american	M		1969	
+demographic	ARDaC-AlcHepNet	obs_31090_obs	31090_obs	37							not hispanic or latino	female		white	F		1985	
+demographic	ARDaC-AlcHepNet	obs_31091_obs	31091_obs	62							not hispanic or latino	male		white	M		1960	
+demographic	ARDaC-AlcHepNet	obs_31092_obs	31092_obs	32							not hispanic or latino	female		white	F		1990	
+demographic	ARDaC-AlcHepNet	obs_31093_obs	31093_obs	58							not hispanic or latino	male		black or african american	M		1964	
+demographic	ARDaC-AlcHepNet	obs_31094_obs	31094_obs	62							not hispanic or latino	male		white	M		1960	
+demographic	ARDaC-AlcHepNet	obs_31095_obs	31095_obs	35							hispanic or latino	female		black or african american	F		1988	
+demographic	ARDaC-AlcHepNet	obs_31096_obs	31096_obs	57							not hispanic or latino	male		black or african american	M		1966	
+demographic	ARDaC-AlcHepNet	obs_31097_obs	31097_obs	49							not hispanic or latino	male		white	M		1974	
+demographic	ARDaC-AlcHepNet	obs_31098_obs	31098_obs	44							hispanic or latino	female		white	F		1978	
+demographic	ARDaC-AlcHepNet	obs_31099_obs	31099_obs	42							not hispanic or latino	female		white	F		1980	
+demographic	ARDaC-AlcHepNet	obs_31100_obs	31100_obs	36							Unknown	female		white	F		1987	
+demographic	ARDaC-AlcHepNet	obs_31101_obs	31101_obs	40							Unknown	male		white	M		1983	
+demographic	ARDaC-AlcHepNet	obs_31102_obs	31102_obs	46							not hispanic or latino	male		black or african american	M		1977	
+demographic	ARDaC-AlcHepNet	obs_31103_obs	31103_obs	47							not hispanic or latino	female		white	F		1976	
+demographic	ARDaC-AlcHepNet	obs_31104_obs	31104_obs								Unknown	not reported		white	U			
+demographic	ARDaC-AlcHepNet	obs_31107_obs	31107_obs	61							not hispanic or latino	male		white	M		1961	
+demographic	ARDaC-AlcHepNet	obs_31108_obs	31108_obs	51							not hispanic or latino	male		white	M		1972	
+demographic	ARDaC-AlcHepNet	obs_41001_obs	41001_obs	31							not hispanic or latino	female		black or african american	F		1988	
+demographic	ARDaC-AlcHepNet	obs_41002_obs	41002_obs	29							not hispanic or latino	female		white	F		1990	
+demographic	ARDaC-AlcHepNet	obs_41003_obs	41003_obs	56							Unknown	female		white	F		1964	
+demographic	ARDaC-AlcHepNet	obs_41004_obs	41004_obs	36							not hispanic or latino	female		white	F		1984	
+demographic	ARDaC-AlcHepNet	obs_41005_obs	41005_obs	62							not hispanic or latino	male		white	M		1957	
+demographic	ARDaC-AlcHepNet	obs_41006_obs	41006_obs	25							hispanic or latino	female		white	F		1995	
+demographic	ARDaC-AlcHepNet	obs_41007_obs	41007_obs	51							not hispanic or latino	female		white	F		1968	
+demographic	ARDaC-AlcHepNet	obs_41008_obs	41008_obs	50							not hispanic or latino	male		white	M		1969	
+demographic	ARDaC-AlcHepNet	obs_41009_obs	41009_obs	40							not hispanic or latino	male		white	M		1980	
+demographic	ARDaC-AlcHepNet	obs_41010_obs	41010_obs	27							not hispanic or latino	female		white	F		1993	
+demographic	ARDaC-AlcHepNet	obs_41011_obs	41011_obs	31							not hispanic or latino	male		white	M		1988	
+demographic	ARDaC-AlcHepNet	obs_41012_obs	41012_obs	47							not hispanic or latino	female		white	F		1972	
+demographic	ARDaC-AlcHepNet	obs_41013_obs	41013_obs	46							not hispanic or latino	female		white	F		1974	
+demographic	ARDaC-AlcHepNet	obs_41014_obs	41014_obs	42							not hispanic or latino	female		white	F		1977	
+demographic	ARDaC-AlcHepNet	obs_41015_obs	41015_obs	49							not hispanic or latino	male		white	M		1970	
+demographic	ARDaC-AlcHepNet	obs_41016_obs	41016_obs	33							not hispanic or latino	male		white	M		1987	
+demographic	ARDaC-AlcHepNet	obs_41017_obs	41017_obs	28							not hispanic or latino	female		white	F		1992	
+demographic	ARDaC-AlcHepNet	obs_41018_obs	41018_obs	27							not hispanic or latino	male		white	M		1993	
+demographic	ARDaC-AlcHepNet	obs_41019_obs	41019_obs	42							not hispanic or latino	female		white	F		1978	
+demographic	ARDaC-AlcHepNet	obs_41020_obs	41020_obs	31							not hispanic or latino	female		white	F		1989	
+demographic	ARDaC-AlcHepNet	obs_41021_obs	41021_obs	51							not hispanic or latino	female		white	F		1969	
+demographic	ARDaC-AlcHepNet	obs_41023_obs	41023_obs	45							not hispanic or latino	male		white	M		1975	
+demographic	ARDaC-AlcHepNet	obs_41024_obs	41024_obs	47							not hispanic or latino	male		white	M		1973	
+demographic	ARDaC-AlcHepNet	obs_41025_obs	41025_obs	42							not hispanic or latino	female		white	F		1979	
+demographic	ARDaC-AlcHepNet	obs_41026_obs	41026_obs	29							not hispanic or latino	female		white	F		1992	
+demographic	ARDaC-AlcHepNet	obs_41027_obs	41027_obs	23							not hispanic or latino	male		white	F		1997	
+demographic	ARDaC-AlcHepNet	obs_41028_obs	41028_obs	43							not hispanic or latino	female		white	F		1978	
+demographic	ARDaC-AlcHepNet	obs_41029_obs	41029_obs	49							not hispanic or latino	male		white	M		1972	
+demographic	ARDaC-AlcHepNet	obs_42001_obs	42001_obs	43							not hispanic or latino	female		white	F		1977	
+demographic	ARDaC-AlcHepNet	obs_42002_obs	42002_obs	38							not hispanic or latino	female		white	F		1982	
+demographic	ARDaC-AlcHepNet	obs_42003_obs	42003_obs	33							not hispanic or latino	female		white	F		1987	
+demographic	ARDaC-AlcHepNet	obs_42004_obs	42004_obs	47							hispanic or latino	female		black or african american	F		1973	
+demographic	ARDaC-AlcHepNet	obs_42005_obs	42005_obs	37							not hispanic or latino	male		black or african american	M		1984	
+demographic	ARDaC-AlcHepNet	obs_42006_obs	42006_obs	37							not hispanic or latino	male		white	M		1984	
+demographic	ARDaC-AlcHepNet	obs_42007_obs	42007_obs	43							not hispanic or latino	male		white	M		1978	
+demographic	ARDaC-AlcHepNet	obs_42008_obs	42008_obs	42							not hispanic or latino	male		white	M		1978	
+demographic	ARDaC-AlcHepNet	obs_42009_obs	42009_obs	33							not hispanic or latino	male		white	M		1988	
+demographic	ARDaC-AlcHepNet	obs_42010_obs	42010_obs	32							not hispanic or latino	female		white	F		1989	
+demographic	ARDaC-AlcHepNet	obs_42011_obs	42011_obs	34							not hispanic or latino	male		white	M		1987	
+demographic	ARDaC-AlcHepNet	obs_42012_obs	42012_obs	57							not hispanic or latino	male		black or african american	M		1964	
+demographic	ARDaC-AlcHepNet	obs_42013_obs	42013_obs	33							not hispanic or latino	male		white	M		1988	
+demographic	ARDaC-AlcHepNet	obs_42014_obs	42014_obs	57							not hispanic or latino	male		white	M		1965	
+demographic	ARDaC-AlcHepNet	clinical_42015_clinical	42015_clinical	63							not hispanic or latino	male		white	M		1958	
+demographic	ARDaC-AlcHepNet	obs_42016_obs	42016_obs	32							not hispanic or latino	male		white	M		1989	
+demographic	ARDaC-AlcHepNet	obs_42017_obs	42017_obs	47							not hispanic or latino	male		black or african american	M		1974	
+demographic	ARDaC-AlcHepNet	obs_42018_obs	42018_obs	62							not hispanic or latino	female		white	F		1959	
+demographic	ARDaC-AlcHepNet	obs_42019_obs	42019_obs	40							not hispanic or latino	male		white	M		1981	
+demographic	ARDaC-AlcHepNet	clinical_42020_clinical	42020_clinical	51							not hispanic or latino	female		white	F		1970	
+demographic	ARDaC-AlcHepNet	clinical_42021_clinical	42021_clinical	34							not hispanic or latino	female		white	F		1987	
+demographic	ARDaC-AlcHepNet	clinical_42022_clinical	42022_clinical	40							hispanic or latino	female		white	F		1982	
+demographic	ARDaC-AlcHepNet	clinical_42023_clinical	42023_clinical	58							not hispanic or latino	female		white	F		1963	
+demographic	ARDaC-AlcHepNet	obs_42024_obs	42024_obs	74							not hispanic or latino	male		white	M		1948	
+demographic	ARDaC-AlcHepNet	obs_42025_obs	42025_obs	57							not hispanic or latino	female		white	F		1965	
+demographic	ARDaC-AlcHepNet	clinical_42026_clinical	42026_clinical	46							not hispanic or latino	female		white	F		1975	
+demographic	ARDaC-AlcHepNet	clinical_42027_clinical	42027_clinical	41							not hispanic or latino	female		black or african american	F		1980	
+demographic	ARDaC-AlcHepNet	clinical_42028_clinical	42028_clinical	37							not hispanic or latino	male		white	M		1985	
+demographic	ARDaC-AlcHepNet	obs_42029_obs	42029_obs	41							not hispanic or latino	female		white	F		1981	
+demographic	ARDaC-AlcHepNet	obs_42031_obs	42031_obs	35							not hispanic or latino	female		white	F		1987	
+demographic	ARDaC-AlcHepNet	obs_42032_obs	42032_obs	54							not hispanic or latino	female		white	F		1968	
+demographic	ARDaC-AlcHepNet	clinical_42033_clinical	42033_clinical	43							not hispanic or latino	female		white	F		1979	
+demographic	ARDaC-AlcHepNet	obs_42034_obs	42034_obs	31							not hispanic or latino	male		white	M		1992	
+demographic	ARDaC-AlcHepNet	obs_42035_obs	42035_obs	35							hispanic or latino	male		Unknown	M		1988	
+demographic	ARDaC-AlcHepNet	obs_42036_obs	42036_obs	57							not hispanic or latino	male		white	M		1965	
+demographic	ARDaC-AlcHepNet	obs_42037_obs	42037_obs	52							not hispanic or latino	female		white	F		1971	
+demographic	ARDaC-AlcHepNet	obs_42038_obs	42038_obs	35							not hispanic or latino	male		white	M		1988	
+demographic	ARDaC-AlcHepNet	obs_42039_obs	42039_obs	59							not hispanic or latino	male		white	M		1963	
+demographic	ARDaC-AlcHepNet	obs_42040_obs	42040_obs	36							not hispanic or latino	male		white	M		1987	
+demographic	ARDaC-AlcHepNet	obs_42041_obs	42041_obs	52							not hispanic or latino	female		black or african american	F		1971	
+demographic	ARDaC-AlcHepNet	obs_51001_obs	51001_obs	43							not hispanic or latino	male		white	M		1976	
+demographic	ARDaC-AlcHepNet	obs_51002_obs	51002_obs	63							not hispanic or latino	male		white	M		1956	
+demographic	ARDaC-AlcHepNet	obs_51003_obs	51003_obs	66							not hispanic or latino	male		white	M		1954	
+demographic	ARDaC-AlcHepNet	obs_51004_obs	51004_obs	41							not hispanic or latino	female		white	M		1979	
+demographic	ARDaC-AlcHepNet	obs_51005_obs	51005_obs	48							not hispanic or latino	female		white	F		1971	
+demographic	ARDaC-AlcHepNet	obs_51006_obs	51006_obs	50							not hispanic or latino	female		white	F		1970	
+demographic	ARDaC-AlcHepNet	obs_51007_obs	51007_obs	42							not hispanic or latino	female		white	F		1977	
+demographic	ARDaC-AlcHepNet	obs_51008_obs	51008_obs	29							not hispanic or latino	male		Unknown	M		1990	
+demographic	ARDaC-AlcHepNet	obs_51009_obs	51009_obs	28							not hispanic or latino	female		asian	F		1992	
+demographic	ARDaC-AlcHepNet	obs_51010_obs	51010_obs	28							not hispanic or latino	female		asian	F		1991	
+demographic	ARDaC-AlcHepNet	obs_51011_obs	51011_obs	49							not hispanic or latino	female		white	F		1971	
+demographic	ARDaC-AlcHepNet	obs_51012_obs	51012_obs	28							not hispanic or latino	female		asian	F		1991	
+demographic	ARDaC-AlcHepNet	obs_51013_obs	51013_obs	55							not hispanic or latino	male		white	M		1964	
+demographic	ARDaC-AlcHepNet	obs_51014_obs	51014_obs	41							hispanic or latino	female		white	F		1978	
+demographic	ARDaC-AlcHepNet	obs_51015_obs	51015_obs	30							not hispanic or latino	female		asian	F		1989	
+demographic	ARDaC-AlcHepNet	obs_51016_obs	51016_obs	31							not hispanic or latino	male		white	M		1988	
+demographic	ARDaC-AlcHepNet	obs_51017_obs	51017_obs	26							not hispanic or latino	male		white	M		1994	
+demographic	ARDaC-AlcHepNet	obs_51018_obs	51018_obs	39							not hispanic or latino	male		More than one race	M		1980	
+demographic	ARDaC-AlcHepNet	obs_51019_obs	51019_obs	35							not hispanic or latino	male		white	M		1985	
+demographic	ARDaC-AlcHepNet	obs_51021_obs	51021_obs	34							not hispanic or latino	female		white	F		1986	
+demographic	ARDaC-AlcHepNet	obs_51022_obs	51022_obs	28							not hispanic or latino	male		white	M		1992	
+demographic	ARDaC-AlcHepNet	obs_51023_obs	51023_obs	36							not hispanic or latino	male		white	M		1984	
+demographic	ARDaC-AlcHepNet	obs_51024_obs	51024_obs	68							not hispanic or latino	male		white	F		1952	
+demographic	ARDaC-AlcHepNet	obs_51025_obs	51025_obs	27							not hispanic or latino	male		white	M		1993	
+demographic	ARDaC-AlcHepNet	obs_51026_obs	51026_obs	72							not hispanic or latino	male		white	M		1948	
+demographic	ARDaC-AlcHepNet	obs_51027_obs	51027_obs	64							not hispanic or latino	male		white	M		1956	
+demographic	ARDaC-AlcHepNet	obs_51028_obs	51028_obs	68							not hispanic or latino	male		american indian or alaska native	M		1952	
+demographic	ARDaC-AlcHepNet	obs_51029_obs	51029_obs	59							not hispanic or latino	female		white	F		1961	
+demographic	ARDaC-AlcHepNet	obs_51030_obs	51030_obs	49							not hispanic or latino	female		white	F		1971	
+demographic	ARDaC-AlcHepNet	obs_51031_obs	51031_obs	35							not hispanic or latino	female		white	F		1985	
+demographic	ARDaC-AlcHepNet	obs_51032_obs	51032_obs	38							not hispanic or latino	female		american indian or alaska native	F		1982	
+demographic	ARDaC-AlcHepNet	obs_51033_obs	51033_obs	67							not hispanic or latino	male		white	M		1953	
+demographic	ARDaC-AlcHepNet	obs_51034_obs	51034_obs	48							not hispanic or latino	male		white	M		1972	
+demographic	ARDaC-AlcHepNet	obs_51035_obs	51035_obs	34							not hispanic or latino	female		white	F		1986	
+demographic	ARDaC-AlcHepNet	obs_51036_obs	51036_obs	66							not hispanic or latino	female		white	F		1954	
+demographic	ARDaC-AlcHepNet	obs_51037_obs	51037_obs	60							not hispanic or latino	female		white	F		1960	
+demographic	ARDaC-AlcHepNet	obs_51038_obs	51038_obs	44							not hispanic or latino	female		white	F		1976	
+demographic	ARDaC-AlcHepNet	obs_51039_obs	51039_obs	63							not hispanic or latino	female		white	F		1957	
+demographic	ARDaC-AlcHepNet	obs_51040_obs	51040_obs	39							not hispanic or latino	male		white	M		1981	
+demographic	ARDaC-AlcHepNet	obs_51041_obs	51041_obs	74							not hispanic or latino	male		white	M		1947	
+demographic	ARDaC-AlcHepNet	obs_51042_obs	51042_obs	52							not hispanic or latino	male		white	M		1968	
+demographic	ARDaC-AlcHepNet	obs_51043_obs	51043_obs	40							not hispanic or latino	female		asian	F		1980	
+demographic	ARDaC-AlcHepNet	obs_51044_obs	51044_obs	27							not hispanic or latino	female		white	F		1993	
+demographic	ARDaC-AlcHepNet	obs_51045_obs	51045_obs	30							not hispanic or latino	female		white	F		1990	
+demographic	ARDaC-AlcHepNet	obs_51046_obs	51046_obs	60							not hispanic or latino	male		white	M		1960	
+demographic	ARDaC-AlcHepNet	obs_51047_obs	51047_obs	54							not hispanic or latino	female		american indian or alaska native	F		1966	
+demographic	ARDaC-AlcHepNet	obs_51048_obs	51048_obs	26							not hispanic or latino	female		white	F		1995	
+demographic	ARDaC-AlcHepNet	obs_51049_obs	51049_obs	44							not hispanic or latino	male		white	M		1977	
+demographic	ARDaC-AlcHepNet	obs_51050_obs	51050_obs	52							not hispanic or latino	male		white	M		1969	
+demographic	ARDaC-AlcHepNet	obs_51051_obs	51051_obs	61							not hispanic or latino	female		white	F		1960	
+demographic	ARDaC-AlcHepNet	obs_51052_obs	51052_obs	61							not hispanic or latino	male		white	M		1960	
+demographic	ARDaC-AlcHepNet	obs_51053_obs	51053_obs	58							not hispanic or latino	male		white	M		1962	
+demographic	ARDaC-AlcHepNet	clinical_51054_clinical	51054_clinical	31							not hispanic or latino	female		asian	F		1990	
+demographic	ARDaC-AlcHepNet	obs_51055_obs	51055_obs	58							not hispanic or latino	male		white	M		1962	
+demographic	ARDaC-AlcHepNet	obs_51056_obs	51056_obs	50							not hispanic or latino	female		white	F		1971	
+demographic	ARDaC-AlcHepNet	clinical_51057_clinical	51057_clinical	36							not hispanic or latino	male		white	M		1985	
+demographic	ARDaC-AlcHepNet	clinical_51058_clinical	51058_clinical	45							not hispanic or latino	female		More than one race	F		1976	
+demographic	ARDaC-AlcHepNet	obs_51059_obs	51059_obs	57							not hispanic or latino	female		white	F		1964	
+demographic	ARDaC-AlcHepNet	obs_51061_obs	51061_obs	47							not hispanic or latino	female		white	F		1974	
+demographic	ARDaC-AlcHepNet	clinical_51062_clinical	51062_clinical	51							not hispanic or latino	male		white	M		1970	
+demographic	ARDaC-AlcHepNet	clinical_51063_clinical	51063_clinical	62							not hispanic or latino	female		white	F		1959	
+demographic	ARDaC-AlcHepNet	obs_51064_obs	51064_obs	38							not hispanic or latino	female		white	F		1983	
+demographic	ARDaC-AlcHepNet	obs_51065_obs	51065_obs	28							not hispanic or latino	female		white	F		1993	
+demographic	ARDaC-AlcHepNet	obs_51066_obs	51066_obs	56							not hispanic or latino	female		white	F		1965	
+demographic	ARDaC-AlcHepNet	obs_51067_obs	51067_obs	55							not hispanic or latino	male		white	M		1966	
+demographic	ARDaC-AlcHepNet	obs_51068_obs	51068_obs	26							not hispanic or latino	female		white	F		1995	
+demographic	ARDaC-AlcHepNet	clinical_51069_clinical	51069_clinical	41							not hispanic or latino	female		white	F		1980	
+demographic	ARDaC-AlcHepNet	obs_51070_obs	51070_obs	58							not hispanic or latino	female		white	F		1963	
+demographic	ARDaC-AlcHepNet	obs_51071_obs	51071_obs	67							not hispanic or latino	male		white	M		1954	
+demographic	ARDaC-AlcHepNet	obs_51072_obs	51072_obs	51							not hispanic or latino	male		white	M		1970	
+demographic	ARDaC-AlcHepNet	clinical_51073_clinical	51073_clinical	46							not hispanic or latino	male		white	M		1975	
+demographic	ARDaC-AlcHepNet	obs_51074_obs	51074_obs	29							not hispanic or latino	male		white	M		1992	
+demographic	ARDaC-AlcHepNet	obs_51075_obs	51075_obs	66							not hispanic or latino	male		white	M		1956	
+demographic	ARDaC-AlcHepNet	obs_51076_obs	51076_obs	32							not hispanic or latino	female		white	F		1989	
+demographic	ARDaC-AlcHepNet	obs_51077_obs	51077_obs	60							not hispanic or latino	female		white	F		1961	
+demographic	ARDaC-AlcHepNet	obs_51078_obs	51078_obs	60							not hispanic or latino	male		white	M		1961	
+demographic	ARDaC-AlcHepNet	obs_51079_obs	51079_obs	40							not hispanic or latino	male		white	M		1982	
+demographic	ARDaC-AlcHepNet	clinical_51080_clinical	51080_clinical	32							not hispanic or latino	female		white	F		1989	
+demographic	ARDaC-AlcHepNet	obs_51081_obs	51081_obs	51							not hispanic or latino	male		white	M		1970	
+demographic	ARDaC-AlcHepNet	obs_51082_obs	51082_obs	69							not hispanic or latino	female		white	F		1952	
+demographic	ARDaC-AlcHepNet	obs_51083_obs	51083_obs	64							not hispanic or latino	male		white	M		1958	
+demographic	ARDaC-AlcHepNet	obs_51084_obs	51084_obs	53							not hispanic or latino	male		black or african american	M		1968	
+demographic	ARDaC-AlcHepNet	obs_51085_obs	51085_obs	47							not hispanic or latino	male		white	M		1974	
+demographic	ARDaC-AlcHepNet	obs_51086_obs	51086_obs	23							not hispanic or latino	female		More than one race	F		1998	
+demographic	ARDaC-AlcHepNet	obs_51087_obs	51087_obs	59							not hispanic or latino	male		white	M		1962	
+demographic	ARDaC-AlcHepNet	clinical_51088_clinical	51088_clinical	57							hispanic or latino	male		white	M		1964	
+demographic	ARDaC-AlcHepNet	obs_51089_obs	51089_obs	51							not hispanic or latino	female		white	F		1971	
+demographic	ARDaC-AlcHepNet	obs_51090_obs	51090_obs	63							not hispanic or latino	male		white	M		1959	
+demographic	ARDaC-AlcHepNet	obs_51091_obs	51091_obs	53							not hispanic or latino	male		white	M		1968	
+demographic	ARDaC-AlcHepNet	obs_51092_obs	51092_obs	57							not hispanic or latino	female		white	F		1964	
+demographic	ARDaC-AlcHepNet	obs_51093_obs	51093_obs	31							not hispanic or latino	female		white	F		1991	
+demographic	ARDaC-AlcHepNet	obs_51094_obs	51094_obs	59							not hispanic or latino	male		white	M		1962	
+demographic	ARDaC-AlcHepNet	obs_51095_obs	51095_obs	50							not hispanic or latino	male		white	M		1972	
+demographic	ARDaC-AlcHepNet	obs_51096_obs	51096_obs	59							not hispanic or latino	male		white	M		1963	
+demographic	ARDaC-AlcHepNet	obs_51097_obs	51097_obs	58							not hispanic or latino	male		native hawaiian or other pacific islander	M		1963	
+demographic	ARDaC-AlcHepNet	clinical_51098_clinical	51098_clinical	62							not hispanic or latino	male		white	M		1960	
+demographic	ARDaC-AlcHepNet	obs_51099_obs	51099_obs	48							hispanic or latino	male		white	M		1974	
+demographic	ARDaC-AlcHepNet	clinical_51100_clinical	51100_clinical	50							not hispanic or latino	female		white	F		1972	
+demographic	ARDaC-AlcHepNet	obs_51101_obs	51101_obs	54							not hispanic or latino	male		white	M		1968	
+demographic	ARDaC-AlcHepNet	obs_51102_obs	51102_obs	47							not hispanic or latino	male		white	M		1975	
+demographic	ARDaC-AlcHepNet	obs_51103_obs	51103_obs	35							not hispanic or latino	male		white	M		1988	
+demographic	ARDaC-AlcHepNet	obs_51104_obs	51104_obs	38							not hispanic or latino	male		white	M		1984	
+demographic	ARDaC-AlcHepNet	obs_51105_obs	51105_obs	33							not hispanic or latino	male		american indian or alaska native	M		1989	
+demographic	ARDaC-AlcHepNet	obs_51106_obs	51106_obs	45							not hispanic or latino	male		white	M		1978	
+demographic	ARDaC-AlcHepNet	obs_51107_obs	51107_obs	82							not hispanic or latino	male		white	M		1940	
+demographic	ARDaC-AlcHepNet	obs_51108_obs	51108_obs	37							not hispanic or latino	male		black or african american	M		1986	
+demographic	ARDaC-AlcHepNet	obs_51109_obs	51109_obs	49							not hispanic or latino	male		white	M		1974	
+demographic	ARDaC-AlcHepNet	obs_51110_obs	51110_obs	43							not hispanic or latino	male		white	M		1979	
+demographic	ARDaC-AlcHepNet	obs_51111_obs	51111_obs	70							not hispanic or latino	female		white	F		1952	
+demographic	ARDaC-AlcHepNet	obs_51112_obs	51112_obs	55							not hispanic or latino	female		white	F		1968	
+demographic	ARDaC-AlcHepNet	obs_51113_obs	51113_obs	22							not hispanic or latino	male		white	M		2001	
+demographic	ARDaC-AlcHepNet	obs_51114_obs	51114_obs	63							not hispanic or latino	male		white	M		1960	
+demographic	ARDaC-AlcHepNet	obs_51115_obs	51115_obs	48							not hispanic or latino	male		white	M		1974	
+demographic	ARDaC-AlcHepNet	obs_51116_obs	51116_obs	34							not hispanic or latino	female		white	F		1988	
+demographic	ARDaC-AlcHepNet	obs_51117_obs	51117_obs	52							not hispanic or latino	female		white	F		1970	
+demographic	ARDaC-AlcHepNet	obs_51118_obs	51118_obs	70							not hispanic or latino	female		white	F		1953	
+demographic	ARDaC-AlcHepNet	obs_51119_obs	51119_obs	66							not hispanic or latino	female		white	F		1956	
+demographic	ARDaC-AlcHepNet	obs_51120_obs	51120_obs	32							not hispanic or latino	male		white	M		1991	
+demographic	ARDaC-AlcHepNet	obs_51121_obs	51121_obs	32							not hispanic or latino	male		white	M		1991	
+demographic	ARDaC-AlcHepNet	obs_51122_obs	51122_obs	58							not hispanic or latino	male		white	M		1964	
+demographic	ARDaC-AlcHepNet	obs_51123_obs	51123_obs	57							not hispanic or latino	female		white	F		1965	
+demographic	ARDaC-AlcHepNet	obs_51124_obs	51124_obs	36							not hispanic or latino	female		white	F		1986	
+demographic	ARDaC-AlcHepNet	obs_51125_obs	51125_obs	53							not hispanic or latino	female		white	F		1970	
+demographic	ARDaC-AlcHepNet	obs_51126_obs	51126_obs	48							not hispanic or latino	male		white	M		1975	
+demographic	ARDaC-AlcHepNet	obs_51127_obs	51127_obs	70							not hispanic or latino	male		white	M		1953	
+demographic	ARDaC-AlcHepNet	obs_51128_obs	51128_obs	38							not hispanic or latino	male		white	M		1985	
+demographic	ARDaC-AlcHepNet	clinical_52001_clinical	52001_clinical	44							not hispanic or latino	female		white	F		1976	
+demographic	ARDaC-AlcHepNet	clinical_52003_clinical	52003_clinical	39							not hispanic or latino	male		white	M		1982	
+demographic	ARDaC-AlcHepNet	clinical_52004_clinical	52004_clinical	28							not hispanic or latino	female		white	F		1993	
+demographic	ARDaC-AlcHepNet	clinical_52005_clinical	52005_clinical	44							not hispanic or latino	male		white	M		1977	
+demographic	ARDaC-AlcHepNet	clinical_52006_clinical	52006_clinical	39							hispanic or latino	female		white	F		1983	
+demographic	ARDaC-AlcHepNet	clinical_52007_clinical	52007_clinical	29							not hispanic or latino	female		american indian or alaska native	F		1993	
+demographic	ARDaC-AlcHepNet	clinical_53003_clinical	53003_clinical	47							not hispanic or latino	male		white	M		1974	
+demographic	ARDaC-AlcHepNet	clinical_53004_clinical	53004_clinical	37							not hispanic or latino	female		white	F		1985	
+demographic	ARDaC-AlcHepNet	obs_61001_obs	61001_obs	33							not hispanic or latino	female		white	F		1986	
+demographic	ARDaC-AlcHepNet	obs_61002_obs	61002_obs	53							not hispanic or latino	male		white	M		1967	
+demographic	ARDaC-AlcHepNet	obs_61003_obs	61003_obs	64							not hispanic or latino	female		white	F		1956	
+demographic	ARDaC-AlcHepNet	obs_61004_obs	61004_obs	50							not hispanic or latino	female		white	F		1969	
+demographic	ARDaC-AlcHepNet	obs_61005_obs	61005_obs	62							not hispanic or latino	male		white	M		1957	
+demographic	ARDaC-AlcHepNet	obs_61006_obs	61006_obs	47							not hispanic or latino	male		white	M		1972	
+demographic	ARDaC-AlcHepNet	obs_61007_obs	61007_obs	41							not hispanic or latino	male		white	M		1979	
+demographic	ARDaC-AlcHepNet	obs_61008_obs	61008_obs	29							not hispanic or latino	female		white	F		1991	
+demographic	ARDaC-AlcHepNet	obs_61009_obs	61009_obs	45							not hispanic or latino	female		white	F		1975	
+demographic	ARDaC-AlcHepNet	obs_61010_obs	61010_obs	50							not hispanic or latino	male		white	M		1969	
+demographic	ARDaC-AlcHepNet	obs_61011_obs	61011_obs	40							not hispanic or latino	female		white	F		1979	
+demographic	ARDaC-AlcHepNet	obs_61012_obs	61012_obs	49							not hispanic or latino	male		white	M		1971	
+demographic	ARDaC-AlcHepNet	obs_61013_obs	61013_obs	39							not hispanic or latino	female		white	F		1981	
+demographic	ARDaC-AlcHepNet	obs_61014_obs	61014_obs	48							not hispanic or latino	female		white	F		1972	
+demographic	ARDaC-AlcHepNet	obs_61015_obs	61015_obs	39							not hispanic or latino	female		More than one race	F		1980	
+demographic	ARDaC-AlcHepNet	obs_61016_obs	61016_obs	45							not hispanic or latino	male		white	M		1975	
+demographic	ARDaC-AlcHepNet	obs_61017_obs	61017_obs	27							not hispanic or latino	male		white	M		1993	
+demographic	ARDaC-AlcHepNet	obs_61018_obs	61018_obs	22							not hispanic or latino	male		white	M		1998	
+demographic	ARDaC-AlcHepNet	obs_61019_obs	61019_obs	38							not hispanic or latino	female		white	F		1982	
+demographic	ARDaC-AlcHepNet	obs_61020_obs	61020_obs	27							hispanic or latino	male		white	M		1992	
+demographic	ARDaC-AlcHepNet	obs_61022_obs	61022_obs	22							not hispanic or latino	male		white	M		1998	
+demographic	ARDaC-AlcHepNet	obs_61023_obs	61023_obs	22							not hispanic or latino	female		asian	F		1998	
+demographic	ARDaC-AlcHepNet	obs_61024_obs	61024_obs	22							not hispanic or latino	male		white	M		1998	
+demographic	ARDaC-AlcHepNet	obs_61025_obs	61025_obs	22							not hispanic or latino	male		asian	M		1998	
+demographic	ARDaC-AlcHepNet	obs_61026_obs	61026_obs	23							not hispanic or latino	male		white	M		1997	
+demographic	ARDaC-AlcHepNet	obs_61027_obs	61027_obs	65							Unknown	female		white	F		1955	
+demographic	ARDaC-AlcHepNet	obs_61028_obs	61028_obs	56							not hispanic or latino	male		white	M		1964	
+demographic	ARDaC-AlcHepNet	obs_61029_obs	61029_obs	52							not hispanic or latino	male		white	M		1969	
+demographic	ARDaC-AlcHepNet	obs_61030_obs	61030_obs	31							not hispanic or latino	male		white	M		1990	
+demographic	ARDaC-AlcHepNet	obs_61031_obs	61031_obs	24							not hispanic or latino	male		white	M		1997	
+demographic	ARDaC-AlcHepNet	obs_61032_obs	61032_obs	40							not hispanic or latino	female		white	F		1981	
+demographic	ARDaC-AlcHepNet	obs_61033_obs	61033_obs	46							not hispanic or latino	male		white	M		1975	
+demographic	ARDaC-AlcHepNet	obs_61034_obs	61034_obs	65							not hispanic or latino	female		white	F		1955	
+demographic	ARDaC-AlcHepNet	obs_61036_obs	61036_obs	59							not hispanic or latino	male		white	M		1961	
+demographic	ARDaC-AlcHepNet	clinical_61037_clinical	61037_clinical	35							not hispanic or latino	male		white	M		1986	
+demographic	ARDaC-AlcHepNet	clinical_61038_clinical	61038_clinical	50							not hispanic or latino	male		white	M		1971	
+demographic	ARDaC-AlcHepNet	clinical_61039_clinical	61039_clinical	59							not hispanic or latino	female		white	F		1961	
+demographic	ARDaC-AlcHepNet	obs_61040_obs	61040_obs	40							not hispanic or latino	female		white	F		1981	
+demographic	ARDaC-AlcHepNet	obs_61041_obs	61041_obs	60							not hispanic or latino	female		white	F		1961	
+demographic	ARDaC-AlcHepNet	obs_61042_obs	61042_obs	29							not hispanic or latino	male		white	M		1992	
+demographic	ARDaC-AlcHepNet	obs_61043_obs	61043_obs	40							not hispanic or latino	male		white	M		1981	
+demographic	ARDaC-AlcHepNet	obs_61044_obs	61044_obs	31							not hispanic or latino	female		black or african american	F		1990	
+demographic	ARDaC-AlcHepNet	clinical_61045_clinical	61045_clinical	52							not hispanic or latino	male		white	M		1969	
+demographic	ARDaC-AlcHepNet	clinical_61046_clinical	61046_clinical	37							not hispanic or latino	male		white	M		1984	
+demographic	ARDaC-AlcHepNet	clinical_61047_clinical	61047_clinical	42							not hispanic or latino	male		white	M		1979	
+demographic	ARDaC-AlcHepNet	clinical_61048_clinical	61048_clinical	63							not hispanic or latino	male		white	M		1958	
+demographic	ARDaC-AlcHepNet	obs_61049_obs	61049_obs	33							not hispanic or latino	male		white	M		1988	
+demographic	ARDaC-AlcHepNet	obs_61050_obs	61050_obs	44							not hispanic or latino	male		white	M		1978	
+demographic	ARDaC-AlcHepNet	obs_61051_obs	61051_obs	35							not hispanic or latino	male		black or african american	M		1987	
+demographic	ARDaC-AlcHepNet	clinical_61052_clinical	61052_clinical	55							not hispanic or latino	female		white	F		1966	
+demographic	ARDaC-AlcHepNet	obs_61053_obs	61053_obs	53							not hispanic or latino	female		white	F		1969	
+demographic	ARDaC-AlcHepNet	clinical_61054_clinical	61054_clinical	32							not hispanic or latino	female		white	F		1989	
+demographic	ARDaC-AlcHepNet	obs_61055_obs	61055_obs	43							not hispanic or latino	female		white	F		1978	
+demographic	ARDaC-AlcHepNet	clinical_61056_clinical	61056_clinical	37							not hispanic or latino	female		white	F		1985	
+demographic	ARDaC-AlcHepNet	obs_61057_obs	61057_obs	49							not hispanic or latino	male		white	M		1972	
+demographic	ARDaC-AlcHepNet	clinical_61058_clinical	61058_clinical	39							not hispanic or latino	male		white	M		1983	
+demographic	ARDaC-AlcHepNet	obs_61059_obs	61059_obs	56							not hispanic or latino	female		white	F		1966	
+demographic	ARDaC-AlcHepNet	clinical_61060_clinical	61060_clinical	40							not hispanic or latino	male		white	M		1981	
+demographic	ARDaC-AlcHepNet	obs_61061_obs	61061_obs	53							not hispanic or latino	female		black or african american	F		1969	
+demographic	ARDaC-AlcHepNet	obs_61062_obs	61062_obs	33							not hispanic or latino	male		white	M		1989	
+demographic	ARDaC-AlcHepNet	clinical_61063_clinical	61063_clinical	48							not hispanic or latino	male		white	M		1973	
+demographic	ARDaC-AlcHepNet	obs_61065_obs	61065_obs	62							not hispanic or latino	female		white	F		1960	
+demographic	ARDaC-AlcHepNet	obs_61066_obs	61066_obs	47							not hispanic or latino	male		white	M		1975	
+demographic	ARDaC-AlcHepNet	obs_61067_obs	61067_obs	40							not hispanic or latino	male		white	M		1982	
+demographic	ARDaC-AlcHepNet	obs_61068_obs	61068_obs	26							not hispanic or latino	female		white	F		1996	
+demographic	ARDaC-AlcHepNet	obs_61069_obs	61069_obs	24							not hispanic or latino	female		white	F		1997	
+demographic	ARDaC-AlcHepNet	obs_61070_obs	61070_obs	23							not hispanic or latino	female		white	F		1998	
+demographic	ARDaC-AlcHepNet	obs_61071_obs	61071_obs	31							not hispanic or latino	male		white	M		1990	
+demographic	ARDaC-AlcHepNet	obs_61072_obs	61072_obs	23							not hispanic or latino	male		black or african american	M		1998	
+demographic	ARDaC-AlcHepNet	obs_61073_obs	61073_obs	43							not hispanic or latino	male		white	M		1979	
+demographic	ARDaC-AlcHepNet	obs_61074_obs	61074_obs	23							not hispanic or latino	female		white	F		1999	
+demographic	ARDaC-AlcHepNet	obs_61075_obs	61075_obs	23							not hispanic or latino	female		asian	F		1999	
+demographic	ARDaC-AlcHepNet	obs_61076_obs	61076_obs	22							not hispanic or latino	female		asian	F		2000	
+demographic	ARDaC-AlcHepNet	obs_61077_obs	61077_obs	23							not hispanic or latino	female		asian	F		1999	
+demographic	ARDaC-AlcHepNet	obs_61078_obs	61078_obs	71							not hispanic or latino	female		black or african american	F		1951	
+demographic	ARDaC-AlcHepNet	obs_61079_obs	61079_obs	41							not hispanic or latino	female		white	F		1981	
+demographic	ARDaC-AlcHepNet	obs_61080_obs	61080_obs	35							not hispanic or latino	female		white	F		1987	
+demographic	ARDaC-AlcHepNet	obs_61081_obs	61081_obs	43							not hispanic or latino	female		white	F		1979	
+demographic	ARDaC-AlcHepNet	obs_61082_obs	61082_obs	39							not hispanic or latino	female		white	F		1983	
+demographic	ARDaC-AlcHepNet	obs_61083_obs	61083_obs	49							not hispanic or latino	male		white	M		1973	
+demographic	ARDaC-AlcHepNet	clinical_61084_clinical	61084_clinical	37							Unknown	female		white	F		1985	
+demographic	ARDaC-AlcHepNet	obs_61085_obs	61085_obs	45							not hispanic or latino	male		black or african american	M		1977	
+demographic	ARDaC-AlcHepNet	obs_61086_obs	61086_obs	45							not hispanic or latino	male		white	M		1978	
+demographic	ARDaC-AlcHepNet	obs_61087_obs	61087_obs	45							not hispanic or latino	male		white	M		1977	
+demographic	ARDaC-AlcHepNet	obs_61088_obs	61088_obs	23							not hispanic or latino	male		white	M		1999	
+demographic	ARDaC-AlcHepNet	obs_61089_obs	61089_obs	44							not hispanic or latino	male		white	M		1978	
+demographic	ARDaC-AlcHepNet	obs_61090_obs	61090_obs	41							not hispanic or latino	female		white	F		1981	
+demographic	ARDaC-AlcHepNet	obs_61091_obs	61091_obs	55							not hispanic or latino	male		white	M		1967	
+demographic	ARDaC-AlcHepNet	obs_61092_obs	61092_obs	45							not hispanic or latino	male		white	M		1977	
+demographic	ARDaC-AlcHepNet	obs_61093_obs	61093_obs	38							not hispanic or latino	male		white	M		1985	
+demographic	ARDaC-AlcHepNet	obs_61094_obs	61094_obs	40							not hispanic or latino	female		white	F		1982	
+demographic	ARDaC-AlcHepNet	obs_61095_obs	61095_obs	60							not hispanic or latino	male		white	M		1962	
+demographic	ARDaC-AlcHepNet	obs_61096_obs	61096_obs	36							not hispanic or latino	female		white	F		1987	
+demographic	ARDaC-AlcHepNet	obs_61097_obs	61097_obs	57							not hispanic or latino	female		white	F		1966	
+demographic	ARDaC-AlcHepNet	obs_61098_obs	61098_obs	51							not hispanic or latino	female		black or african american	F		1971	
+demographic	ARDaC-AlcHepNet	obs_61099_obs	61099_obs	38							not hispanic or latino	male		white	M		1984	
+demographic	ARDaC-AlcHepNet	obs_61100_obs	61100_obs	54							not hispanic or latino	female		white	F		1969	
+demographic	ARDaC-AlcHepNet	obs_61101_obs	61101_obs	36							not hispanic or latino	female		white	F		1987	
+demographic	ARDaC-AlcHepNet	obs_61102_obs	61102_obs	60							not hispanic or latino	male		white	M		1962	
+demographic	ARDaC-AlcHepNet	obs_61103_obs	61103_obs	42							not hispanic or latino	female		white	F		1980	
+demographic	ARDaC-AlcHepNet	obs_61104_obs	61104_obs	53							not hispanic or latino	female		american indian or alaska native	F		1969	
+demographic	ARDaC-AlcHepNet	obs_61105_obs	61105_obs	57							not hispanic or latino	female		white	F		1966	
+demographic	ARDaC-AlcHepNet	obs_61106_obs	61106_obs	36							not hispanic or latino	female		white	F		1986	
+demographic	ARDaC-AlcHepNet	obs_71001_obs	71001_obs	34							not hispanic or latino	female		white	F		1986	
+demographic	ARDaC-AlcHepNet	obs_71002_obs	71002_obs	41							not hispanic or latino	female		white	F		1979	
+demographic	ARDaC-AlcHepNet	obs_71003_obs	71003_obs	40							not hispanic or latino	male		white	M		1980	
+demographic	ARDaC-AlcHepNet	obs_71004_obs	71004_obs	40							not hispanic or latino	female		white	F		1980	
+demographic	ARDaC-AlcHepNet	obs_71005_obs	71005_obs	42							not hispanic or latino	male		white	M		1977	
+demographic	ARDaC-AlcHepNet	obs_71006_obs	71006_obs	59							not hispanic or latino	male		black or african american	M		1961	
+demographic	ARDaC-AlcHepNet	obs_71007_obs	71007_obs	49							not hispanic or latino	female		black or african american	F		1971	
+demographic	ARDaC-AlcHepNet	obs_71008_obs	71008_obs	58							not hispanic or latino	female		white	F		1962	
+demographic	ARDaC-AlcHepNet	obs_71009_obs	71009_obs	43							hispanic or latino	male		white	M		1978	
+demographic	ARDaC-AlcHepNet	clinical_71010_clinical	71010_clinical	40							not hispanic or latino	male		white	M		1980	
+demographic	ARDaC-AlcHepNet	clinical_71011_clinical	71011_clinical	40							hispanic or latino	male		white	M		1981	
+demographic	ARDaC-AlcHepNet	clinical_71012_clinical	71012_clinical	36							hispanic or latino	male		white	M		1985	
+demographic	ARDaC-AlcHepNet	clinical_71013_clinical	71013_clinical	53							not hispanic or latino	female		white	F		1968	
+demographic	ARDaC-AlcHepNet	clinical_71014_clinical	71014_clinical	49							not hispanic or latino	male		asian	M		1972	
+demographic	ARDaC-AlcHepNet	obs_71015_obs	71015_obs	27							not hispanic or latino	female		white	F		1994	
+demographic	ARDaC-AlcHepNet	clinical_71016_clinical	71016_clinical	61							not hispanic or latino	male		white	M		1960	
+demographic	ARDaC-AlcHepNet	obs_71017_obs	71017_obs	36							not hispanic or latino	male		white	M		1985	
+demographic	ARDaC-AlcHepNet	clinical_71018_clinical	71018_clinical	46							hispanic or latino	male		white	M		1976	
+demographic	ARDaC-AlcHepNet	obs_71019_obs	71019_obs	46							not hispanic or latino	male		white	M		1975	
+demographic	ARDaC-AlcHepNet	obs_71020_obs	71020_obs	48							hispanic or latino	male		white	M		1973	
+demographic	ARDaC-AlcHepNet	clinical_71021_clinical	71021_clinical	39							not hispanic or latino	male		white	M		1982	
+demographic	ARDaC-AlcHepNet	clinical_71022_clinical	71022_clinical	54							not hispanic or latino	male		white	M		1968	
+demographic	ARDaC-AlcHepNet	obs_71023_obs	71023_obs	60							not hispanic or latino	female		white	F		1962	
+demographic	ARDaC-AlcHepNet	obs_71024_obs	71024_obs	56							hispanic or latino	male		white	M		1966	
+demographic	ARDaC-AlcHepNet	obs_71025_obs	71025_obs	62							not hispanic or latino	male		black or african american	M		1960	
+demographic	ARDaC-AlcHepNet	obs_71026_obs	71026_obs	67							not hispanic or latino	female		white	F		1955	
+demographic	ARDaC-AlcHepNet	obs_71027_obs	71027_obs	25							hispanic or latino	female		white	F		1998	
+demographic	ARDaC-AlcHepNet	obs_71029_obs	71029_obs	42							not hispanic or latino	male		white	M		1980	
+demographic	ARDaC-AlcHepNet	obs_71030_obs	71030_obs	24							hispanic or latino	male		white	M		1999	
+demographic	ARDaC-AlcHepNet	obs_71031_obs	71031_obs	38							not hispanic or latino	male		white	M		1984	
+demographic	ARDaC-AlcHepNet	obs_71032_obs	71032_obs	28							not hispanic or latino	female		white	F		1994	
+demographic	ARDaC-AlcHepNet	obs_71033_obs	71033_obs	46							hispanic or latino	male		white	M		1976	
+demographic	ARDaC-AlcHepNet	obs_71034_obs	71034_obs	24							hispanic or latino	male		More than one race	M		1999	
+demographic	ARDaC-AlcHepNet	obs_71035_obs	71035_obs	39							not hispanic or latino	male		white	M		1983	
+demographic	ARDaC-AlcHepNet	obs_71036_obs	71036_obs	26							not hispanic or latino	male		white	M		1997	
+demographic	ARDaC-AlcHepNet	obs_71037_obs	71037_obs	50							not hispanic or latino	male		white	M		1972	
+demographic	ARDaC-AlcHepNet	obs_71038_obs	71038_obs	42							not hispanic or latino	female		white	F		1981	
+demographic	ARDaC-AlcHepNet	obs_72001_obs	72001_obs	53							not hispanic or latino	male		white	M		1967	
+demographic	ARDaC-AlcHepNet	obs_72002_obs	72002_obs	32							hispanic or latino	male		white	M		1988	
+demographic	ARDaC-AlcHepNet	obs_72003_obs	72003_obs	56							hispanic or latino	male		white	M		1964	
+demographic	ARDaC-AlcHepNet	obs_72004_obs	72004_obs	46							not hispanic or latino	female		white	F		1974	
+demographic	ARDaC-AlcHepNet	obs_72005_obs	72005_obs	38							not hispanic or latino	male		white	M		1982	
+demographic	ARDaC-AlcHepNet	obs_72006_obs	72006_obs	56							hispanic or latino	female		white	F		1964	
+demographic	ARDaC-AlcHepNet	obs_72007_obs	72007_obs	39							not hispanic or latino	male		white	M		1981	
+demographic	ARDaC-AlcHepNet	obs_72008_obs	72008_obs	32							not hispanic or latino	female		white	F		1988	
+demographic	ARDaC-AlcHepNet	clinical_72009_clinical	72009_clinical	46							not hispanic or latino	male		white	M		1975	
+demographic	ARDaC-AlcHepNet	obs_72010_obs	72010_obs	39							not hispanic or latino	male		white	M		1982	
+demographic	ARDaC-AlcHepNet	obs_72011_obs	72011_obs	42							hispanic or latino	male		white	M		1979	
+demographic	ARDaC-AlcHepNet	clinical_72012_clinical	72012_clinical	42							hispanic or latino	male		white	M		1979	
+demographic	ARDaC-AlcHepNet	clinical_72013_clinical	72013_clinical	46							not hispanic or latino	male		white	M		1975	
+demographic	ARDaC-AlcHepNet	obs_72015_obs	72015_obs	63							not hispanic or latino	male		white	M		1959	
+demographic	ARDaC-AlcHepNet	clinical_72017_clinical	72017_clinical	42							hispanic or latino	male		white	M		1979	
+demographic	ARDaC-AlcHepNet	clinical_72018_clinical	72018_clinical	33							hispanic or latino	male		white	M		1989	
+demographic	ARDaC-AlcHepNet	clinical_72019_clinical	72019_clinical	36							not hispanic or latino	female		white	F		1985	
+demographic	ARDaC-AlcHepNet	clinical_72020_clinical	72020_clinical	38							not hispanic or latino	male		white	M		1983	
+demographic	ARDaC-AlcHepNet	clinical_72021_clinical	72021_clinical	42							hispanic or latino	male		white	M		1980	
+demographic	ARDaC-AlcHepNet	clinical_72022_clinical	72022_clinical	54							hispanic or latino	male		white	M		1967	
+demographic	ARDaC-AlcHepNet	clinical_72023_clinical	72023_clinical	52							not hispanic or latino	female		black or african american	F		1969	
+demographic	ARDaC-AlcHepNet	obs_72024_obs	72024_obs	41							not hispanic or latino	male		black or african american	M		1980	
+demographic	ARDaC-AlcHepNet	obs_72025_obs	72025_obs	39							not hispanic or latino	male		white	M		1982	
+demographic	ARDaC-AlcHepNet	obs_72026_obs	72026_obs	52							not hispanic or latino	female		white	F		1970	
+demographic	ARDaC-AlcHepNet	obs_72027_obs	72027_obs	42							hispanic or latino	male		white	M		1979	
+demographic	ARDaC-AlcHepNet	obs_72028_obs	72028_obs	39							hispanic or latino	male		white	M		1982	
+demographic	ARDaC-AlcHepNet	clinical_72029_clinical	72029_clinical	40							not hispanic or latino	male		white	M		1982	
+demographic	ARDaC-AlcHepNet	clinical_72030_clinical	72030_clinical	46							hispanic or latino	male		white	M		1975	
+demographic	ARDaC-AlcHepNet	obs_72031_obs	72031_obs	43							hispanic or latino	male		Unknown	M		1979	
+demographic	ARDaC-AlcHepNet	obs_72032_obs	72032_obs	48							not hispanic or latino	female		black or african american	F		1973	
+demographic	ARDaC-AlcHepNet	obs_72033_obs	72033_obs	34							hispanic or latino	male		white	M		1987	
+demographic	ARDaC-AlcHepNet	obs_72034_obs	72034_obs	60							hispanic or latino	male		white	M		1962	
+demographic	ARDaC-AlcHepNet	clinical_72035_clinical	72035_clinical	49							not hispanic or latino	female		white	F		1973	
+demographic	ARDaC-AlcHepNet	clinical_72036_clinical	72036_clinical	33							hispanic or latino	male		white	M		1989	
+demographic	ARDaC-AlcHepNet	obs_72037_obs	72037_obs	44							not hispanic or latino	male		black or african american	M		1978	
+demographic	ARDaC-AlcHepNet	clinical_72038_clinical	72038_clinical	53							hispanic or latino	male		white	M		1969	
+demographic	ARDaC-AlcHepNet	obs_72039_obs	72039_obs	61							not hispanic or latino	female		black or african american	F		1961	
+demographic	ARDaC-AlcHepNet	obs_72040_obs	72040_obs	37							hispanic or latino	male		white	M		1985	
+demographic	ARDaC-AlcHepNet	clinical_72041_clinical	72041_clinical	57							hispanic or latino	male		white	M		1965	
+demographic	ARDaC-AlcHepNet	obs_72042_obs	72042_obs	32							hispanic or latino	male		white	M		1991	
+demographic	ARDaC-AlcHepNet	obs_72043_obs	72043_obs	58							hispanic or latino	male		white	M		1964	
+demographic	ARDaC-AlcHepNet	obs_72044_obs	72044_obs	39							hispanic or latino	male		white	M		1983	
+demographic	ARDaC-AlcHepNet	obs_72045_obs	72045_obs	41							hispanic or latino	female		white	F		1981	
+demographic	ARDaC-AlcHepNet	obs_72046_obs	72046_obs	53							hispanic or latino	male		white	M		1970	
+demographic	ARDaC-AlcHepNet	obs_72047_obs	72047_obs	49							hispanic or latino	male		white	M		1973	
+demographic	ARDaC-AlcHepNet	obs_72048_obs	72048_obs	37							hispanic or latino	male		white	M		1985	
+demographic	ARDaC-AlcHepNet	obs_72049_obs	72049_obs	49							not hispanic or latino	male		asian	M		1974	
+demographic	ARDaC-AlcHepNet	obs_72050_obs	72050_obs	53							not hispanic or latino	male		white	M		1969	
+demographic	ARDaC-AlcHepNet	obs_72051_obs	72051_obs	46							not hispanic or latino	female		black or african american	F		1976	
+demographic	ARDaC-AlcHepNet	obs_72052_obs	72052_obs	32							hispanic or latino	female		white	F		1990	
+demographic	ARDaC-AlcHepNet	obs_72053_obs	72053_obs	47							hispanic or latino	male		white	M		1976	
+demographic	ARDaC-AlcHepNet	obs_72054_obs	72054_obs	40							not hispanic or latino	male		white	M		1983	
+demographic	ARDaC-AlcHepNet	obs_72055_obs	72055_obs	47							hispanic or latino	male		white	M		1976	
+demographic	ARDaC-AlcHepNet	obs_72056_obs	72056_obs	37							not hispanic or latino	female		white	F		1986	
+demographic	ARDaC-AlcHepNet	obs_72057_obs	72057_obs	51							hispanic or latino	male		white	M		1971	
+demographic	ARDaC-AlcHepNet	obs_72058_obs	72058_obs	56							hispanic or latino	male		white	M		1967	
+demographic	ARDaC-AlcHepNet	obs_72059_obs	72059_obs	51							hispanic or latino	male		white	M		1972	
+demographic	ARDaC-AlcHepNet	obs_72060_obs	72060_obs	53							not hispanic or latino	male		white	M		1969	
+demographic	ARDaC-AlcHepNet	obs_81001_obs	81001_obs	59							not hispanic or latino	female		white	F		1960	
+demographic	ARDaC-AlcHepNet	obs_81002_obs	81002_obs	46							not hispanic or latino	male		white	M		1973	
+demographic	ARDaC-AlcHepNet	obs_81003_obs	81003_obs	42							not hispanic or latino	male		white	M		1977	
+demographic	ARDaC-AlcHepNet	obs_81004_obs	81004_obs	44							not hispanic or latino	male		white	M		1975	
+demographic	ARDaC-AlcHepNet	obs_81005_obs	81005_obs	33							not hispanic or latino	female		white	F		1986	
+demographic	ARDaC-AlcHepNet	obs_81006_obs	81006_obs	41							not hispanic or latino	female		white	F		1979	
+demographic	ARDaC-AlcHepNet	obs_81007_obs	81007_obs	35							not hispanic or latino	male		white	M		1984	
+demographic	ARDaC-AlcHepNet	obs_81008_obs	81008_obs	44							not hispanic or latino	female		white	F		1975	
+demographic	ARDaC-AlcHepNet	obs_81009_obs	81009_obs	51							not hispanic or latino	female		white	F		1969	
+demographic	ARDaC-AlcHepNet	obs_81010_obs	81010_obs	56							not hispanic or latino	female		white	F		1963	
+demographic	ARDaC-AlcHepNet	obs_81011_obs	81011_obs	23							not hispanic or latino	female		Unknown	F		1997	
+demographic	ARDaC-AlcHepNet	obs_81012_obs	81012_obs	27							not hispanic or latino	female		asian	F		1993	
+demographic	ARDaC-AlcHepNet	obs_81013_obs	81013_obs	25							not hispanic or latino	female		Unknown	F		1995	
+demographic	ARDaC-AlcHepNet	obs_81015_obs	81015_obs	23							not hispanic or latino	female		Unknown	F		1996	
+demographic	ARDaC-AlcHepNet	obs_81016_obs	81016_obs	28							not hispanic or latino	female		white	F		1991	
+demographic	ARDaC-AlcHepNet	obs_81017_obs	81017_obs	29							not hispanic or latino	female		black or african american	F		1991	
+demographic	ARDaC-AlcHepNet	obs_81018_obs	81018_obs	50							not hispanic or latino	female		white	F		1970	
+demographic	ARDaC-AlcHepNet	obs_81019_obs	81019_obs	28							not hispanic or latino	female		white	F		1992	
+demographic	ARDaC-AlcHepNet	obs_81020_obs	81020_obs	35							not hispanic or latino	male		white	M		1985	
+demographic	ARDaC-AlcHepNet	obs_81021_obs	81021_obs	28							not hispanic or latino	female		white	F		1992	
+demographic	ARDaC-AlcHepNet	obs_81022_obs	81022_obs	30							not hispanic or latino	female		white	F		1989	
+demographic	ARDaC-AlcHepNet	obs_81023_obs	81023_obs	40							not hispanic or latino	female		black or african american	F		1979	
+demographic	ARDaC-AlcHepNet	obs_81024_obs	81024_obs	59							not hispanic or latino	male		asian	M		1961	
+demographic	ARDaC-AlcHepNet	obs_81025_obs	81025_obs	41							not hispanic or latino	male		white	M		1979	
+demographic	ARDaC-AlcHepNet	obs_81026_obs	81026_obs	48							not hispanic or latino	female		white	F		1972	
+demographic	ARDaC-AlcHepNet	obs_81027_obs	81027_obs	34							not hispanic or latino	female		white	F		1985	
+demographic	ARDaC-AlcHepNet	obs_81028_obs	81028_obs	61							not hispanic or latino	male		white	M		1959	
+demographic	ARDaC-AlcHepNet	obs_81029_obs	81029_obs	58							not hispanic or latino	male		white	M		1962	
+demographic	ARDaC-AlcHepNet	obs_81030_obs	81030_obs	41							not hispanic or latino	male		white	M		1979	
+demographic	ARDaC-AlcHepNet	obs_81031_obs	81031_obs	36							not hispanic or latino	male		white	M		1983	
+demographic	ARDaC-AlcHepNet	obs_81032_obs	81032_obs	38							not hispanic or latino	male		white	M		1982	
+demographic	ARDaC-AlcHepNet	obs_81033_obs	81033_obs	59							not hispanic or latino	male		white	M		1961	
+demographic	ARDaC-AlcHepNet	obs_81034_obs	81034_obs	46							not hispanic or latino	male		white	M		1974	
+demographic	ARDaC-AlcHepNet	obs_81035_obs	81035_obs	24							not hispanic or latino	female		black or african american	F		1996	
+demographic	ARDaC-AlcHepNet	obs_81036_obs	81036_obs	46							not hispanic or latino	male		white	M		1974	
+demographic	ARDaC-AlcHepNet	obs_81037_obs	81037_obs	67							not hispanic or latino	male		black or african american	M		1953	
+demographic	ARDaC-AlcHepNet	obs_81038_obs	81038_obs	42							not hispanic or latino	male		white	M		1978	
+demographic	ARDaC-AlcHepNet	obs_81039_obs	81039_obs	31							not hispanic or latino	female		white	F		1989	
+demographic	ARDaC-AlcHepNet	obs_81040_obs	81040_obs	39							not hispanic or latino	female		white	F		1981	
+demographic	ARDaC-AlcHepNet	obs_81041_obs	81041_obs	30							not hispanic or latino	male		white	M		1990	
+demographic	ARDaC-AlcHepNet	obs_81042_obs	81042_obs	27							not hispanic or latino	male		asian	M		1994	
+demographic	ARDaC-AlcHepNet	obs_81043_obs	81043_obs	53							not hispanic or latino	female		white	F		1967	
+demographic	ARDaC-AlcHepNet	obs_81044_obs	81044_obs	49							not hispanic or latino	male		white	M		1972	
+demographic	ARDaC-AlcHepNet	obs_81045_obs	81045_obs	35							not hispanic or latino	female		white	F		1985	
+demographic	ARDaC-AlcHepNet	obs_81046_obs	81046_obs	48							not hispanic or latino	female		black or african american	F		1972	
+demographic	ARDaC-AlcHepNet	obs_81047_obs	81047_obs	26							not hispanic or latino	female		white	F		1995	
+demographic	ARDaC-AlcHepNet	obs_81048_obs	81048_obs	32							not hispanic or latino	female		white	F		1989	
+demographic	ARDaC-AlcHepNet	obs_81049_obs	81049_obs	43							not hispanic or latino	female		Unknown	F		1978	
+demographic	ARDaC-AlcHepNet	obs_81050_obs	81050_obs	50							not hispanic or latino	female		white	F		1970	
+demographic	ARDaC-AlcHepNet	clinical_81051_clinical	81051_clinical	41							not hispanic or latino	male		white	M		1979	
+demographic	ARDaC-AlcHepNet	clinical_81052_clinical	81052_clinical	38							not hispanic or latino	female		white	F		1982	
+demographic	ARDaC-AlcHepNet	clinical_81053_clinical	81053_clinical	28							not hispanic or latino	female		white	F		1993	
+demographic	ARDaC-AlcHepNet	clinical_81054_clinical	81054_clinical	67							not hispanic or latino	female		black or african american	F		1954	
+demographic	ARDaC-AlcHepNet	clinical_81055_clinical	81055_clinical	40							not hispanic or latino	male		white	M		1980	
+demographic	ARDaC-AlcHepNet	obs_81056_obs	81056_obs	53							not hispanic or latino	female		black or african american	F		1968	
+demographic	ARDaC-AlcHepNet	clinical_81057_clinical	81057_clinical	34							not hispanic or latino	female		black or african american	F		1987	
+demographic	ARDaC-AlcHepNet	clinical_81058_clinical	81058_clinical	30							not hispanic or latino	female		black or african american	F		1991	
+demographic	ARDaC-AlcHepNet	obs_81059_obs	81059_obs	30							not hispanic or latino	female		white	F		1991	
+demographic	ARDaC-AlcHepNet	obs_81060_obs	81060_obs	46							not hispanic or latino	male		white	M		1975	
+demographic	ARDaC-AlcHepNet	clinical_81061_clinical	81061_clinical	43							not hispanic or latino	female		white	F		1978	
+demographic	ARDaC-AlcHepNet	obs_81062_obs	81062_obs	36							not hispanic or latino	female		white	F		1985	
+demographic	ARDaC-AlcHepNet	clinical_81063_clinical	81063_clinical	54							not hispanic or latino	male		black or african american	M		1967	
+demographic	ARDaC-AlcHepNet	clinical_81064_clinical	81064_clinical	56							not hispanic or latino	male		white	M		1965	
+demographic	ARDaC-AlcHepNet	obs_81065_obs	81065_obs	26							not hispanic or latino	male		black or african american	M		1995	
+demographic	ARDaC-AlcHepNet	obs_81066_obs	81066_obs	50							not hispanic or latino	female		white	F		1972	
+demographic	ARDaC-AlcHepNet	obs_81067_obs	81067_obs	60							not hispanic or latino	male		white	M		1961	
+demographic	ARDaC-AlcHepNet	clinical_81068_clinical	81068_clinical	30							not hispanic or latino	female		white	F		1992	
+demographic	ARDaC-AlcHepNet	obs_81069_obs	81069_obs	36							not hispanic or latino	female		white	F		1985	
+demographic	ARDaC-AlcHepNet	clinical_81070_clinical	81070_clinical	32							not hispanic or latino	female		white	F		1989	
+demographic	ARDaC-AlcHepNet	obs_81071_obs	81071_obs	47							not hispanic or latino	female		white	F		1975	
+demographic	ARDaC-AlcHepNet	obs_81072_obs	81072_obs	43							hispanic or latino	male		white	M		1979	
+demographic	ARDaC-AlcHepNet	obs_81073_obs	81073_obs	42							not hispanic or latino	male		black or african american	M		1979	
+demographic	ARDaC-AlcHepNet	obs_81074_obs	81074_obs	58							not hispanic or latino	female		white	F		1963	
+demographic	ARDaC-AlcHepNet	obs_81075_obs	81075_obs	47							Unknown	male		white	M		1974	
+demographic	ARDaC-AlcHepNet	clinical_81076_clinical	81076_clinical	53							not hispanic or latino	female		black or african american	F		1969	
+demographic	ARDaC-AlcHepNet	clinical_81077_clinical	81077_clinical	32							not hispanic or latino	male		white	M		1989	
+demographic	ARDaC-AlcHepNet	obs_81078_obs	81078_obs	45							not hispanic or latino	female		black or african american	F		1976	
+demographic	ARDaC-AlcHepNet	obs_81079_obs	81079_obs	60							not hispanic or latino	male		black or african american	M		1962	
+demographic	ARDaC-AlcHepNet	clinical_81080_clinical	81080_clinical	40							not hispanic or latino	male		white	M		1981	
+demographic	ARDaC-AlcHepNet	obs_81081_obs	81081_obs	49							not hispanic or latino	male		white	M		1973	
+demographic	ARDaC-AlcHepNet	obs_81082_obs	81082_obs	39							not hispanic or latino	male		white	M		1983	
+demographic	ARDaC-AlcHepNet	obs_81084_obs	81084_obs	45							not hispanic or latino	male		black or african american	M		1977	
+demographic	ARDaC-AlcHepNet	obs_81085_obs	81085_obs	46							not hispanic or latino	female		white	F		1976	
+demographic	ARDaC-AlcHepNet	obs_81086_obs	81086_obs	64							not hispanic or latino	male		white	M		1957	
+demographic	ARDaC-AlcHepNet	obs_81087_obs	81087_obs	30							Unknown	male		white	M		1992	
+demographic	ARDaC-AlcHepNet	obs_81088_obs	81088_obs	56							not hispanic or latino	female		white	F		1966	
+demographic	ARDaC-AlcHepNet	obs_81089_obs	81089_obs	23							not hispanic or latino	female		white	F		1999	
+demographic	ARDaC-AlcHepNet	obs_81090_obs	81090_obs	32							not hispanic or latino	male		white	M		1990	
+demographic	ARDaC-AlcHepNet	clinical_81091_clinical	81091_clinical	57							not hispanic or latino	male		white	M		1965	
+demographic	ARDaC-AlcHepNet	obs_81092_obs	81092_obs	49							not hispanic or latino	female		white	F		1973	
+demographic	ARDaC-AlcHepNet	obs_81093_obs	81093_obs	37							not hispanic or latino	male		white	M		1984	
+demographic	ARDaC-AlcHepNet	obs_81094_obs	81094_obs	45							not hispanic or latino	male		black or african american	M		1977	
+demographic	ARDaC-AlcHepNet	obs_81095_obs	81095_obs	55							not hispanic or latino	female		white	F		1966	
+demographic	ARDaC-AlcHepNet	clinical_81096_clinical	81096_clinical	42							not hispanic or latino	male		white	M		1980	
+demographic	ARDaC-AlcHepNet	obs_81097_obs	81097_obs	37							not hispanic or latino	male		white	M		1985	
+demographic	ARDaC-AlcHepNet	obs_81098_obs	81098_obs	46							not hispanic or latino	male		white	M		1976	
+demographic	ARDaC-AlcHepNet	obs_81099_obs	81099_obs	61							not hispanic or latino	male		white	M		1961	
+demographic	ARDaC-AlcHepNet	obs_81100_obs	81100_obs	45							not hispanic or latino	male		white	M		1977	
+demographic	ARDaC-AlcHepNet	obs_81101_obs	81101_obs	61							not hispanic or latino	male		white	M		1961	
+demographic	ARDaC-AlcHepNet	obs_81102_obs	81102_obs	37							not hispanic or latino	female		white	F		1984	
+demographic	ARDaC-AlcHepNet	obs_81103_obs	81103_obs	66							not hispanic or latino	female		black or african american	F		1956	
+demographic	ARDaC-AlcHepNet	obs_81104_obs	81104_obs	60							not hispanic or latino	female		black or african american	F		1962	
+demographic	ARDaC-AlcHepNet	obs_81105_obs	81105_obs	55							not hispanic or latino	female		white	F		1967	
+demographic	ARDaC-AlcHepNet	obs_81106_obs	81106_obs	50							not hispanic or latino	male		white	M		1971	
+demographic	ARDaC-AlcHepNet	obs_81107_obs	81107_obs	38							not hispanic or latino	male		white	M		1984	
+demographic	ARDaC-AlcHepNet	clinical_81108_clinical	81108_clinical	36							not hispanic or latino	male		white	M		1985	
+demographic	ARDaC-AlcHepNet	obs_81109_obs	81109_obs	42							not hispanic or latino	male		white	M		1980	
+demographic	ARDaC-AlcHepNet	obs_81110_obs	81110_obs	49							not hispanic or latino	female		white	F		1973	
+demographic	ARDaC-AlcHepNet	obs_81111_obs	81111_obs	55							not hispanic or latino	female		white	F		1967	
+demographic	ARDaC-AlcHepNet	obs_81112_obs	81112_obs	74							not hispanic or latino	male		black or african american	M		1948	
+demographic	ARDaC-AlcHepNet	obs_81113_obs	81113_obs	53							not hispanic or latino	male		white	M		1969	
+demographic	ARDaC-AlcHepNet	obs_81114_obs	81114_obs	64							not hispanic or latino	male		black or african american	M		1958	
+demographic	ARDaC-AlcHepNet	obs_81115_obs	81115_obs	34							not hispanic or latino	female		white	F		1988	
+demographic	ARDaC-AlcHepNet	obs_81116_obs	81116_obs	54							not hispanic or latino	female		black or african american	F		1968	
+demographic	ARDaC-AlcHepNet	obs_81117_obs	81117_obs	75							not hispanic or latino	male		white	M		1947	
+demographic	ARDaC-AlcHepNet	obs_81118_obs	81118_obs	32							not hispanic or latino	male		white	M		1990	
+demographic	ARDaC-AlcHepNet	obs_81119_obs	81119_obs	53							not hispanic or latino	male		white	M		1969	
+demographic	ARDaC-AlcHepNet	obs_81120_obs	81120_obs	34							not hispanic or latino	male		white	M		1988	
+demographic	ARDaC-AlcHepNet	obs_81121_obs	81121_obs	45							not hispanic or latino	male		white	M		1977	
+demographic	ARDaC-AlcHepNet	obs_81122_obs	81122_obs	64							not hispanic or latino	female		white	F		1958	
+demographic	ARDaC-AlcHepNet	obs_81123_obs	81123_obs	37							not hispanic or latino	male		white	M		1985	
+demographic	ARDaC-AlcHepNet	obs_81124_obs	81124_obs	46							not hispanic or latino	female		white	F		1976	
+demographic	ARDaC-AlcHepNet	obs_81125_obs	81125_obs	46							not hispanic or latino	female		white	F		1976	
+demographic	ARDaC-AlcHepNet	obs_81126_obs	81126_obs	64							not hispanic or latino	male		white	M		1958	
+demographic	ARDaC-AlcHepNet	obs_81127_obs	81127_obs	52							not hispanic or latino	female		white	F		1970	
+demographic	ARDaC-AlcHepNet	obs_81128_obs	81128_obs	38							not hispanic or latino	female		white	F		1984	
+demographic	ARDaC-AlcHepNet	obs_81129_obs	81129_obs	41							not hispanic or latino	male		white	M		1981	
+demographic	ARDaC-AlcHepNet	obs_81130_obs	81130_obs	32							not hispanic or latino	male		white	M		1990	
+demographic	ARDaC-AlcHepNet	obs_81131_obs	81131_obs	49							not hispanic or latino	male		white	M		1973	
+demographic	ARDaC-AlcHepNet	obs_81132_obs	81132_obs	37							not hispanic or latino	male		white	M		1986	
+demographic	ARDaC-AlcHepNet	obs_81133_obs	81133_obs	34							not hispanic or latino	male		white	M		1988	
+demographic	ARDaC-AlcHepNet	obs_81134_obs	81134_obs	60							not hispanic or latino	male		black or african american	M		1962	
+demographic	ARDaC-AlcHepNet	obs_81135_obs	81135_obs	32							not hispanic or latino	male		white	M		1990	
+demographic	ARDaC-AlcHepNet	obs_81136_obs	81136_obs	54							not hispanic or latino	male		white	M		1969	
+demographic	ARDaC-AlcHepNet	obs_81137_obs	81137_obs	45							not hispanic or latino	female		white	F		1977	
+demographic	ARDaC-AlcHepNet	obs_81138_obs	81138_obs	34							not hispanic or latino	female		white	F		1989	
+demographic	ARDaC-AlcHepNet	obs_81139_obs	81139_obs	38							not hispanic or latino	male		white	M		1984	
+demographic	ARDaC-AlcHepNet	obs_81140_obs	81140_obs	32							not hispanic or latino	male		white	M		1990	
+demographic	ARDaC-AlcHepNet	obs_81141_obs	81141_obs	54							not hispanic or latino	male		white	M		1969	
+demographic	ARDaC-AlcHepNet	obs_81142_obs	81142_obs	56							not hispanic or latino	female		black or african american	F		1967	
+demographic	ARDaC-AlcHepNet	obs_81143_obs	81143_obs	32							not hispanic or latino	female		white	F		1991	
+demographic	ARDaC-AlcHepNet	obs_81144_obs	81144_obs	28							not hispanic or latino	male		white	M		1995	
+demographic	ARDaC-AlcHepNet	obs_81146_obs	81146_obs	37							not hispanic or latino	male		white	M		1986	
+demographic	ARDaC-AlcHepNet	obs_81147_obs	81147_obs	41							not hispanic or latino	male		white	M		1981	
+demographic	ARDaC-AlcHepNet	obs_81148_obs	81148_obs	52							not hispanic or latino	male		black or african american	M		1971	
+demographic	ARDaC-AlcHepNet	obs_81149_obs	81149_obs	59							not hispanic or latino	female		white	F		1964	
+demographic	ARDaC-AlcHepNet	obs_81150_obs	81150_obs	62							not hispanic or latino	male		black or african american	M		1961	
+demographic	ARDaC-AlcHepNet	obs_81151_obs	81151_obs	43							not hispanic or latino	male		white	M		1980	
+demographic	ARDaC-AlcHepNet	obs_81152_obs	81152_obs	38							not hispanic or latino	male		white	M		1984	
+demographic	ARDaC-AlcHepNet	obs_81153_obs	81153_obs	25							not hispanic or latino	female		white	F		1997	

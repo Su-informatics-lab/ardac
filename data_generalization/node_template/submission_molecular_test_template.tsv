@@ -1,0 +1,2 @@
+*type	project_id	*submitter_id	aliquots.submitter_id	*follow_ups.submitter_id	blood_test_normal_range_lower	blood_test_normal_range_upper	days_to_test	gene_symbol	laboratory_test	molecular_analysis_method	test_result	test_unit	test_value
+molecular_test													

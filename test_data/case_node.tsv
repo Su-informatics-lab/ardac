@@ -1,0 +1,903 @@
+*type	project_id	*submitter_id	*studies.submitter_id	actarm	ah_hosp	ah_hosp_num	aki_status	bari_surgery	cohort	consent_type	days_180_aki	days_180_survival	days_90_aki	days_90_survival	days_to_aki	days_to_consent	days_to_death	index_date	inf_cnst_sign_dt	rct_meld_strata	study_site	vital_status
+case	ARDaC-AlcHepNet	11001_obs	obs	 	 	 	Unknown	 	Healthy Donor	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11002_obs	obs	 	 	 	Unknown	 	Healthy Donor	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11003_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11004_obs	obs	 	 	 	Unknown	 	Healthy Donor	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11006_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	dead	Unknown	alive		 	100	Study Enrollment	 	 	Cleveland Clinic	dead
+case	ARDaC-AlcHepNet	11007_obs	obs	 	 	 	Unknown	 	Healthy Donor	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11008_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 	426	Study Enrollment	 	 	Cleveland Clinic	dead
+case	ARDaC-AlcHepNet	11009_obs	obs	 	 	 	Unknown	 	Healthy Donor	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11010_obs	obs	 	 	 	Unknown	 	Healthy Donor	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11011_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11012_obs	obs	 	 	 	Unknown	 	Healthy Donor	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11013_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	alive		 		Study Enrollment	 	 	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11014_obs	obs	 	 	 	Unknown	 	Healthy Donor	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11015_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11017_obs	obs	 	 	 	Unknown	 	Healthy Donor	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11018_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	alive		 		Study Enrollment	 	 	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11019_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11020_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11021_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11022_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11023_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11024_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11025_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11026_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11027_obs	obs	 	 	 	Unknown	 	Healthy Donor	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11028_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11029_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11030_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	dead	Unknown	dead		 	1	Study Enrollment	 	 	Cleveland Clinic	dead
+case	ARDaC-AlcHepNet	11031_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11032_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11033_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	dead	Unknown	dead		 	35	Study Enrollment	 	 	Cleveland Clinic	dead
+case	ARDaC-AlcHepNet	11034_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	dead	Unknown	dead		 	56	Study Enrollment	 	 	Cleveland Clinic	dead
+case	ARDaC-AlcHepNet	11035_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11036_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11038_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	dead	Unknown	alive		 	125	Study Enrollment	 	 	Cleveland Clinic	dead
+case	ARDaC-AlcHepNet	11039_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	alive		 		Study Enrollment	 	 	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11040_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11041_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	dead	Unknown	dead		 	34	Study Enrollment	 	 	Cleveland Clinic	dead
+case	ARDaC-AlcHepNet	11042_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	Unknown	Unknown	alive		 		Study Enrollment	 	 	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11043_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	alive		 		Study Enrollment	 	 	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11044_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	dead	Unknown	dead		 	70	Study Enrollment	 	 	Cleveland Clinic	dead
+case	ARDaC-AlcHepNet	11045_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	dead	Unknown	dead		 	13	Study Enrollment	 	 	Cleveland Clinic	dead
+case	ARDaC-AlcHepNet	11046_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	dead	Unknown	dead		 	76	Study Enrollment	 	 	Cleveland Clinic	dead
+case	ARDaC-AlcHepNet	11047_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	dead	Unknown	dead		 	5	Study Enrollment	 	 	Cleveland Clinic	dead
+case	ARDaC-AlcHepNet	11048_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11049_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11050_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	dead	Unknown	dead		 	5	Study Enrollment	 	 	Cleveland Clinic	dead
+case	ARDaC-AlcHepNet	11051_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11052_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	dead	Unknown	dead		 	35	Study Enrollment	 	 	Cleveland Clinic	dead
+case	ARDaC-AlcHepNet	11053_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11054_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11055_clinical	clinical	Prednisone	 	 	No	 	 	 	Unknown	Unknown	No	alive		 		Study Enrollment	 	Low(<=25)	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11056_obs	obs	 	 	 	Unknown	 	Healthy Donor	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11057_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11058_clinical	clinical	Prednisone	 	 	Yes	 	 	 	Yes	dead	Yes	dead	32	 	48	Study Enrollment	 	Low(<=25)	Cleveland Clinic	dead
+case	ARDaC-AlcHepNet	11059_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	dead	Unknown	alive		 	144	Study Enrollment	 	 	Cleveland Clinic	dead
+case	ARDaC-AlcHepNet	11060_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11061_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	dead	Unknown	dead		 	30	Study Enrollment	 	 	Cleveland Clinic	dead
+case	ARDaC-AlcHepNet	11062_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	alive		 		Study Enrollment	 	 	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11063_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11064_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11065_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11066_clinical	clinical	Prednisone	 	 	No	 	 	 	Unknown	Unknown	No	alive		 		Study Enrollment	 	High(>25)	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11067_clinical	clinical	Anakinra + Zinc	 	 	Yes	 	 	 	Yes	dead	Yes	dead	13	 	61	Study Enrollment	 	Low(<=25)	Cleveland Clinic	dead
+case	ARDaC-AlcHepNet	11068_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	dead	Unknown	dead		 	11	Study Enrollment	 	 	Cleveland Clinic	dead
+case	ARDaC-AlcHepNet	11069_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11070_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	dead	Unknown	dead		 	19	Study Enrollment	 	 	Cleveland Clinic	dead
+case	ARDaC-AlcHepNet	11071_clinical	clinical	Prednisone	 	 	No	 	 	 	Unknown	dead	Unknown	dead		 	16	Study Enrollment	 	High(>25)	Cleveland Clinic	dead
+case	ARDaC-AlcHepNet	11073_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	Unknown	Unknown	alive		 		Study Enrollment	 	 	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11074_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	alive		 		Study Enrollment	 	 	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11075_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	alive		 		Study Enrollment	 	 	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11076_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11077_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11078_clinical	clinical	Anakinra + Zinc	 	 	Yes	 	 	 	Yes	dead	Yes	dead	21	 	45	Study Enrollment	 	Low(<=25)	Cleveland Clinic	dead
+case	ARDaC-AlcHepNet	11079_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11080_clinical	clinical	Prednisone	 	 	No	 	 	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	Low(<=25)	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11081_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11082_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 	217	Study Enrollment	 	 	Cleveland Clinic	dead
+case	ARDaC-AlcHepNet	11083_clinical	clinical	Prednisone	 	 	Yes	 	 	 	Yes	alive	Yes	alive	25	 		Study Enrollment	 	Low(<=25)	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11084_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11085_clinical	clinical	Anakinra + Zinc	 	 	No	 	 	 	Unknown	dead	Unknown	dead		 	19	Study Enrollment	 	High(>25)	Cleveland Clinic	dead
+case	ARDaC-AlcHepNet	11086_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11087_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	dead	Unknown	dead		 	26	Study Enrollment	 	 	Cleveland Clinic	dead
+case	ARDaC-AlcHepNet	11088_obs	obs	 	 	 	Unknown	 	Healthy Donor	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11089_clinical	clinical	Anakinra + Zinc	 	 	Yes	 	 	 	Yes	Unknown	Yes	Unknown	14	 		Study Enrollment	 	Low(<=25)	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11090_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11091_clinical	clinical	Anakinra + Zinc	 	 	Yes	 	 	 	Yes	dead	Yes	dead	4	 	53	Study Enrollment	 	High(>25)	Cleveland Clinic	dead
+case	ARDaC-AlcHepNet	11092_clinical	clinical	Anakinra + Zinc	 	 	No	 	 	 	Unknown	Unknown	No	alive		 		Study Enrollment	 	Low(<=25)	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11093_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	dead	Unknown	dead		 	45	Study Enrollment	 	 	Cleveland Clinic	dead
+case	ARDaC-AlcHepNet	11094_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11095_clinical	clinical	Anakinra + Zinc	 	 	Yes	 	 	 	Yes	dead	Yes	dead	6	 	8	Study Enrollment	 	High(>25)	Cleveland Clinic	dead
+case	ARDaC-AlcHepNet	11096_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	Unknown	Unknown	alive		 		Study Enrollment	 	 	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11097_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	dead	Unknown	dead		 	49	Study Enrollment	 	 	Cleveland Clinic	dead
+case	ARDaC-AlcHepNet	11098_clinical	clinical	Anakinra + Zinc	 	 	Yes	 	 	 	Yes	alive	Yes	alive	4	 		Study Enrollment	 	Low(<=25)	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11099_clinical	clinical	Prednisone	 	 	No	 	 	 	Unknown	Unknown	No	alive		 		Study Enrollment	 	Low(<=25)	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11100_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	dead	Unknown	dead		 	82	Study Enrollment	 	 	Cleveland Clinic	dead
+case	ARDaC-AlcHepNet	11101_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	dead	Unknown	dead		 	24	Study Enrollment	 	 	Cleveland Clinic	dead
+case	ARDaC-AlcHepNet	11102_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	dead	Unknown	dead		 	20	Study Enrollment	 	 	Cleveland Clinic	dead
+case	ARDaC-AlcHepNet	11103_clinical	clinical	Prednisone	 	 	No	 	 	 	Unknown	Unknown	No	alive		 		Study Enrollment	 	Low(<=25)	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11104_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	dead	Unknown	dead		 	38	Study Enrollment	 	 	Cleveland Clinic	dead
+case	ARDaC-AlcHepNet	11105_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	dead	Unknown	alive		 	164	Study Enrollment	 	 	Cleveland Clinic	dead
+case	ARDaC-AlcHepNet	11106_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11107_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11108_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	dead	Unknown	alive		 	132	Study Enrollment	 	 	Cleveland Clinic	dead
+case	ARDaC-AlcHepNet	11109_obs	obs	 	 	 	Unknown	 	Healthy Donor	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11110_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11111_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11112_obs	obs	 	 	 	Unknown	 	Healthy Donor	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11113_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11114_clinical	clinical	Anakinra + Zinc	 	 	No	 	 	 	Unknown	Unknown	No	alive		 		Study Enrollment	 	Low(<=25)	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11115_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11116_clinical	clinical	Prednisone	 	 	No	 	 	 	Unknown	Unknown	No	alive		 		Study Enrollment	 	Low(<=25)	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11117_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11118_clinical	clinical	Prednisone	 	 	No	 	 	 	No	alive	No	alive		 		Study Enrollment	 	Low(<=25)	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11119_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 	223	Study Enrollment	 	 	Cleveland Clinic	dead
+case	ARDaC-AlcHepNet	11120_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11121_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	dead	Unknown	dead		 	14	Study Enrollment	 	 	Cleveland Clinic	dead
+case	ARDaC-AlcHepNet	11122_clinical	clinical	Prednisone	 	 	No	 	 	 	No	alive	No	alive		 		Study Enrollment	 	High(>25)	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11123_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	dead	Unknown	dead		 	14	Study Enrollment	 	 	Cleveland Clinic	dead
+case	ARDaC-AlcHepNet	11124_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	dead	Unknown	dead		 	31	Study Enrollment	 	 	Cleveland Clinic	dead
+case	ARDaC-AlcHepNet	11125_clinical	clinical	Anakinra + Zinc	 	 	Yes	 	 	 	Yes	dead	Yes	dead	7	 	31	Study Enrollment	 	High(>25)	Cleveland Clinic	dead
+case	ARDaC-AlcHepNet	11127_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 	195	Study Enrollment	 	 	Cleveland Clinic	dead
+case	ARDaC-AlcHepNet	11128_clinical	clinical	Anakinra + Zinc	 	 	Yes	 	 	 	Yes	Unknown	Yes	alive	27	 		Study Enrollment	 	Low(<=25)	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11129_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11130_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11131_clinical	clinical	Anakinra + Zinc	 	 	Yes	 	 	 	Yes	Unknown	Yes	Unknown	10	 		Study Enrollment	 	Low(<=25)	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11132_clinical	clinical	Prednisone	 	 	Yes	 	 	 	Yes	dead	Yes	dead	45	 	67	Study Enrollment	 	Low(<=25)	Cleveland Clinic	dead
+case	ARDaC-AlcHepNet	11133_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11134_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	dead	Unknown	dead		 	16	Study Enrollment	 	 	Cleveland Clinic	dead
+case	ARDaC-AlcHepNet	11135_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11136_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11137_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11138_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	dead	Unknown	dead		 	27	Study Enrollment	 	 	Cleveland Clinic	dead
+case	ARDaC-AlcHepNet	11139_clinical	clinical	Anakinra + Zinc	 	 	Yes	 	 	 	Yes	dead	Yes	dead	26	 	62	Study Enrollment	 	Low(<=25)	Cleveland Clinic	dead
+case	ARDaC-AlcHepNet	11140_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11141_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11142_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	dead	Unknown	alive		 	98	Study Enrollment	 	 	Cleveland Clinic	dead
+case	ARDaC-AlcHepNet	11143_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	alive		 		Study Enrollment	 	 	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11144_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11145_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11146_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11147_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11149_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11150_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11151_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	dead	Unknown	dead		 	6	Study Enrollment	 	 	Cleveland Clinic	dead
+case	ARDaC-AlcHepNet	11152_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	dead	Unknown	dead		 	7	Study Enrollment	 	 	Cleveland Clinic	dead
+case	ARDaC-AlcHepNet	11153_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	alive		 		Study Enrollment	 	 	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11154_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	alive		 		Study Enrollment	 	 	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11155_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	alive		 		Study Enrollment	 	 	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11156_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	alive		 		Study Enrollment	 	 	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11157_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	alive		 		Study Enrollment	 	 	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11158_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11159_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11160_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11161_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11162_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11163_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11164_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11165_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11166_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11167_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11168_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11169_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11170_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	21001_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Indiana University	alive
+case	ARDaC-AlcHepNet	21002_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Indiana University	alive
+case	ARDaC-AlcHepNet	21003_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Indiana University	alive
+case	ARDaC-AlcHepNet	21004_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Indiana University	alive
+case	ARDaC-AlcHepNet	21005_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Indiana University	alive
+case	ARDaC-AlcHepNet	21006_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	alive		 		Study Enrollment	 	 	Indiana University	alive
+case	ARDaC-AlcHepNet	21007_obs	obs	 	 	 	Unknown	 	Healthy Donor	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Indiana University	alive
+case	ARDaC-AlcHepNet	21008_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Indiana University	alive
+case	ARDaC-AlcHepNet	21009_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	alive		 		Study Enrollment	 	 	Indiana University	alive
+case	ARDaC-AlcHepNet	21010_obs	obs	 	 	 	Unknown	 	Healthy Donor	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Indiana University	alive
+case	ARDaC-AlcHepNet	21011_obs	obs	 	 	 	Unknown	 	Healthy Donor	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Indiana University	alive
+case	ARDaC-AlcHepNet	21012_obs	obs	 	 	 	Unknown	 	Healthy Donor	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Indiana University	alive
+case	ARDaC-AlcHepNet	21013_obs	obs	 	 	 	Unknown	 	Healthy Donor	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Indiana University	alive
+case	ARDaC-AlcHepNet	21014_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Indiana University	alive
+case	ARDaC-AlcHepNet	21015_obs	obs	 	 	 	Unknown	 	Healthy Donor	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Indiana University	alive
+case	ARDaC-AlcHepNet	21016_obs	obs	 	 	 	Unknown	 	Healthy Donor	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Indiana University	alive
+case	ARDaC-AlcHepNet	21018_obs	obs	 	 	 	Unknown	 	Healthy Donor	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Indiana University	alive
+case	ARDaC-AlcHepNet	21019_obs	obs	 	 	 	Unknown	 	Healthy Donor	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Indiana University	alive
+case	ARDaC-AlcHepNet	21020_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	dead	Unknown	dead		 	38	Study Enrollment	 	 	Indiana University	dead
+case	ARDaC-AlcHepNet	21021_obs	obs	 	 	 	Unknown	 	Healthy Donor	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Indiana University	alive
+case	ARDaC-AlcHepNet	21022_obs	obs	 	 	 	Unknown	 	Healthy Donor	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Indiana University	alive
+case	ARDaC-AlcHepNet	21023_obs	obs	 	 	 	Unknown	 	Healthy Donor	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Indiana University	alive
+case	ARDaC-AlcHepNet	21024_obs	obs	 	 	 	Unknown	 	Healthy Donor	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Indiana University	alive
+case	ARDaC-AlcHepNet	21025_obs	obs	 	 	 	Unknown	 	Healthy Donor	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Indiana University	alive
+case	ARDaC-AlcHepNet	21026_obs	obs	 	 	 	Unknown	 	Healthy Donor	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Indiana University	alive
+case	ARDaC-AlcHepNet	21028_obs	obs	 	 	 	Unknown	 	Healthy Donor	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Indiana University	alive
+case	ARDaC-AlcHepNet	21029_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	dead	Unknown	dead		 	14	Study Enrollment	 	 	Indiana University	dead
+case	ARDaC-AlcHepNet	21031_obs	obs	 	 	 	Unknown	 	Healthy Donor	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Indiana University	alive
+case	ARDaC-AlcHepNet	21032_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	alive		 		Study Enrollment	 	 	Indiana University	alive
+case	ARDaC-AlcHepNet	21034_clinical	clinical	Prednisone	 	 	Yes	 	 	 	Yes	alive	Yes	alive	67	 		Study Enrollment	 	Low(<=25)	Indiana University	alive
+case	ARDaC-AlcHepNet	21035_clinical	clinical	Anakinra + Zinc	 	 	Yes	 	 	 	Yes	alive	Yes	alive	10	 		Study Enrollment	 	High(>25)	Indiana University	alive
+case	ARDaC-AlcHepNet	21036_clinical	clinical	Prednisone	 	 	Yes	 	 	 	Yes	dead	Yes	alive	2	 	146	Study Enrollment	 	High(>25)	Indiana University	dead
+case	ARDaC-AlcHepNet	21037_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Indiana University	alive
+case	ARDaC-AlcHepNet	21038_clinical	clinical	Anakinra + Zinc	 	 	No	 	 	 	Unknown	Unknown	No	alive		 		Study Enrollment	 	High(>25)	Indiana University	alive
+case	ARDaC-AlcHepNet	21039_clinical	clinical	Prednisone	 	 	Yes	 	 	 	Yes	dead	Yes	dead	48	 	49	Study Enrollment	 	High(>25)	Indiana University	dead
+case	ARDaC-AlcHepNet	21040_clinical	clinical	Anakinra + Zinc	 	 	No	 	 	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	Low(<=25)	Indiana University	alive
+case	ARDaC-AlcHepNet	21042_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Indiana University	alive
+case	ARDaC-AlcHepNet	21043_clinical	clinical	Prednisone	 	 	Yes	 	 	 	Yes	dead	Yes	alive	3	 	92	Study Enrollment	 	High(>25)	Indiana University	dead
+case	ARDaC-AlcHepNet	21044_clinical	clinical	Anakinra + Zinc	 	 	No	 	 	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	High(>25)	Indiana University	alive
+case	ARDaC-AlcHepNet	21045_clinical	clinical	Prednisone	 	 	No	 	 	 	Unknown	dead	No	alive		 	147	Study Enrollment	 	High(>25)	Indiana University	dead
+case	ARDaC-AlcHepNet	21046_clinical	clinical	Anakinra + Zinc	 	 	No	 	 	 	No	alive	No	alive		 		Study Enrollment	 	High(>25)	Indiana University	alive
+case	ARDaC-AlcHepNet	21047_clinical	clinical	Anakinra + Zinc	 	 	No	 	 	 	No	alive	No	alive		 		Study Enrollment	 	Low(<=25)	Mayo Clinic - FL	alive
+case	ARDaC-AlcHepNet	21048_clinical	clinical	Prednisone	 	 	No	 	 	 	No	alive	No	alive		 		Study Enrollment	 	Low(<=25)	Indiana University	alive
+case	ARDaC-AlcHepNet	21051_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Indiana University	alive
+case	ARDaC-AlcHepNet	21052_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Indiana University	alive
+case	ARDaC-AlcHepNet	21053_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	alive		 		Study Enrollment	 	 	Indiana University	alive
+case	ARDaC-AlcHepNet	21054_clinical	clinical	Prednisone	 	 	Yes	 	 	 	Yes	Unknown	Yes	alive	15	 		Study Enrollment	 	High(>25)	Indiana University	alive
+case	ARDaC-AlcHepNet	21055_clinical	clinical	Prednisone	 	 	No	 	 	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	High(>25)	Indiana University	alive
+case	ARDaC-AlcHepNet	21056_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Indiana University	alive
+case	ARDaC-AlcHepNet	21057_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	dead	Unknown	dead		 	17	Study Enrollment	 	 	Indiana University	dead
+case	ARDaC-AlcHepNet	21058_clinical	clinical	Anakinra + Zinc	 	 	Yes	 	 	 	Yes	Unknown	Yes	alive	2	 		Study Enrollment	 	High(>25)	Indiana University	alive
+case	ARDaC-AlcHepNet	21059_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Indiana University	alive
+case	ARDaC-AlcHepNet	21061_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	dead	Unknown	dead		 	62	Study Enrollment	 	 	Indiana University	dead
+case	ARDaC-AlcHepNet	21062_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	alive		 		Study Enrollment	 	 	Indiana University	alive
+case	ARDaC-AlcHepNet	21063_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	dead	Unknown	dead		 	10	Study Enrollment	 	 	Indiana University	dead
+case	ARDaC-AlcHepNet	21064_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Indiana University	alive
+case	ARDaC-AlcHepNet	21065_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	dead	Unknown	dead		 	18	Study Enrollment	 	 	Indiana University	dead
+case	ARDaC-AlcHepNet	21066_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	dead	Unknown	alive		 	119	Study Enrollment	 	 	Indiana University	dead
+case	ARDaC-AlcHepNet	21067_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Indiana University	alive
+case	ARDaC-AlcHepNet	21068_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Indiana University	alive
+case	ARDaC-AlcHepNet	21069_clinical	clinical	Anakinra + Zinc	 	 	No	 	 	 	Unknown	Unknown	No	alive		 		Study Enrollment	 	Low(<=25)	Indiana University	alive
+case	ARDaC-AlcHepNet	21071_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	dead	Unknown	dead		 	22	Study Enrollment	 	 	Indiana University	dead
+case	ARDaC-AlcHepNet	21073_clinical	clinical	Anakinra + Zinc	 	 	Yes	 	 	 	Yes	dead	Yes	dead	28	 	30	Study Enrollment	 	High(>25)	Indiana University	dead
+case	ARDaC-AlcHepNet	21075_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	Unknown	Unknown	alive		 		Study Enrollment	 	 	Indiana University	alive
+case	ARDaC-AlcHepNet	21076_clinical	clinical	Prednisone	 	 	No	 	 	 	No	alive	No	alive		 		Study Enrollment	 	Low(<=25)	Indiana University	alive
+case	ARDaC-AlcHepNet	21077_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Indiana University	alive
+case	ARDaC-AlcHepNet	21078_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	alive		 		Study Enrollment	 	 	Indiana University	alive
+case	ARDaC-AlcHepNet	21079_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	dead	Unknown	dead		 	25	Study Enrollment	 	 	Indiana University	dead
+case	ARDaC-AlcHepNet	21080_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Indiana University	alive
+case	ARDaC-AlcHepNet	21081_clinical	clinical	Prednisone	 	 	No	 	 	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	Low(<=25)	Indiana University	alive
+case	ARDaC-AlcHepNet	21082_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Indiana University	alive
+case	ARDaC-AlcHepNet	21083_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Indiana University	alive
+case	ARDaC-AlcHepNet	21085_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Indiana University	alive
+case	ARDaC-AlcHepNet	21086_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Indiana University	alive
+case	ARDaC-AlcHepNet	21090_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Indiana University	alive
+case	ARDaC-AlcHepNet	21091_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Indiana University	alive
+case	ARDaC-AlcHepNet	21092_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Indiana University	alive
+case	ARDaC-AlcHepNet	21093_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	Unknown	Unknown	alive		 		Study Enrollment	 	 	Indiana University	alive
+case	ARDaC-AlcHepNet	21094_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	Unknown	Unknown	alive		 		Study Enrollment	 	 	Indiana University	alive
+case	ARDaC-AlcHepNet	21096_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	Unknown	Unknown	alive		 		Study Enrollment	 	 	Indiana University	alive
+case	ARDaC-AlcHepNet	21097_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	Unknown	Unknown	alive		 		Study Enrollment	 	 	Indiana University	alive
+case	ARDaC-AlcHepNet	21099_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	alive		 		Study Enrollment	 	 	Indiana University	alive
+case	ARDaC-AlcHepNet	21101_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Indiana University	alive
+case	ARDaC-AlcHepNet	22001_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	dead	Unknown	dead		 	16	Study Enrollment	 	 	Indiana University	dead
+case	ARDaC-AlcHepNet	31001_obs	obs	 	 	 	Unknown	 	Healthy Donor	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	University of Louisville	alive
+case	ARDaC-AlcHepNet	31002_obs	obs	 	 	 	Unknown	 	Healthy Donor	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	University of Louisville	alive
+case	ARDaC-AlcHepNet	31003_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	University of Louisville	alive
+case	ARDaC-AlcHepNet	31004_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	dead	Unknown	dead		 	32	Study Enrollment	 	 	University of Louisville	dead
+case	ARDaC-AlcHepNet	31005_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	alive		 		Study Enrollment	 	 	University of Louisville	alive
+case	ARDaC-AlcHepNet	31006_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	University of Louisville	alive
+case	ARDaC-AlcHepNet	31007_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	University of Louisville	alive
+case	ARDaC-AlcHepNet	31008_obs	obs	 	 	 	Unknown	 	Healthy Donor	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	University of Louisville	alive
+case	ARDaC-AlcHepNet	31009_obs	obs	 	 	 	Unknown	 	Healthy Donor	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	University of Louisville	alive
+case	ARDaC-AlcHepNet	31010_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	University of Louisville	alive
+case	ARDaC-AlcHepNet	31012_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	University of Louisville	alive
+case	ARDaC-AlcHepNet	31013_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	University of Louisville	alive
+case	ARDaC-AlcHepNet	31014_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	University of Louisville	alive
+case	ARDaC-AlcHepNet	31015_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	University of Louisville	alive
+case	ARDaC-AlcHepNet	31016_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	dead	Unknown	dead		 	35	Study Enrollment	 	 	University of Louisville	dead
+case	ARDaC-AlcHepNet	31017_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	University of Louisville	alive
+case	ARDaC-AlcHepNet	31018_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	University of Louisville	alive
+case	ARDaC-AlcHepNet	31019_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	University of Louisville	alive
+case	ARDaC-AlcHepNet	31020_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	dead	Unknown	dead		 	6	Study Enrollment	 	 	University of Louisville	dead
+case	ARDaC-AlcHepNet	31021_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	alive		 		Study Enrollment	 	 	University of Louisville	alive
+case	ARDaC-AlcHepNet	31022_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	University of Louisville	alive
+case	ARDaC-AlcHepNet	31023_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	University of Louisville	alive
+case	ARDaC-AlcHepNet	31024_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	University of Louisville	alive
+case	ARDaC-AlcHepNet	31025_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	University of Louisville	alive
+case	ARDaC-AlcHepNet	31026_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	University of Louisville	alive
+case	ARDaC-AlcHepNet	31027_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	University of Louisville	alive
+case	ARDaC-AlcHepNet	31028_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	University of Louisville	alive
+case	ARDaC-AlcHepNet	31029_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	dead	Unknown	dead		 	9	Study Enrollment	 	 	University of Louisville	dead
+case	ARDaC-AlcHepNet	31030_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 	372	Study Enrollment	 	 	University of Louisville	dead
+case	ARDaC-AlcHepNet	31031_obs	obs	 	 	 	Unknown	 	Healthy Donor	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	University of Louisville	alive
+case	ARDaC-AlcHepNet	31032_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	Unknown	Unknown	alive		 		Study Enrollment	 	 	University of Louisville	alive
+case	ARDaC-AlcHepNet	31033_clinical	clinical	Anakinra + Zinc	 	 	No	 	 	 	No	alive	No	alive		 		Study Enrollment	 	Low(<=25)	University of Louisville	alive
+case	ARDaC-AlcHepNet	31034_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	University of Louisville	alive
+case	ARDaC-AlcHepNet	31035_obs	obs	 	 	 	Unknown	 	Healthy Donor	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	University of Louisville	alive
+case	ARDaC-AlcHepNet	31036_clinical	clinical	Prednisone	 	 	No	 	 	 	Unknown	Unknown	No	alive		 		Study Enrollment	 	Low(<=25)	University of Louisville	alive
+case	ARDaC-AlcHepNet	31037_obs	obs	 	 	 	Unknown	 	Healthy Donor	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	University of Louisville	alive
+case	ARDaC-AlcHepNet	31038_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	University of Louisville	alive
+case	ARDaC-AlcHepNet	31039_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	University of Louisville	alive
+case	ARDaC-AlcHepNet	31040_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	University of Louisville	alive
+case	ARDaC-AlcHepNet	31041_clinical	clinical	Prednisone	 	 	No	 	 	 	Unknown	Unknown	No	alive		 		Study Enrollment	 	Low(<=25)	University of Louisville	alive
+case	ARDaC-AlcHepNet	31042_clinical	clinical	Prednisone	 	 	Yes	 	 	 	Yes	dead	No	alive	112	 	119	Study Enrollment	 	High(>25)	University of Louisville	dead
+case	ARDaC-AlcHepNet	31043_clinical	clinical	Anakinra + Zinc	 	 	No	 	 	 	No	alive	No	alive		 		Study Enrollment	 	Low(<=25)	University of Louisville	alive
+case	ARDaC-AlcHepNet	31044_clinical	clinical	Anakinra + Zinc	 	 	No	 	 	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	Low(<=25)	University of Louisville	alive
+case	ARDaC-AlcHepNet	31045_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	University of Louisville	alive
+case	ARDaC-AlcHepNet	31047_clinical	clinical	Prednisone	 	 	Yes	 	 	 	Yes	dead	Yes	dead	8	 	9	Study Enrollment	 	High(>25)	University of Louisville	dead
+case	ARDaC-AlcHepNet	31048_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	University of Louisville	alive
+case	ARDaC-AlcHepNet	31049_clinical	clinical	Anakinra + Zinc	 	 	Yes	 	 	 	Yes	Unknown	Yes	Unknown	16	 		Study Enrollment	 	High(>25)	University of Louisville	alive
+case	ARDaC-AlcHepNet	31050_clinical	clinical	Prednisone	 	 	No	 	 	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	Low(<=25)	University of Louisville	alive
+case	ARDaC-AlcHepNet	31051_clinical	clinical	Anakinra + Zinc	 	 	No	 	 	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	Low(<=25)	University of Louisville	alive
+case	ARDaC-AlcHepNet	31052_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	dead	Unknown	dead		 	21	Study Enrollment	 	 	University of Louisville	dead
+case	ARDaC-AlcHepNet	31053_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	University of Louisville	alive
+case	ARDaC-AlcHepNet	31054_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	alive		 		Study Enrollment	 	 	University of Louisville	alive
+case	ARDaC-AlcHepNet	31055_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	dead	Unknown	dead		 	14	Study Enrollment	 	 	University of Louisville	dead
+case	ARDaC-AlcHepNet	31056_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	University of Louisville	alive
+case	ARDaC-AlcHepNet	31057_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	University of Louisville	alive
+case	ARDaC-AlcHepNet	31058_clinical	clinical	Anakinra + Zinc	 	 	No	 	 	 	No	alive	No	alive		 		Study Enrollment	 	High(>25)	University of Louisville	alive
+case	ARDaC-AlcHepNet	31059_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	Unknown	Unknown	alive		 		Study Enrollment	 	 	University of Louisville	alive
+case	ARDaC-AlcHepNet	31060_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	University of Louisville	alive
+case	ARDaC-AlcHepNet	31061_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	University of Louisville	alive
+case	ARDaC-AlcHepNet	31062_clinical	clinical	Prednisone	 	 	No	 	 	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	Low(<=25)	University of Louisville	alive
+case	ARDaC-AlcHepNet	31063_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	dead	Unknown	dead		 	50	Study Enrollment	 	 	University of Louisville	dead
+case	ARDaC-AlcHepNet	31064_clinical	clinical	Anakinra + Zinc	 	 	Yes	 	 	 	Yes	Unknown	No	alive	168	 		Study Enrollment	 	Low(<=25)	University of Louisville	alive
+case	ARDaC-AlcHepNet	31065_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	University of Louisville	alive
+case	ARDaC-AlcHepNet	31066_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	University of Louisville	alive
+case	ARDaC-AlcHepNet	31067_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	University of Louisville	alive
+case	ARDaC-AlcHepNet	31068_clinical	clinical	Anakinra + Zinc	 	 	No	 	 	 	Unknown	dead	Unknown	dead		 	19	Study Enrollment	 	Low(<=25)	University of Louisville	dead
+case	ARDaC-AlcHepNet	31069_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	University of Louisville	alive
+case	ARDaC-AlcHepNet	31070_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	University of Louisville	alive
+case	ARDaC-AlcHepNet	31071_clinical	clinical	Prednisone	 	 	No	 	 	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	Low(<=25)	University of Louisville	alive
+case	ARDaC-AlcHepNet	31073_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	University of Louisville	alive
+case	ARDaC-AlcHepNet	31074_clinical	clinical	Prednisone	 	 	No	 	 	 	Unknown	Unknown	No	alive		 		Study Enrollment	 	Low(<=25)	University of Louisville	alive
+case	ARDaC-AlcHepNet	31075_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	University of Louisville	alive
+case	ARDaC-AlcHepNet	31076_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 	395	Study Enrollment	 	 	University of Louisville	dead
+case	ARDaC-AlcHepNet	31077_clinical	clinical	Anakinra + Zinc	 	 	Yes	 	 	 	Yes	dead	Yes	dead	15	 	28	Study Enrollment	 	High(>25)	University of Louisville	dead
+case	ARDaC-AlcHepNet	31078_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	University of Louisville	alive
+case	ARDaC-AlcHepNet	31079_clinical	clinical	Anakinra + Zinc	 	 	No	 	 	 	Unknown	dead	Unknown	dead		 	80	Study Enrollment	 	Low(<=25)	University of Louisville	dead
+case	ARDaC-AlcHepNet	31080_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	University of Louisville	alive
+case	ARDaC-AlcHepNet	31081_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	University of Louisville	alive
+case	ARDaC-AlcHepNet	31082_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	University of Louisville	alive
+case	ARDaC-AlcHepNet	31083_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	University of Louisville	alive
+case	ARDaC-AlcHepNet	31084_obs	obs	 	 	 	Unknown	 	Healthy Donor	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	University of Louisville	alive
+case	ARDaC-AlcHepNet	31085_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	University of Louisville	alive
+case	ARDaC-AlcHepNet	31086_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	University of Louisville	alive
+case	ARDaC-AlcHepNet	31087_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	dead	Unknown	alive		 	153	Study Enrollment	 	 	University of Louisville	dead
+case	ARDaC-AlcHepNet	31088_obs	obs	 	 	 	Unknown	 	Healthy Donor	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	University of Louisville	alive
+case	ARDaC-AlcHepNet	31089_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	University of Louisville	alive
+case	ARDaC-AlcHepNet	31090_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	dead	Unknown	dead		 	28	Study Enrollment	 	 	University of Louisville	dead
+case	ARDaC-AlcHepNet	31091_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	University of Louisville	alive
+case	ARDaC-AlcHepNet	31092_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	Unknown	Unknown	alive		 		Study Enrollment	 	 	University of Louisville	alive
+case	ARDaC-AlcHepNet	31093_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	Unknown	Unknown	alive		 		Study Enrollment	 	 	University of Louisville	alive
+case	ARDaC-AlcHepNet	31094_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	Unknown	Unknown	alive		 		Study Enrollment	 	 	University of Louisville	alive
+case	ARDaC-AlcHepNet	31095_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	Unknown	Unknown	alive		 		Study Enrollment	 	 	University of Louisville	alive
+case	ARDaC-AlcHepNet	31096_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	Unknown	Unknown	alive		 		Study Enrollment	 	 	University of Louisville	alive
+case	ARDaC-AlcHepNet	31097_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	Unknown	Unknown	alive		 		Study Enrollment	 	 	University of Louisville	alive
+case	ARDaC-AlcHepNet	31098_obs	obs	 	 	 	Unknown	 	Healthy Donor	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	University of Louisville	alive
+case	ARDaC-AlcHepNet	31099_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	Unknown	Unknown	alive		 		Study Enrollment	 	 	University of Louisville	alive
+case	ARDaC-AlcHepNet	31100_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	University of Louisville	alive
+case	ARDaC-AlcHepNet	31101_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	University of Louisville	alive
+case	ARDaC-AlcHepNet	31102_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	University of Louisville	alive
+case	ARDaC-AlcHepNet	31103_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	University of Louisville	alive
+case	ARDaC-AlcHepNet	31104_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	University of Louisville	alive
+case	ARDaC-AlcHepNet	31107_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	University of Louisville	alive
+case	ARDaC-AlcHepNet	31108_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	University of Louisville	alive
+case	ARDaC-AlcHepNet	41001_obs	obs	 	 	 	Unknown	 	Healthy Donor	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	UMass Medical School	alive
+case	ARDaC-AlcHepNet	41002_obs	obs	 	 	 	Unknown	 	Healthy Donor	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	UMass Medical School	alive
+case	ARDaC-AlcHepNet	41003_obs	obs	 	 	 	Unknown	 	Healthy Donor	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	UMass Medical School	alive
+case	ARDaC-AlcHepNet	41004_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	dead	Unknown	dead		 	63	Study Enrollment	 	 	UMass Medical School	dead
+case	ARDaC-AlcHepNet	41005_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	UMass Medical School	alive
+case	ARDaC-AlcHepNet	41006_obs	obs	 	 	 	Unknown	 	Healthy Donor	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	UMass Medical School	alive
+case	ARDaC-AlcHepNet	41007_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	UMass Medical School	alive
+case	ARDaC-AlcHepNet	41008_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	Unknown	Unknown	alive		 		Study Enrollment	 	 	UMass Medical School	alive
+case	ARDaC-AlcHepNet	41009_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	UMass Medical School	alive
+case	ARDaC-AlcHepNet	41010_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	UMass Medical School	alive
+case	ARDaC-AlcHepNet	41011_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	UMass Medical School	alive
+case	ARDaC-AlcHepNet	41012_obs	obs	 	 	 	Unknown	 	Healthy Donor	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	UMass Medical School	alive
+case	ARDaC-AlcHepNet	41013_obs	obs	 	 	 	Unknown	 	Healthy Donor	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	UMass Medical School	alive
+case	ARDaC-AlcHepNet	41014_obs	obs	 	 	 	Unknown	 	Healthy Donor	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	UMass Medical School	alive
+case	ARDaC-AlcHepNet	41015_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	UMass Medical School	alive
+case	ARDaC-AlcHepNet	41016_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	UMass Medical School	alive
+case	ARDaC-AlcHepNet	41017_obs	obs	 	 	 	Unknown	 	Healthy Donor	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	UMass Medical School	alive
+case	ARDaC-AlcHepNet	41018_obs	obs	 	 	 	Unknown	 	Healthy Donor	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	UMass Medical School	alive
+case	ARDaC-AlcHepNet	41019_obs	obs	 	 	 	Unknown	 	Healthy Donor	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	UMass Medical School	alive
+case	ARDaC-AlcHepNet	41020_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	UMass Medical School	alive
+case	ARDaC-AlcHepNet	41021_obs	obs	 	 	 	Unknown	 	Healthy Donor	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	UMass Medical School	alive
+case	ARDaC-AlcHepNet	41023_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	dead	Unknown	dead		 	24	Study Enrollment	 	 	UMass Medical School	dead
+case	ARDaC-AlcHepNet	41024_obs	obs	 	 	 	Unknown	 	Healthy Donor	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	UMass Medical School	alive
+case	ARDaC-AlcHepNet	41025_obs	obs	 	 	 	Unknown	 	Healthy Donor	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	UMass Medical School	alive
+case	ARDaC-AlcHepNet	41026_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	UMass Medical School	alive
+case	ARDaC-AlcHepNet	41027_obs	obs	 	 	 	Unknown	 	Healthy Donor	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	UMass Medical School	alive
+case	ARDaC-AlcHepNet	41028_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	Unknown	Unknown	alive		 		Study Enrollment	 	 	UMass Medical School	alive
+case	ARDaC-AlcHepNet	41029_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	UMass Medical School	alive
+case	ARDaC-AlcHepNet	42001_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	BIDMC	alive
+case	ARDaC-AlcHepNet	42002_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	BIDMC	alive
+case	ARDaC-AlcHepNet	42003_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	dead	Unknown	dead		 	90	Study Enrollment	 	 	BIDMC	dead
+case	ARDaC-AlcHepNet	42004_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	BIDMC	alive
+case	ARDaC-AlcHepNet	42005_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	dead	Unknown	dead		 	12	Study Enrollment	 	 	BIDMC	dead
+case	ARDaC-AlcHepNet	42006_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	BIDMC	alive
+case	ARDaC-AlcHepNet	42007_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	dead	Unknown	dead		 	28	Study Enrollment	 	 	BIDMC	dead
+case	ARDaC-AlcHepNet	42008_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	BIDMC	alive
+case	ARDaC-AlcHepNet	42009_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	BIDMC	alive
+case	ARDaC-AlcHepNet	42010_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	BIDMC	alive
+case	ARDaC-AlcHepNet	42011_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	BIDMC	alive
+case	ARDaC-AlcHepNet	42012_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	BIDMC	alive
+case	ARDaC-AlcHepNet	42013_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	BIDMC	alive
+case	ARDaC-AlcHepNet	42014_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	BIDMC	alive
+case	ARDaC-AlcHepNet	42015_clinical	clinical	Prednisone	 	 	No	 	 	 	No	alive	No	alive		 		Study Enrollment	 	Low(<=25)	BIDMC	alive
+case	ARDaC-AlcHepNet	42016_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	BIDMC	alive
+case	ARDaC-AlcHepNet	42017_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	dead	Unknown	dead		 	7	Study Enrollment	 	 	BIDMC	dead
+case	ARDaC-AlcHepNet	42018_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	BIDMC	alive
+case	ARDaC-AlcHepNet	42019_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	BIDMC	alive
+case	ARDaC-AlcHepNet	42020_clinical	clinical	Prednisone	 	 	No	 	 	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	High(>25)	BIDMC	alive
+case	ARDaC-AlcHepNet	42021_clinical	clinical	Prednisone	 	 	No	 	 	 	No	alive	No	alive		 		Study Enrollment	 	Low(<=25)	BIDMC	alive
+case	ARDaC-AlcHepNet	42022_clinical	clinical	Anakinra + Zinc	 	 	No	 	 	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	High(>25)	BIDMC	alive
+case	ARDaC-AlcHepNet	42023_clinical	clinical	Anakinra + Zinc	 	 	No	 	 	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	Low(<=25)	BIDMC	alive
+case	ARDaC-AlcHepNet	42024_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	dead	Unknown	dead		 	28	Study Enrollment	 	 	BIDMC	dead
+case	ARDaC-AlcHepNet	42025_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	BIDMC	alive
+case	ARDaC-AlcHepNet	42026_clinical	clinical	Anakinra + Zinc	 	 	No	 	 	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	Low(<=25)	BIDMC	alive
+case	ARDaC-AlcHepNet	42027_clinical	clinical	Prednisone	 	 	No	 	 	 	No	alive	No	alive		 		Study Enrollment	 	Low(<=25)	BIDMC	alive
+case	ARDaC-AlcHepNet	42028_clinical	clinical	Anakinra + Zinc	 	 	Yes	 	 	 	Yes	dead	No	alive	92	 	131	Study Enrollment	 	High(>25)	BIDMC	dead
+case	ARDaC-AlcHepNet	42029_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	BIDMC	alive
+case	ARDaC-AlcHepNet	42031_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	BIDMC	alive
+case	ARDaC-AlcHepNet	42032_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	BIDMC	alive
+case	ARDaC-AlcHepNet	42033_clinical	clinical	Prednisone	 	 	No	 	 	 	No	alive	No	alive		 		Study Enrollment	 	Low(<=25)	BIDMC	alive
+case	ARDaC-AlcHepNet	42034_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	alive		 		Study Enrollment	 	 	BIDMC	alive
+case	ARDaC-AlcHepNet	42035_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	alive		 		Study Enrollment	 	 	BIDMC	alive
+case	ARDaC-AlcHepNet	42036_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	alive		 		Study Enrollment	 	 	BIDMC	alive
+case	ARDaC-AlcHepNet	42037_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	alive		 		Study Enrollment	 	 	BIDMC	alive
+case	ARDaC-AlcHepNet	42038_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	alive		 		Study Enrollment	 	 	BIDMC	alive
+case	ARDaC-AlcHepNet	42039_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	BIDMC	alive
+case	ARDaC-AlcHepNet	42040_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	BIDMC	alive
+case	ARDaC-AlcHepNet	42041_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	BIDMC	alive
+case	ARDaC-AlcHepNet	51001_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	Unknown	Unknown	alive		 		Study Enrollment	 	 	Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51002_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51003_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 	714	Study Enrollment	 	 	Mayo Clinic	dead
+case	ARDaC-AlcHepNet	51004_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51005_obs	obs	 	 	 	Unknown	 	Healthy Donor	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51006_obs	obs	 	 	 	Unknown	 	Healthy Donor	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51007_obs	obs	 	 	 	Unknown	 	Healthy Donor	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51008_obs	obs	 	 	 	Unknown	 	Healthy Donor	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51009_obs	obs	 	 	 	Unknown	 	Healthy Donor	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51010_obs	obs	 	 	 	Unknown	 	Healthy Donor	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51011_obs	obs	 	 	 	Unknown	 	Healthy Donor	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51012_obs	obs	 	 	 	Unknown	 	Healthy Donor	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51013_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51014_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51015_obs	obs	 	 	 	Unknown	 	Healthy Donor	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51016_obs	obs	 	 	 	Unknown	 	Healthy Donor	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51017_obs	obs	 	 	 	Unknown	 	Healthy Donor	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51018_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 	251	Study Enrollment	 	 	Mayo Clinic	dead
+case	ARDaC-AlcHepNet	51019_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51021_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 	399	Study Enrollment	 	 	Mayo Clinic	dead
+case	ARDaC-AlcHepNet	51022_obs	obs	 	 	 	Unknown	 	Healthy Donor	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51023_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51024_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51025_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51026_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51027_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 	728	Study Enrollment	 	 	Mayo Clinic	dead
+case	ARDaC-AlcHepNet	51028_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51029_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51030_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51031_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51032_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51033_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51034_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	alive		 		Study Enrollment	 	 	Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51035_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51036_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	Unknown	Unknown	alive		 		Study Enrollment	 	 	Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51037_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51038_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51039_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51040_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	alive		 		Study Enrollment	 	 	Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51041_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	Unknown	Unknown	alive		 		Study Enrollment	 	 	Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51042_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51043_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	alive		 		Study Enrollment	 	 	Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51044_obs	obs	 	 	 	Unknown	 	Healthy Donor	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51045_obs	obs	 	 	 	Unknown	 	Healthy Donor	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51046_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 	723	Study Enrollment	 	 	Mayo Clinic	dead
+case	ARDaC-AlcHepNet	51047_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51048_obs	obs	 	 	 	Unknown	 	Healthy Donor	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51049_obs	obs	 	 	 	Unknown	 	Healthy Donor	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51050_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 	589	Study Enrollment	 	 	Mayo Clinic	dead
+case	ARDaC-AlcHepNet	51051_obs	obs	 	 	 	Unknown	 	Healthy Donor	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51052_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 	621	Study Enrollment	 	 	Mayo Clinic	dead
+case	ARDaC-AlcHepNet	51053_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51054_clinical	clinical	Anakinra + Zinc	 	 	No	 	 	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	High(>25)	Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51055_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51056_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51057_clinical	clinical	Prednisone	 	 	No	 	 	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	Low(<=25)	Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51058_clinical	clinical	Anakinra + Zinc	 	 	Yes	 	 	 	Yes	dead	Yes	dead	3	 	10	Study Enrollment	 	High(>25)	Mayo Clinic	dead
+case	ARDaC-AlcHepNet	51059_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51061_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	dead	Unknown	dead		 	19	Study Enrollment	 	 	Mayo Clinic	dead
+case	ARDaC-AlcHepNet	51062_clinical	clinical	Anakinra + Zinc	 	 	Yes	 	 	 	Yes	Unknown	Yes	alive	11	 		Study Enrollment	 	Low(<=25)	Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51063_clinical	clinical	Prednisone	 	 	No	 	 	 	No	alive	No	alive		 		Study Enrollment	 	High(>25)	Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51064_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51065_obs	obs	 	 	 	Unknown	 	Healthy Donor	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51066_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51067_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51068_obs	obs	 	 	 	Unknown	 	Healthy Donor	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51069_clinical	clinical	Prednisone	 	 	No	 	 	 	No	alive	No	alive		 		Study Enrollment	 	High(>25)	Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51070_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51071_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	dead	Unknown	alive		 	147	Study Enrollment	 	 	Mayo Clinic	dead
+case	ARDaC-AlcHepNet	51072_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	alive		 		Study Enrollment	 	 	Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51073_clinical	clinical	Anakinra + Zinc	 	 	No	 	 	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	High(>25)	Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51074_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51075_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51076_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51077_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51078_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51079_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51080_clinical	clinical	Anakinra + Zinc	 	 	No	 	 	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	High(>25)	Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51081_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51082_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51083_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51084_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	dead	Unknown	alive		 	152	Study Enrollment	 	 	Mayo Clinic	dead
+case	ARDaC-AlcHepNet	51085_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51086_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51087_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51088_clinical	clinical	Anakinra + Zinc	 	 	Yes	 	 	 	Yes	dead	Yes	dead	14	 	73	Study Enrollment	 	Low(<=25)	Mayo Clinic	dead
+case	ARDaC-AlcHepNet	51089_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51090_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51091_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 	317	Study Enrollment	 	 	Mayo Clinic	dead
+case	ARDaC-AlcHepNet	51092_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51093_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51094_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51095_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51096_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	dead	Unknown	dead		 	27	Study Enrollment	 	 	Mayo Clinic	dead
+case	ARDaC-AlcHepNet	51097_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51098_clinical	clinical	Prednisone	 	 	No	 	 	 	No	alive	No	alive		 		Study Enrollment	 	High(>25)	Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51099_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51100_clinical	clinical	Prednisone	 	 	No	 	 	 	No	alive	No	alive		 		Study Enrollment	 	Low(<=25)	Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51101_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51102_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51103_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	dead	Unknown	dead		 	48	Study Enrollment	 	 	Mayo Clinic	dead
+case	ARDaC-AlcHepNet	51104_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51105_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51106_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51107_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51108_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51109_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51110_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	Unknown	Unknown	alive		 		Study Enrollment	 	 	Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51111_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	Unknown	Unknown	alive		 		Study Enrollment	 	 	Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51112_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	Unknown	Unknown	alive		 		Study Enrollment	 	 	Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51113_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	Unknown	Unknown	alive		 		Study Enrollment	 	 	Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51114_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51115_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51116_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	Unknown	Unknown	alive		 		Study Enrollment	 	 	Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51117_obs	obs	 	 	 	Unknown	 	Healthy Donor	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51118_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51119_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51120_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	Unknown	Unknown	alive		 		Study Enrollment	 	 	Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51121_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	alive		 		Study Enrollment	 	 	Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51122_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	Unknown	Unknown	alive		 		Study Enrollment	 	 	Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51123_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51124_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	Unknown	Unknown	alive		 		Study Enrollment	 	 	Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51125_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	alive		 		Study Enrollment	 	 	Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51126_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51127_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51128_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Mayo Clinic	alive
+case	ARDaC-AlcHepNet	52001_clinical	clinical	Anakinra + Zinc	 	 	No	 	 	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	Low(<=25)	Mayo Clinic - AZ	alive
+case	ARDaC-AlcHepNet	52003_clinical	clinical	Prednisone	 	 	No	 	 	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	High(>25)	Mayo Clinic - AZ	alive
+case	ARDaC-AlcHepNet	52004_clinical	clinical	Prednisone	 	 	No	 	 	 	Unknown	Unknown	No	alive		 		Study Enrollment	 	High(>25)	Mayo Clinic - AZ	alive
+case	ARDaC-AlcHepNet	52005_clinical	clinical	Anakinra + Zinc	 	 	Yes	 	 	 	Yes	dead	Yes	dead	8	 	13	Study Enrollment	 	High(>25)	Mayo Clinic - AZ	dead
+case	ARDaC-AlcHepNet	52006_clinical	clinical	Prednisone	 	 	No	 	 	 	No	alive	No	alive		 		Study Enrollment	 	Low(<=25)	Mayo Clinic - AZ	alive
+case	ARDaC-AlcHepNet	52007_clinical	clinical	Anakinra + Zinc	 	 	No	 	 	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	High(>25)	Mayo Clinic - AZ	alive
+case	ARDaC-AlcHepNet	53003_clinical	clinical	Prednisone	 	 	No	 	 	 	No	alive	No	alive		 		Study Enrollment	 	High(>25)	Mayo Clinic - FL	alive
+case	ARDaC-AlcHepNet	53004_clinical	clinical	Anakinra + Zinc	 	 	Yes	 	 	 	Yes	alive	Yes	alive	20	 		Study Enrollment	 	High(>25)	Mayo Clinic - FL	alive
+case	ARDaC-AlcHepNet	61001_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	alive		 		Study Enrollment	 	 	University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61002_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 	212	Study Enrollment	 	 	University of Pittsburgh	dead
+case	ARDaC-AlcHepNet	61003_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61004_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	alive		 		Study Enrollment	 	 	University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61005_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61006_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61007_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61008_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61009_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	dead	Unknown	dead		 	22	Study Enrollment	 	 	University of Pittsburgh	dead
+case	ARDaC-AlcHepNet	61010_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	dead	Unknown	alive		 	127	Study Enrollment	 	 	University of Pittsburgh	dead
+case	ARDaC-AlcHepNet	61011_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61012_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	dead	Unknown	dead		 	2	Study Enrollment	 	 	University of Pittsburgh	dead
+case	ARDaC-AlcHepNet	61013_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61014_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	dead	Unknown	dead		 	36	Study Enrollment	 	 	University of Pittsburgh	dead
+case	ARDaC-AlcHepNet	61015_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	alive		 		Study Enrollment	 	 	University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61016_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	dead	Unknown	alive		 	112	Study Enrollment	 	 	University of Pittsburgh	dead
+case	ARDaC-AlcHepNet	61017_obs	obs	 	 	 	Unknown	 	Healthy Donor	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61018_obs	obs	 	 	 	Unknown	 	Healthy Donor	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61019_obs	obs	 	 	 	Unknown	 	Healthy Donor	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61020_obs	obs	 	 	 	Unknown	 	Healthy Donor	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61022_obs	obs	 	 	 	Unknown	 	Healthy Donor	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61023_obs	obs	 	 	 	Unknown	 	Healthy Donor	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61024_obs	obs	 	 	 	Unknown	 	Healthy Donor	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61025_obs	obs	 	 	 	Unknown	 	Healthy Donor	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61026_obs	obs	 	 	 	Unknown	 	Healthy Donor	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61027_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	alive		 		Study Enrollment	 	 	University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61028_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61029_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61030_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	dead	Unknown	dead		 	17	Study Enrollment	 	 	University of Pittsburgh	dead
+case	ARDaC-AlcHepNet	61031_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	dead	Unknown	dead		 	23	Study Enrollment	 	 	University of Pittsburgh	dead
+case	ARDaC-AlcHepNet	61032_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	alive		 		Study Enrollment	 	 	University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61033_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61034_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	dead	Unknown	dead		 	37	Study Enrollment	 	 	University of Pittsburgh	dead
+case	ARDaC-AlcHepNet	61035_clinical	clinical	Not Treated	 	 	Unknown	 	 	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	Low(<=25)	University of Pittsburgh	Unknown
+case	ARDaC-AlcHepNet	61036_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	dead	Unknown	dead		 	22	Study Enrollment	 	 	University of Pittsburgh	dead
+case	ARDaC-AlcHepNet	61037_clinical	clinical	Prednisone	 	 	No	 	 	 	Unknown	Unknown	No	alive		 		Study Enrollment	 	Low(<=25)	University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61038_clinical	clinical	Anakinra + Zinc	 	 	Yes	 	 	 	Yes	dead	Yes	dead	6	 	27	Study Enrollment	 	High(>25)	University of Pittsburgh	dead
+case	ARDaC-AlcHepNet	61039_clinical	clinical	Prednisone	 	 	No	 	 	 	No	alive	No	alive		 		Study Enrollment	 	High(>25)	University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61040_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61041_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61042_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61043_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	dead	Unknown	alive		 	133	Study Enrollment	 	 	University of Pittsburgh	dead
+case	ARDaC-AlcHepNet	61044_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61045_clinical	clinical	Anakinra + Zinc	 	 	No	 	 	 	Unknown	Unknown	No	alive		 		Study Enrollment	 	High(>25)	University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61046_clinical	clinical	Anakinra + Zinc	 	 	No	 	 	 	Unknown	Unknown	No	alive		 		Study Enrollment	 	Low(<=25)	University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61047_clinical	clinical	Prednisone	 	 	No	 	 	 	Unknown	dead	Unknown	dead		 	33	Study Enrollment	 	High(>25)	University of Pittsburgh	dead
+case	ARDaC-AlcHepNet	61048_clinical	clinical	Anakinra + Zinc	 	 	No	 	 	 	Unknown	dead	Unknown	dead		 	6	Study Enrollment	 	High(>25)	University of Pittsburgh	dead
+case	ARDaC-AlcHepNet	61049_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	dead	Unknown	dead		 	32	Study Enrollment	 	 	University of Pittsburgh	dead
+case	ARDaC-AlcHepNet	61050_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	dead	Unknown	dead		 	22	Study Enrollment	 	 	University of Pittsburgh	dead
+case	ARDaC-AlcHepNet	61051_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61052_clinical	clinical	Prednisone	 	 	No	 	 	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	High(>25)	University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61053_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61054_clinical	clinical	Anakinra + Zinc	 	 	Yes	 	 	 	Yes	alive	Yes	alive	2	 		Study Enrollment	 	Low(<=25)	University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61055_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	Unknown	Unknown	alive		 		Study Enrollment	 	 	University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61056_clinical	clinical	Prednisone	 	 	No	 	 	 	No	alive	No	alive		 		Study Enrollment	 	Low(<=25)	University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61057_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	Unknown	Unknown	alive		 		Study Enrollment	 	 	University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61058_clinical	clinical	Anakinra + Zinc	 	 	Yes	 	 	 	Yes	dead	Yes	dead	0	 	10	Study Enrollment	 	High(>25)	University of Pittsburgh	dead
+case	ARDaC-AlcHepNet	61059_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61060_clinical	clinical	Anakinra + Zinc	 	 	No	 	 	 	No	alive	No	alive		 		Study Enrollment	 	Low(<=25)	University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61061_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61062_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61063_clinical	clinical	Prednisone	 	 	No	 	 	 	Unknown	Unknown	No	alive		 		Study Enrollment	 	Low(<=25)	University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61065_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61066_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	dead	Unknown	dead		 	17	Study Enrollment	 	 	University of Pittsburgh	dead
+case	ARDaC-AlcHepNet	61067_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61068_obs	obs	 	 	 	Unknown	 	Healthy Donor	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61069_obs	obs	 	 	 	Unknown	 	Healthy Donor	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61070_obs	obs	 	 	 	Unknown	 	Healthy Donor	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	University of Pittsburgh	Unknown
+case	ARDaC-AlcHepNet	61071_obs	obs	 	 	 	Unknown	 	Healthy Donor	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	University of Pittsburgh	Unknown
+case	ARDaC-AlcHepNet	61072_obs	obs	 	 	 	Unknown	 	Healthy Donor	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61073_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	alive		 		Study Enrollment	 	 	University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61074_obs	obs	 	 	 	Unknown	 	Healthy Donor	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61075_obs	obs	 	 	 	Unknown	 	Healthy Donor	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61076_obs	obs	 	 	 	Unknown	 	Healthy Donor	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61077_obs	obs	 	 	 	Unknown	 	Healthy Donor	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61078_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	dead	Unknown	dead		 	35	Study Enrollment	 	 	University of Pittsburgh	dead
+case	ARDaC-AlcHepNet	61079_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	alive		 		Study Enrollment	 	 	University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61080_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	alive		 		Study Enrollment	 	 	University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61081_obs	obs	 	 	 	Unknown	 	Healthy Donor	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61082_obs	obs	 	 	 	Unknown	 	Healthy Donor	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61083_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61084_clinical	clinical	Prednisone	 	 	No	 	 	 	No	alive	No	alive		 		Study Enrollment	 	Low(<=25)	University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61085_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61086_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	alive		 		Study Enrollment	 	 	University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61087_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61088_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61089_obs	obs	 	 	 	Unknown	 	Healthy Donor	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61090_obs	obs	 	 	 	Unknown	 	Healthy Donor	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61091_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	alive		 		Study Enrollment	 	 	University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61092_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61093_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61094_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61095_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61096_obs	obs	 	 	 	Unknown	 	Healthy Donor	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61097_obs	obs	 	 	 	Unknown	 	Healthy Donor	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61098_obs	obs	 	 	 	Unknown	 	Healthy Donor	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61099_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	dead	Unknown	dead		 	49	Study Enrollment	 	 	University of Pittsburgh	dead
+case	ARDaC-AlcHepNet	61100_obs	obs	 	 	 	Unknown	 	Healthy Donor	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61101_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	alive		 		Study Enrollment	 	 	University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61102_obs	obs	 	 	 	Unknown	 	Healthy Donor	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61103_obs	obs	 	 	 	Unknown	 	Healthy Donor	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61104_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61105_obs	obs	 	 	 	Unknown	 	Healthy Donor	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61106_obs	obs	 	 	 	Unknown	 	Healthy Donor	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	71001_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	UT Southwestern	alive
+case	ARDaC-AlcHepNet	71002_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	UT Southwestern	alive
+case	ARDaC-AlcHepNet	71003_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	UT Southwestern	alive
+case	ARDaC-AlcHepNet	71004_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	UT Southwestern	alive
+case	ARDaC-AlcHepNet	71005_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	UT Southwestern	alive
+case	ARDaC-AlcHepNet	71006_obs	obs	 	 	 	Unknown	 	Healthy Donor	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	UT Southwestern	alive
+case	ARDaC-AlcHepNet	71007_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	dead	Unknown	dead		 	45	Study Enrollment	 	 	UT Southwestern	dead
+case	ARDaC-AlcHepNet	71008_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 	340	Study Enrollment	 	 	UT Southwestern	dead
+case	ARDaC-AlcHepNet	71009_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	dead	Unknown	dead		 	57	Study Enrollment	 	 	UT Southwestern	dead
+case	ARDaC-AlcHepNet	71010_clinical	clinical	Anakinra + Zinc	 	 	No	 	 	 	No	alive	No	alive		 		Study Enrollment	 	Low(<=25)	UT Southwestern	alive
+case	ARDaC-AlcHepNet	71011_clinical	clinical	Anakinra + Zinc	 	 	No	 	 	 	No	alive	No	alive		 		Study Enrollment	 	High(>25)	UT Southwestern	alive
+case	ARDaC-AlcHepNet	71012_clinical	clinical	Prednisone	 	 	No	 	 	 	No	alive	No	alive		 		Study Enrollment	 	Low(<=25)	UT Southwestern	alive
+case	ARDaC-AlcHepNet	71013_clinical	clinical	Prednisone	 	 	No	 	 	 	No	alive	No	alive		 		Study Enrollment	 	Low(<=25)	UT Southwestern	alive
+case	ARDaC-AlcHepNet	71014_clinical	clinical	Prednisone	 	 	No	 	 	 	No	alive	No	alive		 		Study Enrollment	 	High(>25)	UT Southwestern	alive
+case	ARDaC-AlcHepNet	71015_obs	obs	 	 	 	Unknown	 	Healthy Donor	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	UT Southwestern	alive
+case	ARDaC-AlcHepNet	71016_clinical	clinical	Prednisone	 	 	Yes	 	 	 	Yes	Unknown	Yes	Unknown	15	 		Study Enrollment	 	High(>25)	UT Southwestern	alive
+case	ARDaC-AlcHepNet	71017_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 	378	Study Enrollment	 	 	UT Southwestern	dead
+case	ARDaC-AlcHepNet	71018_clinical	clinical	Prednisone	 	 	No	 	 	 	Unknown	dead	No	alive		 	97	Study Enrollment	 	High(>25)	UT Southwestern	dead
+case	ARDaC-AlcHepNet	71019_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	UT Southwestern	alive
+case	ARDaC-AlcHepNet	71020_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	dead	Unknown	dead		 	16	Study Enrollment	 	 	UT Southwestern	dead
+case	ARDaC-AlcHepNet	71021_clinical	clinical	Prednisone	 	 	No	 	 	 	No	alive	No	alive		 		Study Enrollment	 	Low(<=25)	UT Southwestern	alive
+case	ARDaC-AlcHepNet	71022_clinical	clinical	Anakinra + Zinc	 	 	No	 	 	 	No	alive	No	alive		 		Study Enrollment	 	Low(<=25)	UT Southwestern	alive
+case	ARDaC-AlcHepNet	71023_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	UT Southwestern	alive
+case	ARDaC-AlcHepNet	71024_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	dead	Unknown	dead		 	13	Study Enrollment	 	 	UT Southwestern	dead
+case	ARDaC-AlcHepNet	71025_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	UT Southwestern	alive
+case	ARDaC-AlcHepNet	71026_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	UT Southwestern	alive
+case	ARDaC-AlcHepNet	71027_obs	obs	 	 	 	Unknown	 	Healthy Donor	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	UT Southwestern	alive
+case	ARDaC-AlcHepNet	71029_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	UT Southwestern	alive
+case	ARDaC-AlcHepNet	71030_obs	obs	 	 	 	Unknown	 	Healthy Donor	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	UT Southwestern	alive
+case	ARDaC-AlcHepNet	71031_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	UT Southwestern	alive
+case	ARDaC-AlcHepNet	71032_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	UT Southwestern	alive
+case	ARDaC-AlcHepNet	71033_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	alive		 		Study Enrollment	 	 	UT Southwestern	alive
+case	ARDaC-AlcHepNet	71034_obs	obs	 	 	 	Unknown	 	Healthy Donor	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	UT Southwestern	alive
+case	ARDaC-AlcHepNet	71035_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	alive		 		Study Enrollment	 	 	UT Southwestern	alive
+case	ARDaC-AlcHepNet	71036_obs	obs	 	 	 	Unknown	 	Healthy Donor	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	UT Southwestern	alive
+case	ARDaC-AlcHepNet	71037_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	UT Southwestern	alive
+case	ARDaC-AlcHepNet	71038_obs	obs	 	 	 	Unknown	 	Healthy Donor	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	UT Southwestern	alive
+case	ARDaC-AlcHepNet	72001_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	UT Southwestern - Parkland	alive
+case	ARDaC-AlcHepNet	72002_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	UT Southwestern - Parkland	alive
+case	ARDaC-AlcHepNet	72003_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 	447	Study Enrollment	 	 	UT Southwestern - Parkland	dead
+case	ARDaC-AlcHepNet	72004_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	dead	Unknown	dead		 	47	Study Enrollment	 	 	UT Southwestern - Parkland	dead
+case	ARDaC-AlcHepNet	72005_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	UT Southwestern - Parkland	alive
+case	ARDaC-AlcHepNet	72006_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	alive		 		Study Enrollment	 	 	UT Southwestern - Parkland	alive
+case	ARDaC-AlcHepNet	72007_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	UT Southwestern - Parkland	alive
+case	ARDaC-AlcHepNet	72008_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	alive		 		Study Enrollment	 	 	UT Southwestern - Parkland	alive
+case	ARDaC-AlcHepNet	72009_clinical	clinical	Prednisone	 	 	No	 	 	 	No	alive	No	alive		 		Study Enrollment	 	High(>25)	UT Southwestern - Parkland	alive
+case	ARDaC-AlcHepNet	72010_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	UT Southwestern - Parkland	alive
+case	ARDaC-AlcHepNet	72011_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	UT Southwestern - Parkland	alive
+case	ARDaC-AlcHepNet	72012_clinical	clinical	Anakinra + Zinc	 	 	No	 	 	 	No	alive	No	alive		 		Study Enrollment	 	Low(<=25)	UT Southwestern - Parkland	alive
+case	ARDaC-AlcHepNet	72013_clinical	clinical	Anakinra + Zinc	 	 	No	 	 	 	No	alive	No	alive		 		Study Enrollment	 	High(>25)	UT Southwestern - Parkland	alive
+case	ARDaC-AlcHepNet	72015_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	UT Southwestern - Parkland	alive
+case	ARDaC-AlcHepNet	72017_clinical	clinical	Anakinra + Zinc	 	 	No	 	 	 	No	alive	No	alive		 		Study Enrollment	 	Low(<=25)	UT Southwestern - Parkland	alive
+case	ARDaC-AlcHepNet	72018_clinical	clinical	Anakinra + Zinc	 	 	No	 	 	 	No	alive	No	alive		 		Study Enrollment	 	Low(<=25)	UT Southwestern - Parkland	alive
+case	ARDaC-AlcHepNet	72019_clinical	clinical	Prednisone	 	 	No	 	 	 	Unknown	Unknown	No	alive		 		Study Enrollment	 	Low(<=25)	UT Southwestern - Parkland	alive
+case	ARDaC-AlcHepNet	72020_clinical	clinical	Anakinra + Zinc	 	 	No	 	 	 	Unknown	Unknown	No	alive		 		Study Enrollment	 	High(>25)	UT Southwestern - Parkland	alive
+case	ARDaC-AlcHepNet	72021_clinical	clinical	Anakinra + Zinc	 	 	Yes	 	 	 	Yes	dead	Yes	dead	13	 	50	Study Enrollment	 	High(>25)	UT Southwestern - Parkland	dead
+case	ARDaC-AlcHepNet	72022_clinical	clinical	Prednisone	 	 	No	 	 	 	No	alive	No	alive		 		Study Enrollment	 	Low(<=25)	UT Southwestern - Parkland	alive
+case	ARDaC-AlcHepNet	72023_clinical	clinical	Anakinra + Zinc	 	 	No	 	 	 	No	alive	No	alive		 	217	Study Enrollment	 	Low(<=25)	UT Southwestern - Parkland	dead
+case	ARDaC-AlcHepNet	72024_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	dead	Unknown	alive		 	131	Study Enrollment	 	 	UT Southwestern - Parkland	dead
+case	ARDaC-AlcHepNet	72025_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	dead	Unknown	dead		 	19	Study Enrollment	 	 	UT Southwestern - Parkland	dead
+case	ARDaC-AlcHepNet	72026_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	dead	Unknown	alive		 	100	Study Enrollment	 	 	UT Southwestern - Parkland	dead
+case	ARDaC-AlcHepNet	72027_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	UT Southwestern - Parkland	alive
+case	ARDaC-AlcHepNet	72028_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	alive		 		Study Enrollment	 	 	UT Southwestern - Parkland	alive
+case	ARDaC-AlcHepNet	72029_clinical	clinical	Anakinra + Zinc	 	 	No	 	 	 	Unknown	Unknown	No	alive		 		Study Enrollment	 	High(>25)	UT Southwestern - Parkland	alive
+case	ARDaC-AlcHepNet	72030_clinical	clinical	Prednisone	 	 	No	 	 	 	Unknown	Unknown	No	alive		 		Study Enrollment	 	Low(<=25)	UT Southwestern - Parkland	alive
+case	ARDaC-AlcHepNet	72031_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	alive		 		Study Enrollment	 	 	UT Southwestern - Parkland	alive
+case	ARDaC-AlcHepNet	72032_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	UT Southwestern - Parkland	alive
+case	ARDaC-AlcHepNet	72033_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	dead	Unknown	dead		 	38	Study Enrollment	 	 	UT Southwestern - Parkland	dead
+case	ARDaC-AlcHepNet	72034_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	UT Southwestern - Parkland	alive
+case	ARDaC-AlcHepNet	72035_clinical	clinical	Prednisone	 	 	No	 	 	 	Unknown	Unknown	No	alive		 		Study Enrollment	 	High(>25)	UT Southwestern - Parkland	alive
+case	ARDaC-AlcHepNet	72036_clinical	clinical	Anakinra + Zinc	 	 	Yes	 	 	 	Yes	dead	Yes	dead	27	 	59	Study Enrollment	 	High(>25)	UT Southwestern - Parkland	dead
+case	ARDaC-AlcHepNet	72037_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	UT Southwestern - Parkland	alive
+case	ARDaC-AlcHepNet	72038_clinical	clinical	Prednisone	 	 	No	 	 	 	No	alive	No	alive		 		Study Enrollment	 	High(>25)	UT Southwestern - Parkland	alive
+case	ARDaC-AlcHepNet	72039_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	alive		 		Study Enrollment	 	 	UT Southwestern - Parkland	alive
+case	ARDaC-AlcHepNet	72040_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	UT Southwestern - Parkland	alive
+case	ARDaC-AlcHepNet	72041_clinical	clinical	Anakinra + Zinc	 	 	No	 	 	 	Unknown	Unknown	No	alive		 		Study Enrollment	 	Low(<=25)	UT Southwestern - Parkland	alive
+case	ARDaC-AlcHepNet	72042_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	UT Southwestern - Parkland	alive
+case	ARDaC-AlcHepNet	72043_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	UT Southwestern - Parkland	alive
+case	ARDaC-AlcHepNet	72044_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	UT Southwestern - Parkland	alive
+case	ARDaC-AlcHepNet	72045_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	dead	Unknown	alive		 	150	Study Enrollment	 	 	UT Southwestern - Parkland	dead
+case	ARDaC-AlcHepNet	72046_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	alive		 		Study Enrollment	 	 	UT Southwestern - Parkland	alive
+case	ARDaC-AlcHepNet	72047_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	alive		 		Study Enrollment	 	 	UT Southwestern - Parkland	alive
+case	ARDaC-AlcHepNet	72048_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	alive		 		Study Enrollment	 	 	UT Southwestern - Parkland	alive
+case	ARDaC-AlcHepNet	72049_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	dead	Unknown	dead		 	7	Study Enrollment	 	 	UT Southwestern - Parkland	dead
+case	ARDaC-AlcHepNet	72050_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	alive		 		Study Enrollment	 	 	UT Southwestern - Parkland	alive
+case	ARDaC-AlcHepNet	72051_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	alive		 		Study Enrollment	 	 	UT Southwestern - Parkland	alive
+case	ARDaC-AlcHepNet	72052_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	alive		 		Study Enrollment	 	 	UT Southwestern - Parkland	alive
+case	ARDaC-AlcHepNet	72053_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	UT Southwestern - Parkland	alive
+case	ARDaC-AlcHepNet	72054_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	UT Southwestern - Parkland	alive
+case	ARDaC-AlcHepNet	72055_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	UT Southwestern - Parkland	alive
+case	ARDaC-AlcHepNet	72056_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	UT Southwestern - Parkland	alive
+case	ARDaC-AlcHepNet	72057_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	UT Southwestern - Parkland	alive
+case	ARDaC-AlcHepNet	72058_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	dead	Unknown	dead		 	38	Study Enrollment	 	 	UT Southwestern - Parkland	dead
+case	ARDaC-AlcHepNet	72059_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	UT Southwestern - Parkland	alive
+case	ARDaC-AlcHepNet	72060_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	UT Southwestern - Parkland	alive
+case	ARDaC-AlcHepNet	81001_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81002_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81003_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	dead	Unknown	dead		 	15	Study Enrollment	 	 	Virginia Commonwealth University	dead
+case	ARDaC-AlcHepNet	81004_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81005_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81006_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	dead	Unknown	dead		 	16	Study Enrollment	 	 	Virginia Commonwealth University	dead
+case	ARDaC-AlcHepNet	81007_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	alive		 		Study Enrollment	 	 	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81008_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81009_obs	obs	 	 	 	Unknown	 	Healthy Donor	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81010_obs	obs	 	 	 	Unknown	 	Healthy Donor	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81011_obs	obs	 	 	 	Unknown	 	Healthy Donor	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81012_obs	obs	 	 	 	Unknown	 	Healthy Donor	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81013_obs	obs	 	 	 	Unknown	 	Healthy Donor	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81015_obs	obs	 	 	 	Unknown	 	Healthy Donor	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81016_obs	obs	 	 	 	Unknown	 	Healthy Donor	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81017_obs	obs	 	 	 	Unknown	 	Healthy Donor	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81018_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	alive		 		Study Enrollment	 	 	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81019_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	dead	Unknown	dead		 	15	Study Enrollment	 	 	Virginia Commonwealth University	dead
+case	ARDaC-AlcHepNet	81020_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81021_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	dead	Unknown	dead		 	2	Study Enrollment	 	 	Virginia Commonwealth University	dead
+case	ARDaC-AlcHepNet	81022_obs	obs	 	 	 	Unknown	 	Healthy Donor	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81023_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	dead	Unknown	dead		 	10	Study Enrollment	 	 	Virginia Commonwealth University	dead
+case	ARDaC-AlcHepNet	81024_obs	obs	 	 	 	Unknown	 	Healthy Donor	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81025_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81026_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	alive		 		Study Enrollment	 	 	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81027_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81028_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81029_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	alive		 		Study Enrollment	 	 	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81030_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81031_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81032_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81033_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81034_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81035_obs	obs	 	 	 	Unknown	 	Healthy Donor	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81036_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	Unknown	Unknown	alive		 		Study Enrollment	 	 	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81037_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81038_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	Unknown	Unknown	alive		 		Study Enrollment	 	 	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81039_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	alive		 		Study Enrollment	 	 	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81040_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 	482	Study Enrollment	 	 	Virginia Commonwealth University	dead
+case	ARDaC-AlcHepNet	81041_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 	413	Study Enrollment	 	 	Virginia Commonwealth University	dead
+case	ARDaC-AlcHepNet	81042_obs	obs	 	 	 	Unknown	 	Healthy Donor	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81043_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	dead	Unknown	dead		 	84	Study Enrollment	 	 	Virginia Commonwealth University	dead
+case	ARDaC-AlcHepNet	81044_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	dead	Unknown	dead		 	86	Study Enrollment	 	 	Virginia Commonwealth University	dead
+case	ARDaC-AlcHepNet	81045_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81046_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	dead	Unknown	alive		 	106	Study Enrollment	 	 	Virginia Commonwealth University	dead
+case	ARDaC-AlcHepNet	81047_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 	187	Study Enrollment	 	 	Virginia Commonwealth University	dead
+case	ARDaC-AlcHepNet	81048_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81049_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 	366	Study Enrollment	 	 	Virginia Commonwealth University	dead
+case	ARDaC-AlcHepNet	81050_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81051_clinical	clinical	Prednisone	 	 	No	 	 	 	Unknown	Unknown	No	alive		 		Study Enrollment	 	Low(<=25)	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81052_clinical	clinical	Anakinra + Zinc	 	 	No	 	 	 	No	alive	No	alive		 		Study Enrollment	 	Low(<=25)	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81053_clinical	clinical	Prednisone	 	 	No	 	 	 	No	alive	No	alive		 		Study Enrollment	 	Low(<=25)	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81054_clinical	clinical	Anakinra + Zinc	 	 	No	 	 	 	Unknown	Unknown	No	alive		 		Study Enrollment	 	Low(<=25)	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81055_clinical	clinical	Anakinra + Zinc	 	 	No	 	 	 	No	alive	No	alive		 		Study Enrollment	 	High(>25)	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81056_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	alive		 		Study Enrollment	 	 	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81057_clinical	clinical	Prednisone	 	 	No	 	 	 	No	alive	No	alive		 		Study Enrollment	 	High(>25)	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81058_clinical	clinical	Anakinra + Zinc	 	 	Yes	 	 	 	Yes	alive	Yes	alive	3	 		Study Enrollment	 	High(>25)	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81059_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81060_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81061_clinical	clinical	Prednisone	 	 	No	 	 	 	No	alive	No	alive		 		Study Enrollment	 	High(>25)	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81062_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 	242	Study Enrollment	 	 	Virginia Commonwealth University	dead
+case	ARDaC-AlcHepNet	81063_clinical	clinical	Prednisone	 	 	No	 	 	 	No	alive	No	alive		 		Study Enrollment	 	High(>25)	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81064_clinical	clinical	Anakinra + Zinc	 	 	No	 	 	 	No	alive	No	alive		 		Study Enrollment	 	Low(<=25)	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81065_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81066_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81067_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81068_clinical	clinical	Prednisone	 	 	No	 	 	 	No	alive	No	alive		 	294	Study Enrollment	 	Low(<=25)	Virginia Commonwealth University	dead
+case	ARDaC-AlcHepNet	81069_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81070_clinical	clinical	Anakinra + Zinc	 	 	Yes	 	 	 	Yes	alive	Yes	alive	26	 		Study Enrollment	 	High(>25)	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81071_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	alive		 		Study Enrollment	 	 	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81072_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81073_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81074_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81075_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	dead	Unknown	dead		 	19	Study Enrollment	 	 	Virginia Commonwealth University	dead
+case	ARDaC-AlcHepNet	81076_clinical	clinical	Prednisone	 	 	No	 	 	 	No	alive	No	alive		 		Study Enrollment	 	High(>25)	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81077_clinical	clinical	Prednisone	 	 	No	 	 	 	Unknown	Unknown	No	alive		 		Study Enrollment	 	Low(<=25)	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81078_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 	202	Study Enrollment	 	 	Virginia Commonwealth University	dead
+case	ARDaC-AlcHepNet	81079_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 	249	Study Enrollment	 	 	Virginia Commonwealth University	dead
+case	ARDaC-AlcHepNet	81080_clinical	clinical	Anakinra + Zinc	 	 	No	 	 	 	No	alive	No	alive		 		Study Enrollment	 	Low(<=25)	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81081_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81082_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	dead	Unknown	dead		 	26	Study Enrollment	 	 	Virginia Commonwealth University	dead
+case	ARDaC-AlcHepNet	81084_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81085_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81086_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81087_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	dead	Unknown	alive		 	175	Study Enrollment	 	 	Virginia Commonwealth University	dead
+case	ARDaC-AlcHepNet	81088_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81089_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81090_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	Unknown	Unknown	alive		 		Study Enrollment	 	 	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81091_clinical	clinical	Prednisone	 	 	Yes	 	 	 	Yes	Unknown	Yes	Unknown	9	 		Study Enrollment	 	Low(<=25)	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81092_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81093_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81094_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81095_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81096_clinical	clinical	Anakinra + Zinc	 	 	No	 	 	 	No	alive	No	alive		 		Study Enrollment	 	High(>25)	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81097_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81098_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81099_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	dead	Unknown	dead		 	6	Study Enrollment	 	 	Virginia Commonwealth University	dead
+case	ARDaC-AlcHepNet	81100_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81101_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81102_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	alive		 		Study Enrollment	 	 	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81103_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 	271	Study Enrollment	 	 	Virginia Commonwealth University	dead
+case	ARDaC-AlcHepNet	81104_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	alive		 		Study Enrollment	 	 	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81105_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	alive		 		Study Enrollment	 	 	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81106_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81107_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81108_clinical	clinical	Prednisone	 	 	Yes	 	 	 	Yes	Unknown	Yes	Unknown	18	 		Study Enrollment	 	High(>25)	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81109_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	dead	Unknown	dead		 	18	Study Enrollment	 	 	Virginia Commonwealth University	dead
+case	ARDaC-AlcHepNet	81110_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	alive		 		Study Enrollment	 	 	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81111_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81112_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	dead	Unknown	alive		 	110	Study Enrollment	 	 	Virginia Commonwealth University	dead
+case	ARDaC-AlcHepNet	81113_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81114_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	alive		 		Study Enrollment	 	 	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81115_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81116_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	dead	Unknown	dead		 	50	Study Enrollment	 	 	Virginia Commonwealth University	dead
+case	ARDaC-AlcHepNet	81117_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	dead	Unknown	dead		 	42	Study Enrollment	 	 	Virginia Commonwealth University	dead
+case	ARDaC-AlcHepNet	81118_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	Unknown	Unknown	alive		 		Study Enrollment	 	 	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81119_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	dead	Unknown	dead		 	9	Study Enrollment	 	 	Virginia Commonwealth University	dead
+case	ARDaC-AlcHepNet	81120_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	dead	Unknown	dead		 	30	Study Enrollment	 	 	Virginia Commonwealth University	dead
+case	ARDaC-AlcHepNet	81121_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	alive		 		Study Enrollment	 	 	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81122_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81123_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81124_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81125_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	alive	Unknown	alive		 		Study Enrollment	 	 	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81126_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	alive		 		Study Enrollment	 	 	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81127_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	dead	Unknown	dead		 	72	Study Enrollment	 	 	Virginia Commonwealth University	dead
+case	ARDaC-AlcHepNet	81128_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	dead	Unknown	dead		 	41	Study Enrollment	 	 	Virginia Commonwealth University	dead
+case	ARDaC-AlcHepNet	81129_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	Unknown	Unknown	alive		 		Study Enrollment	 	 	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81130_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	alive		 		Study Enrollment	 	 	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81131_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	dead	Unknown	dead		 	62	Study Enrollment	 	 	Virginia Commonwealth University	dead
+case	ARDaC-AlcHepNet	81132_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	dead	Unknown	dead		 	33	Study Enrollment	 	 	Virginia Commonwealth University	dead
+case	ARDaC-AlcHepNet	81133_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	alive		 		Study Enrollment	 	 	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81134_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	dead	Unknown	dead		 	20	Study Enrollment	 	 	Virginia Commonwealth University	dead
+case	ARDaC-AlcHepNet	81135_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	alive		 		Study Enrollment	 	 	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81136_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	alive		 		Study Enrollment	 	 	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81137_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81138_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	alive		 		Study Enrollment	 	 	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81139_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	alive		 		Study Enrollment	 	 	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81140_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81141_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81142_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81143_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81144_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81146_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81147_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81148_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81149_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81150_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81151_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81152_obs	obs	 	 	 	Unknown	 	Heavy Drinker with Alcoholic Hepatits	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81153_obs	obs	 	 	 	Unknown	 	Heavy Drinker without Alcoholic Hepatits	 	Unknown	Unknown	Unknown	Unknown		 		Study Enrollment	 	 	Virginia Commonwealth University	alive

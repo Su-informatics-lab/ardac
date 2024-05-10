@@ -1,0 +1,3 @@
+*type	project_id	*submitter_id	*projects.code	*study_name	data_description	study_description	type_of_data
+study	ARDaC-AlcHepNet	obs	AlcHepNet	observational			
+study	ARDaC-AlcHepNet	clinical	AlcHepNet	clinical_trial			
