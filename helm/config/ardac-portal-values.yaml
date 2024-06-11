@@ -11,10 +11,10 @@ fence:
     cloud_providers: {}
     authz:
       # policies automatically given to anyone, even if they are not authenticated
-      anonymous_policies: ['open_data_reader']
+      anonymous_policies: []
 
       # policies automatically given to authenticated users (in addition to their other policies)
-      all_users_policies: ['open_data_reader']
+      all_users_policies: []
 
       groups:
       # ARDaC administrators

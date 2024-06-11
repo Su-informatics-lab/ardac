@@ -5,6 +5,7 @@
 * Install https://docs.rancherdesktop.io/getting-started/installation
 * Once installed and started, review the Troubleshooting. Some warnings may cause problems later on
 * Under Settings -> Virtual Machine Memory 16GB, 8 CPUs. During testing less memory caused the portal (webpack) build to fail
+  * Meaning your machine should have more than 16GB. 32GB is recommended.
 
 ## Gen3 deployment
 Clone the repository and install Gen3. A sample rancher-desktop-values.yaml file is included in the config folder of
@@ -120,8 +121,8 @@ with this:
 now start guppy:
 
 ```
-in gen3/gen3-helm/helm/guppy:  helm dependency build
-in gen3/gen3-helm:  helm upgrade --install guppy ./helm/guppy -f ../jing-su/ardac/helm/config/rancher-desktop-values-guppy.yaml
+in gen3/gen3-helm/helm/guppy:  helm dependency update;helm dependency build
+in gen3/gen3-helm:  helm upgrade --install guppy ./helm/guppy -f ../Su-informatics-lab/ardac/helm/config/rancher-desktop-values-guppy.yaml
 ```
 
 ## Gen3 uninstall
@@ -132,6 +133,15 @@ helm uninstall guppy
 helm uninstall dev
 kubectl delete pvc gen3-elasticsearch-master-gen3-elasticsearch-master-0
 kubectl delete pvc data-dev-postgresql-0
+```
+
+## (Use case) Deploy a code changes to guppy
+
+This is an example scenario if a developer were to change source code in guppy and wants to deploy it:
+```
+in gen3/gen3-helm:  helm uninstall guppy
+in gen3/Su-informatics-lab: docker build -t guppy guppy/.
+in gen3/gen3-helm:  helm upgrade --install guppy ./helm/guppy -f ../Su-informatics-lab/ardac/helm/config/rancher-desktop-values-guppy.yaml
 ```
 
 ## Collection of useful commands
@@ -154,6 +164,14 @@ Helm version > 3.12.3 is not supported. Note that rancher by default auto update
 1. Download https://github.com/helm/helm/releases/tag/v3.12.3 and unpack in an appropriate location
 2. Update the symlink under .rd/bin/helm pointing to that version
 3. Verify with `helm version`
+
+### stream logs failed container "guppy" in pod "guppy-deployment-78cb9bf997-lkmjb" is waiting to start: ErrImageNeverPull for default/guppy-deployment-78cb9bf997-lkmjb (guppy)
+
+Make sure that only rancher-desktop is running on your laptop, not a standalone version of Docker. rancher-desktop has its
+own Docker daemon. Furthermore the steps where we build images needs to be done with the rancher-desktop Docker daemon,
+otherwise the images will not be available. Finally verify the "Diagnostics" tab in rancher-desktop, it will verify
+symlinks on your laptop point to the correct (rancher-desktop) Docker daemon. The symlinks being wrong will result in
+messages such as Docker not running.
 
 ## Sources
 
