@@ -43,16 +43,23 @@ Full documentation on the cluster autoscaler can be found here: https://github.c
 The good news is that the Gen3 team created a handy script that will do all the work for you:
 
 ```bash
-gen3 kube-setup-cluster-autoscaler
+gen3 kube-setup-autoscaler
 ```
 
 The bad news is that this script has not been kept up to date. Specifically, there is a case statement to identify the version of Kubernetes, and at time of writing this only went up to version `1.22+`.
 
 Which leaves two options:
 1. Edit the script to include the version of Kubernetes that you are using, e.g. `1.28+`.
-2. Manually apply the YAML files that the script would have applied, which you can find in `${GEN3_HOME}/kube/services/autoscaler/cluster-autoscaler-autodiscover.yaml`.
+2. Manually apply the YAML file that the script would have applied, which you can find in `${GEN3_HOME}/kube/services/autoscaler/cluster-autoscaler-autodiscover.yaml`.
 
-Option 1 is probably easier. It is probably as simple as editing the first version in the case statement. Then you can simply run the Gen3 setup script as intended.
+Option 2 is probably easier. It should be as simple as replacing the two variables in the deployment section of the YAML. There is one variable for the autoscaler version (`CAS_VERSION`), and one for the cluster name (`VPC_NAME`). Make a copy of the YAML template and then replace those variable names with the actual values and then apply the YAML.
+
+```bash
+kubectl apply -f ./cluster-autoscaler-autodiscover.yaml
+```
+
+>[!NOTE]
+>Gen3 now has support for [Karpenter](https://karpenter.sh/), which is a much better solution for autoscaling. See this document for more details: https://github.com/uc-cdis/cloud-automation/blob/master/doc/karpenter.md.
 
 ## Timeout
 By default workspaces will run until the user terminates their workspace. This can lead to unexpected expenses because even a single workspace will require the autoscaler to provision a node. There is a setting that can be added to the workspace configuration in the `manifest.json` file that is used to deploy the environment. Add the `"--NotebookApp.shutdown_no_activity_timeout=5400"` argument to the `args` section of the container configuration. For example, this config will cause the workspace to shut down after 90 minutes (5400s) of inactivity:
