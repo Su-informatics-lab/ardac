@@ -1,0 +1,156 @@
+mappings:
+  - name: ardac_case
+    doc_type: case
+    type: aggregator
+    root: case
+    props:
+    - name: pat_id
+      src: submitter_id
+    - name: project_id
+    - name: group
+      src: cohort
+    # - name: cohort
+    - name: study_site
+    - name: actarm
+    - name: aki_status
+    - name: days_180_aki
+    - name: days_180_survival
+    - name: days_90_aki
+    - name: days_90_survival
+    - name: days_to_aki
+    parent_props:
+    - path: studies[study_name, study_id:submitter_id]
+    flatten_props:
+    - path: demographics
+      props:
+      - name: gender
+        value_mappings:
+        - female: Female
+        - male: Male
+      - name: race
+        value_mappings:
+        - white: White
+        - black or african american: Black or African American
+        - asian: Asian
+        - Unknown: Unknown
+        - american indian or alaska native: American Indian or Alaska Native
+        - native hawaiian or other pacific islander: Native Hawaiian or other Pacific Islander
+      - name: ethnicity
+        value_mappings:
+        - not hispanic or latino: Not Hispanic or Latino
+        - hispanic or latino : Hispanic or Latino
+        - Unknown: Unknown
+      - name: year_of_birth
+      - name: age_at_index
+    - path: audits
+      props:
+      - name: drinking_frequency
+        src: adt0101
+      - name: drinks_per_day
+        src: adt0102
+      - name: frequency_of_heavy_drinking
+        src: adt0103
+    aggregated_props:
+      - name: visit_day
+        path: follow_ups
+        src: visit_day
+        fn: max
+      - name: visit_day_set
+        path: follow_ups
+        src: visit_day
+        fn: set
+      - name: laboratory_test
+        path: follow_ups.molecular_tests
+        src: laboratory_test
+        fn: set
+
+  - name: ardac_follow_up
+    parent_props:
+      - path: cases[pat_id:submitter_id, case_arm:actarm, case_group:cohort, study_site, aki_status, days_180_aki, days_180_survival, days_90_aki, days_90_survival, days_to_aki].studies[study_name, study_id:submitter_id]
+      - path: demographics[gender, race, ethnicity, year_of_birth, age_at_index]
+        value_mappings:
+        - white: White
+        - black or african american: Black or African American
+        - asian: Asian
+        - Unknown: Unknown
+        - american indian or alaska native: American Indian or Alaska Native
+        - native hawaiian or other pacific islander: Native Hawaiian or other Pacific Islander
+    doc_type: follow_up
+    type: aggregator
+    root: follow_up
+    props:
+      - name: project_id
+      - name: follow_up_id
+        src: submitter_id
+      - name: visit_day
+      - name: bmi
+      - name: child_pugh_score
+      - name: lille_score
+      - name: maddreys_score
+      - name: meld_score
+    aggregated_props:
+      - name: laboratory_test
+        path: molecular_tests
+        src: laboratory_test
+        fn: set
+      - name: specimen_type
+        path: aliquots
+        src: specimen_type
+        fn: set
+    # joining_props:
+    #   - index: case      # the index to join on
+    #     join_on: pat_id # the identifier to join on (it should be in both indices)
+    #     props:
+    #     - name: gender
+    #       src: gender
+    #       fn: set
+
+  - name: ardac_biospecimen
+    doc_type: aliquot
+    type: aggregator
+    root: aliquot
+    props:
+      - name: project_id
+      - name: aliquot_id
+        src: submitter_id
+      - name: specimen_type
+    parent_props:
+      - path: follow_ups[follow_up_id:submitter_id, visit_day].cases[pat_id:submitter_id, case_arm:actarm].studies[study_name, study_id:submitter_id]
+      - path: follow_ups.cases[pat_id:submitter_id, case_arm:actarm, case_group:cohort, study_site, aki_status, days_180_aki, days_180_survival, days_90_aki, days_90_survival, days_to_aki]
+      - path: labs[lab_id:submitter_id, lab_name:name_of_institute]
+      - path: follow_ups.demographics[gender, race, ethnicity, year_of_birth, age_at_index]
+
+  - name: ardac_lab_result
+    doc_type: molecular_test
+    type: aggregator
+    root: molecular_test
+    parent_props:
+      - path: follow_ups[follow_up_id:submitter_id, visit_day].cases[pat_id:submitter_id, case_arm:actarm].studies[study_name, study_id:submitter_id]
+      - path: follow_ups.cases[pat_id:submitter_id, case_arm:actarm, case_group:cohort, study_site, aki_status, days_180_aki, days_180_survival, days_90_aki, days_90_survival, days_to_aki]
+      - path: follow_ups.demographics[gender, race, ethnicity, year_of_birth, age_at_index]
+      - path: aliquots.labs[lab_id:submitter_id, lab_name:name_of_institute]
+    props:
+      - name: project_id
+      - name: molecular_test_id
+        src: submitter_id
+      - name: laboratory_test
+      - name: test_result
+      - name: test_value
+
+  # - name: ardac_lab
+  #   doc_type: lab
+  #   type: aggregator
+  #   root: lab
+  #   props:
+  #     - name: project_id
+  #     - name: submitter_id
+  #     - name: name_of_institute
+    # aggregated_props:
+    #   - name: specimen_type
+    #     path: aliquots
+    #     src: specimen_type
+    #     fn: set
+    #   - name: laboratory_test
+    #     path: aliquots.molecular_tests
+    #     src: laboratory_test
+    #     fn: set

@@ -1,0 +1,23 @@
+.guppy-explorer-visualization__table {
+  margin-top: 20px;
+  width: 100%;
+}
+
+.guppy-explorer-visualization__summary-cards {
+  margin-top: 10px;
+  margin-bottom: 6px;
+}
+
+.guppy-explorer-visualization__charts {
+  margin-bottom: 6px;
+  background-color: var(--g3-color__white);
+}
+
+.guppy-explorer-visualization__connected-filter--hide {
+  display: none;
+}
+
+/* Overrides */
+.recharts-tooltip-wrapper {
+  z-index: 1000;
+}

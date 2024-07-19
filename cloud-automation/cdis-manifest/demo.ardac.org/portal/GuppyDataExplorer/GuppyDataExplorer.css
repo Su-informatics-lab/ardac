@@ -1,0 +1,21 @@
+.guppy-data-explorer {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0 20px 20px 20px;
+}
+
+.guppy-data-explorer__filter {
+  width: 20%;
+  margin-top: 20px;
+}
+
+.guppy-data-explorer__visualization {
+  width: 80%;
+  margin-top: 20px;
+  padding: 0 0 20px 20px;
+}
+
+.guppy-data-explorer__top-banner {
+  width: 100%;
+  margin-top: 10px;
+}
