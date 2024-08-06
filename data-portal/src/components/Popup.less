@@ -1,0 +1,134 @@
+@import '~@gen3/ui-component/dist/css/base.less';
+
+#popup {
+  width: 100%;
+  position: absolute;
+  z-index: 100;
+}
+
+.popup__mask {
+  z-index: 100;
+  position: fixed;
+  overflow-y: scroll;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  left: 0;
+  background: rgba(223, 223, 223, 0.47);
+  padding-top: 10em;
+}
+
+.popup__box {
+  width: 50%;
+  overflow-y: scroll;
+  background: white;
+  margin: auto;
+  overflow: hidden;
+  border-radius: 8px;
+  border: 1px solid @light_gray;
+}
+
+@media screen and (max-width: 820px) {
+  .popup__box {
+    width: unset;
+  }
+}
+
+.popup__title {
+  width: 100%;
+  height: 70px;
+  line-height: 70px;
+  padding: 0 30px;
+  background: @blue;
+  color: #ffffff;
+  display: table;
+}
+
+.popup__icon {
+  float: left;
+  display: table-cell;
+}
+
+.popup__title-text {
+  display: inline-flex;
+}
+
+.popup__close-button {
+  float: right;
+  display: block;
+  height: 80px;
+  width: 80px;
+  border: 0;
+  background: none;
+}
+
+.popup__close-button:hover {
+  cursor: pointer;
+}
+
+.popup__message {
+  font-size: 0.875rem;
+  padding: 40px 30px 18px 30px;
+  white-space: pre-wrap;
+}
+
+.popup__foot {
+  width: 100%;
+  padding: 0 30px 40px 30px;
+  margin-bottom: 40px;
+  display: flex;
+  justify-content: space-between;
+}
+
+@media screen and (max-width: 1090px) {
+  .popup__foot {
+    flex-flow: column;
+    justify-content: center;
+    width: 60%;
+    margin: auto;
+  }
+}
+
+.popup__left-foot {
+  display: flex;
+}
+
+@media screen and (max-width: 1090px) {
+  .popup__left-foot {
+    flex-flow: column;
+  }
+}
+
+.popup__left-foot > * {
+  margin-right: 5px;
+}
+
+@media screen and (max-width: 1090px) {
+  .popup__left-foot > * {
+    margin-bottom: 10px;
+  }
+}
+
+.popup__right-foot {
+  display: flex;
+}
+
+@media screen and (max-width: 1090px) {
+  .popup__right-foot {
+    flex-flow: column;
+  }
+}
+
+.popup__right-foot > * {
+  margin-right: 5px;
+}
+
+@media screen and (max-width: 1090px) {
+  .popup__right-foot > * {
+    margin-bottom: 10px;
+  }
+}
+
+.popup__error {
+  color: red;
+}

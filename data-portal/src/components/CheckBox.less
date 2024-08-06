@@ -1,0 +1,44 @@
+@import '~@gen3/ui-component/dist/css/base.less';
+
+.checkbox input[type='checkbox'] {
+  cursor: pointer;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  outline: 0;
+  background: @white;
+  height: 18px;
+  width: 18px;
+  border: 1px solid @light_gray;
+  border-radius: 2px;
+  margin-right: 5px;
+  flex-shrink: 0;
+  vertical-align: middle;
+}
+
+.checkbox--disabled input[type='checkbox'] {
+  cursor: not-allowed;
+  border: 1px solid var(--g3-color__silver);
+}
+
+.checkbox input[type='checkbox']:checked {
+  background: @orange;
+}
+
+// defines check in checkbox
+.checkbox input[type='checkbox']:after {
+  content: '';
+  position: relative;
+  left: 40%;
+  top: 20%;
+  width: 15%;
+  height: 40%;
+  border: solid @white;
+  border-width: 0 2px 2px 0;
+  transform: rotate(45deg);
+  display: none;
+}
+
+.checkbox input[type='checkbox']:checked:after {
+  display: block;
+}

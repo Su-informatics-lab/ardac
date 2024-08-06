@@ -1,0 +1,45 @@
+.introduction {
+  width: 450px;
+  position: relative;
+}
+
+@media screen and (max-width: 1290px) {
+  .introduction {
+    width: 100%;
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+  }
+}
+
+.introduction__title {
+  margin-bottom: 25px;
+  line-height: 1.0em;
+}
+
+@media screen and (max-width: 1290px) {
+  .introduction__title {
+    text-align: center;
+  }
+}
+
+.introduction__text {
+  padding: 10px 0;
+  text-align: left;
+  margin: 25px auto 25px auto;
+}
+
+@media screen and (max-width: 1290px) {
+  .introduction__text {
+    text-align: center;
+  }
+}
+
+.introduction__icon {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.introduction__button-area {
+  display: flex;
+}
