@@ -14,7 +14,7 @@ docker build --no-cache --progress=plain --rm -t dictutils .
 docker run --rm -v $(pwd):/mnt/host dictutils
 ```
 > [!NOTE]
-> It is assumed that `gdcdictionary/schemas/*.yaml` exists in your current directory. If you run this from another location that is not your dictionary repo, replace `$(pwd)` with the full path, e.g.: `/path/to/your/dictionary`.
+> This expects to find `gdcdictionary/schemas/*.yaml` in your current directory. If you run this from another location that is not your dictionary repo, replace `$(pwd)` with the full path, e.g.: `/path/to/your/dictionary`.
 
 Upon passing all checks, `artifacts/schema.json` will be generated under the specified folder.
 
@@ -23,7 +23,7 @@ Upon passing all checks, `artifacts/schema.json` will be generated under the spe
 docker run --rm -v $(pwd):/mnt/host dictutils /bin/bash -c "/app/json2yml.sh"
 ```
 > [!NOTE]
-> A JSON schema file is assumed in your current directory. Otherwise, replace `$(pwd)` with the full path, e.g.: `/path/to/your/schema.json`.
+> This expects to find a JSON schema file in your current directory. Otherwise, replace `$(pwd)` with the full path, e.g.: `/path/to/your/schema.json`.
 
 Upon completion, a folder named `yamls` will be created under the specified folder with the YAML files.
 
@@ -32,6 +32,6 @@ Upon completion, a folder named `yamls` will be created under the specified fold
 docker run --rm -v $(pwd):/mnt/host dictutils /bin/bash -c "/app/dictcompare.sh"
 ```
 > [!NOTE]
-> This assumes that your current directory contains two JSON schema files. Otherwise, replace `$(pwd)` with the full path to another location, e.g.: `/path/to/your/schema_files`.
+> This expects to find two JSON schema files in your current directory. Otherwise, replace `$(pwd)` with the full path to another location, e.g.: `/path/to/your/schema_files`.
 
 The output details the comparison results.
