@@ -1,21 +1,37 @@
 # Dictionary utilities
+The code in this directory can be used to build a Docker container that can be used to validate a dictionary against the GDC dictionary schema. The code can also be used to decompose a dictionary JSON file into schema YAML files, and to compare two dictionary JSON files.
 
-In following examples we assume you use 'dict_validator' as the container name
+> [!NOTE]
+> In following examples, the assumption is that you are using `dictutils` as the container name
 
-# to build docker image
-docker build --no-cache --progress=plain --rm -t dict_validator .
+# Build the docker image
+```
+docker build --no-cache --progress=plain --rm -t dictutils .
+```
 
-# to run schema check
-docker run --rm -v </path/to/your/local_dir>:/mnt/host dict_validator
+# Validate the schema
+```
+docker run --rm -v $(pwd):/mnt/host dictutils
+```
+> [!NOTE]
+> It is assumed that `gdcdictionary/schemas/*.yaml` exists in your current directory. If you run this from another location that is not your dictionary repo, replace `$(pwd)` with the full path, e.g.: `/path/to/your/dictionary`.
 
-where we expect "gdcdictionary/schemas/*.yaml" under your </path/to/your/local_dir>. Upon passing all checks, "artifacts/schema.json" will be generated under the specified folder.
+Upon passing all checks, `artifacts/schema.json` will be generated under the specified folder.
 
-# to decompose a dictionary json into schema yamls 
-docker run --rm -v </path/to/your/local_dir>:/mnt/host dict_validator /bin/bash -c "/app/json2yml.sh"
+# Reverse engineer a schema JSON file into YAML files for your data model
+```
+docker run --rm -v $(pwd):/mnt/host dictutils /bin/bash -c "/app/json2yml.sh"
+```
+> [!NOTE]
+> A JSON schema file is assumed in your current directory. Otherwise, replace `$(pwd)` with the full path, e.g.: `/path/to/your/schema.json`.
 
-where we expect a json dictionary file under "</path/to/your/local_dir>". Upon completion, a folder named "yamls" will be created under the specified folder to host schema yamls.
+Upon completion, a folder named `yamls` will be created under the specified folder with the YAML files.
 
-# to compare two dictionary json files
-docker run --rm -v </path/to/your/local_dir>:/mnt/host dict_validator /bin/bash -c "/app/dictcompare.sh"
+# Compare two dictionary json files
+```
+docker run --rm -v $(pwd):/mnt/host dictutils /bin/bash -c "/app/dictcompare.sh"
+```
+> [!NOTE]
+> This assumes that your current directory contains two JSON schema files. Otherwise, replace `$(pwd)` with the full path to another location, e.g.: `/path/to/your/schema_files`.
 
-where we expect two json dictionary files under "</path/to/your/local_dir>". The output details the comparison results.
+The output details the comparison results.
