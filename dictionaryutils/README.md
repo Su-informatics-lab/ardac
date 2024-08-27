@@ -16,7 +16,7 @@ docker run --rm -v $(pwd):/mnt/host dictutils
 > [!NOTE]
 > This expects to find `gdcdictionary/schemas/*.yaml` in your current directory. If you run this from another location that is not your dictionary repo, replace `$(pwd)` with the full path, e.g.: `/path/to/your/dictionary`.
 
-Upon passing all checks, `artifacts/schema.json` will be generated under the specified folder.
+Upon passing all checks, `schema.json` will be generated under the specified folder.
 
 # Reverse engineer a schema JSON file into YAML files for your data model
 ```
@@ -25,7 +25,7 @@ docker run --rm -v $(pwd):/mnt/host dictutils /bin/bash -c "/app/json2yml.sh"
 > [!NOTE]
 > This expects to find a JSON schema file in your current directory. Otherwise, replace `$(pwd)` with the full path, e.g.: `/path/to/your/schema.json`.
 
-Upon completion, a folder named `yamls` will be created under the specified folder with the YAML files.
+Upon completion, a folder named `gdcdictionary/schemas` will be created under the specified folder with the YAML files.
 
 # Compare two dictionary json files
 ```
