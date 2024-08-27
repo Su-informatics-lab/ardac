@@ -74,7 +74,7 @@ def json2Yamls(dirName):
 
     schemas = DictionaryUtilies.dict2schemas(d)
 
-    outdir = os.path.join(dirName, 'gdcdictionary', 'schema')
+    outdir = os.path.join(dirName, 'gdcdictionary', 'schemas')
     DictionaryUtilies.saveSchemas(schemas, outdir) 
 
     print('Processing complete')

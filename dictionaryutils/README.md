@@ -25,7 +25,7 @@ docker run --rm -v $(pwd):/mnt/host dictutils /bin/bash -c "/app/json2yml.sh"
 > [!NOTE]
 > This expects to find a JSON schema file in your current directory. Otherwise, replace `$(pwd)` with the full path, e.g.: `/path/to/your/schema.json`.
 
-Upon completion, a folder named `gdcdictionary/schema` will be created under the specified folder with the YAML files.
+Upon completion, a folder named `gdcdictionary/schemas` will be created under the specified folder with the YAML files.
 
 # Compare two dictionary json files
 ```
