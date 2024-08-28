@@ -18,4 +18,4 @@ from dictionaryutils import dump_schemas_from_dir
 #    json.dump(dump_schemas_from_dir(SCHEMA_DIR), f)
 
 with open("schema.json", "w") as f:
-    json.dump(dump_schemas_from_dir(SCHEMA_DIR), f)
+    json.dump(dump_schemas_from_dir(SCHEMA_DIR), f, indent=4)
