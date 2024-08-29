@@ -16,6 +16,18 @@ source /app/venvs/dict/bin/activate
 # Define the host directory to mount
 HOST_DIR="/mnt/host"
 
+# Add global config to avoid fatal security error
+git config --global --add safe.directory $HOST_DIR
+
+# Try to get commit and tag information from git
+if [[ -d $HOST_DIR/.git && -d $HOST_DIR/gdcdictionary ]]; then
+  (
+    cd $HOST_DIR
+    DICTCOMMIT=`git rev-parse HEAD` && echo "DICTCOMMIT=\"${DICTCOMMIT}\"" >/app/dictionaryutils/version_data.py
+    DICTVERSION=`git describe --always --tags` && echo "DICTVERSION=\"${DICTVERSION}\"" >>/app/dictionaryutils/version_data.py
+  )
+fi
+
 # Copy YAML files from the host directory to the container's schema directory
 SCHEMA_DIR=$(python -c "from gdcdictionary import SCHEMA_DIR; print(SCHEMA_DIR)")
 #echo $SCHEMA_DIR
