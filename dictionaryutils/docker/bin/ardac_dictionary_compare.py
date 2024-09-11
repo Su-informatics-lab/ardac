@@ -50,13 +50,13 @@ class DictionaryUtilies:
         kset = list(keys1 - keys2)
         if len(kset) > 0:
             print('yamls in d1 but not in d2')
-            print(keyset)
+            print(kset)
             print()
             
         kset = list(keys2 - keys1)
         if len(kset) > 0:
             print('yamls in d2 but not in d1')
-            print(keyset)
+            print(kset)
             print()
         
         print('Checking common yamls both in d1 and d2')
