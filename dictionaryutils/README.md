@@ -18,6 +18,16 @@ docker run --rm -v $(pwd):/mnt/host dictutils
 
 Upon passing all checks, `schema.json` will be generated under the specified folder.
 
+# Dump the schema WIHTOUT validation
+```
+docker run --rm -v $(pwd):/mnt/host dictutils /bin/bash -c "/app/dump_schema.sh"
+```
+> [!NOTE]
+> This operation does NOT perform validation, it simply dumps schemas into a json file.
+> Similar to validation operation, it expects to find `gdcdictionary/schemas/*.yaml` in your current directory. If you run this from another location that is not your dictionary repo, replace `$(pwd)` with the full path, e.g.: `/path/to/your/dictionary`.
+
+Upon completion, `schema.json` will be generated under the specified folder.
+
 # Reverse engineer a schema JSON file into YAML files for your data model
 ```
 docker run --rm -v $(pwd):/mnt/host dictutils /bin/bash -c "/app/json2yml.sh"
