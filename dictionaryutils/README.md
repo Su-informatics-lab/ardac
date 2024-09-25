@@ -18,11 +18,11 @@ docker run --rm -v $(pwd):/mnt/host dictutils
 
 Upon passing all checks, `schema.json` will be generated under the specified folder.
 
-# Dump the schema WIHTOUT validation
+# Dump the schema without validation
 ```
 docker run --rm -v $(pwd):/mnt/host dictutils /bin/bash -c "/app/dump_schema.sh"
 ```
-> [!NOTE]
+> [!CAUTION]
 > This operation does NOT perform validation, it simply dumps schemas into a json file.
 > Similar to validation operation, it expects to find `gdcdictionary/schemas/*.yaml` in your current directory. If you run this from another location that is not your dictionary repo, replace `$(pwd)` with the full path, e.g.: `/path/to/your/dictionary`.
 
