@@ -34,6 +34,8 @@ RUN chmod +x json2yml.sh
 
 RUN chmod +x dictcompare.sh
 
+RUN chmod +x dump_schema.sh
+
 # Command to run the script
 CMD ["/bin/bash", "/app/run_tests.sh"]
 
