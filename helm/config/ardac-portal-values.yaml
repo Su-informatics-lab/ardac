@@ -1,5 +1,6 @@
 global:
   hostname: localhost
+  dictionaryUrl: https://dictionary.ardac.org/1.0.0/schema.json
 
 fence: 
   FENCE_CONFIG:
