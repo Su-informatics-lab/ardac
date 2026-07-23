@@ -1,3 +1,6 @@
+> [!NOTE]
+> ARDaC user access is no longer managed via cloud-automation, as outlined below. Each deployment has its own GitHub repo for managing user access.
+
 # User Access Management in Gen3
 
 Access to Gen3 is controlled by Fence and Arborist. These files read user data out of the Postgres database. That database is updated via a batch job that reads a YAML file out of an S3 bucket and applies the configuration to the database.
