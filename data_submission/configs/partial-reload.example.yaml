@@ -1,0 +1,22 @@
+# Reloading PART of a node that other submissions also write to.
+#
+# Sheepdog upserts on submitter_id, so reloading a stale export over enriched
+# records silently reverts them. Two defences:
+#
+#   1. exclude_rows - drop the rows another submission owns
+#   2. the regression guard - refuses if any populated field or link would be
+#      blanked (always on; --allow-regressions to override deliberately)
+
+commons: https://<your-gen3-host>
+program: ARDaC
+project: AlcHepNet
+credentials: ~/.gen3/credentials.json
+base_dir: /path/to/your/node/tsvs
+chunk_size: 500
+
+nodes:
+  - name: molecular_test
+    file: molecular_test_full_export.tsv
+    exclude_rows:
+      - column: laboratory_test
+        values: [<assay owned by another submission>, <and another>]

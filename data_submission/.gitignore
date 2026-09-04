@@ -1,0 +1,13 @@
+# pipeline run artifacts - contain absolute source paths and file checksums
+runs/
+
+# never commit credentials
+credentials.json
+cred*.json
+
+# local, uncommitted config overrides
+*.local.yaml
+
+# python
+__pycache__/
+*.py[cod]
