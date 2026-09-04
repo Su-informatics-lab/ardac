@@ -1,0 +1,18 @@
+# Load one node produced by a data_generalization mapping notebook.
+
+commons: https://<your-gen3-host>
+program: ARDaC
+project: AlcHepNet
+credentials: ~/.gen3/credentials.json
+base_dir: /path/to/your/node/tsvs
+chunk_size: 200
+
+nodes:
+  - name: molecular_test
+    file: molecular_test_<assay>.tsv
+
+    # blank_columns: clear a column the dictionary rejects. Example: the
+    # molecular_analysis_method enum is genomics-only and has no ELISA entry,
+    # so ELISA assays must either blank it or wait for a dictionary update.
+    blank_columns:
+      - molecular_analysis_method

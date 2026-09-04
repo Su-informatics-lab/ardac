@@ -1,0 +1,14 @@
+# Config for gen3_purge.py. DELETION IS PERMANENT - there is no undo.
+#
+#   python gen3_purge.py census -c configs/purge.example.yaml
+#   python gen3_purge.py plan   -c configs/purge.example.yaml
+#   python gen3_purge.py purge  -c configs/purge.example.yaml --confirm-project <code>
+
+commons: https://<your-gen3-host>
+program: ARDaC
+project: AlcHepNet
+credentials: ~/.gen3/credentials.json
+
+# Deletion is refused unless the target host is listed here. Intentionally
+# empty - add a host only when you mean to destroy data on it.
+allow_purge: []

@@ -1,0 +1,34 @@
+# Full submission pipeline: preflight everything, then load in dependency order.
+#   python gen3_pipeline.py preflight -c configs/pipeline.example.yaml
+#   python gen3_pipeline.py run       -c configs/pipeline.example.yaml
+#
+# Copy to pipeline.local.yaml (gitignored) and fill in real paths.
+
+commons: https://<your-gen3-host>
+program: ARDaC
+project: AlcHepNet
+credentials: ~/.gen3/credentials.json   # from portal Profile -> Create API key
+base_dir: /path/to/your/node/tsvs       # relative file: paths resolve from here
+run_dir: runs
+chunk_size: 500
+
+# ORDER MATTERS - parents before children. Checked against the dictionary;
+# a mis-ordered config aborts unless --force is passed.
+nodes:
+  - name: study
+    file: study.tsv
+  - name: lab
+    file: lab.tsv
+  - name: case
+    file: case.tsv
+  - name: demographic
+    file: demographic.tsv
+  - name: follow_up
+    file: follow_up.tsv
+    chunk_size: 300
+  - name: aliquot
+    file: aliquot.tsv
+    chunk_size: 1000
+  - name: molecular_test
+    file: molecular_test.tsv
+    chunk_size: 200
